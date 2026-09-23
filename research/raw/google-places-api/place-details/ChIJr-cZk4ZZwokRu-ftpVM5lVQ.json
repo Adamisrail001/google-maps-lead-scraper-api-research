@@ -1,0 +1,426 @@
+{
+  "id": "ChIJr-cZk4ZZwokRu-ftpVM5lVQ",
+  "types": [
+    "marketing_consultant",
+    "consultant",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "nationalPhoneNumber": "(929) 265-5595",
+  "internationalPhoneNumber": "+1 929-265-5595",
+  "formattedAddress": "800 6th Ave Ste 36C, New York, NY 10001, USA",
+  "addressComponents": [
+    {
+      "longText": "Suite 36C",
+      "shortText": "Ste 36C",
+      "types": [
+        "subpremise"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "800",
+      "shortText": "800",
+      "types": [
+        "street_number"
+      ],
+      "languageCode": "en-US"
+    },
+    {
+      "longText": "6th Avenue",
+      "shortText": "6th Ave",
+      "types": [
+        "route"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "Manhattan",
+      "shortText": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "New York",
+      "shortText": "New York",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "New York County",
+      "shortText": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "New York",
+      "shortText": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "United States",
+      "shortText": "US",
+      "types": [
+        "country",
+        "political"
+      ],
+      "languageCode": "en"
+    },
+    {
+      "longText": "10001",
+      "shortText": "10001",
+      "types": [
+        "postal_code"
+      ],
+      "languageCode": "en-US"
+    }
+  ],
+  "plusCode": {
+    "globalCode": "87G8P2W5+5R",
+    "compoundCode": "P2W5+5R New York, NY, USA"
+  },
+  "location": {
+    "latitude": 40.7453911,
+    "longitude": -73.9904866
+  },
+  "rating": 4.9,
+  "googleMapsUri": "https://maps.google.com/?cid=6094840702144735163&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "websiteUri": "https://www.jivesmedia.com/digital-marketing-agency-in-manhattan-ny/",
+  "regularOpeningHours": {
+    "openNow": true,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 0,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ]
+  },
+  "utcOffsetMinutes": -240,
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 199,
+  "displayName": {
+    "text": "Jives Media",
+    "languageCode": "en"
+  },
+  "currentOpeningHours": {
+    "openNow": true,
+    "periods": [
+      {
+        "open": {
+          "day": 3,
+          "hour": 0,
+          "minute": 0,
+          "truncated": true,
+          "date": {
+            "year": 2026,
+            "month": 9,
+            "day": 23
+          }
+        },
+        "close": {
+          "day": 2,
+          "hour": 23,
+          "minute": 59,
+          "truncated": true,
+          "date": {
+            "year": 2026,
+            "month": 9,
+            "day": 29
+          }
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ]
+  },
+  "primaryType": "service",
+  "reviews": [
+    {
+      "name": "places/ChIJr-cZk4ZZwokRu-ftpVM5lVQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4UFFWUTNla3hoTm5KblRGSlhWbDgxYVROR1dWRRAB",
+      "relativePublishTimeDescription": "2 months ago",
+      "rating": 5,
+      "text": {
+        "text": "I had an excellent experience working with jivesmedia team. They are professional, responsive, and truly understand digital marketing. From SEO and content strategy to online visibility and lead generation, they delivered outstanding results and kept us informed throughout the entire process.\n\nWhat impressed me most was their attention to detail, transparent communication, and commitment to helping our business grow. If you're looking for the best New York City marketing agency, I highly recommend them. Their expertise, creativity, and dedication make them a trusted partner for any business looking to improve its online presence.\n\nThank you for the great work",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "I had an excellent experience working with jivesmedia team. They are professional, responsive, and truly understand digital marketing. From SEO and content strategy to online visibility and lead generation, they delivered outstanding results and kept us informed throughout the entire process.\n\nWhat impressed me most was their attention to detail, transparent communication, and commitment to helping our business grow. If you're looking for the best New York City marketing agency, I highly recommend them. Their expertise, creativity, and dedication make them a trusted partner for any business looking to improve its online presence.\n\nThank you for the great work",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Tanveer ul Hassan",
+        "uri": "https://www.google.com/maps/contrib/104390585880075114760/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUe7HIDz5G_GHFjwl3VG28Ree9aWc6s2yghW_humlVevHxPTCfM=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-07-09T02:52:17.281143483Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4UFFWUTNla3hoTm5KblRGSlhWbDgxYVROR1dWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4UFFWUTNla3hoTm5KblRGSlhWbDgxYVROR1dWRRAB!2m1!1s0x89c259869319e7af:0x54953953a5ede7bb"
+    },
+    {
+      "name": "places/ChIJr-cZk4ZZwokRu-ftpVM5lVQ/reviews/ChZDSUhNMG9nS0VNaWg4Wlh1aDV6M2FREAE",
+      "relativePublishTimeDescription": "a year ago",
+      "rating": 5,
+      "text": {
+        "text": "Jives Media helped us adjust our website and SEO practices to provide real measurable results. Their team was responsive and very detail oriented. After, their teams' initiatives we saw an increase in traffic and local standing.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "Jives Media helped us adjust our website and SEO practices to provide real measurable results. Their team was responsive and very detail oriented. After, their teams' initiatives we saw an increase in traffic and local standing.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "W School",
+        "uri": "https://www.google.com/maps/contrib/108443368434908446453/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKftACPIOF8oIT8zMTDHk4NxtV_JMVD0N51Ml3wpc8VOxkpJg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-05-20T17:10:48.673989Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VNaWg4Wlh1aDV6M2FREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VNaWg4Wlh1aDV6M2FREAE!2m1!1s0x89c259869319e7af:0x54953953a5ede7bb"
+    },
+    {
+      "name": "places/ChIJr-cZk4ZZwokRu-ftpVM5lVQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURiek11aWxBRRAB",
+      "relativePublishTimeDescription": "2 years ago",
+      "rating": 5,
+      "text": {
+        "text": "Jives Media delivered a functional website and an effective strategy that converts visitors into leads. They completed the project on time and maintained frequent communication providing updates and suggestions for improvement. Overall, they were a pleasure to work with and we recommend them as the best marketing company in New York.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "Jives Media delivered a functional website and an effective strategy that converts visitors into leads. They completed the project on time and maintained frequent communication providing updates and suggestions for improvement. Overall, they were a pleasure to work with and we recommend them as the best marketing company in New York.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Kaylee Tran",
+        "uri": "https://www.google.com/maps/contrib/103860774979471020799/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8U5k5raiVJfmX2tMdCtXw-rYOYsXDNfPiBHBbxho7DzHCPqyP=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2024-08-02T18:02:28.229491Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURiek11aWxBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURiek11aWxBRRAB!2m1!1s0x89c259869319e7af:0x54953953a5ede7bb"
+    },
+    {
+      "name": "places/ChIJr-cZk4ZZwokRu-ftpVM5lVQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURIZ3JhSUNBEAE",
+      "relativePublishTimeDescription": "2 years ago",
+      "rating": 5,
+      "text": {
+        "text": "Our accounting firm has worked with Jives Media for some time now, they have always delivered high quality results and provided excellent customer experiences. Our website is now fully optimized/very user-friendly and we are receiving steady increasing traffic. We are also noticing an increase in the quality of new leads coming directly from their implementation. Highly recommend this NYC digital marketing company!",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "Our accounting firm has worked with Jives Media for some time now, they have always delivered high quality results and provided excellent customer experiences. Our website is now fully optimized/very user-friendly and we are receiving steady increasing traffic. We are also noticing an increase in the quality of new leads coming directly from their implementation. Highly recommend this NYC digital marketing company!",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Marieme S Ndiaye",
+        "uri": "https://www.google.com/maps/contrib/110142325121600918384/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUdSX3BYl3mkDGjUDRiCTwqAcoyLoDrcaozk2jeD9-_dzoWvFY6=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-09-13T20:57:02.978344Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIZ3JhSUNBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIZ3JhSUNBEAE!2m1!1s0x89c259869319e7af:0x54953953a5ede7bb"
+    },
+    {
+      "name": "places/ChIJr-cZk4ZZwokRu-ftpVM5lVQ/reviews/ChdDSUhNMG9nS0VKU2hnYVBlMWNmeDBBRRAB",
+      "relativePublishTimeDescription": "a year ago",
+      "rating": 5,
+      "text": {
+        "text": "Jives Media helped us adjust our website and SEO with real, measurable results. Their team was responsive, strategic, and very easy to work with. We saw fast improvements/results and would gladly recommend them to others.",
+        "languageCode": "en"
+      },
+      "originalText": {
+        "text": "Jives Media helped us adjust our website and SEO with real, measurable results. Their team was responsive, strategic, and very easy to work with. We saw fast improvements/results and would gladly recommend them to others.",
+        "languageCode": "en"
+      },
+      "authorAttribution": {
+        "displayName": "Michelle Michaud",
+        "uri": "https://www.google.com/maps/contrib/110598988160720785827/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEbl63_ok5jOCSFrzv2Wil6nda1ak0snqFxQy4RBwaafptjng=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-05-28T16:52:07.236539Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VKU2hnYVBlMWNmeDBBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VKU2hnYVBlMWNmeDBBRRAB!2m1!1s0x89c259869319e7af:0x54953953a5ede7bb"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJr-cZk4ZZwokRu-ftpVM5lVQ/photos/Aa-ngMbkJUibrvxRPOcS7CJ5SwaU2qjGLQYzzC93KVskNagfNmmN6tfzaNR9fJoLvSoomNWtdnkSWCGTYh4wGujC7velMlFUPBTaTRIR4Hfokl1gubc386ewv8mjf37VY4ULx-oqbxSIspsMcrure6eSNA-xPFQ2PoTTtFpGtGh7PQlpP9d9V9F8OTBbFskMJr5UB8HizwM8mvY5GrTtfNcwSESp6eOZ0w6mMHwIkUR6LTzmV3RSBr3-Gq0v9r2VHD_aXNsgolq4qDqZ8x1KelvdqZNCTn1NhIrxLrD5hOhKerFwLEI7xz5ng39_E5OITwy6O5OL9pOPGSLjNH1MKDtj_q8_yie_NJR6yxIr31ZDxQoOjbe967kBJp1zGTv4qogApsWN76z1tf175ZAfh5bIapeFS44",
+      "widthPx": 2034,
+      "heightPx": 1102,
+      "authorAttributions": [
+        {
+          "displayName": "Jives Media",
+          "uri": "https://maps.google.com/maps/contrib/111837969618309961895",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCg5W3cwRfoXMzBz34cz7wQrTNxfXO7sKO_aeVk0s_gAfDpiI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICpx4vHBQ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpx4vHBQ!2e10!4m2!3m1!1s0x89c259869319e7af:0x54953953a5ede7bb"
+    },
+    {
+      "name": "places/ChIJr-cZk4ZZwokRu-ftpVM5lVQ/photos/Aa-ngMaS5EerSiKDttDZYpujua9YTYnjt7DMG3Ci9HJ2lGfyBEHnT654bYLIefvHb2g-o6II96X9fGtS2TDWpHssqMhbilUNlKHT_8uZ1e5i7PGv7ABIZ5CqgE2Iw3jiTZcf3oyjrABbzAnTHU5_vSkEQWPp12lJ_f_h6ffKsDbQ83tJuSLNsqrE4ASJ5hQM3OdIewNNT1IZjq220NEJZgKgpcgze_mPQ26q_21QMd2_8cKlpiA3It9B2fovbwuMMDvlFPcF0X3AKJxa5YnHPjRLrI5VxnEvSCqqvKh6FglB-D6JGgOJu-1M47PsQJqNOo1Wv9SAFgAdiLLimc-gAKA6KZu7J3FyEHHrvBZ_mDdTZ2ADvH9jtA75yMT-lWaemWFlNs-4-tH6r8RMRjrII0kvN9FYbD8et-A",
+      "widthPx": 1028,
+      "heightPx": 684,
+      "authorAttributions": [
+        {
+          "displayName": "Jives Media",
+          "uri": "https://maps.google.com/maps/contrib/111837969618309961895",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCg5W3cwRfoXMzBz34cz7wQrTNxfXO7sKO_aeVk0s_gAfDpiI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDKtNSR3wE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKtNSR3wE!2e10!4m2!3m1!1s0x89c259869319e7af:0x54953953a5ede7bb"
+    },
+    {
+      "name": "places/ChIJr-cZk4ZZwokRu-ftpVM5lVQ/photos/Aa-ngMa4tnCDp1SzDDcQxA2Az4FAra_XnFsOwZvUygKLsDOXtj3tDI2ZiC_f8q7sUU4-Ssf_-L2XEdimOgLLhadogPih18lcmT7hvxEBLDTjNtQ2sOo7xoslashlyC2re-mm36R4t89rsR5AO31Fol6xHV-b8_peG_IBsS8RmroK98lAaxeuBcX5sk2Tvq7Y1mwBHDHkcJfJTC3rlvQNFpL_zdg11mHYQl0Jtqfvsora6tz25lNw1UvA0WyLTCCAgdtJikw2TcZsrsYoLni21TjWe8ApPKeTpQEulg6pm2urdqSMWEQqIFDriAh8-NF9v2hCboBE0_RwlT_kISVzwfy1CIqb5vaDx03lbJOa3E2qqho-ZHL09NNCug0_j9RDoP6V6ZRosO2u4U3YD8ZC-Sw-NBzUOw",
+      "widthPx": 2720,
+      "heightPx": 1266,
+      "authorAttributions": [
+        {
+          "displayName": "Jives Media",
+          "uri": "https://maps.google.com/maps/contrib/111837969618309961895",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCg5W3cwRfoXMzBz34cz7wQrTNxfXO7sKO_aeVk0s_gAfDpiI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWi6TIXQ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWi6TIXQ!2e10!4m2!3m1!1s0x89c259869319e7af:0x54953953a5ede7bb"
+    },
+    {
+      "name": "places/ChIJr-cZk4ZZwokRu-ftpVM5lVQ/photos/Aa-ngMaUCwCKQm-6wmD7E2T-bQ0bNHv8AXLFhzS9sSZL_247tjwkN53M2YYonPM2VoXaiJfP-DWhXAutGk1XH2s8yCF366J1FFemhtfolly_eMg7d9plWRuuWXEFYsZTkvV3wsdSj8z2Cc5XzTQ9yH6woTZzPHbW2nO_icaMx7eMVyYLkOoJRX2cG9NBGtPzAdHXok7Ac-kHxG3jSSoTJviCFsVGzUAhPGFGXsN63BJpATkgO7diBc3-iA15mslHl0htR3yxsCIMbtFz8oPKBzwHDKwswRGo2lKTHU1hQCWIGwyfErA-uSJ33UhxWfFTx83jRwmN55HPX0wEof8eCOVZzDAkub3DNYIY7tYuRazXKg9giL-8C97wp0YKaORIUfiwiH4bGG1zQMVslBgU3UkfQgs2G6j-UlI",
+      "widthPx": 818,
+      "heightPx": 770,
+      "authorAttributions": [
+        {
+          "displayName": "Jives Media",
+          "uri": "https://maps.google.com/maps/contrib/111837969618309961895",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCg5W3cwRfoXMzBz34cz7wQrTNxfXO7sKO_aeVk0s_gAfDpiI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICO07PKlAE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICO07PKlAE!2e10!4m2!3m1!1s0x89c259869319e7af:0x54953953a5ede7bb"
+    },
+    {
+      "name": "places/ChIJr-cZk4ZZwokRu-ftpVM5lVQ/photos/Aa-ngMadvkTXOo40EE6w0iAf6L7EYAYYuPZnKmtgvz_lqHole1yaHuEifvtE__LmP44fr3Gng4Y31XiBQF8ks_svaVQfmH3Ml7v_sIZSs33Ezrxe3QhdN_5NrPBO-n-FJ2DnUY8SAzLDXgRsJZUyE7_1Io-CAVyL0TLlPk_fFvfYMwiu38rcthfARqOIB0lzavh2GwRwEIlwX8-72ce-sGdJRHEQ43NVtANybmZx3c9iwp9A6Lsw5WJq-eLBpSoaoyJtv6f42kaWWiyJ5LD3lp83Wr0ULs4cEydj-5A3v-cyA65ayYeh2BQs782WcFkNJ2X7zY7Dnay-qn-Kq5ZNYeXCCKkvUJYLqxRYl0QsHSXUwm5kjKN_m5cPGnCV2zO-VCM23tDaevCllCE4RojfDQIrD_DEybA",
+      "widthPx": 1914,
+      "heightPx": 1090,
+      "authorAttributions": [
+        {
+          "displayName": "Jives Media",
+          "uri": "https://maps.google.com/maps/contrib/111837969618309961895",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCg5W3cwRfoXMzBz34cz7wQrTNxfXO7sKO_aeVk0s_gAfDpiI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICC1eTFDQ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICC1eTFDQ!2e10!4m2!3m1!1s0x89c259869319e7af:0x54953953a5ede7bb"
+    },
+    {
+      "name": "places/ChIJr-cZk4ZZwokRu-ftpVM5lVQ/photos/Aa-ngMZ7miKH9NG2g2ByvIQ06O1IILN2OLjh_wakLyqtBjiKAP4MjYbmq8yPGgedsyDITqcppCF0PJn-6AiH0h4NNJbuvsVS01RIPrJ-P9M66WRRCMOe-HTxay_STofuDnflGHEkP3BYfsdbSXD-mQx7GRHKutfXp-irLY0Np_eh-RWbpDSHT7s4WY7NwVif9rWWSX3c8fBFHedqM9SWOEhmJnWwDBTBVlNbZDaNZCge5pnZN-mXZYDgXgOFvHxOZWVF4m6CmcSqtP3Xs8NcdpN2RCCc_0oEG0y2u_XzeQHgQ7H9fedbfX8nuRt0hrJwqsBb38kZ3glDZOmlIAfNGifE6mzLxpKqMhNupGYXfSKCImMVUDpzimr4QBCa19mme4vyzb2Oh1fw3TlOEUey6wOoE47vfpUb",
+      "widthPx": 1323,
+      "heightPx": 640,
+      "authorAttributions": [
+        {
+          "displayName": "Jives Media",
+          "uri": "https://maps.google.com/maps/contrib/111837969618309961895",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCg5W3cwRfoXMzBz34cz7wQrTNxfXO7sKO_aeVk0s_gAfDpiI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDKtfvniQE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKtfvniQE!2e10!4m2!3m1!1s0x89c259869319e7af:0x54953953a5ede7bb"
+    },
+    {
+      "name": "places/ChIJr-cZk4ZZwokRu-ftpVM5lVQ/photos/Aa-ngMbnIp0oKPFsSPOcPXonYqrmKo4WOzuLDSA5JiijUcnHN5sAntPM_Ar3FfRo8zlm4B3DPjFLYMykvzTE6xRWkQ0ySdX_ZKtlTveZHSqDFtW_SBoHOdFkI2UmRCXV71PXdU4W2Ex5m2httPL09nZTeshQaEtTQrMdjNy1UA5AojAnfeoACXk1UF9t8YuEKWallWkwk7Gs3chAxPFVD6lrsPY0f2JvRu_Bb5pY9rqB-ajzBk3pJiUNXDej_KRpZ_3UQGnAEXgLgYEGBeN-7nFkKEU0eSf038EhDiM9ZxsQCMbB6YF1b-f5o_w1S5YbPgL2a3W5wE-xlC9ZLudIU8GM3HSGLdRvIvJYPoP7dn-NKDQdpivH1fpd3CX6h1r_HamqcZseclXsbicxAvKDksHg2Keu5lw",
+      "widthPx": 2446,
+      "heightPx": 1052,
+      "authorAttributions": [
+        {
+          "displayName": "Jives Media",
+          "uri": "https://maps.google.com/maps/contrib/111837969618309961895",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCg5W3cwRfoXMzBz34cz7wQrTNxfXO7sKO_aeVk0s_gAfDpiI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDK2OKqJg&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDK2OKqJg!2e10!4m2!3m1!1s0x89c259869319e7af:0x54953953a5ede7bb"
+    },
+    {
+      "name": "places/ChIJr-cZk4ZZwokRu-ftpVM5lVQ/photos/Aa-ngMb87cnQFvImL1Z6l14-45oHdDK9q2xjSuRLyLtGEFTCBw3IUHw7Pg4Olqw-IF7lxOASK07kb1_SMarJ8FwBtR6BPaTrLD-dJP3n9UfnRqUL87VQAapBGlGLN5BrwXQe8hP2p_eDuW5N8ibmBMhtcXOzv7EPIKqyKFDP1elVSlPmXZyKmWQFmFKGY_azBzuvp-ajeCKXCua_Kwnz2-x0wbJWkLQuiqOLO7kW_1_mOyE4ORiDHj07QMPn9vG4uNMqCSvVytWkGb9brdF1uzQR_tgi69CBUBNwwgXuO3hBgzF0Hajrmw40lqzf0yqs2Ei3Q33G-p-s14Dj91AMUnuUKqG6UvEjPDa4ENnnR-cB4n2EuVv7dYDpeoA2PxyNKiLCx1-evc2FLjU7EZ4LI8SDLD_k1hs",
+      "widthPx": 2708,
+      "heightPx": 2036,
+      "authorAttributions": [
+        {
+          "displayName": "Jives Media",
+          "uri": "https://maps.google.com/maps/contrib/111837969618309961895",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCg5W3cwRfoXMzBz34cz7wQrTNxfXO7sKO_aeVk0s_gAfDpiI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6l-z7KQ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6l-z7KQ!2e10!4m2!3m1!1s0x89c259869319e7af:0x54953953a5ede7bb"
+    },
+    {
+      "name": "places/ChIJr-cZk4ZZwokRu-ftpVM5lVQ/photos/Aa-ngMZMcMtlXbjUfaIqf2U2JflkhyQ8U_2XqHA-O-lCdnSaKSA5PUgvloqVN9LgyO0w07wfQdeLjSbp_bIaGpBgfpuva5IqXKJ8e9iRGQJHqtg7mSAevpHJSeX7epenl54oyEOGu5Aazl0nqSYzSRhfdpz2Wm74zezEYfODIhqbrEoghfxzCycnOv0GzLRCwB6UG8Sx1zz9lVUhBIRvEz9bhyUWjheSgpsW5lwxue7f3633dLfbIwyoDFO3WqFHq7FG0PKDwfNO67ouo3az1qSZvIEqVu_5cK_3AxRzI027-TqWe96xCSkDZxskGyrfRLZ3uwvhJGutIeHIXIeJui5GZywfudvo1XmeA8uZ5_KBX3yFi6TydQH8Bt74Q3tJYan7JA3y_bMTEfq3NlYpwmeFbKzm2nlPvCY",
+      "widthPx": 1904,
+      "heightPx": 1434,
+      "authorAttributions": [
+        {
+          "displayName": "Jives Media",
+          "uri": "https://maps.google.com/maps/contrib/111837969618309961895",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCg5W3cwRfoXMzBz34cz7wQrTNxfXO7sKO_aeVk0s_gAfDpiI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICJlen0tAE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJlen0tAE!2e10!4m2!3m1!1s0x89c259869319e7af:0x54953953a5ede7bb"
+    },
+    {
+      "name": "places/ChIJr-cZk4ZZwokRu-ftpVM5lVQ/photos/Aa-ngMaiV7wakjINkVZt6yubjEpRjZmeRo43hu-hbIK7pF2KtgUg4rDI-c3Bip3cdNu2gNy6F67zV1z0juFbSCDZjLBldBFgUGbK5PXPGUujlher9LSsSkyOZ2AASPmZ2HJ2urHvVKRAvIoCW197jSPwtA3Dclpn27SH1szkQDPBJOIQSd0MuWqueiCZczR9NUxsfdyJBSB7GHxkLMB4MWPiPFOsZ1WMOERyx8lzHzbsRe9An8jClkXSuA0PmYSYuM7cjPOBDhDcTGk0xPQR1_RktOcDdlZjFzZU1HCae6tPjZm5qJlOy5q3LKcUkAzTss7ZoKzHFPa8RPPCkS9RYDW794qiyRLz4xpP2z0E-d-z7u0DwgeeZNLMGfDHczuAAH8eQ9fESQ332M8FCYEbNJtJmEVksg",
+      "widthPx": 1628,
+      "heightPx": 915,
+      "authorAttributions": [
+        {
+          "displayName": "Jives Media",
+          "uri": "https://maps.google.com/maps/contrib/111837969618309961895",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCg5W3cwRfoXMzBz34cz7wQrTNxfXO7sKO_aeVk0s_gAfDpiI=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6lL7ENg&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6lL7ENg!2e10!4m2!3m1!1s0x89c259869319e7af:0x54953953a5ede7bb"
+    }
+  ],
+  "accessibilityOptions": {
+    "wheelchairAccessibleParking": true,
+    "wheelchairAccessibleEntrance": true,
+    "wheelchairAccessibleRestroom": true,
+    "wheelchairAccessibleSeating": true
+  }
+}

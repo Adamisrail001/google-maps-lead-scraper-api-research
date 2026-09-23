@@ -43,7 +43,9 @@
 
 All four pass E1–E6 — no eliminations this benchmark.
 
-**Candidate eliminations from post-benchmark smoke tests (decision 2026-09-23, per lead's free-test-first policy):**
+**🔴 SUPERSEDED 2026-09-23 (same day, per completion brief + lead feedback in question.txt): the two E5 eliminations below are REVERSED.** The eliminations treated persona-2's needs (emails/socials) as the only user intent; the brief's rule — "no tool is disqualified because it lacks a data point that a persona doesn't need" — reinstates both as **persona-1/persona-3 contenders** (local-data extractor / developer: name, address, phone, website, hours, rating — no contacts needed; see `user-intent.md`). ScrapingDog: scored per persona from stage-1 evidence (stage-2 scale run blocked on paid plan, ~$40 Lite). Bright Data: stage-2 scale run executed 2026-09-23 (2 × 1,000 design). The original elimination entries are preserved below for provenance, per this document's correction rules — their *evidence* remains valid; only the roster *decision* is reversed.
+
+**Candidate eliminations from post-benchmark smoke tests (decision 2026-09-23, per lead's free-test-first policy) — superseded, see above:**
 
 | Provider | Criterion failed | One-line reason | Evidence |
 |---|---|---|---|

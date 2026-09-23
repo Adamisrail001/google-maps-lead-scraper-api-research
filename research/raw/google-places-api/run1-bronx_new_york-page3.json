@@ -1,0 +1,2939 @@
+{
+  "places": [
+    {
+      "id": "ChIJlbXlTlT1wokRzjT6W3ys0oE",
+      "types": [
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(212) 359-0742",
+      "internationalPhoneNumber": "+1 212-359-0742",
+      "formattedAddress": "642 Soundview Ave, Bronx, NY 10473, USA",
+      "addressComponents": [
+        {
+          "longText": "642",
+          "shortText": "642",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Soundview Avenue",
+          "shortText": "Soundview Ave",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Clason Point",
+          "shortText": "Clason Point",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "The Bronx",
+          "shortText": "Bronx",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bronx County",
+          "shortText": "Bronx County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10473",
+          "shortText": "10473",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.8182869,
+        "longitude": -73.8624427
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=9354729026120987854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://hgrnstudios.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Saturday: 9:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+          "Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+        ],
+        "nextOpenTime": "2026-09-23T13:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "\"Real\" Media Services",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "photos": [
+        {
+          "name": "places/ChIJlbXlTlT1wokRzjT6W3ys0oE/photos/AVoNoXQKazrR6QpqMD48V--KdDE3zCndj9ZaaEUoi0ya5zlZ4MH46B4nB2cLb48rdSOZqeBPZKgs4uN0amil31X4SLxW0DSOR32r_iQga_ef0KgJk0W5L5eUx-keR37NStFNH56JnFnh3y3g03o5hcKRg5YbSUcDX1jiaeFep9zXrjmjr54NBNN0o2IlQnj66t9ewVjLUlgWL7rVIdc-21UboPYbT3uN9F1fFd2U5yrBr9bWzIoA2uYMQjmclJkdlJZDj3lR1iMwL0YfQHZ3NjM7gdc4tNJTXlmDcjLEZS3T8K6RAllFIi6sb31s35sOPCztu0sawb_rvXpwXxzVf5ejcGMpF0FbbmRp-wwFVfZqUgdvS4HyMTj3hcKcx-KbkCVASNY5P0dFA41KRH267t2q25jL3YWvkINhNDZh7xfN_Gv1",
+          "widthPx": 1320,
+          "heightPx": 2346,
+          "authorAttributions": [
+            {
+              "displayName": "\"Real\" Media Services",
+              "uri": "https://maps.google.com/maps/contrib/117722885368108659349",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUpYAe-CWOELjZLuuEv9JfMTe9PKvkk7mRukj884XTyuc01MI=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBwYBfZb0s2zEXB4i3Huxin&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBwYBfZb0s2zEXB4i3Huxin!2e10!4m2!3m1!1s0x89c2f5544ee5b595:0x81d2ac7c5bfa34ce"
+        },
+        {
+          "name": "places/ChIJlbXlTlT1wokRzjT6W3ys0oE/photos/AVoNoXTtifuMeT3j_OTS55Z2ieiJCiqXu6f9ZFwi3cNhXMxrZ7GS9jbG2neTHHCo1O57viS-Vy2drAJWBpLOTfPatVFU7QWyHcRehRF7ut68K8S0FiD2V7EYniIyJs_oTm3_f_WpbKpZE7QY5wsC3njjPFZDE_wkToCbvQ0GrXuLu6QpbNKE6PS8OWHLwBi2_bY6ocYqy5cgHQ5hm31cACl-_SAwRhs1laS7qYmXR1qtlTDMoIWA50NpZQ4lCOLdjSRDPIp7cJCfhMyzQE0QGaDtbuE62Z5L6Qdn50xgN4SAkyRrGR60nSvKpiAzFR73jJyllK0wgo1GXgZuFwQHeFBhpcXWlwIEGWStCTsT9f0lDJw7bOxftd7k5wMMbl7jrMBCKLhV3OJlWFRKyn4JG5qadvIKji4",
+          "widthPx": 1125,
+          "heightPx": 2000,
+          "authorAttributions": [
+            {
+              "displayName": "\"Real\" Media Services",
+              "uri": "https://maps.google.com/maps/contrib/117722885368108659349",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUpYAe-CWOELjZLuuEv9JfMTe9PKvkk7mRukj884XTyuc01MI=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICd9Ljibg&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICd9Ljibg!2e10!4m2!3m1!1s0x89c2f5544ee5b595:0x81d2ac7c5bfa34ce"
+        },
+        {
+          "name": "places/ChIJlbXlTlT1wokRzjT6W3ys0oE/photos/AVoNoXRQBuZJ00Efe1gLJA7n8tdTGV8Xkh_44kbeurswmlEMNxjrnG1Y9LaKACcMjA5Gg12F5ug1frv9DsNbLnxfE-SPsXMWFP4Es5ynOLnnjZDVAh3Fvp5d9MyZczx-vyAWg_SHhB9TDdvmul1uIZrXsxDD-v26yv7D0rab4jV9vQqP3PjCgJPl35bReY9ZChD7txQQtxO04uGxYOEqRt68UtwHX96ZT-MdbtRXvjCqzqH3ud2JwVgTQPoYbr-2cBhJuFnrMw5KcSsd2wStv0wW_edNCm9MuwLFu6KahTRsxyGu-B2wcfUf12IfR8FsTKMFVVys9V2d_upJcNBZn-bRFC1Mf-E3BHqQUxrzTNwp5CkJSS5DeW_p5X3vUofKfihQXI6SPioR0e-UDa5fbSL3eSx8TZ4HNTU",
+          "widthPx": 1640,
+          "heightPx": 923,
+          "authorAttributions": [
+            {
+              "displayName": "\"Real\" Media Services",
+              "uri": "https://maps.google.com/maps/contrib/117722885368108659349",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUpYAe-CWOELjZLuuEv9JfMTe9PKvkk7mRukj884XTyuc01MI=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID2nJ30zwE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID2nJ30zwE!2e10!4m2!3m1!1s0x89c2f5544ee5b595:0x81d2ac7c5bfa34ce"
+        },
+        {
+          "name": "places/ChIJlbXlTlT1wokRzjT6W3ys0oE/photos/AVoNoXQrIv4SsR2axjrHAlU_Qoapw9Cdc0P479KbMPjePQ3yWFyoe2TqiHC72t6KkwYyuiKZC8yor3GUPl40cWBILlTTNSC1bl5OX1ntYM8N0d8cLHppcEnbqb8yQOfTcr0uHyFtJ3_hfJk2h-VXs_5P8Inkuf3haLn-rTYUdJXev2W415R1IPqZS1iScDqbULC00RQpUGvjF77we3fyk3NtqH3OKI6xSy_NszuO7oSS4GWQzwBADR7a2Tz6X8qn39huAcU58SBsneP8IuHt8dhZWBr8Qs0dGfnIKKxe3PeH0DvQQVLMSOL5IwAPiKFYJsbT35AdmmPLeBe40h47huMZMpFCF4-zIOw0VjU9dftVkGlOpgoTVO9dP5HbsQKb9Oa7wN1EtQq9o2PU3fGTbdHKi3bI6UenkK4AwvOuu3Uq5K-SXA",
+          "widthPx": 1024,
+          "heightPx": 1536,
+          "authorAttributions": [
+            {
+              "displayName": "\"Real\" Media Services",
+              "uri": "https://maps.google.com/maps/contrib/117722885368108659349",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUpYAe-CWOELjZLuuEv9JfMTe9PKvkk7mRukj884XTyuc01MI=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDoFfe2BcJw1sQTsRhW9qbU&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDoFfe2BcJw1sQTsRhW9qbU!2e10!4m2!3m1!1s0x89c2f5544ee5b595:0x81d2ac7c5bfa34ce"
+        },
+        {
+          "name": "places/ChIJlbXlTlT1wokRzjT6W3ys0oE/photos/AVoNoXQLeNMstVVObPk_u_W5nQes4_lAFjqL3TB9WdyKo_36iLJng0ShNiGqT59lWSydTGgu7JmWMX8jsmJXtCihi1_MhD67335aT9XwclpPAm_cY14ugJiLIk8WziPNU_8mvVgD1Md7bJQApDKMlN6B1BZtintoYHvm9M-xhSKmixSawA5N3vnUyCW_HZev6jgU3e11N6p0kgYp-2r2VUn3tlfAblonI5_um8rqiFwbRpqq3uaU8ot65L49M0QmY_ItjoMzTkPZYfFV29RGV2Rwx4pChLMVtoxcUkeDJQdbMiJL7MArqboSP8lw25hqT26LHPAYlCpAtvQDLQ4KonICVfe0KjEd4pTEDd3elVPweeJN_GPeJYD4e79Va5_3PptugxZIkI1OPpwJRHY_7HvsVT2kZigVmWyKKDyQFPKSq4EA",
+          "widthPx": 1024,
+          "heightPx": 1536,
+          "authorAttributions": [
+            {
+              "displayName": "\"Real\" Media Services",
+              "uri": "https://maps.google.com/maps/contrib/117722885368108659349",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUpYAe-CWOELjZLuuEv9JfMTe9PKvkk7mRukj884XTyuc01MI=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCdZlHEGO6GEQ8YcFjqljtz&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCdZlHEGO6GEQ8YcFjqljtz!2e10!4m2!3m1!1s0x89c2f5544ee5b595:0x81d2ac7c5bfa34ce"
+        },
+        {
+          "name": "places/ChIJlbXlTlT1wokRzjT6W3ys0oE/photos/AVoNoXQaosbAdVE-mVsydIHjuCvwAYA09x7yVrlgbwl3ZJwhgBav4SXY43QNlA2SxWLpR7m4K-SzJVjPV2ImJs2Gr1UR04a8Wy7nviY3mO3xoQtwExbXi-Z6sbIPug95qWJrZil4efWETPo9WfVTdGzQpDNWIhAGEOv2rTGIG5vHzpLPKFNwvlfyRf6hurFjmkmcme4wuVv4TXXFXz90cErEKWaNmFS8zWjImVAfA_eXog0o3YYrKoegLNYt2uE0ZuNJRabF1YzynyAMT8i7McLnM7U59mRQrtHH8FBLvBRf-oCQwcTEOVmX9FYXUgi_HWgMiErzpmIG4wwfbBoSBwwomAgfIbujG0yVk9Sf4LUmJxJ6zidLYwupW6HkrBDecP3Nev0xD1sPHRdhCttHJSu6KHA4pDLmZlEMmlUZezGJ6X_Q",
+          "widthPx": 1320,
+          "heightPx": 2346,
+          "authorAttributions": [
+            {
+              "displayName": "\"Real\" Media Services",
+              "uri": "https://maps.google.com/maps/contrib/117722885368108659349",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUpYAe-CWOELjZLuuEv9JfMTe9PKvkk7mRukj884XTyuc01MI=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCv2wKIBbqLvoYjkA6Co0yM&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCv2wKIBbqLvoYjkA6Co0yM!2e10!4m2!3m1!1s0x89c2f5544ee5b595:0x81d2ac7c5bfa34ce"
+        }
+      ]
+    },
+    {
+      "id": "ChIJERpzkbH0wokRCmGfAp4NeSY",
+      "types": [
+        "gift_shop",
+        "supplier",
+        "store",
+        "manufacturer",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(718) 824-4877",
+      "internationalPhoneNumber": "+1 718-824-4877",
+      "formattedAddress": "2554 E Tremont Ave, Bronx, NY 10461, USA",
+      "addressComponents": [
+        {
+          "longText": "2554",
+          "shortText": "2554",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "East Tremont Avenue",
+          "shortText": "E Tremont Ave",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Westchester Square",
+          "shortText": "Westchester Square",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "The Bronx",
+          "shortText": "Bronx",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bronx County",
+          "shortText": "Bronx County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10461",
+          "shortText": "10461",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.8428529,
+        "longitude": -73.8486451
+      },
+      "rating": 4.7,
+      "googleMapsUri": "https://maps.google.com/?cid=2772262017923244298&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.crowntrophy.com/grid/index/index",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 14,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Tuesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Wednesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Thursday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Friday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Saturday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-09-23T14:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 145,
+      "displayName": {
+        "text": "Crown Trophy Bronx",
+        "languageCode": "en"
+      },
+      "primaryType": "store",
+      "editorialSummary": {
+        "text": "Chain for sports trophies, medals & ribbons, corporate plaques, promotional items & gifts.",
+        "languageCode": "en"
+      },
+      "reviews": [
+        {
+          "name": "places/ChIJERpzkbH0wokRCmGfAp4NeSY/reviews/ChZDSUhNMG9nS0VJQ0FnSUR6MzRub1h3EAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "We have been using Crown Trophy for years I couldn't recommend them enough. When I arrived everyone was so welcoming and friendly. The customer service was spectacular, they even helped me take the trophies to my car. The trophies we ordered were of great quality and all students who received them enjoyed them to the highest degree. We will definitely use Crown Trophy for all of our future events!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "We have been using Crown Trophy for years I couldn't recommend them enough. When I arrived everyone was so welcoming and friendly. The customer service was spectacular, they even helped me take the trophies to my car. The trophies we ordered were of great quality and all students who received them enjoyed them to the highest degree. We will definitely use Crown Trophy for all of our future events!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Nardaniel Dagorlad",
+            "uri": "https://www.google.com/maps/contrib/113624571392786395884/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVM2icx678fajV3DFIk0llgfnskBwM3ZBQD1OfSqclJwfbfSiO4fg=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-06-13T18:01:55.433283Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR6MzRub1h3EAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR6MzRub1h3EAE!2m1!1s0x89c2f4b191731a11:0x26790d9e029f610a"
+        },
+        {
+          "name": "places/ChIJERpzkbH0wokRCmGfAp4NeSY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOeFFsZHBZbVZrV0Y5b1lsZEtNazFOY0RkclNsRRAB",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "text": {
+            "text": "I want to extend my deepest gratitude for the outstanding customer service I received during my recent visit. You truly went above and beyond to make my experience special. The unexpected gift you surprised me with was incredibly thoughtful and brought me to tears. It meant more than you know.\n\nThank you for your kindness, generosity, and the care you put into every detail. You\u2019ve gained a loyal customer for life, and I will happily recommend Crown Trophy to everyone I know.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I want to extend my deepest gratitude for the outstanding customer service I received during my recent visit. You truly went above and beyond to make my experience special. The unexpected gift you surprised me with was incredibly thoughtful and brought me to tears. It meant more than you know.\n\nThank you for your kindness, generosity, and the care you put into every detail. You\u2019ve gained a loyal customer for life, and I will happily recommend Crown Trophy to everyone I know.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Annette Barett",
+            "uri": "https://www.google.com/maps/contrib/108412780741517703025/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDftXZNh2IQwhVRJq206DeNFoYL-HsPwL3-dgGv8XGvBm9B2Y=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2025-11-22T21:16:02.848434918Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOeFFsZHBZbVZrV0Y5b1lsZEtNazFOY0RkclNsRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOeFFsZHBZbVZrV0Y5b1lsZEtNazFOY0RkclNsRRAB!2m1!1s0x89c2f4b191731a11:0x26790d9e029f610a"
+        },
+        {
+          "name": "places/ChIJERpzkbH0wokRCmGfAp4NeSY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqaHFDNVZBEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I was very pleased with this establishment. I needed to order a plaque for a recently deceased person. The staff was professional and friendly. They assisted me with making decisions about the piece and the graphics were beautiful. I love it. I will definitely use them again and recommend them to friends and family.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I was very pleased with this establishment. I needed to order a plaque for a recently deceased person. The staff was professional and friendly. They assisted me with making decisions about the piece and the graphics were beautiful. I love it. I will definitely use them again and recommend them to friends and family.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "nancy johnson",
+            "uri": "https://www.google.com/maps/contrib/106078932700943460860/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfA40vkM_HmZPB_CjopVXkWtZQpq5F_XLkTCPrK-PfEHQQSw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-20T17:27:36.143843Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNqaHFDNVZBEAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqaHFDNVZBEAE!2m1!1s0x89c2f4b191731a11:0x26790d9e029f610a"
+        },
+        {
+          "name": "places/ChIJERpzkbH0wokRCmGfAp4NeSY/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3Njh1ekVnEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Im grateful for crown trophy and there professionalism and attention to detail. They are relational and understand the importance of service to the customer.  They are quality trophies and flexible when they need to be. They are fair and I highly reccomend them as a vendor for trophies in the city and beyond.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Im grateful for crown trophy and there professionalism and attention to detail. They are relational and understand the importance of service to the customer.  They are quality trophies and flexible when they need to be. They are fair and I highly reccomend them as a vendor for trophies in the city and beyond.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Manny Maldonado",
+            "uri": "https://www.google.com/maps/contrib/111450139668789144006/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLj3WNG6QDgtwnl0aniMH743nC4Tgkx-mJ51I-WLSlGXDIaMA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-08-28T18:25:32.399339Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3Njh1ekVnEAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3Njh1ekVnEAE!2m1!1s0x89c2f4b191731a11:0x26790d9e029f610a"
+        },
+        {
+          "name": "places/ChIJERpzkbH0wokRCmGfAp4NeSY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KNFowTnliVUpEWHpSME1GRlpWSEZ2YUdwdmIyYxAB",
+          "relativePublishTimeDescription": "4 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Easy communication, good quality and price. Would definitely work with them again!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Easy communication, good quality and price. Would definitely work with them again!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Neira",
+            "uri": "https://www.google.com/maps/contrib/104954919870803442616/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQVsxoeYHN7Q8wUJmrMC-3chF5jT1aUYSoAlp3rU1XaTUZKTg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2026-05-12T19:55:28.043887132Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KNFowTnliVUpEWHpSME1GRlpWSEZ2YUdwdmIyYxAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KNFowTnliVUpEWHpSME1GRlpWSEZ2YUdwdmIyYxAB!2m1!1s0x89c2f4b191731a11:0x26790d9e029f610a"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJERpzkbH0wokRCmGfAp4NeSY/photos/AVoNoXSgWIFtgk_vDs3cGo-m1bQUoJnesU4iQe3YpnprVmghR9gYXJ3_nmGf7ym0raBb5L5tESP3qG40VO5YSjBd8w5FyDxQ7nuA6YldcBGsy7oBXvHcizLyXDXs1rXrtENr58L4jpg_F4HQeooLcn9SigFo6uMJSqojO-3Dec9chQL50NGjXqnw1_QEakO6gorj_jfM-zF1CzGCPu_1KPC2ylXv3ZkAON6H-ZMbZNfsXZHbST9MfTqis4NS5CTUSljS8a7W1IT1pXcBnmepoStjT5fKC2OvBhrrUoHxPTQ4Aoa_Q-Ndx8hCLDP7fCcqmV1l4CJnECpMhvgkH6TcbON2OCQne5U3ufZiSKMvNoRHNoIIQPSwZt2x9BongM-TrnNn1fdvYZZ5UK15pQM-IEavk7SoejtatJCLJZxoQUZXelMuzg",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Henry Morocho",
+              "uri": "https://maps.google.com/maps/contrib/112556891230851225339",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKWuCuFTUCMCaSq-8pRvM4xIXT5U3TlkSuKXNuENKxPy4YkXQ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICuvNqeVw&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICuvNqeVw!2e10!4m2!3m1!1s0x89c2f4b191731a11:0x26790d9e029f610a"
+        },
+        {
+          "name": "places/ChIJERpzkbH0wokRCmGfAp4NeSY/photos/AVoNoXQLdHAIqUdlCaDO6bAWwacdJpxnEUC69ms-nTNyHUDaPq2pXtfYBtuHMDUcxTohNZH-sC-w8M8ClKXT4Z4kU2OvzAOPNbc5-6j0BPja1ThHnVrWrHKNFixiJLRFfoO3g7c0R2I0TZ_z0zhVda6_270LjgM2N-XkQqsOauLzDKPlnbT5eQ9lHLgSZ3U8Mgw5cRlT1h-LFUw0X8hw-u3pSPZEklD44ewz0jYUviK_xiCDsP178fdmEeD-NZtM7yE6oSplHLeDx8vPYpM7ohK93vv-hNNy0Rf0f2OAxK38yF3BOWkvXJImTxH-sJeJrr-wOj49dU4OakHAXZ2yTkHhOou4zNqTDQ4VsKCkAuygiN-1fZaZN-D-uOwALsBq9ea4cKALYCnB7-1AIxGSqXqBQS6uIgQBPuWKrkoa7t9kZwks_Idt",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Manny Maldonado",
+              "uri": "https://maps.google.com/maps/contrib/111450139668789144006",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLj3WNG6QDgtwnl0aniMH743nC4Tgkx-mJ51I-WLSlGXDIaMA=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID768ub5AE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID768ub5AE!2e10!4m2!3m1!1s0x89c2f4b191731a11:0x26790d9e029f610a"
+        },
+        {
+          "name": "places/ChIJERpzkbH0wokRCmGfAp4NeSY/photos/AVoNoXRW3acPz8rqrU3TaCuhSnPjIwhK0UjIzjU1huMW11CIi5LDLTCqNOIT7ef8sf-bqmZuVmHaT8NLF1yF-IQfhchoSfvaLpGMW5WHkIWS1ctTTofQcLVGQrfygdGYmySsfTZSLBOJveo85djjPjoW9kjFKkAYjJjJmE6-YeeJk2HOr0RZjS-a0FAsthoq2zF_K91iVcTMsWQDgxn5ytvLw4bFLnSpPAMCjoxJP9Oz-SeV88sHZJ4ruylKEdIVyB2t4nLX1-JLg6BQC_6oHBkOcOTb3_EcFa_YvD1GBPvCiK1Uj-OOnHIl2CrJeOlvRO-pDUolJfbeGgxzIehVGXj5XQLfyYir_2vuxzv-79SUcd_nxIPR3cbEGwn0YowAH7q_-zZhOnRcXz_KdPjTgdneXCsLeKGSVLSuhDtfpWn6Pu3VfQ",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Nardaniel Dagorlad",
+              "uri": "https://maps.google.com/maps/contrib/113624571392786395884",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVM2icx678fajV3DFIk0llgfnskBwM3ZBQD1OfSqclJwfbfSiO4fg=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDz34nofw&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDz34nofw!2e10!4m2!3m1!1s0x89c2f4b191731a11:0x26790d9e029f610a"
+        },
+        {
+          "name": "places/ChIJERpzkbH0wokRCmGfAp4NeSY/photos/AVoNoXSiBGnbabAO98WPqaS0Mjin_RXPOLyn4lKV1CUMzcSMnR5oANX8-rdyHj25V_1DfDzdL_Kx96nRAZZiQPwH4haWKfBVXthZP8ChHanxKW1EbY_iIv-yg-UqUJeQWRF8ovEZFBE8z00O_Xy76oJ0PBklRvQHzW7t1jlnnoAqqo_wZBM5KWRUHHM34Bz9e49tkVsVCT2RLHlAxzY1RktkuX09l6Qnsx3izv-1trRCei8_cAi4x_P8S2113JE8SLWqFhLbQoueAcYr_qPKk5ezo4Qy66Irs89eqFlfhIV3LvqJEmDjy8vQPbO9hdH8ISzlEZSEaOzogUE03laYh_L6X33KesdTQaLDOzeSUqAF4bV-Av80Fa4zJifpyXV1LQtc61nWFAQZnp4pQnIA4PSSIFbKc43Nw67L0eh-IDHgxw-bJ8w",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Jimmie Ragin",
+              "uri": "https://maps.google.com/maps/contrib/113654324217848080579",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKXPkCyBdIutxPrQBGUTRzTM8jsFYaYZTCAe26dlJMbjMknX8=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICLxt32rQE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLxt32rQE!2e10!4m2!3m1!1s0x89c2f4b191731a11:0x26790d9e029f610a"
+        },
+        {
+          "name": "places/ChIJERpzkbH0wokRCmGfAp4NeSY/photos/AVoNoXRTB0IVCOwXAnb-LUm-M_o4xUa1vdCcYr0RWA4VQer_whvN_UCdP6zhkkT8pUPfo-sZU_aEBsmenhDAcuCD7ngk2dGHkB6iMDxpg5kMEr7ph1VxMZFdramkss3Ku3q7_D8TI_5WAED9cgJBJKvrkvsrOuxf9i35EqjfHQ7bx3hDmCiqOqsYpXF5GsggrS6ZS2jpaVeI804TYW-jVqVW5g65KBhBty78vhTL7l-Y_E-J6rmVU0tlfFYnrMsX2e3ygveHG8iZGn3j2aqx2RA0fEIxw7C79_AqcAfY-9NhYpYPktvsHrXUy2NSq5cyLZyBILkpEsKTW8mP1LXMezugFMKrynYpGffLeZGoh8XKegKSLPiNm-6sRSm9byV2pv607F3tipMbZUxsBeDuA_vL8rqNh5cy6VLj4dG5en0YFDE0icSh",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "The NYC LGBTQS Chamber of Commerce",
+              "uri": "https://maps.google.com/maps/contrib/101659797025960392133",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQRsgL9iTF0a_ggA4cUZ91QKco-fK_ZQmsQBUR1Hbve5KKpoKQ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICajuWx4gE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICajuWx4gE!2e10!4m2!3m1!1s0x89c2f4b191731a11:0x26790d9e029f610a"
+        },
+        {
+          "name": "places/ChIJERpzkbH0wokRCmGfAp4NeSY/photos/AVoNoXTtvUYy4vAPm92uNQ1GZw9jR2-BGCKabQeS7R8CaWekbOGRLnyQX1-W_-UHTLnNhjqTwerHqlJcsJ2NS7DSkXBm9jpQG65LmfaLoKGre3q5MQoksILKJ-3G-Ll_EoSP3vwF69QqEN0bICMUNfdQpjjIUokq2wLrOcVgFSkktSz5PFD_byif-iGjNjM6I8jmvFrq-ZSbv89IJJKd1NRuX_RtHKZhCj_nBnwHJO6q6mwONREKHfc-rbkx7b5w59JXE7hApb-vS3SyWrIUJdOs4jRo0n9iIkNElokuERJL8_6ubYnXyzo0o61q8uK0PWzy24pwbDi6FZFCcbWanAHBRc4zirW0m7moaOv3QsVqy5-BXckImM7-fGs7WU86o3LOF_726QpkpQqskV5w2oh3hAshTX2kBCWYuRckUTu-yefh26i_",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "David Coulibaly",
+              "uri": "https://maps.google.com/maps/contrib/117149776735492695089",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVrHzy2fe1PAjDDd_bYLgXF8zn1H2hiKmNErEHdN6GgipPXL7DN=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDHxIzPkAE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHxIzPkAE!2e10!4m2!3m1!1s0x89c2f4b191731a11:0x26790d9e029f610a"
+        },
+        {
+          "name": "places/ChIJERpzkbH0wokRCmGfAp4NeSY/photos/AVoNoXS695s_ua_1EbaKtQ5aOOW67Ngb_J4qXBGZQN88Mqm0V-PqwwcOr4qczGo87DEzeIYU5eIP3fmYMj90rOMmz_A9TGJV_K3iZECp82z3ZXCtUZ44wqGTliIXoWyG1aiuTxLOHK_MMr2NUvwR7UsDSGvDy3ZBm1XxmOnnFXoABTHKAjbD0yhJBB4yehV1KkFOQOFffVZsVMq-3fz_n5Sp1kjGhbvLkC8lhPEVVObaiZzHErRaoKrhiUTIWZ99bQEpROLGLgOcsB-xS-G55L9LlD132KtgE82j0kywRSziDB6d7wpV0MhqwGiMp2Sc8shjoNFu10oOAMXQ1gPLNSHBHa6VkJiK1K-pqTQsqnYBrirclorsMfWkIlMDzD1zbQ9CkP07rz0QrylkdauDB53hw3G-GJzvM3WZUSFk28QVT51j2i6p",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Nardaniel Dagorlad",
+              "uri": "https://maps.google.com/maps/contrib/113624571392786395884",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVM2icx678fajV3DFIk0llgfnskBwM3ZBQD1OfSqclJwfbfSiO4fg=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDz34novwE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDz34novwE!2e10!4m2!3m1!1s0x89c2f4b191731a11:0x26790d9e029f610a"
+        },
+        {
+          "name": "places/ChIJERpzkbH0wokRCmGfAp4NeSY/photos/AVoNoXTEAn0FKOGjhAmnUDN9T1oTdVrc5mmhtAybw5NwsosQ2XSUBgU8nuCH3dXijm5IhcBA0GjofCwwcBaU8yTKeWwmiML1SAieJEQvsjyQ2xFeVTHz5WPsUjO3EPWEDNCE6hKJWCLPezIk66bgYuK4ncoPR-jpbh-V6eN8tvByogDf3o-JIM2zk7vKv9xSKZrn3D_GqwfJA8jpnkZWDeHpKjeYzvtL1VMGanwjviwhh60jI4HTmGcbX-kqoIo68paKHFZwcXFmroYm8CPUgPg3dM5nSs6hQecGWhY9IJgdk4xF-9JI6ABqyhdFFGCb6UGtdUgGIrv85BiAEbA--S4pmlghUp3cK2jImzn-7j7-OVjZTxvlE0PQieFYCQGDyx-daSg9Bdc2SuiLF9LWwGY2uwEY5Igf8KVQtpI72v4dqILeelE",
+          "widthPx": 2316,
+          "heightPx": 3088,
+          "authorAttributions": [
+            {
+              "displayName": "Elijah Wynn",
+              "uri": "https://maps.google.com/maps/contrib/114253168968314652678",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKyM4pCO1-ZnSTai_BnWiNHlbGeXa8RFMPg4giFxznaKveMcA=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDb28PxzgE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDb28PxzgE!2e10!4m2!3m1!1s0x89c2f4b191731a11:0x26790d9e029f610a"
+        },
+        {
+          "name": "places/ChIJERpzkbH0wokRCmGfAp4NeSY/photos/AVoNoXQkHYTptSJzmacrGerAkBTJPKLEplWZleNj6r8GeoeJUbpHR2k_S30rmVGoMoy6He0nirSgK-dRWBNqKIGhEjmmu5bd05RqDYknXaZV8yE6H-uvF_adR59XuZer-wVcM17qMOphvVRk0iu4w0yOxczMG4GmRCU0WQq6u5HJv3GOfftaBeoAlojEI0ZkKKkun4xDp4ltRo6CAS7G26I49mFWp0sPATyN3zNbSg1jLINFiRaI76PRmX_J9ffWk5n4_Jv4KRkwhckHsccZ1Aw9yDkKH9JUlibROzaWPfdCzxyaPxFey0HDE6ZsZ43kFFsbA24SV0jyDTlcWEi39uOwxwxnpxu_R6hNY65Y8hNX2hSfBTkPgQ5l3aMuevIw5-ysQDnX5xqHM5cqfcbK8q3c3ORTTZ1y0-Vpur3Oaa9dehiLDH09",
+          "widthPx": 2252,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Andrea Haye",
+              "uri": "https://maps.google.com/maps/contrib/103357734834857551161",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxPLOkqJJNhpYxfnmLA0oy-5tWjzC9onvZg4nTvbvLhkJNaHj20g=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICLyYudqAE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLyYudqAE!2e10!4m2!3m1!1s0x89c2f4b191731a11:0x26790d9e029f610a"
+        },
+        {
+          "name": "places/ChIJERpzkbH0wokRCmGfAp4NeSY/photos/AVoNoXQ-tyMDo7CWrs3jH89lrm66Olrx3cVEQ2pg7KWk14tjvsjTr-hlBWX2zKMNDDmvIRjeVrtPqrXU5jTZOYLpbkVukxdMHaPtTOjL40nm_Pazev4aFwy5tvx-BSMxZmUG7Ar6RPvJ16mnO-c0bVkyXZYI8v11AtnEpExouCjpfGeQUFz9-XuRS1N2l8hotYHu_T6ZPW5iIMuRrbD9SaQ5EJb7sIgvM8wa78HHXB8kqx-k1l9ZN5TFYsabMGFPK8OO3PxSWBKGJ1n6ney8I2JXZcg_SRaSsAG5T-V3r-ph_oOibWNxFxa4cqvDe1eL5D7R_iuUBZfObBNdXuPuiZG90iUdNMZp2z4OPoK9ioe9nG9AZnST_GPSBGVXra7kHa4UTYOgqCuI4Z4UjfAXGNBGzwF5P6dxX6Arvef3BLH0_mvf9Kc",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Daryl",
+              "uri": "https://maps.google.com/maps/contrib/103121558272262885093",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3FSo0pyJDEuvnxA00vY7pFgXtqjZ3T5xrtmxsMb2aiCbrw6uB=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC71faWzgE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC71faWzgE!2e10!4m2!3m1!1s0x89c2f4b191731a11:0x26790d9e029f610a"
+        }
+      ]
+    },
+    {
+      "id": "ChIJsViXFYbzwokRgG_JK9yjOLY",
+      "types": [
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(917) 403-5687",
+      "internationalPhoneNumber": "+1 917-403-5687",
+      "formattedAddress": "2575 Jerome Ave, Bronx, NY 10468, USA",
+      "addressComponents": [
+        {
+          "longText": "2575",
+          "shortText": "2575",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Jerome Avenue",
+          "shortText": "Jerome Ave",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Fordham Manor",
+          "shortText": "Fordham Manor",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "The Bronx",
+          "shortText": "Bronx",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bronx County",
+          "shortText": "Bronx County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10468",
+          "shortText": "10468",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "4322",
+          "shortText": "4322",
+          "types": [
+            "postal_code_suffix"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.8654278,
+        "longitude": -73.89944729999999
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=13130424879621435264&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.pixviewer.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 18,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Saturday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-09-23T13:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 5,
+      "displayName": {
+        "text": "PixvieweR Web Solutions",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJsViXFYbzwokRgG_JK9yjOLY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDbEtuMVJ3EAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Working with PixvieweR Web Solutions is a total pleasure. They're professional, friendly and I highly recommend them.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Working with PixvieweR Web Solutions is a total pleasure. They're professional, friendly and I highly recommend them.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Michael V. Doane",
+            "uri": "https://www.google.com/maps/contrib/116923478174648332456/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWQNRu0yfRTme-eg8HKKhGX9bNqqrnN9wm1dlgA_mC8L8Rd14lOIQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-08-12T18:44:42.057690Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNDbEtuMVJ3EAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNDbEtuMVJ3EAE!2m1!1s0x89c2f386159758b1:0xb638a3dc2bc96f80"
+        },
+        {
+          "name": "places/ChIJsViXFYbzwokRgG_JK9yjOLY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDaE1iX0xREAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Very professional respectful and on point I have been dealing with them for 7 years would definitely recommend !!!!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very professional respectful and on point I have been dealing with them for 7 years would definitely recommend !!!!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "fozy shahbain",
+            "uri": "https://www.google.com/maps/contrib/113330685199240574772/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKrBJLUJX17Mxu_rrJnxzj9KS_K6QLrxPGqcSqTn9ubimj9Qg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-08-11T13:42:38.343753Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNDaE1iX0xREAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNDaE1iX0xREAE!2m1!1s0x89c2f386159758b1:0xb638a3dc2bc96f80"
+        },
+        {
+          "name": "places/ChIJsViXFYbzwokRgG_JK9yjOLY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDaEthSGFREAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Binu George",
+            "uri": "https://www.google.com/maps/contrib/112038535534532380002/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWorHZiE7l9IrUE0ZFgVtg6PuFgfGg4MzyKR9UU3-ABI8znLD0OAQ=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2020-08-11T13:45:00.646630Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNDaEthSGFREAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNDaEthSGFREAE!2m1!1s0x89c2f386159758b1:0xb638a3dc2bc96f80"
+        },
+        {
+          "name": "places/ChIJsViXFYbzwokRgG_JK9yjOLY/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4cjdTSkZnEAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "vivek v rajan",
+            "uri": "https://www.google.com/maps/contrib/107079450537256085657/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9FLAmhJBhb0srOeeg5CFESopJYI8XhQ1TOmPkXM_nups5Zg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-08-04T02:42:28.732597Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ4cjdTSkZnEAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ4cjdTSkZnEAE!2m1!1s0x89c2f386159758b1:0xb638a3dc2bc96f80"
+        },
+        {
+          "name": "places/ChIJsViXFYbzwokRgG_JK9yjOLY/reviews/ChdDSUhNMG9nS0VJQ0FnSUM4dUpyT3hRRRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 3,
+          "authorAttribution": {
+            "displayName": "Wayne Sinclair",
+            "uri": "https://www.google.com/maps/contrib/116960375509846081170/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWilToX-rZpFOu16pZdK--Sm5Qp6SVlTVxR2y4MnJYgFaG7sEUqg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-06-24T19:55:53.003308Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM4dUpyT3hRRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM4dUpyT3hRRRAB!2m1!1s0x89c2f386159758b1:0xb638a3dc2bc96f80"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJsViXFYbzwokRgG_JK9yjOLY/photos/AVoNoXQCX1RIKiDqI3kiaoWfvSiwniX5Ab_AfbNuqdjRChMo2_QJbS_FLsLs2DqTt0ign13dRqydzmovPO-_r_7m6BfqcovCCXLLk9EZRV6VC-gucfNw55mnRp28vTli25IdZMGERLa3Jult3IUKtGsVHrObgEua3fO6Am-OaQFQykk4iyxfBnfFxoreazibIcWNmjXtKUjMjOP-SOjq1HrFfKEN3Gt_LlvXKYa6W4W3PCwvD138DWl1HqF6rolkirZ0vdAGNQb0Tg04opWCiSHZQnNDmjspk1Lc8KDpCxchQjc9yaNupWTTg1B4EXFbYBcFYz-0mqtVQiESj4M8YimaccxRCFdC4BnP7cg488rsel6nYmQDsuuftnCx9_gohlZy5ce3Xmtb778zGakiEtQc3lo6r0M",
+          "widthPx": 994,
+          "heightPx": 715,
+          "authorAttributions": [
+            {
+              "displayName": "PixvieweR Web Solutions",
+              "uri": "https://maps.google.com/maps/contrib/118014597239078675806",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0hPySMphomQKBwjd_-bnlxSi6umkI9aN1n3AsaOuDWcovBHU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6pPz_IQ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6pPz_IQ!2e10!4m2!3m1!1s0x89c2f386159758b1:0xb638a3dc2bc96f80"
+        },
+        {
+          "name": "places/ChIJsViXFYbzwokRgG_JK9yjOLY/photos/AVoNoXRortPE01e4S_yZFWxX9ygbq6dpH1L2XDr5fGLGA0QRj6z_ozc4zhV6p5CwFSFdovf_SwBfL5l6ZKiWO6KYEsq9aJETsEFSrv0qliOiDccDuG6d9OYf0lE2S-G-Jx-5mAKfW-jgKMm3nmF-uA3bpv1sEUDgafM8TaLZGcLh0U3zoy_3xo_hS9x5eLTthwx7fEw2-Wx2LcFC5YdcyH28mqt6tSY5FGCKuu2cZjVjiejOqgABWDNZAZg5KS9baSURQW1GpQyEtSmOKCYtbNr3F-FYsNVn67SsIKrGcX1POUFA5lHatfpJEGq9fqTwaPgpBQqOhZpabDiXH6AGk4ieQdU_kb3UYgnHmUegyqGMrmF8I3KgI6Im8zloMS38lEpC4yNR11iIG3W17-VO0mrTg2actWetTJ0",
+          "widthPx": 1295,
+          "heightPx": 1164,
+          "authorAttributions": [
+            {
+              "displayName": "PixvieweR Web Solutions",
+              "uri": "https://maps.google.com/maps/contrib/118014597239078675806",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0hPySMphomQKBwjd_-bnlxSi6umkI9aN1n3AsaOuDWcovBHU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICih_yl7wE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICih_yl7wE!2e10!4m2!3m1!1s0x89c2f386159758b1:0xb638a3dc2bc96f80"
+        }
+      ]
+    },
+    {
+      "id": "ChIJywWV2j2LwokRIcC1JD6EKqU",
+      "types": [
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(718) 828-1104",
+      "internationalPhoneNumber": "+1 718-828-1104",
+      "formattedAddress": "289 Calhoun Ave, Bronx, NY 10465, USA",
+      "addressComponents": [
+        {
+          "longText": "289",
+          "shortText": "289",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Calhoun Avenue",
+          "shortText": "Calhoun Ave",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "East Bronx",
+          "shortText": "East Bronx",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "The Bronx",
+          "shortText": "Bronx",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bronx County",
+          "shortText": "Bronx County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10465",
+          "shortText": "10465",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "3301",
+          "shortText": "3301",
+          "types": [
+            "postal_code_suffix"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.8179105,
+        "longitude": -73.81897529999999
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=11901470367718686753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://bronxpennypincher.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 16,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 16,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 16,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 16,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+          "Tuesday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+          "Wednesday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+          "Thursday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+          "Friday: Closed",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-09-23T13:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 15,
+      "displayName": {
+        "text": "Bronx Penny Pincher",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJywWV2j2LwokRIcC1JD6EKqU/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3eVpmeG9RRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "i have used this mag/advertisement many times thru the years! always great service, always professionals! thanks.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "i have used this mag/advertisement many times thru the years! always great service, always professionals! thanks.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jeanette Colon",
+            "uri": "https://www.google.com/maps/contrib/108266940934934645251/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzzDREmzfCa3J-PnA9do-c7lISocyRKNIIs0iiWsPLXOoyJSg=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2025-03-26T19:11:17.997235Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3eVpmeG9RRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3eVpmeG9RRRAB!2m1!1s0x89c28b3dda9505cb:0xa52a843e24b5c021"
+        },
+        {
+          "name": "places/ChIJywWV2j2LwokRIcC1JD6EKqU/reviews/ChZDSUhNMG9nS0VJQ0FnSURBOU52SFp3EAE",
+          "relativePublishTimeDescription": "12 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I have to admit these pages have gotten better by the years. I notice that many of my clients advertise on the Penny Pincher. I have a lettering place called 365PRINTDEPOT and we also do a variety of services like vehicle wraps, screen printing, truck lettering\u2026just to mention a few. We as a team, are at times surprised to see the Penny Pincher advertising the trucks we have wrapped for our customers only because we always encourage our clients to advertise, advertise, advertise. How else can you grow your business. That's the reason why we stay in business. Of course we all need to thank our loving God Jehovah. All in all i would like to shout out the great Penny Pincher for doing such a great job for so many years. And our customers for actually taking good advice of advertising. God bless everyone and continue to promote your businesses if you want to make it out here in this battle field of competitive wolfs. Remember only the strong and smart survive so advertise.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I have to admit these pages have gotten better by the years. I notice that many of my clients advertise on the Penny Pincher. I have a lettering place called 365PRINTDEPOT and we also do a variety of services like vehicle wraps, screen printing, truck lettering\u2026just to mention a few. We as a team, are at times surprised to see the Penny Pincher advertising the trucks we have wrapped for our customers only because we always encourage our clients to advertise, advertise, advertise. How else can you grow your business. That's the reason why we stay in business. Of course we all need to thank our loving God Jehovah. All in all i would like to shout out the great Penny Pincher for doing such a great job for so many years. And our customers for actually taking good advice of advertising. God bless everyone and continue to promote your businesses if you want to make it out here in this battle field of competitive wolfs. Remember only the strong and smart survive so advertise.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "JIMMY Santos",
+            "uri": "https://www.google.com/maps/contrib/100598770953772863610/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVOLCijSPQC4cnNdY7jiJWm10sKLO3Im_g9JPSnsF4X85FlXWhdA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2014-09-18T03:59:31.886Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURBOU52SFp3EAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURBOU52SFp3EAE!2m1!1s0x89c28b3dda9505cb:0xa52a843e24b5c021"
+        },
+        {
+          "name": "places/ChIJywWV2j2LwokRIcC1JD6EKqU/reviews/ChZDSUhNMG9nS0VJQ0FnSURwek83UEZnEAE",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Excellent service, very helpful with advertising. They do a great job communicating, and trying to accomplish your needs. Highly reccomend",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Excellent service, very helpful with advertising. They do a great job communicating, and trying to accomplish your needs. Highly reccomend",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "P Rock",
+            "uri": "https://www.google.com/maps/contrib/111043457079678521979/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLcmW2Z3P8yJDfxR-QuN0LaUnXj0u0r4O1MU-QyQEchWQPflQ=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-08-17T12:31:22.520056Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURwek83UEZnEAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURwek83UEZnEAE!2m1!1s0x89c28b3dda9505cb:0xa52a843e24b5c021"
+        },
+        {
+          "name": "places/ChIJywWV2j2LwokRIcC1JD6EKqU/reviews/ChZDSUhNMG9nS0VJQ0FnSURCbjktZ1JBEAE",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 4,
+          "text": {
+            "text": "Always have a great time when I go. Food is delicious",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Always have a great time when I go. Food is delicious",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "joel colon",
+            "uri": "https://www.google.com/maps/contrib/111818396019989528020/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKIm_Er-Y64JTtxdVFdRj7QQA7fyDT22C4AVeI8LGYGGEon60Q=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-02-01T13:13:26.421563Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURCbjktZ1JBEAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURCbjktZ1JBEAE!2m1!1s0x89c28b3dda9505cb:0xa52a843e24b5c021"
+        },
+        {
+          "name": "places/ChIJywWV2j2LwokRIcC1JD6EKqU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBMWNTMjNBRRAB",
+          "relativePublishTimeDescription": "9 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Best news paper for people who want to save few pennies.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Best news paper for people who want to save few pennies.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ana Epic",
+            "uri": "https://www.google.com/maps/contrib/108792868756920854647/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZ1sG4bmJ1vh4fF7XMWzHfj2V3Yc86jZo8Ajr0ZNMzwVwL7wO7og=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2017-07-14T03:03:31.003Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNBMWNTMjNBRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNBMWNTMjNBRRAB!2m1!1s0x89c28b3dda9505cb:0xa52a843e24b5c021"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJywWV2j2LwokRIcC1JD6EKqU/photos/AVoNoXRcbXSYREjD7y1AE7h22pEpoGPCoAUsoHKYAtOrdAUbF2xMghsw7DQ6SvW66wOAwShlQEUe-wNH6IUpCqL-AOXkoiNE-mifGmzojuUSz_0rP9fMPZq8Gq_SFoII_r7PlmVl4Q_uB5trCal_e9d5IrFIOyOABiJ3pOv6h7PFC153xxn7I2h6mX_iFp_sTwPHwdkD3JKZHFa30Xjg2POti3Ud3beyuEZoYSyx10SciRWgeU5S2nyOduMdN-qS2czriw5Rmfiq2tE8Sj0bVCYhgc77OEzuOjW_maOxqw8DxLeAmczNAdBJvQjWO2cKpTX7zhUNHBsYPwWf9OVBPZntvkpmatfPdt46rDsNfPj1ApqQW3-z0pvkF-q7eM3j0G7tSSks0wbw7IkNTjC2GPI9AEK_O6c",
+          "widthPx": 696,
+          "heightPx": 694,
+          "authorAttributions": [
+            {
+              "displayName": "Bronx Penny Pincher",
+              "uri": "https://maps.google.com/maps/contrib/116447241961099768935",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJxaSj0n38yOPvLga2vwyIKjz0HDBP0ChXGBxI2QVeoDrx9Ug=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICmvZD7FA&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmvZD7FA!2e10!4m2!3m1!1s0x89c28b3dda9505cb:0xa52a843e24b5c021"
+        }
+      ]
+    },
+    {
+      "id": "ChIJB6g090XzwokRRWNEWvU7NlM",
+      "types": [
+        "marketing_consultant",
+        "consultant",
+        "store",
+        "manufacturer",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(646) 217-2516",
+      "internationalPhoneNumber": "+1 646-217-2516",
+      "formattedAddress": "2527 Boston Rd, Bronx, NY 10467, USA",
+      "addressComponents": [
+        {
+          "longText": "2527",
+          "shortText": "2527",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Boston Road",
+          "shortText": "Boston Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Allerton",
+          "shortText": "Allerton",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "The Bronx",
+          "shortText": "Bronx",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bronx County",
+          "shortText": "Bronx County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10467",
+          "shortText": "10467",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.8640415,
+        "longitude": -73.8647519
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=5996045878857851717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 18,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Tuesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Wednesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Thursday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Friday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Saturday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-09-23T14:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Restaurant Solutions NYC",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJB6g090XzwokRRWNEWvU7NlM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnb3RIWXJRRRAB",
+          "relativePublishTimeDescription": "11 years ago",
+          "rating": 4,
+          "text": {
+            "text": "I love Restaurant Keys its your ALL IN ONE company special for restaurant I got my menu covers right onetime for the grand opening for my second location golden crepes east village",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I love Restaurant Keys its your ALL IN ONE company special for restaurant I got my menu covers right onetime for the grand opening for my second location golden crepes east village",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Albert Rafailov",
+            "uri": "https://www.google.com/maps/contrib/102562668870947315678/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNSmD9hleauA9ZBD2gZZ-_wXMeqUwMXXAXYhN8rNiitng25bVB=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2015-01-29T16:58:24.061Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNnb3RIWXJRRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNnb3RIWXJRRRAB!2m1!1s0x89c2f345f734a807:0x53363bf55a446345"
+        },
+        {
+          "name": "places/ChIJB6g090XzwokRRWNEWvU7NlM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRXzlpUEN3EAE",
+          "relativePublishTimeDescription": "11 years ago",
+          "rating": 3,
+          "text": {
+            "text": "do you need advertising this is the right  place they have really good packages",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "do you need advertising this is the right  place they have really good packages",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "DEJUIN DAYES",
+            "uri": "https://www.google.com/maps/contrib/107380518995852362270/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTMQZ3szDO9eii3YH-SpOenVgnY_CIReR9hye1uhd7VQqcwCn_=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2015-01-31T03:38:36.356Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNRXzlpUEN3EAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNRXzlpUEN3EAE!2m1!1s0x89c2f345f734a807:0x53363bf55a446345"
+        },
+        {
+          "name": "places/ChIJB6g090XzwokRRWNEWvU7NlM/reviews/ChZDSUhNMG9nS0VJQ0FnSURza2NDcFp3EAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Cynthia Filpo",
+            "uri": "https://www.google.com/maps/contrib/116566412375722103271/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYvLl2sI-LbV5oe0YCtk0T4P8y_fP6f2iEiijoVUJkODugqLOB9g=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-03-06T23:20:47.140071Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURza2NDcFp3EAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURza2NDcFp3EAE!2m1!1s0x89c2f345f734a807:0x53363bf55a446345"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJB6g090XzwokRRWNEWvU7NlM/photos/AVoNoXRMeOVQry0xmjW4zpogtHcXkpTZRicwimY9sKFC3POMsGa1gfIxCkojryFldLKZIbhPvDiCXE9cSyFMQ6MaN_Ig_YHdgO_5FhYT3zACoKT037_ggs8tQ5lGZOPo96mMDaJHpZegGJJW7EuhYidtDYfoS8Lpa8hFH5if4g3O-iUCn6cCFzXg19o5iakv8j5NOR79koZGZeq9DNSjdMxA55ix0qRm4igKUqQY0MyLfQDVk6_U4Im_3PS-2Jr12h4_sUjaO6V2GKLIJxNHut4N4L0NaYVe3DVkerwdxehwbsuzhKdoySnvfzxWxya2AwNPBAYft2lYAciU5OSFc9K8X3F_hePlGOHse4YltIfD6mbhrTG5a3YoNIAyODVKCwZw3Pe-EcO0FLUJYwOh-uShhlBwo7o",
+          "widthPx": 890,
+          "heightPx": 430,
+          "authorAttributions": [
+            {
+              "displayName": "Restaurant Solutions NYC",
+              "uri": "https://maps.google.com/maps/contrib/113074081238727045923",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4zgiecDjtgcM2Vuuqbhk6hBSVLUYolscCeHQe8v9-8PE7thU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6tPyrDQ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6tPyrDQ!2e10!4m2!3m1!1s0x89c2f345f734a807:0x53363bf55a446345"
+        },
+        {
+          "name": "places/ChIJB6g090XzwokRRWNEWvU7NlM/photos/AVoNoXR5tCDb-3CfRIJt5BY_x5XyVaZYTTH5oTaGmIP_4H_IvuYSvzTd--B7aRewgQqiuK4-bjv_V6zKzYSXWuCqJnqDFuK1qA6BpPyOwMLv-_-SmZJqfKxd0Z6QpXYcyZqSDkMDEEtDkfwByr2qhQtuYbdEr1hiA7M37e-RDHE35T1O-bihrHfcictgFk_dkp-yKArhVuXf7EHiiaCpNCJhcHUAASH3S3ocN87YIATYBXf-3mGC5MQG2m4Rd56w2bgogesI1Zzr7F7sV8Y79TR2b7iLk4wZFPlm5JVrudPKGb2_ES3QuHFEi7zYkSUg-u4LjOKDpYsVBiOdu20guHdESp_js3xNz8v5JcIw-jYjs57MCSNyJmqmEoazmDz2TCdtPr2y552F9IMCGVTKbQkIUP1D6uk",
+          "widthPx": 1000,
+          "heightPx": 1000,
+          "authorAttributions": [
+            {
+              "displayName": "Restaurant Solutions NYC",
+              "uri": "https://maps.google.com/maps/contrib/113074081238727045923",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4zgiecDjtgcM2Vuuqbhk6hBSVLUYolscCeHQe8v9-8PE7thU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi49_KJQ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi49_KJQ!2e10!4m2!3m1!1s0x89c2f345f734a807:0x53363bf55a446345"
+        },
+        {
+          "name": "places/ChIJB6g090XzwokRRWNEWvU7NlM/photos/AVoNoXQ2lZn3BtmAW0yuiUPRId5EkRClcSQTUEiHfK0NroMPqKlVFIQjbYjLoob_FckLoRchm_oNrvz-Oz46IdZkG3n_w48CJ22Nxqxj_QAWAkXgYNIjMkjv3qVrdlV-VdWHcGVu5y1MFHDwj7J0QNYuZUA5OcpSNUGEYZK3n_iGt99Uh_6myoDKCXlX4_Pi3sFtuovIBpQhLzZAi9MA6N0TzV82HIw0oRWoKk-BCgQL09VXgbMupI9C71Wcxo6y4m-86r6ngZfLEAESz0BkdoOqaa-vmuBLAtr93Cr3ssQBE_YnWgcB4LoZmoh-qi9wt5slOtVUbL2OuYeaDesA5KF7FVvEniCcWrkQ55U_3lAQu7d-k8bdxijXd3Y_PZuVyRuFoOKaL5NgNr3mq46Gci1y34X4vJ46b_k",
+          "widthPx": 3024,
+          "heightPx": 3025,
+          "authorAttributions": [
+            {
+              "displayName": "Restaurant Solutions NYC",
+              "uri": "https://maps.google.com/maps/contrib/113074081238727045923",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4zgiecDjtgcM2Vuuqbhk6hBSVLUYolscCeHQe8v9-8PE7thU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICW3a_pvAE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICW3a_pvAE!2e10!4m2!3m1!1s0x89c2f345f734a807:0x53363bf55a446345"
+        },
+        {
+          "name": "places/ChIJB6g090XzwokRRWNEWvU7NlM/photos/AVoNoXSb89_12AmqgTNh0MWmWX_6kTRrtazv3qkH9vrNHQwvej6CXWBVJ4ogs4987nStV0l8adlZ5gd42QReJcMybO3ih67I8rD_H1YP4NDJcdzhAA5ViXxgDId_-wMhaLqIETQ-sitGaBO5XUeJo5ViW2ge0aZwNKPrQ8ERnDDKLWjyPMlZNmPe1SI3bb31NXhfd6Yh8QL1sgVOwMv3ud1w1TjNbr6XLvlfUKpqoF9MpEKkA9aHZr7nxC91siqx378AMTATVTW3HgfrxXgdoHfkqWPo9mUoj5Ag-GrdbQ--tGWjovDQngWvM8vOY7QX7bUhnM2gJbQGqNTsJIXcug76JkkZVesWW1moLm_mcOvxL1drXkGBMnJ3FhiL_kNv3tQMPsXREpPdUl2c1AH6trfLP_86chHT",
+          "widthPx": 3025,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Restaurant Solutions NYC",
+              "uri": "https://maps.google.com/maps/contrib/113074081238727045923",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4zgiecDjtgcM2Vuuqbhk6hBSVLUYolscCeHQe8v9-8PE7thU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi49_X3wE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi49_X3wE!2e10!4m2!3m1!1s0x89c2f345f734a807:0x53363bf55a446345"
+        },
+        {
+          "name": "places/ChIJB6g090XzwokRRWNEWvU7NlM/photos/AVoNoXTCRm-Ytesr-a4KJH_G4rcwkbEG0M44QFeOh1mpGNoJhGWi95DWDz_SoFW9kDC4ckSddrWHhLQuB56t62RZNn-o3ncbx5PiD7N_fYNGPQLfNb3qAdlyem00SDe8ptGxYSMIYuwvP_3ckNlVao-pSopBFMNvL5Gb_gvUe6iPOrYPr5XyRL1nG0SMK9mLKjNtcx4zIrhZq3J2Eh_cwx0ag0MR4scr8mcX3elOYV7F_oqbrdfHU54qvQ37jz-Upr-ZclzpW3Hd4b_Tg7zCgj4kDKDfTa0OlJFf6puDl4YWJ7gjYbeibTIaCygdTu4bRypymR6xUuFC4q52VQyqTyprda1CgyWwaMZ1UNUm9e6_c05wN4CT0zH9ktj8-BOWLOHRfuLKCiVvWq2gPclYyM1Cg6RH1ySMKk4",
+          "widthPx": 1170,
+          "heightPx": 1170,
+          "authorAttributions": [
+            {
+              "displayName": "Restaurant Solutions NYC",
+              "uri": "https://maps.google.com/maps/contrib/113074081238727045923",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4zgiecDjtgcM2Vuuqbhk6hBSVLUYolscCeHQe8v9-8PE7thU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID2heXv4wE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID2heXv4wE!2e10!4m2!3m1!1s0x89c2f345f734a807:0x53363bf55a446345"
+        },
+        {
+          "name": "places/ChIJB6g090XzwokRRWNEWvU7NlM/photos/AVoNoXSgNe0wD7MMitTHyzD9Y4-INdp5U2v09AU4Z3R0xGf2XOtVMHgi38NqNdCdna8Kq1WddZL6MphJ-eoOjs7vrWo7mUr93iMOY4nvxRV7PjYEzU6QlJSxqYr-oJygJhYTt2m1b71oCt8vjAtHSGY-dolDrzSUR7CJUeQG2p0etXbxJPQVm6cFB88O_V063SP8MFCjItefcep6A5IWjqwU6SDrModh-p8tJijSIdhE3-XbdxV1rWW4MuGTZ-NtduHjqx8Btj9jb3_s9heY00DWBajLdkbFQh3iVce5bTyVckoHYNBAWmS0IjN7oUSnZkfneKwbuVae1Na0n5JUHi3BYfuw5Ivz_qt4rom-k7IEIC7CeF48OKqN3S3z1UW16QnnNcUARqoNwBnWL2In5talBQ6RYpC_Sjk",
+          "widthPx": 1000,
+          "heightPx": 800,
+          "authorAttributions": [
+            {
+              "displayName": "Restaurant Solutions NYC",
+              "uri": "https://maps.google.com/maps/contrib/113074081238727045923",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4zgiecDjtgcM2Vuuqbhk6hBSVLUYolscCeHQe8v9-8PE7thU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi49-4lAE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi49-4lAE!2e10!4m2!3m1!1s0x89c2f345f734a807:0x53363bf55a446345"
+        },
+        {
+          "name": "places/ChIJB6g090XzwokRRWNEWvU7NlM/photos/AVoNoXQt2hKdZVHG2EyjLKBnqb28Dg_F3m6P8uV_vORNA2eukHBV8ZCDVhX5OfiPnk4v3Z9p3-o8FfvMDO_8wVWnmSuqOLbjtPEjcCjZVVWodGm5WHXwl7VeL3lkpDt6oZZBjqh-jolT3QqE8jqlBcQejGj5i1_Tb7YA9mdZzgXAvFr5MM0qTbF5RjUZWtlhnFsi_AeVZfebb4fBxXFUxfenc5N69OaeSdVYjLHSrPyyVZ_wndvuzyP5K8pe72oA8_jVFb6b8ZbtgKAotHyYH4vAi11327DP2EimzWSxJwV7ZRTOcdAujYjtQleM66qHav7lzUFJfDLy66cJ4KdS-83TSjryk0ROjEeF2_YsTHt-2VXs6GAjXNuCKJr6AxvRj1966HFrTYJqJKqV47l39o4FYREQbcfC09o",
+          "widthPx": 1000,
+          "heightPx": 1000,
+          "authorAttributions": [
+            {
+              "displayName": "Restaurant Solutions NYC",
+              "uri": "https://maps.google.com/maps/contrib/113074081238727045923",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4zgiecDjtgcM2Vuuqbhk6hBSVLUYolscCeHQe8v9-8PE7thU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi49_e1gE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi49_e1gE!2e10!4m2!3m1!1s0x89c2f345f734a807:0x53363bf55a446345"
+        },
+        {
+          "name": "places/ChIJB6g090XzwokRRWNEWvU7NlM/photos/AVoNoXSiSL77GAqbzcg06t2iGiOzvYNiLrie22Nv7BbM-I9xgHO5BxqeHf0bfsHMPsy9Ky9IiVFhf3G806oAL1iME6xfc3kVwxVZT8kOkd-Mxt1_t0otiG55F8vDYDNNOt3ZAHEztS7lntVxLLltO4ym5KiVKcMJyjfbHdWf0wJEpPTqjY0ak_34SqK-Lv8BfKZyTkNvPcGwVy4XE5nPjyd6-ON3nvwA-dR5V_2nUtklYMt4ocp-ONvIbVbUuF8DnGxcGcSAAYx197xs3CrZF9_Xc-unA2lFMLewWFIZNmNie2nXARiWGgvkV4XO_lPNvDprGuRhOYpUufWd31a-81KqZsAd0PFQ8yVeDDwICuMOOxv1fT55cCDW5p45p8z8cDiG49h7EiJys9g0julTXInyBIrlP54ZLmA",
+          "widthPx": 4675,
+          "heightPx": 4800,
+          "authorAttributions": [
+            {
+              "displayName": "Restaurant Solutions NYC",
+              "uri": "https://maps.google.com/maps/contrib/113074081238727045923",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4zgiecDjtgcM2Vuuqbhk6hBSVLUYolscCeHQe8v9-8PE7thU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi49-FxgE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi49-FxgE!2e10!4m2!3m1!1s0x89c2f345f734a807:0x53363bf55a446345"
+        },
+        {
+          "name": "places/ChIJB6g090XzwokRRWNEWvU7NlM/photos/AVoNoXSHHHu1K0L5f7IQ5RJ92fAMsjpFO5LOdsQ_yf5NXi7TiHf8PHVILoLK6YRby71kEM1bGVJaNNEyU_VQOEzZik8aLYrceM2Q17G0B4hfKIj32KEpmm2_DrR86PTLCexlwwR21BDA-hOgrj3gBXQPo3Hgn-ciKHRSlz8I6T_pF0TJNqjxk6UQWWJFdAABZTptSvmk0DzhU1O1MzyLrGt4D5G0Mdj-jTzEKI7qGu1tDQ731BR2InZVS8LMXuEMsn0uNwf_Yp_URgvZS9_BCkEvk4P_UlUeASxHuOIpjxuKYKKb9pLDgZrnnbUaxO8GTTioG22hQR0oFyKUilTqMMv4Oi_Uvb6PQuijgjWfZk8FKIYKRhZ9gyVUUw-9z3fJLYQgNR6whCkvWM8kfhbsyNxJf8_BuF5gECM",
+          "widthPx": 1000,
+          "heightPx": 800,
+          "authorAttributions": [
+            {
+              "displayName": "Restaurant Solutions NYC",
+              "uri": "https://maps.google.com/maps/contrib/113074081238727045923",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4zgiecDjtgcM2Vuuqbhk6hBSVLUYolscCeHQe8v9-8PE7thU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi49_E-QE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi49_E-QE!2e10!4m2!3m1!1s0x89c2f345f734a807:0x53363bf55a446345"
+        },
+        {
+          "name": "places/ChIJB6g090XzwokRRWNEWvU7NlM/photos/AVoNoXScyjig94LzIHtDweYFQo2x1cgSyOibFR-C0xY-oCucD7pCRvvrIxVtMPZ5qg34ZSPz7NZ_N1a1hPdNLttG5OIHk9mpF4uFp2NC-f49PW1_sV_xa-s66LoHeBWdnVnktHPLFhYxVeda1up8Xdyj1yl-U3fd6CKFQe39baR5ljGhaQbNepCSPkuieaPBmzoITNLxuEc2zISybhWdqxkW0Xfwzkur8tRGfnH2Xn8sJjHctM3kQ9n28jdCHXMkIi0k7Of5jdS0Qp_lli4ETofQULLTWB1iPY_-UblR63XhZSSPVjsIKE1QzaA08uQOs4ZU_HRhwvuJtgjYunENdEYSKIY4WfMFKXpIsoRBz3QeTmA8AXiWiuWQUj07htCgMZD_TFJTFrwcXxkzAItoPWIpc0paRA",
+          "widthPx": 1170,
+          "heightPx": 1170,
+          "authorAttributions": [
+            {
+              "displayName": "Restaurant Solutions NYC",
+              "uri": "https://maps.google.com/maps/contrib/113074081238727045923",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4zgiecDjtgcM2Vuuqbhk6hBSVLUYolscCeHQe8v9-8PE7thU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICW3c_HIA&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICW3c_HIA!2e10!4m2!3m1!1s0x89c2f345f734a807:0x53363bf55a446345"
+        }
+      ]
+    },
+    {
+      "id": "ChIJdfr7ZpONwokRrNFtRHLyoUE",
+      "types": [
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(315) 809-0337",
+      "internationalPhoneNumber": "+1 315-809-0337",
+      "formattedAddress": "1579 Rhinelander Ave #6v, Bronx, NY 10461, USA",
+      "addressComponents": [
+        {
+          "longText": "6v",
+          "shortText": "6v",
+          "types": [
+            "subpremise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "1579",
+          "shortText": "1579",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Rhinelander Avenue",
+          "shortText": "Rhinelander Ave",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Morris Park",
+          "shortText": "Morris Park",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "The Bronx",
+          "shortText": "Bronx",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bronx County",
+          "shortText": "Bronx County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10461",
+          "shortText": "10461",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.855935699999996,
+        "longitude": -73.8412128
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=4729327656303972780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.v1technologies.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-09-23T13:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Website & Mobile App Designers - V1 Technologies",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJdfr7ZpONwokRrNFtRHLyoUE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZMk11eElnEAE",
+          "relativePublishTimeDescription": "7 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I con tract of this group to do with iPhone and android app.\n\nI was extremely pleased, they met every deadline. We\u2019re helpful and willing to make changes as we have developed. Finished product function exactly as I wished it was done very professionally.\n\nI would highly recommend them for this type of work. Cost was reasonable and work was excellent.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I con tract of this group to do with iPhone and android app.\n\nI was extremely pleased, they met every deadline. We\u2019re helpful and willing to make changes as we have developed. Finished product function exactly as I wished it was done very professionally.\n\nI would highly recommend them for this type of work. Cost was reasonable and work was excellent.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ken Morgan",
+            "uri": "https://www.google.com/maps/contrib/106912172048096158882/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVgjGV8g9N8YDQ6K1SW55e47wqcg5RtdRwgFwv-i2RSiDAcBoN1=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2019-04-01T16:45:04.705932Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNZMk11eElnEAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNZMk11eElnEAE!2m1!1s0x89c28d9366fbfa75:0x41a1f272446dd1ac"
+        },
+        {
+          "name": "places/ChIJdfr7ZpONwokRrNFtRHLyoUE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZbU4tNTRBRRAB",
+          "relativePublishTimeDescription": "7 years ago",
+          "rating": 5,
+          "text": {
+            "text": "One stop solution to all apps, website , maintenance and marketing",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One stop solution to all apps, website , maintenance and marketing",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ritesh Aggarwal",
+            "uri": "https://www.google.com/maps/contrib/106996133576345794143/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgrfebHlSXS8QTL4Cce0hsRv2Y4jFfcjf04-P4fuj41jOTtnMw=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2019-04-01T11:03:53.080821Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNZbU4tNTRBRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNZbU4tNTRBRRAB!2m1!1s0x89c28d9366fbfa75:0x41a1f272446dd1ac"
+        },
+        {
+          "name": "places/ChIJdfr7ZpONwokRrNFtRHLyoUE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNDeV8zNW9nRRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Cristina Morales",
+            "uri": "https://www.google.com/maps/contrib/115500206024572528286/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7br_hVMD-x0PsjLXRWdB7V0ej51GBOa2vUigdgbLIzj1YIg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-09-03T16:10:10.254299Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNDeV8zNW9nRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNDeV8zNW9nRRAB!2m1!1s0x89c28d9366fbfa75:0x41a1f272446dd1ac"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJdfr7ZpONwokRrNFtRHLyoUE/photos/AVoNoXSM_M3mZBAYoov8r9w3uvYCtYQG6dnpFeYqspkoM-QZ4nRItRz_0E76roqIVgNx39t5WZcI3Clcbj6f4WIpyOxQsAvAsFG6NL7MOIBEF5VoDn2FHJ5mtu46cZCK9lu6M0boLRb83A8R8uz1pOAG9ik-IeqO9vIo0HAdDZPtYw9OTVkLSNF5fr1E2L4_9iGR4X_cZiPLvPgtGMst-6nMauTkcM4Zt7zTq8RxNT1GZCLqsPOY5uykERL9hAWFZ1PVn1_22KyPwdV6VPTrIwp7Yfif-L4C9C_ULzEPY5F_XaV7GCLrUWeO-54ud-DSh7g-ep0goH4wzYX4vJdYbpsHUOl3qT7mcpjxkl-s0aFgwSvdYpdZue7DLwAtFEDsdXlriOAWNReHpZmbhZr8K8q_3kzVH55Kd-hU_xL8fKMOiSDroyPY",
+          "widthPx": 940,
+          "heightPx": 788,
+          "authorAttributions": [
+            {
+              "displayName": "Website & Mobile App Designers - V1 Technologies",
+              "uri": "https://maps.google.com/maps/contrib/101478660326086790007",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8rwyasfazHbnZ2zCw3TH1I8GveEW3i3tSYTjAZ_t562g4xw=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8rryZowE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8rryZowE!2e10!4m2!3m1!1s0x89c28d9366fbfa75:0x41a1f272446dd1ac"
+        },
+        {
+          "name": "places/ChIJdfr7ZpONwokRrNFtRHLyoUE/photos/AVoNoXReAgnpD5EuZwcu0lxrMVzDvSDVy4Os1cDPvRiGTD2rE6zMKa0wnU_WY9H7b2If6PL7HdKqNwhMWAzjbZLk7YTjIYJE-7rFCvSXnMOiWNHrMjukMzaAwyKzNYpMFjfKNKW-IoLD5dSOeBZwHWGRrozuJMsJA9Bltuaz_1M__3hU0KfslYCGuuqNRaqk_gfBfPKGvQC_Ci_MV1tUkZEsxC6unmZEaEGZaOywB4qZlr9LzhrZkT9iBMvlo3yV62BTwiikugfhgYoQNz31aVygbtlBvSY_pw1Tzr7dGmcRwk27XWzCjiWGSOZMljB0pexf4PiIxrdNbJ2_R9G8-rjpbT2Qgxn8AAlhKJvwqA9UsZKNDp_lUQ3UGPSiHwT2ctBAOWIYwffAmZl98CRZl4mpgL177Z89l9VX-_O-cN5Ft6k",
+          "widthPx": 600,
+          "heightPx": 500,
+          "authorAttributions": [
+            {
+              "displayName": "Website & Mobile App Designers - V1 Technologies",
+              "uri": "https://maps.google.com/maps/contrib/101478660326086790007",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8rwyasfazHbnZ2zCw3TH1I8GveEW3i3tSYTjAZ_t562g4xw=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8rryZeQ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8rryZeQ!2e10!4m2!3m1!1s0x89c28d9366fbfa75:0x41a1f272446dd1ac"
+        },
+        {
+          "name": "places/ChIJdfr7ZpONwokRrNFtRHLyoUE/photos/AVoNoXR2NjAuERjFL7r1eBZ2u9mcGFp8_Ybjo5qbqBU7bOys5hNBgE6U6tZBI8iwTWNNYTh0ahrmAdOFz5PwDy9EekMfMET1wOHfZ4uEncdn7bigf0PBugvyGnLXcy4yuc3SszCJmktzFKR0x92RIIF4z5-xPIz49Bey0dVTCUZClLAyDKh8YQREDCnnIgzP0OXoLDZYS4hRLwUmrSp8iTfl6u-DijPLXHlDmVd_UQUxaSX2uiHlqc4PdOsrOAUXXircnMakUSFrfqFO8_64dKn4lYfKykqorxxZF2tKx0GhLN6YIpTdfXx_aN4d8Pl0W5EzffNyAmzU-jX-czLZg9eHBff5V_LkkRkaVZ2j-NicXbjoVPwSTTwPZwyB6DC7J6bg4VwZGys0NICAXa454v0TXRO91GJt5WivxMkS4rZ09UIq2xCM",
+          "widthPx": 600,
+          "heightPx": 600,
+          "authorAttributions": [
+            {
+              "displayName": "Website & Mobile App Designers - V1 Technologies",
+              "uri": "https://maps.google.com/maps/contrib/101478660326086790007",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8rwyasfazHbnZ2zCw3TH1I8GveEW3i3tSYTjAZ_t562g4xw=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8rryZuQE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8rryZuQE!2e10!4m2!3m1!1s0x89c28d9366fbfa75:0x41a1f272446dd1ac"
+        },
+        {
+          "name": "places/ChIJdfr7ZpONwokRrNFtRHLyoUE/photos/AVoNoXQdY6KgEczX1TTVb1OuobnKzFyMdIS-pRtPuWsJymyP694TqxnyIoSnauyfDrgR2yuPW68B-d2PM_V6GxDlo_DvNJT0_eo6-g0AD7Us3RC4MHPbR03vo24K2U_z4VoZBv3rNyEV0fnMld4imsCpefw63F_h4IAKL0jxpeKIcnuod5gfVgZ1uhvpUDgPasBROR8QiBSbPsXR4t9oLCRgyMw4esuhzw8qclsHhddC6z1LJkxA6pfkCb5Wujr7CSmDos-N1sXHPfIRAf34BiaXuoubfAdbHRABw7xtJVewN8q4rbWRucCuXsF90pfXrBFSMQz2sWBJMCN3tqzTylDy22qf7qlO4kGmk_yrDfkdJXC_g9hAyspgh7iiONECojsol_mv6MAoEhWYs1tAORbjZXvkRUsmk5fhh20DjfuQBephsw",
+          "widthPx": 600,
+          "heightPx": 500,
+          "authorAttributions": [
+            {
+              "displayName": "Website & Mobile App Designers - V1 Technologies",
+              "uri": "https://maps.google.com/maps/contrib/101478660326086790007",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8rwyasfazHbnZ2zCw3TH1I8GveEW3i3tSYTjAZ_t562g4xw=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8rryZYw&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8rryZYw!2e10!4m2!3m1!1s0x89c28d9366fbfa75:0x41a1f272446dd1ac"
+        },
+        {
+          "name": "places/ChIJdfr7ZpONwokRrNFtRHLyoUE/photos/AVoNoXQ9LiyHJk5yC75ubck6oZtyqB03BNm7mVLCfhVMTxu9-qji4vVqXrq5zvtgRGnbTo4ExhD4KXVaO2cmV8EswDzIPCY4edNdYaG64qPxcKIct8RA2o_GrOekwJDmGmF5xQUdJrbtw_7oKkrFyymqeGp2BKcrUsA5S2YHiNFwdc9oNt4bypWw532hVfw-c1760gMNSkazr1oQ4z5JW3YHm2u1Oh9HDkUC9GWsCKfGA9-yoBzwrofTpALaNXT37DzJCR2G4qaKIPni-5DyLCBS2nuIAUgPq34gkOm9Fc33Ni0bnm1nG_Nxt4BRQ7yy8xXlYZVZUytOuoAdqDMvnI-KAtG0LHBHtIk9ik6vGV2htzVHS0AyRA3F3reZ64yg6MVX3_EJWjLQ8ghwHllSkDNwCkIRaQ-_YjUKyXAmDJunbDQb1Q",
+          "widthPx": 600,
+          "heightPx": 500,
+          "authorAttributions": [
+            {
+              "displayName": "Website & Mobile App Designers - V1 Technologies",
+              "uri": "https://maps.google.com/maps/contrib/101478660326086790007",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8rwyasfazHbnZ2zCw3TH1I8GveEW3i3tSYTjAZ_t562g4xw=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8rryZOQ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8rryZOQ!2e10!4m2!3m1!1s0x89c28d9366fbfa75:0x41a1f272446dd1ac"
+        },
+        {
+          "name": "places/ChIJdfr7ZpONwokRrNFtRHLyoUE/photos/AVoNoXQOYnNYpU5B2zgNEk8V43xAs2uyFMSHDV8nQ-7f_m8lPTEtTPgMAXL-ZOYGOSlCmh9klySRBwHrbNFH7pasM5_j1mI7haM94NKbROaUDtOjwf2NBg5sNFlz9CoxZ_Aj1WrrZrn_9WDLJAk8ypkEyvOMCW3v4FXiH0ThOpzodbWsNZMSkOq3FjvgfH9nk86qxUNsNkeYzt9nd6hBvG0jpoIhr50X111jdUsiVHAsefx58S5d0FDbdmp1hmNMG_L-AjSJKluPLl0jgYEBEG1_SqPBCCGCFr4JdeyuYo53hGoO_kd-d7JtiMav8CjHbfc_E_JfGPlNCduj1czNpzt9kbTiDOD9TgaFV3G-FAm2_k0TOVMVtrCNNv4Q6OVNiNjoVhl_4jLf_2_oS2Oa6SDtOKu80Yor328yYrt91ORU3Fu13w",
+          "widthPx": 400,
+          "heightPx": 300,
+          "authorAttributions": [
+            {
+              "displayName": "Website & Mobile App Designers - V1 Technologies",
+              "uri": "https://maps.google.com/maps/contrib/101478660326086790007",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8rwyasfazHbnZ2zCw3TH1I8GveEW3i3tSYTjAZ_t562g4xw=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8rryZJQ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8rryZJQ!2e10!4m2!3m1!1s0x89c28d9366fbfa75:0x41a1f272446dd1ac"
+        },
+        {
+          "name": "places/ChIJdfr7ZpONwokRrNFtRHLyoUE/photos/AVoNoXT0LYdVca1bSEVH0Z0pKI_v3WVzTyoWWYaiqTYAL6ed5me6ZHtgnCGXDYuQ6AORuu5VltWdjlz7nq2DykrT3bGbi2Id2OahM6kLgTp0JhCo86bykMlGhp7xufb_RM23Y1hBH0-pJ5pK-XbUQ_8Q4thmFB4bE72gTvGr-Gw1-g4_aGPr8MvulFNIA8ncRjocW4U46Y-LrBJmfBGDF8ixEf2o6AkzbGolvPajxuGph6-NL0yPj4Sf1E1RuYwZfPzq3f_9-bDTcU0fkLhBaA1PtWO4YIaVyh9MN3958EYMmRGXB_B3yU8emIA-Szl5AA4i0upW8MVL_eCfEo771jAtOKtxvJjpQ7Q0QBB5yF43vHlj7HmPkmqJHBnhZsjyftTNEa08yxSVm7r40j1QifT3gkKVP9fjZurRySXNkql1XBLFWg",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Website & Mobile App Designers - V1 Technologies",
+              "uri": "https://maps.google.com/maps/contrib/101478660326086790007",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8rwyasfazHbnZ2zCw3TH1I8GveEW3i3tSYTjAZ_t562g4xw=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8rryZEw&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8rryZEw!2e10!4m2!3m1!1s0x89c28d9366fbfa75:0x41a1f272446dd1ac"
+        },
+        {
+          "name": "places/ChIJdfr7ZpONwokRrNFtRHLyoUE/photos/AVoNoXRmXOpc5kfn9MDX8uAbb24hJncjkyR8R7WLbYHoPx8vGv1coPt-wccSt9mKC5Un7cbbcLjqlqa6-gxg0sahfYIpZjsVJXpudaIuuSESIymioMvGItMIAWjrD1GADGgMV9sJ5w3ZPvPExu_-irmBCNGOYSXl89PCslgpU9O7UDNOuX9aWLwtH6jhjiDSWuZZ-KZ6bWPdgsDBs8o-PvtjeQ3BjXdwKMGsb2XvoYMVgD-PNoZAjLJLHeerXpalcI3Gghln_CfGZXoj5JfqbC3yN1PvndmceCJq7Kgxtmsxoq4kBUNVSDTHq1hG1LHEWuvIebTYcGJ_iveYMgq00AEswzosjK7n8BFiYkXd-FC4s3LX0MRkVOptsJObIs7AN6gd4vtAk3SSpF5xOTJqfuKolnIOurIEqWhae3y17jQejytQWEEV",
+          "widthPx": 940,
+          "heightPx": 788,
+          "authorAttributions": [
+            {
+              "displayName": "Website & Mobile App Designers - V1 Technologies",
+              "uri": "https://maps.google.com/maps/contrib/101478660326086790007",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8rwyasfazHbnZ2zCw3TH1I8GveEW3i3tSYTjAZ_t562g4xw=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8rryZvgE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8rryZvgE!2e10!4m2!3m1!1s0x89c28d9366fbfa75:0x41a1f272446dd1ac"
+        },
+        {
+          "name": "places/ChIJdfr7ZpONwokRrNFtRHLyoUE/photos/AVoNoXQumpTTz4n2-yYT9Vy3todtoF5jzq-_R4fwxzjXUs1LddsaQjCQZWxzsWBsElOaFMKUegp97mnw3tHUyf70gbTTqUoWn794Kq7QpLtGwtQHol7n3lZQ_HvVIlJBWOGRliPosuaMjkv-Poo9KoHFttl4CCXQcLe0aVHjvLpyF8tnKUSUP80aLRvxSMNL-oBihceOlaTmzZV1VN8Kk9xly0Nh3bA1yTLUVbACJb3768YPdkIvrhMcLzeG7kMnZUNoS7xS6qQilI66UWALd0U6NJ-3bPqsdRYUb634H8NxXbIMVIg5vjxIKo98ofB4kYpbiwpI_vqq_B1MHaCf1jyoqOYEKWR3SHigM0cSqvj8eScSp94Vrljp5ajb9qW2Bpbyo5XP7f0TvjilBe3kJ_noirMovh6_dB-JbDC2R4EiPqXOlg",
+          "widthPx": 600,
+          "heightPx": 600,
+          "authorAttributions": [
+            {
+              "displayName": "Website & Mobile App Designers - V1 Technologies",
+              "uri": "https://maps.google.com/maps/contrib/101478660326086790007",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8rwyasfazHbnZ2zCw3TH1I8GveEW3i3tSYTjAZ_t562g4xw=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8rryZHg&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8rryZHg!2e10!4m2!3m1!1s0x89c28d9366fbfa75:0x41a1f272446dd1ac"
+        },
+        {
+          "name": "places/ChIJdfr7ZpONwokRrNFtRHLyoUE/photos/AVoNoXRIxGOPX_HTV4DK5VwGzhM2Po--XesHs3Nx4Id4NBZGz60wQDR-EwKr2pifBn7TRouGmEIW6WMvakQGfHaS-jTcGSJTVoAimpPLdLXnO-HXoIpf6FvQ3iudw3d_ZGGbV5i2P8CYJr9isUN_AQO_KAwO4smS3K5ccjR7xrKet720Skk_je3NyGzRFIK_m1_jbymoXVSAFjGGt_NEBC68K2aDH6csto9R0QbPCJfUuLG0QoMPwkZJpdekk3yr6-LHEfwXdjKMbamjTeD_WLmxHEmVVgD1Vfa71F3UVAB3LL_JRXCMzmqQv_g8PUKeBDyxvNUPjVtLJ5P2zNF81Refrdb-B2cttvv8vxeef5bur_6xo--alVsKuncHKQxG6iHPfGWdifj34O_ra1qx6x5QP5hLJ0sq6dFv-mFvfXhm5xpqOJjh",
+          "widthPx": 940,
+          "heightPx": 788,
+          "authorAttributions": [
+            {
+              "displayName": "Website & Mobile App Designers - V1 Technologies",
+              "uri": "https://maps.google.com/maps/contrib/101478660326086790007",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8rwyasfazHbnZ2zCw3TH1I8GveEW3i3tSYTjAZ_t562g4xw=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8rryZ4wE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8rryZ4wE!2e10!4m2!3m1!1s0x89c28d9366fbfa75:0x41a1f272446dd1ac"
+        }
+      ]
+    },
+    {
+      "id": "ChIJux_jbub1wokRSvfrfmVKewI",
+      "types": [
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(646) 236-4322",
+      "internationalPhoneNumber": "+1 646-236-4322",
+      "formattedAddress": "653 E 182nd St, Bronx, NY 10457, USA",
+      "addressComponents": [
+        {
+          "longText": "653",
+          "shortText": "653",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "East 182nd Street",
+          "shortText": "E 182nd St",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belmont",
+          "shortText": "Belmont",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "The Bronx",
+          "shortText": "Bronx",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bronx County",
+          "shortText": "Bronx County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10457",
+          "shortText": "10457",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.851501,
+        "longitude": -73.88821229999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=178818409992812362&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://maisontechnology.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Tuesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Wednesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-09-23T14:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "Maison Technology Inc",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJux_jbub1wokRSvfrfmVKewI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfcnJxeGdBRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "I had an amazing experience with this digital marketing services company. They truly understand the needs of their clients and provide exceptional strategies that drive results. Their team is professional, knowledgeable, and always ready to go the extra mile. Thanks to their efforts, my business has seen significant growth. Highly recommended to anyone looking to enhance their online presence and achieve real success!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I had an amazing experience with this digital marketing services company. They truly understand the needs of their clients and provide exceptional strategies that drive results. Their team is professional, knowledgeable, and always ready to go the extra mile. Thanks to their efforts, my business has seen significant growth. Highly recommended to anyone looking to enhance their online presence and achieve real success!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "MAHESH KUMAR",
+            "uri": "https://www.google.com/maps/contrib/112742182131658480325/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBT3MEE3TArZZxcZARj_qVQN5JGy1TJWSgpuzCu6nGgNEEMAwAiw=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2025-01-16T08:53:26.398409Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfcnJxeGdBRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfcnJxeGdBRRAB!2m1!1s0x89c2f5e66ee31fbb:0x27b4a657eebf74a"
+        },
+        {
+          "name": "places/ChIJux_jbub1wokRSvfrfmVKewI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSRmNUQkdiRzVmYkhwaFkwSjFaamMwUzNjM05IYxAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Luis De los santos",
+            "uri": "https://www.google.com/maps/contrib/105987672641504670494/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgs_riPDhkOmsM9RqCRC4D0hPanQWRovKbYrUwkBTE4wcI4A=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2026-07-21T20:49:55.525484806Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSRmNUQkdiRzVmYkhwaFkwSjFaamMwUzNjM05IYxAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSRmNUQkdiRzVmYkhwaFkwSjFaamMwUzNjM05IYxAB!2m1!1s0x89c2f5e66ee31fbb:0x27b4a657eebf74a"
+        },
+        {
+          "name": "places/ChIJux_jbub1wokRSvfrfmVKewI/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3Z2VhN2FBEAE",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "Luis De los santos",
+            "uri": "https://www.google.com/maps/contrib/110365992570111708253/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLx_hmdDc4bgmhyUULLNI0J8OKWxUocU3Z9uKmor5soNpmqkg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2025-03-26T08:28:18.841077Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3Z2VhN2FBEAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3Z2VhN2FBEAE!2m1!1s0x89c2f5e66ee31fbb:0x27b4a657eebf74a"
+        }
+      ]
+    },
+    {
+      "id": "ChIJKWzQEs3zwokR6iQjcWTmoUM",
+      "types": [
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(754) 666-3449",
+      "internationalPhoneNumber": "+1 754-666-3449",
+      "formattedAddress": "2974 Perry Ave, Bronx, NY 10458, USA",
+      "addressComponents": [
+        {
+          "longText": "2974",
+          "shortText": "2974",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Perry Avenue",
+          "shortText": "Perry Ave",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "West Bronx",
+          "shortText": "West Bronx",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "The Bronx",
+          "shortText": "Bronx",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bronx County",
+          "shortText": "Bronx County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10458",
+          "shortText": "10458",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "2107",
+          "shortText": "2107",
+          "types": [
+            "postal_code_suffix"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.8700471,
+        "longitude": -73.8838662
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=4873429590860834026&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://billionideas.co/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 17,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-09-23T13:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Billionideas Branding & Marketing",
+        "languageCode": "en"
+      },
+      "primaryType": "service"
+    },
+    {
+      "id": "ChIJlU6nvxXzwokRd1-81izP3Q0",
+      "types": [
+        "marketing_consultant",
+        "consultant",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "2550 Olinville Ave #3H, Bronx, NY 10467, USA",
+      "addressComponents": [
+        {
+          "longText": "3H",
+          "shortText": "3H",
+          "types": [
+            "subpremise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "2550",
+          "shortText": "2550",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Olinville Avenue",
+          "shortText": "Olinville Ave",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Allerton",
+          "shortText": "Allerton",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "The Bronx",
+          "shortText": "Bronx",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bronx County",
+          "shortText": "Bronx County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10467",
+          "shortText": "10467",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.86441500000001,
+        "longitude": -73.8680506
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=999182483834298231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 0,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Closed"
+        ],
+        "nextCloseTime": "2026-09-27T04:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "IWAVESMEDIA NYC Full Service Digital",
+        "languageCode": "en"
+      },
+      "primaryType": "service"
+    },
+    {
+      "id": "ChIJF7xu4dG0LGgRVBbZpZ4PdiY",
+      "types": [
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(929) 761-9180",
+      "internationalPhoneNumber": "+1 929-761-9180",
+      "formattedAddress": "600 E Fordham Rd, Bronx, NY 10458, USA",
+      "addressComponents": [
+        {
+          "longText": "600",
+          "shortText": "600",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "East Fordham Road",
+          "shortText": "E Fordham Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Belmont",
+          "shortText": "Belmont",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "The Bronx",
+          "shortText": "Bronx",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bronx County",
+          "shortText": "Bronx County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10458",
+          "shortText": "10458",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.858166399999995,
+        "longitude": -73.885167
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2771419794754836052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.bluekitemultimedia.com/english",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 18,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-09-23T13:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Blue Kite Multimedia",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "photos": [
+        {
+          "name": "places/ChIJF7xu4dG0LGgRVBbZpZ4PdiY/photos/AVoNoXQpkdcLBUKeNVkzeucxvcEXphELT5OA55Aa1z9NXvgM7OhaRhjRyU6bojxyZqkj2Kn8xoJg5uQwq11fy09Pfs7N0Nm84wFqEwGeWjEpIiN0pbp2fstRL6OboX5pqS0QqNCBuGD4Py2-G66hFBpKKNQRcXHfBTIxNQftQDfqSqPMK4kEEeFJnmgTrv2RrMA2HuncucK8IqrLfRzPITjqBkCNECIki5_7JJ7bU8crK3MBtgZhQOhvxKdUZxewS0dBsmYtDLPOGbrtTbJ1oM7_auKHBps06f0Jloq6d-1SsvAt6gXvLRpyVT9qiQfFJcku2K_arhXi-KsGGIPMPzYrb3J5pXmw3UE2JxYPsERvIZWv4T0FsGx8aIT3sxVMVAA1fSjGF3Vxwisq1dyiRn1FctaSr14ywIAYAQ82hVBHwCs",
+          "widthPx": 1725,
+          "heightPx": 2625,
+          "authorAttributions": [
+            {
+              "displayName": "Blue Kite Multimedia",
+              "uri": "https://maps.google.com/maps/contrib/109675179631548582100",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVstjCc3NVlVM6dPcAmHZ3RWcbWVtmPHLCZXKXdwzBBvvNKcJ4=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDn3JH0RQ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDn3JH0RQ!2e10!4m2!3m1!1s0x682cb4d1e16ebc17:0x26760f9ea5d91654"
+        },
+        {
+          "name": "places/ChIJF7xu4dG0LGgRVBbZpZ4PdiY/photos/AVoNoXT3rC05vgu1Z0MS2zu3pDM9Q1W2O-G-fy0izcLgNgTL7tdjPRDkFxzHTipzn0E1tTSzsbzcMqbziAXIoCyOZaBR8ZjkkBR5cEXaN0qQo6UMh7ZsaJ6l1GLbieInUMTJawIPBJdqFT3mrVzzkzv_Q_HBR3EkOMpkkxM6kxw3wZ8AcdmMcydkzxfUD29dkC7ECWv99c9fyleWU7qJ4eIFJSNb2NWP7hQ6j8C0TtG51OrOze-XKlXGhOyL9gt64VTEdZR2Kd-3vncCYP4x9SrNrzgtsaQNA2n5vb6_Z5Ef54gum7TL0fPIvwFjSyCMceV6VlCeE9zH3jyiPf3kEYV7zrbDIwX_PDvxopq6qLQHdG6eSdKjJuB3rcpXAFN0xZ2bDQbSb3MCwoQ6B83TLHE_xi0204HnwtntRcyl6m0uOseNKQ",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Blue Kite Multimedia",
+              "uri": "https://maps.google.com/maps/contrib/109675179631548582100",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVstjCc3NVlVM6dPcAmHZ3RWcbWVtmPHLCZXKXdwzBBvvNKcJ4=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID_4YX7TQ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_4YX7TQ!2e10!4m2!3m1!1s0x682cb4d1e16ebc17:0x26760f9ea5d91654"
+        },
+        {
+          "name": "places/ChIJF7xu4dG0LGgRVBbZpZ4PdiY/photos/AVoNoXQSOYxl3EMorICXBM62YtKATux_5QJrowVjW49V1HqtyAXQDPoPa-wAdSmA8854Yn6H1maUoSR2coXVqs47grYEvCO8Jj1SRIkcQC9eW4FmIB4iZqsmxnTtaxpz7Uo5keJqnr4eyP1VZfr8GI0yutmcAl43yxSxEDiQ4W2fsaHOh41S3EY4Mh6QFJLY4TIwUZprY-IAMXuGliwNjiiGFrUvmQz-YVVQBXgA5mV_-p3MUp_Qoa1RntDORTFWwPwERO-hh2UiW1olh8r2LzkBFscDLdhjzAnv7Z6VK0Uf-JdsLO-VNz9L0SjXhkDx6SkJw3TEN4F37JPnUXS06iH9ql9URDySD0gA-TJOE4GqIppvBiOV0jQ-uWPQQIg2umC4sxCtW10Ng_miLGHx96S_d5LM9Kfm5KWJ_r41h8Nr9IA",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Blue Kite Multimedia",
+              "uri": "https://maps.google.com/maps/contrib/109675179631548582100",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVstjCc3NVlVM6dPcAmHZ3RWcbWVtmPHLCZXKXdwzBBvvNKcJ4=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID_4fmsSA&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_4fmsSA!2e10!4m2!3m1!1s0x682cb4d1e16ebc17:0x26760f9ea5d91654"
+        },
+        {
+          "name": "places/ChIJF7xu4dG0LGgRVBbZpZ4PdiY/photos/AVoNoXTDR-EIMusckRxn8w1xC2uyOzJ8FzdrLWr_542cOkYbICaD8jCK_lnY7aXRCQj53CVfvgAez6VGwd5AjgMeGC6INxnEFGoHXkN2aaXir5dOq9I9oswcjsCA1M_2_9_C9ptLeli9yQWgzNGCjdHbIl2BIa6NpagDKV72EJnicnlhG8dMlGPtXNNCCRGiA_jZHJ2qJzKlozhMJLAEBjoGma1uL3FqjUNmhgLfhUThMiqtGUFiRZGv9_W4U4LurhyG_RFbTHQQh7my_s45i7P3fXGJgL02V40-8epuvnb3aGbkdHA15k3zvp9BGGV8Yy8sMcorPW-5WjFVs71lCysbyXtnaLkFn21eft3lHxHVgtmQFqTNbaWlag_kJDjAxjE-vcjw8anezKOTuYtEm-biCGuKV5tRnFo-hk9p10DfkNRxF2O3",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Blue Kite Multimedia",
+              "uri": "https://maps.google.com/maps/contrib/109675179631548582100",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVstjCc3NVlVM6dPcAmHZ3RWcbWVtmPHLCZXKXdwzBBvvNKcJ4=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID_4dnRxwE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_4dnRxwE!2e10!4m2!3m1!1s0x682cb4d1e16ebc17:0x26760f9ea5d91654"
+        },
+        {
+          "name": "places/ChIJF7xu4dG0LGgRVBbZpZ4PdiY/photos/AVoNoXQyAiLq954CuDBwiKyYaUnByZAWxVZnpEO66ws728rA_OyomqE3gyCzGdGED-iyiO-HosqbFoNYsapLf03fGAhGEprulllKUh2dohcVxuY8mDfTC8S86gIswYORIVFWZpLTVD52ZY-dPfVmq8f09rr0p2usLfxtKqrC5A48g2E3QNoofDoaMULsQXXC0ceqNKcJPHZjOB_GGdm6X1pVEhkB-87Zd7_Z5tYuIxnPsktTWxLizxY7fLsPlXtkXKBCcx-gncj7h3GHb2zRlC-bq9ri4d8Qy3ccw0TfExcCHLQeN9tO5PsA2isjEpQ5a-chztItQteT331FqAqzprHE4f4TRj_MpPMKiHtHG4ib9AvXLN6V6dFiwED-X2JTPQb3FOZtDRKTpCBnhEXSjaUz2S61p75QBAKwnLuel-boXrLx0opp",
+          "widthPx": 2304,
+          "heightPx": 4096,
+          "authorAttributions": [
+            {
+              "displayName": "Blue Kite Multimedia",
+              "uri": "https://maps.google.com/maps/contrib/109675179631548582100",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVstjCc3NVlVM6dPcAmHZ3RWcbWVtmPHLCZXKXdwzBBvvNKcJ4=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID_4fHUuAE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_4fHUuAE!2e10!4m2!3m1!1s0x682cb4d1e16ebc17:0x26760f9ea5d91654"
+        },
+        {
+          "name": "places/ChIJF7xu4dG0LGgRVBbZpZ4PdiY/photos/AVoNoXRP90NXdwFH6hqzD5BLSym9SEoh3oTiaJofdUHj2fU3btMssM4NsPjmBNBryre__IU0GbPffngMf8vpWDI5pJmcYrjmIdNkzOWey27iNrHMPQrAYopA3buRasmNyhCVYbu4fg5wWqaioqQNz76WF7yiT2Kqz7ooaFtRBmZ_Pbntx_ruqpsMq9xXzj7EXWDcHFUWTjmk3siyT_UD3ghnHdxUKbHNwtXXPos_1IyZmgMzqG9FiZPw0mDyGXz74tAmTaWAZboBkdxzA13uiF6ubylI4y_yeBcRlO1K92WfnS7PLi9ZT8wx5hDKrMCbvBH1IWllwVKSRvTfiDYRJO9hAl4FLEHgpKCZLjuD2QbcaipzPhbeKiUXPSc8zw2r8ZX7szqkXWGTK4HjuQDZymHBErBP9LuSWgdxRwdQ5eplV5kBm1F1",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Blue Kite Multimedia",
+              "uri": "https://maps.google.com/maps/contrib/109675179631548582100",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVstjCc3NVlVM6dPcAmHZ3RWcbWVtmPHLCZXKXdwzBBvvNKcJ4=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID_4YWknAE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_4YWknAE!2e10!4m2!3m1!1s0x682cb4d1e16ebc17:0x26760f9ea5d91654"
+        },
+        {
+          "name": "places/ChIJF7xu4dG0LGgRVBbZpZ4PdiY/photos/AVoNoXQpVesebVqEOEwwwUJ8rK82gnLpfFSecZSH3ZgzlsFVjATmlmDS7LRmDC_AoiCP9zyQocnl55hHxxKVvaR1-6qYa6b00QgLsiZiXWAdxRLeOsNTDRjlVCpTCJ5aamrtFP_Wv2hRn-oiT2UCd3nMQG8kUw84jRpYVRXG3MFslCNs2lFQzlQKD041nEOU6_7cvFnF9qv23BsU7yvEAM-bKbfaRmNwH3FG_le5s3x6Znk5_6V8rK9Ik-WzSREjUgfs3jwPFB6GPJkgSdQFvDK7teJ4DF944aqM4FiuzZh3juRMluxuniIwH-N2U1cFtn9D7TJEeL301zCOt0K7ZVKPpzkbm_dza3gQOqQqqTs9n2T6s1-4SIzV72q-IYz277w2U0sgW-eN9hy-FOX6V67X2gWpyRzMGgOowr6KrDxNItYDb32i",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Blue Kite Multimedia",
+              "uri": "https://maps.google.com/maps/contrib/109675179631548582100",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVstjCc3NVlVM6dPcAmHZ3RWcbWVtmPHLCZXKXdwzBBvvNKcJ4=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID_4Zmn0wE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_4Zmn0wE!2e10!4m2!3m1!1s0x682cb4d1e16ebc17:0x26760f9ea5d91654"
+        },
+        {
+          "name": "places/ChIJF7xu4dG0LGgRVBbZpZ4PdiY/photos/AVoNoXSztA3RySJZx86kuYxvGWP0M38r3b241xVyLmj1R64vPU43ExLuJi6DRluIOqSEAUHq9GCmbVr8twR2VijBIdRs1QDNLxer4kWZ1IaB3sjlTMbBCJ1fBuKvoUALEzUvgYMHRaMs9PtK2-2hjdCX7SuqpG5szJ_xrQd69-LnWKzHqD1iNImuLFB5kcO0HC06MqAnk_CgK6dB_4cBHy9YpgvfmU--bz5D3ak91UXpfLf5h4yXgr_vuzWBXjR9Fi79pSZISIauVPlZFkriebDhWBcBd-stOjISU4RPqBDJ5kr3PYNtiJdz1xedsFU9lKEvhwF-Dn6Lhb0l1v3jNqvNWViJGpArcK28E41Rnlqp7nnwC2M38erTkxAjbsS9zyu2qvkJjIwHxhuDqunmiD8CRR5BcokmDUL0K8D3J0NP2k4Moz44",
+          "widthPx": 4000,
+          "heightPx": 2250,
+          "authorAttributions": [
+            {
+              "displayName": "Blue Kite Multimedia",
+              "uri": "https://maps.google.com/maps/contrib/109675179631548582100",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVstjCc3NVlVM6dPcAmHZ3RWcbWVtmPHLCZXKXdwzBBvvNKcJ4=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID_4bmM9AE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_4bmM9AE!2e10!4m2!3m1!1s0x682cb4d1e16ebc17:0x26760f9ea5d91654"
+        },
+        {
+          "name": "places/ChIJF7xu4dG0LGgRVBbZpZ4PdiY/photos/AVoNoXSaUBsL0mmIkB3crZfYBwlmk6t6pyrCbI-F0_4YvrJ_DKad2As01YNUFAinYd1dkMFmhmc0dPnLJ7l3zITKk4kPSwseTdtSCVKCsX31JxJzUqO9hfo7miPf76tKKgYAtU-Heif0-VGP11ybJSzR6f_DP4Wp2_dBrHVjuXvAZHeOBlegW90yaspRUPNnXh0VZbDOYw0Dc-zMgYcLOz7M5wNc-9NBg1hbFXenzw1ga2CB_MNw-vMEmZ3EDVg0iSJVyGCC1WO102dR90IpDqZq02DPhHpPIZm3NAVSmWY84_j_8fMIUcOZkeucOoj5rJ4mr7jH3Ut4vyo-1t_h34bFXqxufytLzx211v7b76hi49SfabZusvFRgE_wv4MV31NIEQ7JK2VgKcfIdZ5IjN4R8QsLGaFBfc-svQpnyqViqlw",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Blue Kite Multimedia",
+              "uri": "https://maps.google.com/maps/contrib/109675179631548582100",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVstjCc3NVlVM6dPcAmHZ3RWcbWVtmPHLCZXKXdwzBBvvNKcJ4=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID_4aXHUQ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_4aXHUQ!2e10!4m2!3m1!1s0x682cb4d1e16ebc17:0x26760f9ea5d91654"
+        },
+        {
+          "name": "places/ChIJF7xu4dG0LGgRVBbZpZ4PdiY/photos/AVoNoXTxs-v1OzkjWNXcplUOKBP28MA5bnMWunFqK2NxDzN9CkvSNQaEwONcSozUmkXBSektTP15K6SRQJbMlZdoCa61fFX8whOAGCIpQwMN-k7n75hpvaNHgffITJn0BuanU_-8m6g5jycpXtTW7w3ljaLAgAqvHye2xITufMjMhJPEQOVc5OD9r-QZyjHM0ytm8BNXpU3O1a2hOVtGlWA_Z_AyWz8oUHkT4-9amSSDwRkHG2XFnyWE5tDKt8XOHUrPXduqP0nAKEBwrCxVqBGI2f4tuzOK8XkS786RPHG44ABcQY8MVznFJ22Nw4DwO100A2QfYeB9YK5tvs0qTFjCimjufDcD5kVFaimOW5X51Xt5sU8CCdvFAF1J-19KwsjGEH9iOVgesmi6kFMuuLBDhY2FWzUaGphoS7sjW8EGB6CSJxrl",
+          "widthPx": 4000,
+          "heightPx": 3000,
+          "authorAttributions": [
+            {
+              "displayName": "Blue Kite Multimedia",
+              "uri": "https://maps.google.com/maps/contrib/109675179631548582100",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVstjCc3NVlVM6dPcAmHZ3RWcbWVtmPHLCZXKXdwzBBvvNKcJ4=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID_4YWkpAE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_4YWkpAE!2e10!4m2!3m1!1s0x682cb4d1e16ebc17:0x26760f9ea5d91654"
+        }
+      ]
+    }
+  ],
+  "nextPageToken": "AVoNoXSCHtTQ9yJO1GtNbz45WqXRed-QKtWU1SuCQjRBW8k7wx2uDCase8Smy-9b8AcwCp1IjZFysecFZdqjn1exjML2c2e0UXs4bxEONvngrWDkST33wINFYcIyRZrYrkSpquZfWD5J_VoeFit-gNpthQIIPf8WSuP21wVqWKiZE1pRdwUavWTCu-RPbg_jLjYuciUqvlTt0ASBbHFqrwyDM6i_UL5Tz6WynrlDSTGVKm6_rsiGZsYsChfFciTioxyq8VIqF5BZlXIUj1zvGFK8B3CWvnP9tcsb9hDfYBsJUgVzne6Gzs_vFvRMB7_aXdC1bUBzj8X8sWm0BAuq_Q4MVc3YLLqlSi4DgGhgN_h4zoi8I9bap2ZhNKA5vkUOObRfu1kPi4r9LjCm9YtBK_32O_QX5ny6iKZzBk-EtwhPAXRBMCCnBZbP9-FYk_Kt-k3jnzOPJ8Vc1Yl9xeSJvsBtoqctso3AQdzXUO9600O9wjwzvVezItsyDFYU7wavHqDvL0Ecn4tk8NVtOV_afJF52m85LmHFyJXZi4uP1wZTyjZvgf--zd5W5llwguN10Ayg49II_wdNZAF1m9DbMDoDfREg2nTEDD4rz2SQaYnTq0uFPd9qkags2qDDlIYqmi-_pbu6f7mQa1FJUzuIYmVuksAxx2VRDLA1m6qk6DCWdtZqsjg-RFj-dZUZiz1UieRtn3RKUffo0UQHNLJyDYyAdGtMi1a0C6yGPAjWi6CttHj0gGpA55GryVOfZFnu206QT2PoYSysdaAKVS2F7cEfiILyJF2vDGcoEabT3z4084azC1esVXY3wk62eriaKADsrI44iyV2-0TWl_OqKuhB0Xi6IwFynaZLJye1rqt8FcPZv9M3zASQDL7F4yezRP6RD3b4xh87UfNoFse7q46tHLGM5lJcH5mAyOaTOTJz3RQ8LglSAJj8LGuLC45CY9kh3cxcD7qdJ1yUqGcymkorEIvn2g4DVy3ViFBnse1zlRUM3j7DQbaQ4MOSZgThuspxfU1boR-ffQog5KSwE6zWOcrMtwzXvj1D70vxttgea-0mP7KgM4Bj6j6TuKS4KcLyLhHwYie2IgMK0091D-bXbXyLKGQ8nXJVAa64lMGclTm2XbUDIX-d-ERDL_h_GnAJlHpe1r8WkygIVQxVpbdIV5_035jhfk4vOnSZCw7PTakFowAB8kmQNcU5qbXRW602lAyntEWgA7Ny3W4Sg0RP2kAi_nn2RVkOtT8gD05dXmxSUj-BdIJxQeqfpPAoM01e_1MVmj-2-jGZ_J-vTfkqZpVwYmKRBTydbr_5kalkn9BDyXxDAurGvL_SpUvrdFBbyXyDearqbXBEKNjC_9qj2N1vxWeeblL1GsKfhUMXe0FfXy2ThpB6NDbnGBf2blB1SBm87GQEer1bOJKF1uDzqzWwWluuuOGstQvVbKDhDbFpD_JJ5PcHd1Oz2PeNTH8ibXd_XO8jvx4U3oCTOgCn8IyMPREzI0SA07XlOo3dJqXvoakF6ctgTA3-O6tdlw3TTEGvJrrf_UJGigleTOO-RGgzXYGkqFkvpAbkXrOOvN1na3dWn5Hm5n-bnCPY9eUfuA3moCdBGtKrkdlnHKb3nEcZWfaBXaLGaciMLoY9a4CKc2oHofAO8OpWwdv6jU4X3IeZoNryqYRzTYb5LWZ13MVdfqdp_WnnyV6ildVbJW0M8Wr-HE6no6jaVHlDcl2Ej1d6SxrUu3uPWPgDC-3ZXMcwhaEaJQl43JaI9HmUVdfB"
+}

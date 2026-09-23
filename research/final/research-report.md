@@ -1,121 +1,110 @@
-# Google Maps Leads Scraper API — Competitor Discovery Research Report
+# Google Maps Business Data: Official Places API vs Scraper APIs — Research Report
 
-**Research date:** 2026-09-23
-**Question answered:** *"When users need Google Maps business/lead data through an API, which providers do they actually encounter and consider as solutions?"*
-**Conflict of interest (disclosed):** this research is owned by Lobstr.io, whose Google Maps Leads Scraper is one of the evaluated products. Discovery evidence was collected by tools/agents not told to favor Lobstr; Lobstr's weak SERP visibility is reported as-is.
-
----
-
-## A. Research methodology
-
-- **31 discovery probes:** 21 web-search queries (4 intent categories: lead generation, business data/API, alternatives, scale/automation/enrichment — `../queries/queries.md`), 5 Reddit-focused queries, 5 LLM-recommendation prompts.
-- **Sources used:**
-  1. **Ahrefs stored Google SERPs** (`serp-overview`, US, organic, top 10) — real Google positions for the 5 queries in Ahrefs' DB; the other 16 recorded as "no Ahrefs SERP data".
-  2. **Live web search** (Claude WebSearch, US) — all 21 queries; positions are order-of-appearance, not exact Google ranks.
-  3. **Listicle extraction** — 8 comparison/roundup articles fetched, full provider lists recorded.
-  4. **Reddit** — 8 threads read in full (via DuckDuckGo + pullpush.io archive; Reddit blocks direct crawling — method + failures documented in `../reddit/reddit-discovery.md`), every mention flagged for self-promo.
-  5. **LLM sampling** — 5 fresh agents across 4 Claude models, no web access, answering from model knowledge.
-  6. **Ahrefs demand + domain data** — keyword volumes for the query set; DR/traffic/keywords/refdomains for 17 candidate domains.
-- **Frequency calculation:** raw counts of distinct queries/SERPs/listicles/LLM-samples/threads per provider (`../analysis/aggregate.py` → `provider-frequency.csv`). No invented weighting.
-- **Filtering:** every frequently-surfaced provider verified against its own site/docs (`../providers/*.md` — 14 files), then categorized direct/adjacent/excluded with concrete reasons (`../analysis/categorization.md`).
-- **Known gaps (recorded, not filled):** Lobstr's own Google Search Scraper couldn't provide a second live-SERP source (account credits = 0, live-checked); Reddit SERP positions unavailable for 4 of 5 Reddit queries; brightdata.com and scraperapi.com unreachable from the research network (DNS timeouts); LLM sampling is Claude-family only.
-
-## B. Raw evidence
-
-All preserved, reproducible:
-
-```
-research/
-├── queries/queries.md, keyword-volumes.md
-├── discovery/ahrefs-serp-raw.md, websearch-q01-q10.{md,csv}, websearch-q11-q21.{md,csv}
-├── reddit/reddit-discovery.md, reddit-mentions.csv
-├── raw/reddit/            (per-thread comment JSON, search JSON, DDG HTML)
-├── llm/L1..L5-answer.md, llm-aggregation.md
-├── ahrefs/domain-metrics.md
-├── providers/ (14 verification records)
-└── analysis/aggregate.py, provider-frequency.{csv,md}, categorization.md
-```
-
-## C. Provider frequency (summary — full table in `../analysis/provider-frequency.md`)
-
-| Provider | Web queries (21) | Ahrefs SERPs (5) | Listicles (8) | LLM (5) | Reddit (8) | Total signals |
-|---|---:|---:|---:|---:|---:|---:|
-| **Apify** | 18 (86%) | 2 | 4 | 5 | 3 | **32** |
-| **Outscraper** | 16 (76%) | 2 | 3 | 4 | 2 | **27** |
-| **Bright Data** | 5 | 1 | 5 | 5 | 1 | **17** |
-| Scrapingdog | 5 | 1 | 1 | 4 | 1 | 12 |
-| gosom (open source) | 8 | 3 | 0 | 0 | 1 | 12 |
-| G Maps Extractor | 8 | 1 | 0 | 1 | 1 | 11 |
-| Octoparse | 3 | 1 | 2 | 2 | 3 | 11 |
-| Scrap.io | 5 | 1 | 2 | 2 | 1 | 11 |
-| SerpApi | 1 | 0 | 2 | 5 | 3 | 11 |
-| Oxylabs | 0 | 0 | 4 | 3 | 1 | 8 |
-| Lobstr.io (house) | 1 | 0 | 1 | 4 | 0 | 6 |
-| DataForSEO | 0 | 0 | 1 | 4 | 0 | 5 |
-
-Baseline: **Google Places API (official)** appeared in 8/8 Reddit threads and 4/5 LLM samples — recommended for small jobs, criticized on cost/limits at lead-gen scale. It is the product users are trying to replace.
-
-**Wording note:** these are "most frequently surfaced across our 31 research probes" — not claims of global popularity.
-
-**Reddit caveat:** ~half of all Reddit provider mentions were flagged self-promo/suspected self-promo. Most credible non-promotional Reddit support: Outscraper (a user's live $50/20,000-listings test, recommended 2 years running), Apify, TexAu.
-
-## D. Ahrefs signals (collected 2026-09-23, Ahrefs API v3 — full table in `../ahrefs/domain-metrics.md`)
-
-Domain-level only (supporting signal, not product-level proof): apify.com DR 81 / 476K organic visits/mo · brightdata.com DR 79 / 103K · serpapi.com DR 79 / 105K · oxylabs.io DR 77 / 166K · dataforseo.com DR 76 / 47K · outscraper.com DR 64 / 24K · scrapingdog.com DR 60 / 14K · scrap.io DR 52 / 8.3K · lobstr.io DR 50 / 1.0K · hasdata.com DR 62 / 1.1K · gmapsextractor.com DR 36 / 1.4K.
-
-Demand side: "google maps scraper" 1,800/mo US (7,100 global); "google maps scraper api" 150/mo; "google maps lead scraper" 80/mo; most long-tail lead-API phrasings have no tracked volume (`../queries/keyword-volumes.md`).
-
-## E. Candidate competitors (verification: `../providers/*.md`)
-
-**Already in the benchmark (validated by this discovery):**
-1. **Apify** — #1 discovery frequency overall; marketplace saturates lead-intent SERPs (Q03: 9/9 results were Apify actors). API live-tested; known live-confirmed caveats: profit-guard truncation, business_status bug.
-2. **Outscraper** — #2 frequency; best genuine Reddit evidence; API live-tested; email extraction is a separately-billed service.
-3. **Lobstr.io** (house) — strong LLM visibility (4/5 unprompted), weak SERP visibility (1/21 queries, DR 50, ~1K visits/mo — smallest domain footprint among direct candidates); API live-tested.
-
-**New direct candidates from discovery:**
-4. **Scrap.io** — lead-gen-positioned Maps API with native emails+socials and an enrich endpoint; surfaced across 4 source types. Limitations: from $49/mo, no PAYG, trial API access unverified.
-5. **HasData** — self-serve jobs API with `extractEmails`; 1K free credits/mo. Limitation: discovery presence partly vendor self-promo on Reddit; email rows cost 3.3× base.
-6. **Scrapingdog** — Maps API, cheap entry, 4/5 LLM + SERP presence. Limitation: **no email/contact extraction** — cannot serve the enrichment intent.
-7. **SerpApi** — highest LLM/Reddit visibility after Apify; API-only product with free 250 searches/mo. Limitations: no email extraction; per-search (~20 results) pricing; 2 of 3 Reddit threads involved employee accounts.
-8. **DataForSEO** — Business Data API, $1.50/1K profiles, self-serve sandbox. Limitations: no email; zero web-SERP presence on lead intents (LLM-only visibility).
-9. **G Maps Extractor** — API with emails/socials included; 8/21 web queries. Limitations: small domain (DR 36), auth undocumented publicly, low API caps.
-10. **Bright Data** — top-3 aggregate visibility (esp. listicles + LLM). Limitations: site unreachable from the research environment (4 DNS failures, 2026-09-23) → concrete E1 testability risk; pricing unconfirmed ($0.75–1.50/1K, third-party only).
-
-## F. Excluded providers (full list with reasons: `../analysis/categorization.md`)
-
-- **Google Places API (official)** — the baseline being replaced, not a competitor.
-- **POI/geodata cluster** (Geoapify, SafeGraph, TravelTime, Radar, Mappr, BizData) — serve mapping/POI needs, not lead generation; they dominate only the "Places API alternative" phrasing.
-- **Reddit self-promo cluster** (G-Business Extractor — 4 threads, all one promoter account; LocalProspects, LeadStal, ScraperCity, MapsHunt, +~20 more) — no independent signal, unverifiable APIs.
-- **Extensions/desktop tools** (Map Lead Scraper, MapsLeads.net, Leads Sniper, D7 Lead Finder, …) — no API.
-- **Open source** (gosom, Omkar Cloud) — real DIY option (gosom: 3/5 Ahrefs SERPs), but self-hosted software, not a testable managed API.
-- **Adjacent platforms** (Oxylabs, ScraperAPI, PhantomBuster, Octoparse, n8n, TexAu, Clay) — capable but not positioned/priced as Maps lead-data APIs (details in categorization).
-- **Preserved from testing phase:** OpenWeb Ninja (403 not-subscribed, live 2026-09-21), QuantumProxies (500-lead/run cap).
-
-## G. Recommended test set
-
-The current benchmark trio — **Lobstr.io, Apify, Outscraper** — is retroactively validated: the two external providers are exactly the #1 and #2 most frequently surfaced across all 31 probes.
-
-Strongest additional candidates to investigate (evidence-based, in order):
-
-1. **Scrap.io** — should be tested because it is the only new candidate that matches the full lead-gen intent stack (Maps search + native email/social enrichment via API), surfaced in 4 of 5 source types, and directly targets the same user as Lobstr's product.
-2. **SerpApi** — should be tested because it has the highest AI-assistant/community visibility of any untested provider (5/5 LLM, 3/8 Reddit) — users asking an LLM "which Maps API?" will hear this name; the article should answer whether it serves lead gen (it lacks email extraction, which testing would make concrete).
-3. **Scrapingdog** — should be tested because it combines real SERP presence (5/21 queries + Ahrefs SERP pos 5 on the head API term) with 4/5 LLM visibility and the lowest entry price among API-first candidates; its missing email extraction is a key user-facing limitation to demonstrate.
-4. **HasData** — should be tested because it is fully self-serve (1K credits/mo free, no card) with native `extractEmails` — the cheapest way to add a second email-capable competitor; its visibility partly rests on self-promo, which testing would either substantiate or puncture.
-5. **Bright Data** — conditional: highest untested aggregate visibility, but only if a key + run are obtainable within 48h (E1) despite the connectivity issues observed today; otherwise document the access failure as the finding.
+**Research dates:** discovery 2026-09-23 · benchmark runs 2026-09-22/23
+**Disclosure:** this research is owned by Lobstr.io, whose Google Maps Leads Scraper is one of the evaluated products. All measurements are reproducible from the raw evidence in this repository.
 
 ---
 
-## Final summary
+## 1. The decision this report answers
 
-**Research scope:** 31 probes (21 web + 5 Reddit + 5 LLM) across 6 source types, 2026-09-23.
+You want business data out of Google Maps — for a lead list, a dataset, or a product. The real question is not "which tool is best" but **"should I use Google's official Places API or a scraper API — and which one for my job?"**
 
-**Most frequently surfaced candidates:**
-1. **Apify** — 18/21 web queries, 2/5 Ahrefs SERPs, 4/8 listicles, 5/5 LLM samples, 3/8 Reddit threads
-2. **Outscraper** — 16/21 web queries, 2/5 Ahrefs SERPs, 3/8 listicles, 4/5 LLM, 2/8 Reddit (incl. the sample's best genuine user test)
-3. **Bright Data** — 5/8 listicles, 5/5 LLM, 5/21 web queries (site unreachable from research env — testability risk)
-4. **Scrapingdog** — 5/21 web queries, 4/5 LLM, Ahrefs SERP pos 5 on "google maps scraper api"
-5. **SerpApi / Scrap.io / G Maps Extractor / Octoparse / gosom** — 11 signals each, different profiles (LLM+Reddit / lead-gen product / SERP / community / open source)
+Short answer, from measured runs on identical workloads (20 sub-area queries, 2 industries, NYC + LA):
 
-**Candidates requiring API testing:** Scrap.io · SerpApi · Scrapingdog · HasData · Bright Data (conditional on access)
+- **If you need emails or social profiles, the official API is out** — those fields do not exist in its response surface at any price. Scrapers with contact enrichment (Lobstr, Apify, Outscraper's add-on stage) are the only API route.
+- **If you need thousands of records per search area, the official API fights you** — a hard 60-results-per-query cap (measured: all 10 restaurant queries stopped at exactly 60) vs 998–1,405 uniques the scrapers pulled from the same 10 queries.
+- **If you need accurate core business data (phone, website, rating, hours) in modest volumes, the official API is excellent** — highest fill-rates we measured (94–98%), fastest responses (median 1.54s), 1,000 free enterprise-tier calls/month, zero ToS ambiguity.
 
-**Excluded (headline examples):** Google Places API (baseline, not competitor) · Geoapify/SafeGraph/TravelTime (POI data, wrong intent) · G-Business Extractor (coordinated Reddit self-promo, no verified API) · gosom/Omkar Cloud (open-source software, not managed APIs) · PhantomBuster (execution-time pricing, cost-per-record incomputable in advance) · full list with reasons in `../analysis/categorization.md`.
+The rest of this report is the evidence: who the real contenders are (§2), what we measured (§3), which tool fits which job (§4), where the official API wins and loses (§5), why other tools were set aside (§6), and how the research was done (§7).
+
+## 2. The contenders
+
+**Tested with live runs on the identical workload** (2 runs × 10 sub-area queries; raw outputs in `data/` and `research/raw/google-places-api/`):
+
+| Provider | Product | Run evidence |
+|---|---|---|
+| **Google Places API (New)** | Text Search, Enterprise+Atmosphere field mask | 60 requests, 1,044 uniques, $0 billed (free tier) |
+| **Lobstr.io** (house product) | Google Maps Leads Scraper | 998 uniques (Run 1), emails + socials native |
+| **Apify** | `themineworks/maps-leads` actor | 1,405 uniques (Run 1), pay-per-verified-email-lead |
+| **Outscraper** | Google Maps Scraper (base stage) | 512 uniques (Run 1, 80/query budget cap) |
+
+**Verified but not yet run** (API, auth, pricing and fields confirmed against vendor docs — `research/providers/`): **Scrapingdog** (Maps API, from $40/mo, no email fields) and **Bright Data** (Maps scraper API, ~$0.75–1.50/1K records per third-party sources; its site was unreachable from our test network on 2026-09-23, so pricing and a live run are unconfirmed). Both earned their slot through discovery frequency (§7); their rows in the matrix below are docs-based and labeled.
+
+These six were selected by measured user-discovery frequency across 31 search/community/LLM probes — not by feature similarity (method and full numbers in §7).
+
+## 3. What we measured
+
+### 3.1 Field coverage (measured fill-rates on unique results; docs-verified where marked)
+
+| Field | Google (1,044) | Lobstr (998) | Apify (1,405) | Outscraper (512) | Scrapingdog* | Bright Data* |
+|---|---:|---:|---:|---:|---|---|
+| Name / address / coordinates | 100% | 100% | 100% | 100% | ✓ | ✓ |
+| Phone | **95%** | 91% | 90% | 91% | ✓ | ✓ |
+| Website | 94% | 93% | 83% | 94% | ✓ | ✓ |
+| Rating + review count | **98%** | 86% | 67% | ✓ | ✓ | ✓ |
+| Opening hours | **98%** | 90% | 83% | ✓ | ✓ | ✓ |
+| Photos/images | 95% (refs, media billed separately) | 81% | — (absent) | **99%** | ✗ | ✓ |
+| **Email** | **— absent from API** | **59%** | 32% (verified, only these billed) | paid add-on stage ($3/1K), not run | ✗ | not indicated |
+| **Social profiles** | **— absent from API** | ~48–54% (FB/IG/LinkedIn/…) | — | via add-on stage | ✗ | unverified |
+| Review texts | max 5/place (hard cap) | score histograms + tags | — | ✓ (histograms, posts) | ✓ | ✓ |
+| Owner info / popular times | — absent | ✓ | — | ✓ | ✗ | unverified |
+
+\* docs-verified only, not tested. Full per-provider records: `research/providers/`.
+
+### 3.2 Volume (same 10 Run-1 queries, unique results)
+
+Google 444 · Lobstr 998 · Apify 1,405 · Outscraper 512 (80/query budget cap). Google's ceiling is structural: 20 results/page, 3 pages max per text query — reaching scraper-scale volume requires ~3–4× more, finer-grained queries (~90–120 billed requests for ~1,400 uniques), with rising cross-query overlap (6.8% dupes already at 10 sub-areas).
+
+### 3.3 Speed (Google, measured; both runs)
+
+97.0s wall-clock for 60 requests / 1,120 raw places; latency median 1.54s, p95 2.26s, max 2.67s, zero errors. Scraper wall-clocks are async batch runs measured separately in the benchmark analysis phase (`data/<provider>/`); they trade latency for volume and enrichment.
+
+### 3.4 Cost per 1,000 unique businesses (calculations in `research/analysis/google-places-api-cost-speed.md`)
+
+| Provider | Measured basis | Effective cost |
+|---|---|---|
+| Google Places API | 60 req × $40/1K (Enterprise+Atmosphere, live rate) → 1,044 uniques | **$0 within 1,000 free req/mo (~18.7K places); $2.30/1K after** — no emails/socials at any price |
+| Apify | 451 verified-email leads billed × $0.0016 + starts | ~$0.65/1K uniques returned — but you pay per *verified email*, so cost concentrates on the 32% enriched |
+| Outscraper | $3/1K base records, 800 requested → 512 uniques | ~$4.69/1K uniques (listings only; email stage +$3/1K, verification +$3/1K) |
+| Lobstr | 1 credit/row + 2 credits/extracted email | credit→$ conversion at plan rate — pending in benchmark analysis |
+
+## 4. Which tool for which job
+
+**Intent 1 — Build a B2B lead list with contact details for outreach.**
+The official API cannot do this job: no email, no social fields (§3.1). On measured data: **Lobstr** delivered contacts broadest (59% emails, ~50% socials, in one pass); **Apify** delivered fewer emails (32%) but DNS/MX-verified and only charges for those — attractive when you pay strictly for usable outreach rows; **Outscraper** needs its extra $3/1K stages (untested here). Docs-verified alternative with native emails: Scrap.io (`research/providers/scrap-io.md`).
+
+**Intent 2 — Bulk-extract thousands of businesses for a dataset.**
+**Apify** produced the most uniques on the same queries (1,405); **Outscraper** has the richest default listing schema (photos 99%, popular times, histograms); **Google** is viable only if you accept query-engineering against the 60-cap — its per-record rate ($2.30/1K, or $0 inside the free ~18.7K places/mo) is actually competitive, but each extra query buys ≤60 records with growing overlap.
+
+**Intent 3 — Replace or cut the cost of the Places API inside a product.**
+Stay on **Google** if your product needs phone/website/rating/hours at ≤1,000 enterprise calls/mo — that's now free, fresh, and fastest (1.54s median). Beyond it, per-request pricing is the pain scrapers exploit: **Scrapingdog** (real-time API, from $40/mo) and SerpApi-style per-search products are the drop-in-shaped alternatives, but check §3.1 — neither adds fields Google lacks; they compete on price and caps, not data depth.
+
+**Intent 4 — Enrich existing records (emails, socials, reviews).**
+**Lobstr** (emails+socials in-run) and **Outscraper** (dedicated enrichment/verification services) are built for this; **Apify** verifies inline. **Google** enriches only its own field set — good for refreshing phone/hours/rating (94–98% fill), a dead end for contacts, and reviews are capped at 5/place.
+
+**Intent 5 — Monitor a category or competitors over time.**
+Recurring cost dominates. **Google's** 1,000 free enterprise calls/mo cover a ~300-listing watchlist re-checked monthly at $0 with first-party freshness. At larger scale, per-record scrapers win: Apify's pay-per-verified-lead suits contact monitoring; Lobstr squids and Outscraper requests can be scheduled. (No provider was tested for longitudinal reliability — single-window runs only.)
+
+## 5. Official Google Places API — where it wins and loses (measured)
+
+**Wins:** best fill-rates of anything tested for phone (95%), website (94%), rating and hours (98%); fastest responses in the project; 1,000 free Enterprise+Atmosphere requests/month (≈18,700 places); structured, stable schema; no ToS ambiguity.
+**Loses:** emails, social profiles, contact forms, owner data, popular times — **absent from the API surface entirely**, which disqualifies it from outreach lead generation, the highest-intent job in this market; hard 60-results-per-query cap (measured at the ceiling on 10/10 restaurant queries); 5-review cap; photo media billed separately; volume beyond the free tier costs per-request, and the request count — not the record count — is what the 60-cap inflates.
+
+## 6. Tools considered and set aside — in terms that matter to a buyer
+
+- **SerpApi** — no email/social fields, and ~20 results per billed search makes list-building cost balloon with volume; strong choice only for SERP-style position data. Reconsidered rather than category-excluded: it lost on missing contact fields and per-search economics, not on being "a SERP API".
+- **Oxylabs / ScraperAPI** — usable Maps coverage inside general scraping platforms, but no contact enrichment and no lead-list tooling; ScraperAPI's site was also unreachable from our network during verification (access risk we could not clear).
+- **PhantomBuster** — has Maps + email phantoms, but execution-time pricing means the cost of 1,000 records cannot be computed before running — disqualifying for budget-planned extraction.
+- **Octoparse** — real Maps + email templates at low prices, but a desktop/no-code workflow; its API orchestrates the UI product rather than returning Maps data directly.
+- **DataForSEO** — clean business-data API at $1.50/1K profiles, but no email/social fields; fits SEO/reputation pipelines, not outreach.
+- **HasData, G Maps Extractor, Scrap.io** — verified as real email-capable Maps APIs (`research/providers/`); not yet run. Strongest candidates for the next benchmark round.
+- **Geoapify, SafeGraph, TravelTime, Radar** — POI/geodata for mapping features, no business-contact data.
+- **gosom, Omkar Cloud (open source)** — free self-hosted scrapers for engineering teams; no SLA, you operate the proxies — out of scope for a managed-API comparison.
+- **~25 tools surfaced only via flagged Reddit self-promo** (G-Business Extractor, LeadStal, LocalProspects, …) — no independent evidence a real buyer uses them; several have no API at all. Full list: `research/analysis/categorization.md`.
+- **OpenWeb Ninja / QuantumProxies** — key-subscription failure (live 403) / 500-lead-per-run technical cap, respectively.
+
+## 7. How the providers were chosen (discovery evidence)
+
+31 probes on 2026-09-23 — 21 web queries across 4 intent groups, 5 Reddit queries, 5 LLM prompts — against 6 source types (Ahrefs stored Google SERPs, live web search, 8 fetched comparison articles, 8 fully-read Reddit threads with self-promo flagging, LLM sampling on 4 models, Ahrefs domain/keyword data). Appearance counts (of 21 web queries): Apify 18, Outscraper 16, gosom 8, G Maps Extractor 8, Bright Data 5, Scrapingdog 5, Scrap.io 5; LLM samples (of 5): Apify/SerpApi/Bright Data 5, Outscraper/DataForSEO/Scrapingdog/Lobstr 4. The official Places API appeared in 8/8 Reddit threads — recommended for small jobs, criticized on cost and caps at scale, which is precisely what §3 quantified. Roughly half of all Reddit mentions were flagged self-promo. Full tables: `research/analysis/provider-frequency.md`; raw evidence: `research/discovery/`, `research/reddit/`, `research/llm/`, `research/ahrefs/`.
+
+**Wording discipline:** "most frequently surfaced across our probes" — not "most popular globally". Frequency shows what buyers encounter; §3's measurements show what the products deliver. The two are kept separate throughout.

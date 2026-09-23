@@ -1,0 +1,2073 @@
+{
+  "places": [
+    {
+      "id": "ChIJuQcbwuFewokR6c_sAHzEoNw",
+      "types": [
+        "marketing_consultant",
+        "consultant",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(347) 669-0398",
+      "internationalPhoneNumber": "+1 347-669-0398",
+      "formattedAddress": "56-21 43rd Ave, Woodside, NY 11377, USA",
+      "addressComponents": [
+        {
+          "longText": "56-21",
+          "shortText": "56-21",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "43rd Avenue",
+          "shortText": "43rd Ave",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Woodside",
+          "shortText": "Woodside",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Queens",
+          "shortText": "Queens",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Queens County",
+          "shortText": "Queens County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "11377",
+          "shortText": "11377",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.743542,
+        "longitude": -73.90812120000001
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=15897922721488359401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://siteber.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 30
+            },
+            "close": {
+              "day": 0,
+              "hour": 16,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 23,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 23,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 23,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 23,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 23,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 30
+            },
+            "close": {
+              "day": 6,
+              "hour": 16,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+          "Tuesday: 7:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+          "Wednesday: 7:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+          "Thursday: 7:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+          "Friday: 7:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+          "Saturday: 9:30\u202fAM\u2009\u2013\u20094:30\u202fPM",
+          "Sunday: 9:30\u202fAM\u2009\u2013\u20094:30\u202fPM"
+        ],
+        "nextOpenTime": "2026-09-23T11:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 11,
+      "displayName": {
+        "text": "Siteber",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJuQcbwuFewokR6c_sAHzEoNw/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3aGZMQWhnRRAB",
+          "relativePublishTimeDescription": "11 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I was searching for web design in Queens, because web design in New York is too expensive for me. And I found Siteber. According to the cofounder, Jessie, they just started providing digital marketing services few months ago. Oh boy, do they got talents! Both Founder and cofounder know inside and out of web design, social media, SEO, graphic design, Google tag manager, Ads management, etc. They are very friendly, and very keen in turning my ideas into a awesome website; they also SEO optimize my site and secure my site at the same time. I would love to work with them again.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I was searching for web design in Queens, because web design in New York is too expensive for me. And I found Siteber. According to the cofounder, Jessie, they just started providing digital marketing services few months ago. Oh boy, do they got talents! Both Founder and cofounder know inside and out of web design, social media, SEO, graphic design, Google tag manager, Ads management, etc. They are very friendly, and very keen in turning my ideas into a awesome website; they also SEO optimize my site and secure my site at the same time. I would love to work with them again.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jieqiong Huang",
+            "uri": "https://www.google.com/maps/contrib/118358514854173665675/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXOMac-tLACgoctS20Cd634YrC4Gl9tR8RuDL8OJ7r87LtkYbuLmg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2015-06-05T02:11:44.848Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN3aGZMQWhnRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN3aGZMQWhnRRAB!2m1!1s0x89c25ee1c21b07b9:0xdca0c47c00eccfe9"
+        },
+        {
+          "name": "places/ChIJuQcbwuFewokR6c_sAHzEoNw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRcnU3anhRRRAB",
+          "relativePublishTimeDescription": "11 years ago",
+          "rating": 5,
+          "text": {
+            "text": "One of my best friends recommended Siteber. So, we started working with Siteber. Since I knew exactly what my website should look like. I just sketched out how each page should look like. I was so surprise; literally, within 5 days, my website was ready, and exactly what I wanted: simple and professional. These guys defintely know what they are doing.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "One of my best friends recommended Siteber. So, we started working with Siteber. Since I knew exactly what my website should look like. I just sketched out how each page should look like. I was so surprise; literally, within 5 days, my website was ready, and exactly what I wanted: simple and professional. These guys defintely know what they are doing.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Yao Zhang",
+            "uri": "https://www.google.com/maps/contrib/114402063143067099376/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTrqFU8cuLKqbM-W42TdqYgyEBBq0t0tgPkHJ4lzgiQF4sr_o=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2015-06-05T23:10:59.769Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNRcnU3anhRRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNRcnU3anhRRRAB!2m1!1s0x89c25ee1c21b07b9:0xdca0c47c00eccfe9"
+        },
+        {
+          "name": "places/ChIJuQcbwuFewokR6c_sAHzEoNw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRZ3RXUlJREAE",
+          "relativePublishTimeDescription": "11 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I was referred to Siteber by one of my friends. I wanted to create a personal website to showcase my photographs. I contacted some agencies, but the price they quoted for me was outside of my budget. After my friend mentioned Siteber to me, I reached out to the founder, Feng Liu. After I explained what I need for my website to look like and what I need my website to do for me, he gave me a very reasonable price. I was happy to started working with Feng. The entire process was extremely efficient and my website was up in running within a week. Not only did he develop my website, he even installed google analytics, custom tracking tags, and optimize my website for SEO. He even gave me a lot of ideas on how to leverage social media to promote my website and my work. Thank you Feng for his expertise and guidance. I couldn't do it without his help. Will definitely go back to him if I need any more help with my website and social media.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I was referred to Siteber by one of my friends. I wanted to create a personal website to showcase my photographs. I contacted some agencies, but the price they quoted for me was outside of my budget. After my friend mentioned Siteber to me, I reached out to the founder, Feng Liu. After I explained what I need for my website to look like and what I need my website to do for me, he gave me a very reasonable price. I was happy to started working with Feng. The entire process was extremely efficient and my website was up in running within a week. Not only did he develop my website, he even installed google analytics, custom tracking tags, and optimize my website for SEO. He even gave me a lot of ideas on how to leverage social media to promote my website and my work. Thank you Feng for his expertise and guidance. I couldn't do it without his help. Will definitely go back to him if I need any more help with my website and social media.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Stephane Grace",
+            "uri": "https://www.google.com/maps/contrib/111117017930430079849/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2wihjsaFWP0iELlZIRkY2fNAW8JYOt59jfbJlWojOsINYCkQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2015-06-06T17:16:18.992Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNRZ3RXUlJREAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNRZ3RXUlJREAE!2m1!1s0x89c25ee1c21b07b9:0xdca0c47c00eccfe9"
+        },
+        {
+          "name": "places/ChIJuQcbwuFewokR6c_sAHzEoNw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRdl9fUzJBRRAB",
+          "relativePublishTimeDescription": "11 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I had a great experience with Siteber Web Design New York. The staffs are very experienced and down to earth. The website that I had them design is very modern and responsive. I will definitely use them again in the future.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I had a great experience with Siteber Web Design New York. The staffs are very experienced and down to earth. The website that I had them design is very modern and responsive. I will definitely use them again in the future.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Yuanzhen Zhang",
+            "uri": "https://www.google.com/maps/contrib/110247697806843531563/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVkj4_JyfMgMNe8MfIVn1qZzCeejFrYE8k0HSLGU3-ZqBHhCSm4=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2015-06-11T22:45:04.460Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNRdl9fUzJBRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNRdl9fUzJBRRAB!2m1!1s0x89c25ee1c21b07b9:0xdca0c47c00eccfe9"
+        },
+        {
+          "name": "places/ChIJuQcbwuFewokR6c_sAHzEoNw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRaDh5TkJ3EAE",
+          "relativePublishTimeDescription": "11 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I found Feng through Linkedin. He knows inside and out of website and he is fast. My website is online less than a week, and most of time, it is I need time to get all materials together for him. Siteber is a great web design agency, and I would highly recommend it.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I found Feng through Linkedin. He knows inside and out of website and he is fast. My website is online less than a week, and most of time, it is I need time to get all materials together for him. Siteber is a great web design agency, and I would highly recommend it.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "ziyi pan",
+            "uri": "https://www.google.com/maps/contrib/103473612826097678704/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_ogvpjW29rmqRbZkMfch6En0IxNgF5sFbDQ6XMvAVejJ5nLES=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2015-05-31T16:49:27.588Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNRaDh5TkJ3EAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNRaDh5TkJ3EAE!2m1!1s0x89c25ee1c21b07b9:0xdca0c47c00eccfe9"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJuQcbwuFewokR6c_sAHzEoNw/photos/AVoNoXRNTFkHw7vT3G9Yftli6LbEVOUoK7OeTp8h5qfdX9NpNvdd4NSCihlVhjiHrW6S6mwVfMr21y_JSeukWpZ-QZLAMb6q955M5VciINN6lKn-YdGUh_NpP0LDwNmVNYvpx7IVNG_OI9zsYXoEEf5OMNtYeE8W2oqaFGw9RPAFiTzbBqoNP2m_RO4JLS89g3EqLDhsi8SLPE9NJikOTLf7i4FsizbuMQ7220wRnvVh4zgqbINZaIZNLvV38Lzrv-AzCF4LKmOZMay3n_T1wF-002xlz0w3F4xJRpzd2VnRo35ExUDu_SHD6YD2UyE7XiN7fYNCAOhyc052F8A9MUtXYcEmFuj5M0Sz6Eht2X0IMPBMETRedUmYiVRQWbpmByMVWHkg_aJxfY7HZisrfmhjwZMu7U7rCHuInHbDkGOWtsbMKmrF",
+          "widthPx": 861,
+          "heightPx": 661,
+          "authorAttributions": [
+            {
+              "displayName": "Siteber",
+              "uri": "https://maps.google.com/maps/contrib/115081082487093808740",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdFbJ2Czp4k3f1KT--CXFxtelhAA4TWjomzt9QQGcKcFPM064=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDCr-iL5QE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDCr-iL5QE!2e10!4m2!3m1!1s0x89c25ee1c21b07b9:0xdca0c47c00eccfe9"
+        },
+        {
+          "name": "places/ChIJuQcbwuFewokR6c_sAHzEoNw/photos/AVoNoXR_eMVTif7jEj10X-OAT3W5QH0zHr5C3DAz43e9CjxuSCHAMiAZW61tWzQIRtpFVx64tYRUHvRIwr9Zj3A720yUtnBfSXhqGpws47HrblppiQQMg-RHXuq6mWaBpMJJ-Vh4ZkZIOsorUoLFlW5A0q5VeCcE1r8XWCk8J7O2Bcm28EuQiT8OOEo_2eLAIgtPe0yngYHsbxSg4Ocjeum0M5rpH9KiUlHlM2TwfDeWM_SzDJX2a7Mwgol7PLzChasuMDS_nQ-pNp8P07fEd1mExqIZ7xMK-xR4gMH0S-6rb1QDYnGdR2dDEOFHU-2femaWAFnc6FnxFPWMqtCwU2zoBxuG8OUcfNiFrL9tZoKcT6-ywIr9erawOwCN2zLy5B-p23kSjeA15wPBeb45L6lHU7-OxMqortx2Pa2JNAxKA7KCoA",
+          "widthPx": 775,
+          "heightPx": 398,
+          "authorAttributions": [
+            {
+              "displayName": "Siteber",
+              "uri": "https://maps.google.com/maps/contrib/115081082487093808740",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdFbJ2Czp4k3f1KT--CXFxtelhAA4TWjomzt9QQGcKcFPM064=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDCr-ipJA&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDCr-ipJA!2e10!4m2!3m1!1s0x89c25ee1c21b07b9:0xdca0c47c00eccfe9"
+        },
+        {
+          "name": "places/ChIJuQcbwuFewokR6c_sAHzEoNw/photos/AVoNoXQwUR9sYtWLvMdiumQENhtT_t4-_mhxhuWt1EybZhoCxiFoz-W1_MVDt4jdDmnTTPpeLjAlqpAgjfUP2yExHSDEjQOTATZmKsB2GlU1b0bUANenYNmpaoBxt-fcEK6BSP1DhyTf7T-kMyuVn03x6goTp-pJ3C1Os8utwWx3hIfMbLLzYtcsESufBVqMdmJZmVfsHT0Uj3W8jFOspBgw3bX0-D1ruT2Th8czezb4wRY7XTSHMN3TVSKIBtwsEKr0PQUJWfUVPYyD72QckyYM80BoKrMAa4WUjvQB5s21TgYkwY_7xj9eCkhYUTcohA8wVOhc-NfGCSTHxphTMLTNlU6kAbDBbJ8zhK6GJLcKzMOgNmuaPlaVRYdxlVkA1hX0B1Ksi-pN28zWnTJR6bvILVT2AMS1m-a5eAw78tIfi1w",
+          "widthPx": 600,
+          "heightPx": 412,
+          "authorAttributions": [
+            {
+              "displayName": "Siteber",
+              "uri": "https://maps.google.com/maps/contrib/115081082487093808740",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdFbJ2Czp4k3f1KT--CXFxtelhAA4TWjomzt9QQGcKcFPM064=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDCr-i2OA&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDCr-i2OA!2e10!4m2!3m1!1s0x89c25ee1c21b07b9:0xdca0c47c00eccfe9"
+        },
+        {
+          "name": "places/ChIJuQcbwuFewokR6c_sAHzEoNw/photos/AVoNoXSraC0KlOCa1-6ofHAgVU_yfmcLlSzGgWDYfGKO0gMrfZelK88HuIxei-aYQ2JMpt-QyHhgqmJOl-CawYTKdoj1VjIC12RpOLfM8NCOC-50EfGyetEKnm0spzigVPV6uZs_tGEKj9yD4VO1bliPY9R2BSr9AAepTX3U8TG1fIUl8g-fznJr1irljsshVdEQUCJ4OjHXrveyBoBBf5RUnVyv5yzf5gYnnZzTTEPLyfo9LUG8sHxmPZR8PX86OUrnDFhKZyHD7k_6aKCFI9wKohndg0kj0Nta0sp5PvMTaDZc4K1IYt-U2S15b0BVUgxV2bayuOjhnSfZpsxCcpHiurUollv4Np0eP6Ed69cQ1HbtuQxp5KfYkZtoif6yuSMwSlymQJSgRbhCwxEgN24-BPVIuHkOcMOvl5yiTgF5ubPVfQ",
+          "widthPx": 494,
+          "heightPx": 434,
+          "authorAttributions": [
+            {
+              "displayName": "Siteber",
+              "uri": "https://maps.google.com/maps/contrib/115081082487093808740",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdFbJ2Czp4k3f1KT--CXFxtelhAA4TWjomzt9QQGcKcFPM064=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDCr-ibbA&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDCr-ibbA!2e10!4m2!3m1!1s0x89c25ee1c21b07b9:0xdca0c47c00eccfe9"
+        },
+        {
+          "name": "places/ChIJuQcbwuFewokR6c_sAHzEoNw/photos/AVoNoXQKS0_ZQwin22bizTO6N6OyQk4yVeVtBU-QGLvFVnZLKx5vw5h3w7GuaaqDRiJjkyNo7O7dmpQplG4xCnIPSpVXfu6Zmiv8IyJX4mc9OD2xQ8rMHhPnBKYFQqOEWbkGZgM0tyTzc3oHR6O1Rf93iz9Y8qHFRL8pJ85aC65r4vm1owvqtl7FlL6Cw6OMmKbQdiG-C2xcA_D1_nNPMnljYEaT3C44lczDzIQfcg9KTiq2dOTCKcRFunm9py91x78sKe2lyKHgwQ872AhBK9T69YmOJPvTOEmuExkKa2YosoeFOuQwPPEew0gmGqKdMUxp0YNsr4DpKqSHOQo9TMDTG2bOZ43vSrLX0OUNg0FpMDlCv1EKyBj5QrlcgwecuL4pT_PeRKgu-MDqBiIJebcJWhsSGOhdgrJgoZSdosZqD0j5fw",
+          "widthPx": 500,
+          "heightPx": 335,
+          "authorAttributions": [
+            {
+              "displayName": "Siteber",
+              "uri": "https://maps.google.com/maps/contrib/115081082487093808740",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdFbJ2Czp4k3f1KT--CXFxtelhAA4TWjomzt9QQGcKcFPM064=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDCr-j9Uw&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDCr-j9Uw!2e10!4m2!3m1!1s0x89c25ee1c21b07b9:0xdca0c47c00eccfe9"
+        },
+        {
+          "name": "places/ChIJuQcbwuFewokR6c_sAHzEoNw/photos/AVoNoXSwntN2XMZVqFKkyhsQMwsAhIWtKD2pwHb2UJUJgrCUyo30fB9u_W9LaFyrPBgUWV3kBJ3Mf3JV06-nnccBfx77sbXpHz9cSAFyku3DParUNwlIn0IPKM6AmSIgbsiIJEa0gwOk2dQk-Jthpp0kms9arDjc7SC6_pa9vyIF22hTyTg4zXQeyLXVHv1-8FiJwt-zRYGwvQIYIxs-910VwqgLH-R61VnXnJuLrEvE5F8p94gvrXxtHgvHFfG1PF2g0GBsQRAFmvm4EPmMv_1rsbY4Ocxoiajt-w7DsfohYRubwEgjZubYG3ngLXruFKUFjDNG8YOHKi_JN0974tU1aGZFNcbWUIEfxa757VOJ8MQK6v4a5Prg2xFP1SdPbi3gvoFVqRa5CgsT3yDd2-mLO3qfSK9BgGxeNW7fii78oEPVMQ",
+          "widthPx": 4128,
+          "heightPx": 3096,
+          "authorAttributions": [
+            {
+              "displayName": "Feng Liu",
+              "uri": "https://maps.google.com/maps/contrib/107519685054875285777",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUp6wZPnBFPVudk3QCvBYV4au8qaJDJB6oiowPk8Np6hSZ21Rvc=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDE_ouwbA&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE_ouwbA!2e10!4m2!3m1!1s0x89c25ee1c21b07b9:0xdca0c47c00eccfe9"
+        },
+        {
+          "name": "places/ChIJuQcbwuFewokR6c_sAHzEoNw/photos/AVoNoXSZYEtd4xyHR8Ho1h93hxmgjwaYJ3CvnInxn3riQ147E7iHrQYcgw-wSt4Uw0tFIQRDD68U7t7olEPj_5WMoSUNGPcjXcyNe3hkb2jhoLrXK6093yJgzWyZL55VBBDxffp2a2JLq-vGce6sjHPofhoyMVfzuLn33j5fnpGBw6lBqNMoHxk2n6AyH1gLP5O5S2O1UCL1DbIRsakCOn7McNVyYkGBqOHtlDsyMnXcZrmKsaGDmn5kNUOOo33n7amMEzC8V16nrgZEamIafwcs4Ua1r5YNlwstUG1TjTrNfygLFzdIIeDltet3UdoT-YTInKhdCJMtbe011vbsiDkWSl4rdbbKo1ZLhy54yolkAc4NwclHtSzL21IVg6DVOltT6Dk_feT5XFYwusMn5KrZx0fLsj4HK_R13m5FqHwRtFI",
+          "widthPx": 800,
+          "heightPx": 552,
+          "authorAttributions": [
+            {
+              "displayName": "Siteber",
+              "uri": "https://maps.google.com/maps/contrib/115081082487093808740",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdFbJ2Czp4k3f1KT--CXFxtelhAA4TWjomzt9QQGcKcFPM064=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDCr5jSIQ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDCr5jSIQ!2e10!4m2!3m1!1s0x89c25ee1c21b07b9:0xdca0c47c00eccfe9"
+        },
+        {
+          "name": "places/ChIJuQcbwuFewokR6c_sAHzEoNw/photos/AVoNoXTmVwPzu30Rq04oZzlvZRzaBoOlgImy1MKcze8pgzzSZ2PeicjeCgP-n5FsBrACVRxSwzdnEZKPMMcN1Yd5ulrE9VMqYCWKEZpk9oldKjvCK7CEsl2UqFo8JKS-5OSBz4Y7UsNSJidM4jRTNTwdV7BAw281-GADJrCEGOqVI0BM2CZda2OWVcHe_Qdw5kIdVwnQFWbuFq8YXl9Bp2d-kWPDZwEt-bl6izXcbIoGrjZf1swr0_FdA9qu2UvPhF1NJo9LUA6vTt01JaIf6pZUGG6Mi2EGBgsRv7XQ7ev3T1HqKSEDrg3UuqNfSzliwj-AB6tg2eyuzZRp0KRqxYrWdMcFhZ80cMOl_STZib1NcCBP-PMKUSARaPFNs9MKP6Xxw5ley6cAcVsAVwau3Qqf659ZnmCts-gcg-TetxKtZ73xsQ",
+          "widthPx": 1420,
+          "heightPx": 626,
+          "authorAttributions": [
+            {
+              "displayName": "Siteber",
+              "uri": "https://maps.google.com/maps/contrib/115081082487093808740",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdFbJ2Czp4k3f1KT--CXFxtelhAA4TWjomzt9QQGcKcFPM064=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6lPiEKA&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6lPiEKA!2e10!4m2!3m1!1s0x89c25ee1c21b07b9:0xdca0c47c00eccfe9"
+        },
+        {
+          "name": "places/ChIJuQcbwuFewokR6c_sAHzEoNw/photos/AVoNoXRliSHqlEYlpjl2SDIfjSJ_gGOY7EYEj2ueoCkNaNB2d_wQrXzfs6jFgqBNT9jV4x7Fn6lxUrbSUK9e3B1DZU8w-ivV7CJQu8krxpprGA4OHn9soPuNMOzW5usVeSY03aWIjeSc01PW5Xk_i6BLv4P0J2KLMDiU46sWRLFkeNjSTNlhF317iqEIBeGyRJjbMhffP0G9Kao0A2qjwR0whSfi7XzNWwCbx8il1zjTfZ-kVaVJdrdg8-YreAGYP9_usf4n2IgdY4khTFom2pJnlvn9U8_DL2cvCHEDkZW8cAJqKf9ODEgWPug1kmUwNRMM7A23nDD0ixIPRzqGKThl9K12jKaITA4girTXpzlLXs6f5exzAxuxISeGV4xOH3d9uZQuTctAbVJVoJWdsPAIRLfP5dUxcQ6qdxIRkFmwnRwb6Ysz",
+          "widthPx": 1231,
+          "heightPx": 592,
+          "authorAttributions": [
+            {
+              "displayName": "Siteber",
+              "uri": "https://maps.google.com/maps/contrib/115081082487093808740",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdFbJ2Czp4k3f1KT--CXFxtelhAA4TWjomzt9QQGcKcFPM064=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDCr6itkQE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDCr6itkQE!2e10!4m2!3m1!1s0x89c25ee1c21b07b9:0xdca0c47c00eccfe9"
+        }
+      ]
+    },
+    {
+      "id": "ChIJuUG3OatZwokRwYcwhX2gIGo",
+      "types": [
+        "marketing_consultant",
+        "consultant",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(646) 518-7743",
+      "internationalPhoneNumber": "+1 646-518-7743",
+      "formattedAddress": "1441 Broadway 6th floor, New York, NY 10018, USA",
+      "addressComponents": [
+        {
+          "longText": "6th floor",
+          "shortText": "6th floor",
+          "types": [
+            "subpremise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "1441",
+          "shortText": "1441",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Broadway",
+          "shortText": "Broadway",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Manhattan",
+          "shortText": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "New York",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York County",
+          "shortText": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10018",
+          "shortText": "10018",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.754971,
+        "longitude": -73.98716329999999
+      },
+      "rating": 4,
+      "googleMapsUri": "https://maps.google.com/?cid=7647288628241008577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.amraandelma.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 18,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-09-23T13:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 21,
+      "displayName": {
+        "text": "Amra & Elma",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJuUG3OatZwokRwYcwhX2gIGo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSV1IwUlRTRk5rZGpaRE9XcEJORTE1U0RaZlRrRRAB",
+          "relativePublishTimeDescription": "3 weeks ago",
+          "rating": 5,
+          "text": {
+            "text": "Running campaigns for a beauty brand through this agency and the influencer selection process is noticeably more rigorous than other agencies experienced before. Every influencer matched the brand's actual customer and engagement rates reflected genuine audiences. No inflated follower counts, no wasted budget.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Running campaigns for a beauty brand through this agency and the influencer selection process is noticeably more rigorous than other agencies experienced before. Every influencer matched the brand's actual customer and engagement rates reflected genuine audiences. No inflated follower counts, no wasted budget.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Delia Weaver",
+            "uri": "https://www.google.com/maps/contrib/108535139676099164558/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK2q7v40HAlo8xShWsNfxNUeJakm76HE9Vb2_tfvccrXS4Bjg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2026-09-01T18:24:55.162189935Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSV1IwUlRTRk5rZGpaRE9XcEJORTE1U0RaZlRrRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSV1IwUlRTRk5rZGpaRE9XcEJORTE1U0RaZlRrRRAB!2m1!1s0x89c259ab39b741b9:0x6a20a07d853087c1"
+        },
+        {
+          "name": "places/ChIJuUG3OatZwokRwYcwhX2gIGo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aWlQzWk9RVmRCY2sxTE0xTmZNa2xLYVdsTGNVRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "We are a growing restaurant brand and our goal was to produce a nationwide commercial for TV segment placements, and the Amra & Elma marketing teams were incredibly helpful throughout the process. Their creative team was fantastic, they handled everything from market research and concept development to moodboards, casting, and even original music composition. Really impressed with their work. We\u2019ll definitely work with them again for future productions!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "We are a growing restaurant brand and our goal was to produce a nationwide commercial for TV segment placements, and the Amra & Elma marketing teams were incredibly helpful throughout the process. Their creative team was fantastic, they handled everything from market research and concept development to moodboards, casting, and even original music composition. Really impressed with their work. We\u2019ll definitely work with them again for future productions!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Michael D Hawley",
+            "uri": "https://www.google.com/maps/contrib/110789065641071431145/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJYvpbzM4gnVcYbwzmn6FmpmARoClRTBJPJmpJgVhXzwtSMrg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2025-06-17T20:54:50.369221045Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aWlQzWk9RVmRCY2sxTE0xTmZNa2xLYVdsTGNVRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aWlQzWk9RVmRCY2sxTE0xTmZNa2xLYVdsTGNVRRAB!2m1!1s0x89c259ab39b741b9:0x6a20a07d853087c1"
+        },
+        {
+          "name": "places/ChIJuUG3OatZwokRwYcwhX2gIGo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMbElUaC1RRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "We were launching store openings in the US and needed help to promote the openings and increase our brand equity in the market. The Amra & Elma team were extremely knowledgeable about the luxury and jewelry industry, helped us form a strategy and prepare in store events with editors and talent. We highly recommend them as an agency partner and will continue our partnership.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "We were launching store openings in the US and needed help to promote the openings and increase our brand equity in the market. The Amra & Elma team were extremely knowledgeable about the luxury and jewelry industry, helped us form a strategy and prepare in store events with editors and talent. We highly recommend them as an agency partner and will continue our partnership.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Loren Rosenbaum",
+            "uri": "https://www.google.com/maps/contrib/108226050297276712368/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0hVZK_xfyDlIYbiDC4ezm3JP-h5U2_wHptb1oYnlaOZzJNQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-06-15T14:11:36.629943Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMbElUaC1RRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMbElUaC1RRRAB!2m1!1s0x89c259ab39b741b9:0x6a20a07d853087c1"
+        },
+        {
+          "name": "places/ChIJuUG3OatZwokRwYcwhX2gIGo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ScWJISlJVMHMzT1VselRXNXBPRVJqWm14V1VuYxAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Great working with the Amra & Elma team on putting together our media buying plan, we did everything with their teams from creative, production, to identifying media channels from print to television. A very knowledgeable team, we will continue working with them!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Great working with the Amra & Elma team on putting together our media buying plan, we did everything with their teams from creative, production, to identifying media channels from print to television. A very knowledgeable team, we will continue working with them!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Brent Coertjens",
+            "uri": "https://www.google.com/maps/contrib/110153175174254449238/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKM0G8zLHhL2owOn7sFXmQU-2cbUTgRklP1xVajRIFuCTE8Ng=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2025-06-28T16:27:57.538699387Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ScWJISlJVMHMzT1VselRXNXBPRVJqWm14V1VuYxAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ScWJISlJVMHMzT1VselRXNXBPRVJqWm14V1VuYxAB!2m1!1s0x89c259ab39b741b9:0x6a20a07d853087c1"
+        },
+        {
+          "name": "places/ChIJuUG3OatZwokRwYcwhX2gIGo/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3bFkyNVpnEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "We wanted to form relationships with mega influencers, we are a food & beverage brand, wanting to expand our distribution channels in the United States. The Amra & Elma teams helped us conceptualize and execute several influencer trips from Switzerland to New York. They were very helpful in guiding us along the way, we will definitely work with them again for our influencer campaigns.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "We wanted to form relationships with mega influencers, we are a food & beverage brand, wanting to expand our distribution channels in the United States. The Amra & Elma teams helped us conceptualize and execute several influencer trips from Switzerland to New York. They were very helpful in guiding us along the way, we will definitely work with them again for our influencer campaigns.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Scott Martin",
+            "uri": "https://www.google.com/maps/contrib/102448778080637371081/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIH4H2fug8Z0P1DKOBEpfA6wVA8EAp0Ch6AdsvnCqUt5JeHkQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-08-17T15:08:02.643189Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3bFkyNVpnEAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3bFkyNVpnEAE!2m1!1s0x89c259ab39b741b9:0x6a20a07d853087c1"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJuUG3OatZwokRwYcwhX2gIGo/photos/AVoNoXSU43pz9tpc443uLxQ41KUadysY7dsrj5XM6HxCrD-QlJ3mddZuTgyUfq85IdspAuuvcTqMmVx9LLeqnMxS6Iqe9bKFu3fcq9dULWkcmOblBitcnv7q_fFBN-N1s0AjLWf7GEfhqEV3dA-AP33LpK01U-HN6XbKUMq1m_WBw_EI5zuw2D83OBFd85JBD2it7pZPSldNLl9MRCz9Ijp7PYIQKmkV6BXj6f8byJcWbtpUcXtGRgHCllpinMu8Z0FWBCkaYpAvoPJXYYmVl74MB2RNFYlSAzjQFIfwcU-Dn8KMC7iMrg0WkLMHSJ03sQT0Fek2UEhkuwlqh2IiLeP9vpi6EXXMW5PGgpBoRDweryuxm160mjJq_nFwyc76m7LXioul9axSztRWM_G1UH4FxmQHow",
+          "widthPx": 1080,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Amra & Elma",
+              "uri": "https://maps.google.com/maps/contrib/108857398738609018229",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKE4mLp4_jeOFNOt6xKAclFsBcCEzLSutZEpzESBvsRZ0APzw=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICp-eK5UQ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICp-eK5UQ!2e10!4m2!3m1!1s0x89c259ab39b741b9:0x6a20a07d853087c1"
+        }
+      ]
+    },
+    {
+      "id": "ChIJAwOxs871wokRml0LGhX1uDk",
+      "types": [
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(646) 789-7856",
+      "internationalPhoneNumber": "+1 646-789-7856",
+      "formattedAddress": "65-60 Myrtle Ave 1 floor, Glendale, NY 11385, USA",
+      "addressComponents": [
+        {
+          "longText": "1 floor",
+          "shortText": "1 floor",
+          "types": [
+            "subpremise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "65-60",
+          "shortText": "65-60",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Myrtle Avenue",
+          "shortText": "Myrtle Ave",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Glendale",
+          "shortText": "Glendale",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Queens",
+          "shortText": "Queens",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Queens County",
+          "shortText": "Queens County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "11385",
+          "shortText": "11385",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "7067",
+          "shortText": "7067",
+          "types": [
+            "postal_code_suffix"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.7011397,
+        "longitude": -73.8884008
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=4159343726856723866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.okibusiness.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 13,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Tuesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Wednesday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Thursday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Friday: 8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-09-23T12:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 52,
+      "displayName": {
+        "text": "OKINTERNATIONALBUSINESS.INC",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJAwOxs871wokRml0LGhX1uDk/reviews/ChZDSUhNMG9nS0VJQ0FnSURxei1lMUxnEAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Irene Baez",
+            "uri": "https://www.google.com/maps/contrib/106387488870772841195/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVohC3edmlwx8M3i_0MiUFxm80lU9tu-zaU_kcmkLTTbB9IYpiW1Q=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2021-08-03T00:50:14.653934Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURxei1lMUxnEAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURxei1lMUxnEAE!2m1!1s0x89c2f5ceb3b10303:0x39b8f5151a0b5d9a"
+        },
+        {
+          "name": "places/ChIJAwOxs871wokRml0LGhX1uDk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnd04ycmxBRRAB",
+          "relativePublishTimeDescription": "8 years ago",
+          "rating": 3,
+          "text": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Good",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "angeli cabrera",
+            "uri": "https://www.google.com/maps/contrib/107066685491345847556/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWMHjPhZfkqfHujleTI79ld3qdBMmBQdun_hn_WgwrkUrywYE=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2018-03-09T14:28:40.309Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNnd04ycmxBRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNnd04ycmxBRRAB!2m1!1s0x89c2f5ceb3b10303:0x39b8f5151a0b5d9a"
+        },
+        {
+          "name": "places/ChIJAwOxs871wokRml0LGhX1uDk/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6cFpUZmF3EAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "A very good company that offers a great opportunity to develop a business in this country and achieve the financial freedom everyone desires \u2665\ufe0f",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "Muy buena compa\u00f1ia , que ofrece una gran oportunidad de desarrollar una empresa en este pais y tener la Libertad financiera que todo mundo desea \u2665\ufe0f",
+            "languageCode": "es"
+          },
+          "authorAttribution": {
+            "displayName": "Jos\u00e9 andres Ram\u00edrez delgado",
+            "uri": "https://www.google.com/maps/contrib/101425084792500345170/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIk5Jm7NF3HKeqpaCiIPfror6e6qohOm-CCEKMIzCn0UaACzQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-06-03T14:47:12.237721Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN6cFpUZmF3EAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6cFpUZmF3EAE!2m1!1s0x89c2f5ceb3b10303:0x39b8f5151a0b5d9a"
+        },
+        {
+          "name": "places/ChIJAwOxs871wokRml0LGhX1uDk/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6cFpUSUxnEAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Excellent people to connect with, both emotionally and professionally.\nDelighted to be here and to have arrived at this wonderful office.",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "Excelentes personas para vincularte, emocionalmente y profesional.\nEncantada de estar aqu\u00ed y de haber llegado en esta\nMaravillosa oficina.",
+            "languageCode": "es"
+          },
+          "authorAttribution": {
+            "displayName": "Perla Jimenez",
+            "uri": "https://www.google.com/maps/contrib/115746309844127817455/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGU0y101k-uJca6vhMfdyOuDbWUSvokr2XkBAHn-n2VLsWsY4adw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-06-03T14:50:28.378445Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN6cFpUSUxnEAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6cFpUSUxnEAE!2m1!1s0x89c2f5ceb3b10303:0x39b8f5151a0b5d9a"
+        },
+        {
+          "name": "places/ChIJAwOxs871wokRml0LGhX1uDk/reviews/ChZDSUhNMG9nS0VJQ0FnSURjbDktUVRBEAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "The best opportunity to realize your dreams and goals. Thank God for putting such kind and dedicated people in our lives, helping others to improve themselves... excellent knowledge for life...",
+            "languageCode": "en-US"
+          },
+          "originalText": {
+            "text": "La mejor oportunidad para realizar tus suenos y metas, Gracias a Dios por poner personas tan gratas y empenadas en ayudar a los demas a superarse... excelente conocimiento para la vida...",
+            "languageCode": "es"
+          },
+          "authorAttribution": {
+            "displayName": "Leidy Garces",
+            "uri": "https://www.google.com/maps/contrib/111891959591421328548/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXt2yS4O5zX5KaYj5gKcZc8BzwTbyWyyZjUmXYWJ3mB2nKALjAsVQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-06-19T18:07:52.185248Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURjbDktUVRBEAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURjbDktUVRBEAE!2m1!1s0x89c2f5ceb3b10303:0x39b8f5151a0b5d9a"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJAwOxs871wokRml0LGhX1uDk/photos/AVoNoXTXet0dOmqx7sFDB_d5TITiYoYwGQWcn4C7ZuYbnn59W8NAFqfdC_LJfywwmYr6d3YFw7R-jVF-EJ0j7yFczswcSzb6ygybqQh1U0Inzn4Kr8SvfYb_Abn60zGPBw-OMzRWyagUei9OoY828qEUJrtTHXJZGPbRFm6c5YqIWpyPhIcJOaA4yAYcwOdjy0n7NZFLrmz-3dLOrOcVHD7uu0B978-crU7BRW7p1R1QRoMIdSSq-wecE2QjQodt83U3jUEmu8EpxYBWMVtTgIaMRI4mHx4niLGF9nvqpKSdZ79Pn5bE0OGqiu87nu_AnAzz9HKssYHJ4NZPr0NO0lfwRchbp_KPPPPQgeMgR85643ZQJPpA4XIjxUKsv1Y1qRIm9RSYVygn8DuGVlPO_aHVfFWeu3sfhb5NxVCCITUFJ53JxA",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Jeff Daza",
+              "uri": "https://maps.google.com/maps/contrib/117302891142381239827",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3P2WSf8cyWx4I0bv1_FiZSJUnPzZiwDT11TkyJuLXTOY6TEbGUw=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4tsjEeQ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4tsjEeQ!2e10!4m2!3m1!1s0x89c2f5ceb3b10303:0x39b8f5151a0b5d9a"
+        },
+        {
+          "name": "places/ChIJAwOxs871wokRml0LGhX1uDk/photos/AVoNoXT0Pl9D_i9ZN_B0B6J9d7WgPnIKHNsKzN_gJAniHfZJwxO4O29MQBrzvvdoMb0Rf3sFno86zjgw2eryaLVoZpDfLemJtw4ge4txeOFvRv21uerQTiXR5td9VYvbByBM2XLV7OABk3Sohc6ACh8VUdGsdlRtSZtDy_0HO8g4QEbqgPK1PFe4frZyIA0ahi9LNQxf4Sji3SRtTr7b3KnTbxc_nrbZROSo3JibWtjeiBtBA9-JPxNy4YXUeckZBUZoOrzX1GLzCIf2nz-QNKVo1445b4t20d6LY-SX6qTqLFZwZX7areYL7LDVRiGqryTrHJTdJM6Bhe4qyDsTT8T_VyHtoSkSiDQSmYhiwRaCOuWdtS4hmPp4ZZsaWFPsNnKgE5A9oqEEvBk3JUmVfYRZAW_ejtPuKJgt9hB8Vnt9Uqs0Gw",
+          "widthPx": 2048,
+          "heightPx": 2048,
+          "authorAttributions": [
+            {
+              "displayName": "OK INTERNATIONAL BUSSINES",
+              "uri": "https://maps.google.com/maps/contrib/100481364928768030604",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7eWLisLHpus8SQ2WO24pNLzObitHTAJA89Uu8Q6ONSoOgCmwv=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEkYH7Eg&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEkYH7Eg!2e10!4m2!3m1!1s0x89c2f5ceb3b10303:0x39b8f5151a0b5d9a"
+        },
+        {
+          "name": "places/ChIJAwOxs871wokRml0LGhX1uDk/photos/AVoNoXSnSEjiqtErBVkeey8BCcNOlsu1QjbgCOtiwtZ4jo6ZCeWc5Lf0Y7VownQP24ztdH8DIxtjaM_bXYSwb7c6aCes7R8YGahGI0yY-b9pX6bNtE9OoxO8NIig38jHVCpgpBMaS8I96KEluhxOJxowuQgnkKE4uIhDddpju3JbsmL7xHnB9Uzs0kVA3AXbnR_q3p4DOh3pF4RRSd2npvQa-zYZTWftghrnk45sTs1kwqAd5VRCi5ZhKbHCm6HLhwd0Uqdl3CevpaouUyApr3PHgZ3fYafPnI-0L0puB51yB21j7YxCqP6OZhLeVT_7IN0AJaYb5JHl2hz4N6iLMZ3BV-_W0_zTKq64cNqXQrHg2l92RlwtHgCuVNu4imhKSpc__EuYeGcaFSsg1_nZwvJpm7Vwtlx83jpAnCjPr5muweE",
+          "widthPx": 1600,
+          "heightPx": 1200,
+          "authorAttributions": [
+            {
+              "displayName": "Photos are copyrighted by their owners"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICxs46XPw&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxs46XPw!2e10!4m2!3m1!1s0x89c2f5ceb3b10303:0x39b8f5151a0b5d9a"
+        },
+        {
+          "name": "places/ChIJAwOxs871wokRml0LGhX1uDk/photos/AVoNoXQILB8FGJwwDBLtDRNhcoMzLyU41pHswtFlcI6sLQlK9ZGd43jkyonAHeTnrH7M757p7IDYB0AIMfGFgGxYFh9NbXp84BrgBF0ihR2wLxXXbNqe-LIA1nQPSUH883cQPJCQqpExmi385cqTcj-5-FHMYDiLFMeoiYYCmIaIoo3AJgpC9wk9V6JJMxUjcG71RacnLv80gnuwPi2osYkkjOl0EArdy-rUZKnnhutZo9GUZB0ZQ5wHho8j7DvsQwsTrOkNprdhw_Zmuiy_OkxKWcsm5y4SdeOR5V9yxjIqZ1-AnnHPqS3xNa_u90TT2mSUKCwqIABJDGdKwZ82uulzTGzNsMhcupC5moFKRq2Lx-jQzI6K6A_iJ5tim4voDTp3idlCzIDr49Wv1w-Jr74vM0kQKCAKd3Zaw-qrWVuayK4T3w",
+          "widthPx": 1242,
+          "heightPx": 934,
+          "authorAttributions": [
+            {
+              "displayName": "Jeff Daza",
+              "uri": "https://maps.google.com/maps/contrib/117302891142381239827",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3P2WSf8cyWx4I0bv1_FiZSJUnPzZiwDT11TkyJuLXTOY6TEbGUw=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4tujBNw&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4tujBNw!2e10!4m2!3m1!1s0x89c2f5ceb3b10303:0x39b8f5151a0b5d9a"
+        },
+        {
+          "name": "places/ChIJAwOxs871wokRml0LGhX1uDk/photos/AVoNoXRG9wQBx3Bc8CTejYwdchEt7-jz68nubUGzdnl3RHGBVXVHFg1H9NmCe7Mv82IGGH4F3WVfxkSEEMgw2B0QJbAIlgjlsq53CDgWY7sUEMxAIlflPU66zsQ8196BN-ofmdjeRfGZndVKr1_JFl4w0ilPTnXXPe18tDygUjB0v1KhJ4z3kmf83fgNmBYLUVq_P9ojmEQUfDhQkhH5rb_pKyNlxdBKBpz0KtzQSry8lWjjb-D0w3NbuafhV9sjiFsKXSKtu493UiD1tIdGZQ32dJ_FuYtuTPGMtCXVbbb_e6ACctMUgwaK3eeyvV6KT8kfIimUTZQksZk83psHJ4KJm2QP1U4YUDvlEEBugpNFeuJp087FSh-xzDqpQxa_E2hopOyVU9KLXBQ6TxlrioLFwAuCkstP0hW4MiPl00aO4p_Cq-Mh",
+          "widthPx": 1280,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "OK INTERNATIONAL BUSSINES",
+              "uri": "https://maps.google.com/maps/contrib/100481364928768030604",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7eWLisLHpus8SQ2WO24pNLzObitHTAJA89Uu8Q6ONSoOgCmwv=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDMpKPHxwE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMpKPHxwE!2e10!4m2!3m1!1s0x89c2f5ceb3b10303:0x39b8f5151a0b5d9a"
+        },
+        {
+          "name": "places/ChIJAwOxs871wokRml0LGhX1uDk/photos/AVoNoXQlP832mcdDq0N_Ml6ozNzTOfUEFC7Zcou8Ado0cwnS3cxaWufjyUBQ0YdKf-uxp9_sKXVPJXt3RGR6-PHJmIfBQwIgeDFajUcQTQS1pch-fuuSxHRZN7ygo5TrUHmSZZqypc6co-fFRPyhhcZK0otCtYrRYpk4HqQ1v8m-7S1Jv0OWVkF7mDGTmDSabGOOyiIfOIZQ0An5FZy0M3BXA0ibHW78diZdLpdeVE0DQ5JYH7KL73JUWMXIJlgceZXGpgwEVzPL71dk2SOiJVHOYuoYF8P2-SldipW6U9zk1Pl-Een1pN17IHyPatJRxsavw6ZwnDGCTupUDmMlctuNh-41ZToKLs2T-Tso2aj_41Y1D5FcjOkhOW2dg7pZtT0WgqgDsbk7S8dXYm4p0yF216MOQX7_tg9UH6EMY2InMEk",
+          "widthPx": 1280,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "OK INTERNATIONAL BUSSINES",
+              "uri": "https://maps.google.com/maps/contrib/100481364928768030604",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7eWLisLHpus8SQ2WO24pNLzObitHTAJA89Uu8Q6ONSoOgCmwv=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDMpKPXIg&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMpKPXIg!2e10!4m2!3m1!1s0x89c2f5ceb3b10303:0x39b8f5151a0b5d9a"
+        },
+        {
+          "name": "places/ChIJAwOxs871wokRml0LGhX1uDk/photos/AVoNoXRpAyDJ6OQYbEvtAsxR5GGPLvEkNtr4u-u02TqPYprYr494djg8PT2DZFn7-Jf419SaHGaOSFoZ6lbfg_8Ejg78jsIpI1dP9-dZLgYPmdq_S0E9WmK63_LD1IepC9nADwSvM_0SQ8sxbgfSueYOsrHc-0QUUvhTJl-qtLllPkOieiRD5lzPe9VhMturCI3fIg9tHLUlGFXTdz-37IC_qeWs_pzH2Rs_aEJV2kBbsd1hw-fwtAOFb0OvY-uzjdRw953mYuwcSlqdpNUFtVPjig-T4HNXpSorVENnjwg5OLpFgaXoAtImDUWBFvmjmJrOhL2FPfGVPMfFETGoFZoyC4Yv7DOP4rpdWPtza9V9LHgJziARswme6nazPRSbX8DRtvEzvdWy53RJrRLyozUj272zX9lYUKoR00-czJbEZmb_7g",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Jeff Daza",
+              "uri": "https://maps.google.com/maps/contrib/117302891142381239827",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3P2WSf8cyWx4I0bv1_FiZSJUnPzZiwDT11TkyJuLXTOY6TEbGUw=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4tqjDdg&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4tqjDdg!2e10!4m2!3m1!1s0x89c2f5ceb3b10303:0x39b8f5151a0b5d9a"
+        },
+        {
+          "name": "places/ChIJAwOxs871wokRml0LGhX1uDk/photos/AVoNoXRHAL676khtdTEe2HMbTI32OiS7vDKs5Zu1lF451CGknYrS0PP8EZIWdYsyGKmS-E2_4aLn9Axki7y2x2OUz9wVAbmlN8lcpyqVcmBZSjoIleewAG1_Tg53H4a3bt7snG92gcjIYTizFOrvNR2ZHBQBzX76Chhzuo-_ikj__FKOaUeXv6Oh-FjeJo74fvsKlYbZpYnrgoMYactfNMbKFQSzDVK2r1U14_7bQRjt9nimohrUhhXhZmtVFBS3fle95c-VOBcCCmb5JBmHt_a0MjrOfjD95KruRlGHFTcP2lmspoDREe0WWR34yK9LXTR7pS7NGuKwJUFBjUjUzMTWJZpGOGQHw8_VY3k5q2Jcw1s_4PRoNJhYRPcp5uatVHNGPbFWlgOVtjY8HWTKTV84evwbjrcvKWG7lAPmnnnYkUwmI7M0",
+          "widthPx": 1280,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "OK INTERNATIONAL BUSSINES",
+              "uri": "https://maps.google.com/maps/contrib/100481364928768030604",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7eWLisLHpus8SQ2WO24pNLzObitHTAJA89Uu8Q6ONSoOgCmwv=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDMpKPXuwE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMpKPXuwE!2e10!4m2!3m1!1s0x89c2f5ceb3b10303:0x39b8f5151a0b5d9a"
+        },
+        {
+          "name": "places/ChIJAwOxs871wokRml0LGhX1uDk/photos/AVoNoXT4POiaeme6ccSNqJyGBWQXH7WRcZ7cMiSK8D74w7Ek3G5ZJa-oU-fySNt_dfMztAt0tM9kgEibrSSpjylgnN8kg0ZFuUPT4xqJnlO8JmLPpAGYn4qq1ldx8wsbupXhmzxdGUstak0TBLeluy5vIVWPlb11pE8MHuoPlIk78oGMXWhgqjSTacQb48qRvXXr6nSwffiX8BT1g1YLKO_7kLbgnr_wxQ6FhBBXprAqxvrnJlWoyZkuDYonCfBcfZfFAlskXnD7X9VWPOS4akJXo2wGhj01zoNLs4NRHgnb2JijTFa_LtQkDOCLQKa2Fhg_Y84Z0RfILF53X6wPHGq5JyZTvaU65a0O8ufBW8J_mnMtMZpr-LBsE0QmYOmWXxPI5LvQ22A-kg_DOxjBOfCZuqq2Cu-QUYWuG5sa6zgRKwkREg",
+          "widthPx": 4032,
+          "heightPx": 3024,
+          "authorAttributions": [
+            {
+              "displayName": "Jeff Daza",
+              "uri": "https://maps.google.com/maps/contrib/117302891142381239827",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3P2WSf8cyWx4I0bv1_FiZSJUnPzZiwDT11TkyJuLXTOY6TEbGUw=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4tsibJA&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4tsibJA!2e10!4m2!3m1!1s0x89c2f5ceb3b10303:0x39b8f5151a0b5d9a"
+        },
+        {
+          "name": "places/ChIJAwOxs871wokRml0LGhX1uDk/photos/AVoNoXStfaGZT9yYrE6MxzmOb7VujT0_z7kJxZOLbu4RyqpRLvtnxKg53wLxCToDYulDrF-Hxa31P-OaA_R4yTJvzE6TmkMz1uTb5cYjCwOFLnRyNuMoXLKXi-pJ6Lc6ex2kB8ffW4GjdGH9j-YxcyN1X5z_EeT2_MuqGN1boJfPxVnjj-waMez7ClnN7jPCtS0-eZTDZId1XEoKqu8mU__1NKN_0gbkhclwY2PtaKyyIaxIzQL8fTQNXbxMFP3Ep6Xx7BTBWU2tIzDy03QXXJ5A-CGcS1bgLIli5qQ_gDs26UNe3srpfzq_BWFzyyoPtpofygqTdBGVjqMU7j3NPQ9eDqY8obe67xjRiOLueEceWNtanhjR859XnwxpYZclHkLABfFKjII40oCftWaanaqotoiNRKDfzVXrLN1hxFEngwrJlwUR",
+          "widthPx": 1280,
+          "heightPx": 1280,
+          "authorAttributions": [
+            {
+              "displayName": "OK INTERNATIONAL BUSSINES",
+              "uri": "https://maps.google.com/maps/contrib/100481364928768030604",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7eWLisLHpus8SQ2WO24pNLzObitHTAJA89Uu8Q6ONSoOgCmwv=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDMpKPHuwE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMpKPHuwE!2e10!4m2!3m1!1s0x89c2f5ceb3b10303:0x39b8f5151a0b5d9a"
+        }
+      ]
+    },
+    {
+      "id": "ChIJdczvGKVZwokRVe9HIMFTPxM",
+      "types": [
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(212) 625-8372",
+      "internationalPhoneNumber": "+1 212-625-8372",
+      "formattedAddress": "25 Broadway Fl 2, New York, NY 10004, USA",
+      "addressComponents": [
+        {
+          "longText": "Floor 2",
+          "shortText": "Fl 2",
+          "types": [
+            "subpremise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "25",
+          "shortText": "25",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Broadway",
+          "shortText": "Broadway",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Manhattan",
+          "shortText": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "New York",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York County",
+          "shortText": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10004",
+          "shortText": "10004",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.7057809,
+        "longitude": -74.01397229999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=1386919299188780885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.yardnyc.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 21,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+          "Tuesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+          "Wednesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+          "Thursday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+          "Friday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+          "Saturday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+          "Sunday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+        ],
+        "nextOpenTime": "2026-09-23T11:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Yard NYC",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJdczvGKVZwokRVe9HIMFTPxM/reviews/ChdDSUhNMG9nS0VJQ0FnSURneFBHVWxBRRAB",
+          "relativePublishTimeDescription": "8 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Love the folks at YARD and can't beat the location.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Love the folks at YARD and can't beat the location.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "scott key",
+            "uri": "https://www.google.com/maps/contrib/104888931063168657352/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqqiihxjGLR2tNBnC_ZvBQ_ClmiIye5sjEOBdMGdCloUDBne4u=s128-c0x00000000-cc-rp-mo-ba5"
+          },
+          "publishTime": "2018-09-03T23:38:05.587347Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURneFBHVWxBRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURneFBHVWxBRRAB!2m1!1s0x89c259a518efcc75:0x133f53c12047ef55"
+        }
+      ]
+    },
+    {
+      "id": "ChIJ6Q51_KkB3IART0toYPo4H1M",
+      "types": [
+        "marketing_consultant",
+        "consultant",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(619) 599-1006",
+      "internationalPhoneNumber": "+1 619-599-1006",
+      "formattedAddress": "9920 Pacific Heights Blvd Suite 150, San Diego, CA 92121, USA",
+      "addressComponents": [
+        {
+          "longText": "Suite 150",
+          "shortText": "Suite 150",
+          "types": [
+            "subpremise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "9920",
+          "shortText": "9920",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Pacific Heights Boulevard",
+          "shortText": "Pacific Heights Blvd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Sorrento Mesa",
+          "shortText": "Sorrento Mesa",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "San Diego",
+          "shortText": "San Diego",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "San Diego County",
+          "shortText": "San Diego County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "California",
+          "shortText": "CA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "92121",
+          "shortText": "92121",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 32.9000079,
+        "longitude": -117.1903523
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=5989568677436476239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.2pointagency.com/locations/sandiego-digital-agency/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 87,
+      "displayName": {
+        "text": "2POINT Agency",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJ6Q51_KkB3IART0toYPo4H1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ad2JHWlVZa1F6ZDJvNU5YUnVUVFpIVlRneVdtYxAB",
+          "relativePublishTimeDescription": "11 months ago",
+          "rating": 5,
+          "text": {
+            "text": "We hired 2POINT Agency to completely redesign our website for Mission Pools, and they exceeded every expectation. We started the project with only a general idea of what we wanted, and they brought our vision to life in ways we never could have imagined. Their team also refreshed our logo and created brand guidelines that captured everything we hoped for and more.\n\nThe creativity, care, and attention to detail they put into every step made us feel like we were their top priority. We\u2019ve since continued to work with them on our digital ads and SEO, and the ongoing support has been outstanding. The team is responsive, proactive, and genuinely invested in helping our business succeed. We couldn\u2019t recommend 2POINT Agency more highly!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "We hired 2POINT Agency to completely redesign our website for Mission Pools, and they exceeded every expectation. We started the project with only a general idea of what we wanted, and they brought our vision to life in ways we never could have imagined. Their team also refreshed our logo and created brand guidelines that captured everything we hoped for and more.\n\nThe creativity, care, and attention to detail they put into every step made us feel like we were their top priority. We\u2019ve since continued to work with them on our digital ads and SEO, and the ongoing support has been outstanding. The team is responsive, proactive, and genuinely invested in helping our business succeed. We couldn\u2019t recommend 2POINT Agency more highly!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Adam Nunez",
+            "uri": "https://www.google.com/maps/contrib/108936967657487249809/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVgS96-rcuhU6rMyxRhDJ_jBhLh7gBSOYmUzTW8wy_KqT_5BqKw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2025-10-16T21:03:09.006046689Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ad2JHWlVZa1F6ZDJvNU5YUnVUVFpIVlRneVdtYxAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ad2JHWlVZa1F6ZDJvNU5YUnVUVFpIVlRneVdtYxAB!2m1!1s0x80dc01a9fc750ee9:0x531f38fa60684b4f"
+        },
+        {
+          "name": "places/ChIJ6Q51_KkB3IART0toYPo4H1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKM2FXaGtUMko0WjNSM1ZGWmZMVlJvUVRSZmVsRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "We had a fantastic experience working with 2POINT! As a nonprofit organization with limited marketing expertise, the 2POINT team made the process of designing two new websites completely manageable. The end results exceeded our expectations! They were professional, enjoyable to collaborate with, and kept the project on schedule. Corey was the lead on our project, and we thoroughly enjoyed working with her! We highly recommend 2POINT not only for their advanced web design skills but also for their amazing team that ensures everything gets done right!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "We had a fantastic experience working with 2POINT! As a nonprofit organization with limited marketing expertise, the 2POINT team made the process of designing two new websites completely manageable. The end results exceeded our expectations! They were professional, enjoyable to collaborate with, and kept the project on schedule. Corey was the lead on our project, and we thoroughly enjoyed working with her! We highly recommend 2POINT not only for their advanced web design skills but also for their amazing team that ensures everything gets done right!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shelby Rush",
+            "uri": "https://www.google.com/maps/contrib/115135149805338114702/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIFYCahcUFztrUzvuBqaLs_m5zsY8CfJVv7WDyp-K7gu0Tw8Q=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2025-08-20T18:52:59.663831328Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKM2FXaGtUMko0WjNSM1ZGWmZMVlJvUVRSZmVsRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKM2FXaGtUMko0WjNSM1ZGWmZMVlJvUVRSZmVsRRAB!2m1!1s0x80dc01a9fc750ee9:0x531f38fa60684b4f"
+        },
+        {
+          "name": "places/ChIJ6Q51_KkB3IART0toYPo4H1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OR1NYVnZlbE5IWTBoc2FIbDVaa3RpT1VOR01rRRAB",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Working with Ross and his team was an absolute pleasure. From the very beginning, they took the time to truly understand our vision and brand identity, then translated that into a stunning, professional website that perfectly encapsulates who we are.\n\nThe entire process was seamless \u2014 they were communicative, creative, and responsive every step of the way. We\u2019re thrilled with the final result \u2014 the site not only looks incredible but also functions beautifully. Ross and his team exceeded our expectations, and we couldn\u2019t recommend them more highly!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Working with Ross and his team was an absolute pleasure. From the very beginning, they took the time to truly understand our vision and brand identity, then translated that into a stunning, professional website that perfectly encapsulates who we are.\n\nThe entire process was seamless \u2014 they were communicative, creative, and responsive every step of the way. We\u2019re thrilled with the final result \u2014 the site not only looks incredible but also functions beautifully. Ross and his team exceeded our expectations, and we couldn\u2019t recommend them more highly!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Abbe Kind",
+            "uri": "https://www.google.com/maps/contrib/111980963718060911879/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjj0zOm6TgCh42i177eu6ZFfdMS3qdBDx-PdbdXZ1P9qxdSpAb=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2025-10-28T14:26:36.723221637Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OR1NYVnZlbE5IWTBoc2FIbDVaa3RpT1VOR01rRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OR1NYVnZlbE5IWTBoc2FIbDVaa3RpT1VOR01rRRAB!2m1!1s0x80dc01a9fc750ee9:0x531f38fa60684b4f"
+        },
+        {
+          "name": "places/ChIJ6Q51_KkB3IART0toYPo4H1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ZM01XcHJRa294YkdoeU9XWkVPVEl3YmxaeFMxRRAB",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 5,
+          "text": {
+            "text": "We enjoyed our entire experience with 2Point designing our website. Melanie was very attentive, courteous, and applied a level of creativity that we greatly appreciated throughout this process. So proud of our new website and how it all came together! Would 100% recommend",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "We enjoyed our entire experience with 2Point designing our website. Melanie was very attentive, courteous, and applied a level of creativity that we greatly appreciated throughout this process. So proud of our new website and how it all came together! Would 100% recommend",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Gaye Magazine",
+            "uri": "https://www.google.com/maps/contrib/101264490208161873164/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXckiNgH7i93ivHdufTQgaxmzSXwcgnbUvY5cVhU6HO3LKSn9M=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2025-12-09T03:43:41.273687869Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ZM01XcHJRa294YkdoeU9XWkVPVEl3YmxaeFMxRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ZM01XcHJRa294YkdoeU9XWkVPVEl3YmxaeFMxRRAB!2m1!1s0x80dc01a9fc750ee9:0x531f38fa60684b4f"
+        },
+        {
+          "name": "places/ChIJ6Q51_KkB3IART0toYPo4H1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSM1NXOVdjVWhaVWxJd00wNVRRbXd3T1VSNU1IYxAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "I work for a salmon company, and we did our frozen bags with 2 POINT agency, it was a great experience! For our first project we were in a rush, and they did it in record time, we accomplish the deadline with a professional, clean and on time design. Corey, Haydn and Melanie did a great job. We keep working with them, the price is really good, modern designs and always offer a few sketches for you to choose (I love that). Highly reccomended company :)",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I work for a salmon company, and we did our frozen bags with 2 POINT agency, it was a great experience! For our first project we were in a rush, and they did it in record time, we accomplish the deadline with a professional, clean and on time design. Corey, Haydn and Melanie did a great job. We keep working with them, the price is really good, modern designs and always offer a few sketches for you to choose (I love that). Highly reccomended company :)",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Daniela Lara",
+            "uri": "https://www.google.com/maps/contrib/111031101216818989478/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIKKJOVRs-s8CHHDrYQ8GV-8VZENjRyfWFuBJ3yVayvfUieSw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2025-08-04T20:47:04.752190045Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSM1NXOVdjVWhaVWxJd00wNVRRbXd3T1VSNU1IYxAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSM1NXOVdjVWhaVWxJd00wNVRRbXd3T1VSNU1IYxAB!2m1!1s0x80dc01a9fc750ee9:0x531f38fa60684b4f"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ6Q51_KkB3IART0toYPo4H1M/photos/AVoNoXTtV2VdqApD8WXV5zlu8w6SMRVh3tA3jBVgXN_8l1xRy97p_ADIKVetJW3O39AFTux-qArDavbG3pdZkvgmHdNFMNW9slxNZCgmNJ_eBHVcO7G8rV-PwR9Z6WCu42p9cllEkWApvig5hlPxTJq3sa0OyoKjokpn61C3dkG97_k-i5OjuBjkH7AjtuxamhIqHYkQQ-nLZQ4kwosTXO9Iuhq_dEnATxP0xRvaZ7sQST3ve6sDONKMlFSjvf-g5A6evsc8lE0nnBY2ElpRkbSsFR1uAZ8CWCv8sGjM4S2xRGQdNdJiGdw-tdk_CUiDjswCHikxVcEzzS47JbyKeC4VDPXteF6BroBNf6NxhRCNE038MA5Nulfk5rhUaiDQYSODHRitK-tBEc_kE2luUlwgtyUkDGk",
+          "widthPx": 1024,
+          "heightPx": 575,
+          "authorAttributions": [
+            {
+              "displayName": "2POINT Agency",
+              "uri": "https://maps.google.com/maps/contrib/104073304873776405409",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWaZ5_9LkqNDRKFQPR7-8W6pivID_ABnGoP0QAG-fzHWIpTZ6PH=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDx4aLBcQ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx4aLBcQ!2e10!4m2!3m1!1s0x80dc01a9fc750ee9:0x531f38fa60684b4f"
+        },
+        {
+          "name": "places/ChIJ6Q51_KkB3IART0toYPo4H1M/photos/AVoNoXSK5HFkMg31garPYcLwdPPD5-XvTwSNBFYqxR66BZ671vDkEL7Ftnb5cLWy_LvV8w3mviBul5rSGmmWPma37WAF5p8zTQfh-iKXtxlxh3vXZfAAhAqL_JGyUMLG4bmsiOaDmqLEZEPSdiqPzv94eSS56oAwIfAawF-HsWhFM6V4Gs16qjT87yT_J0hbdOUFok-ZmRTEovdL9yl0LVPlR64ROqCDagIM-mVj0W9L8B9uv09rvtbh5Tq_b32gN8qbmmG5XC4xUE1k8idzaAI4EQfrkLBgNstRntyhLGCbUrsxXmt0HkmLXGQvwE9mqc51UqEsNdozV4BEK87A5HWQCh8zrqXcIydM6wWlyN0ZQF-A3c-X6MZV3gHushQ9bvEatUJ3RYbtfaKsJorMSOpsRtPq-IWZ",
+          "widthPx": 720,
+          "heightPx": 720,
+          "authorAttributions": [
+            {
+              "displayName": "2POINT Agency",
+              "uri": "https://maps.google.com/maps/contrib/104073304873776405409",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWaZ5_9LkqNDRKFQPR7-8W6pivID_ABnGoP0QAG-fzHWIpTZ6PH=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDxi_6h4QE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxi_6h4QE!2e10!4m2!3m1!1s0x80dc01a9fc750ee9:0x531f38fa60684b4f"
+        }
+      ]
+    },
+    {
+      "id": "ChIJJ92uS4hhwokRY50L29jjm40",
+      "types": [
+        "consultant",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(844) 336-3700",
+      "internationalPhoneNumber": "+1 844-336-3700",
+      "formattedAddress": "61-34 173rd St, Flushing, NY 11365, USA",
+      "addressComponents": [
+        {
+          "longText": "61-34",
+          "shortText": "61-34",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "173rd Street",
+          "shortText": "173rd St",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Flushing",
+          "shortText": "Flushing",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Queens",
+          "shortText": "Queens",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Queens County",
+          "shortText": "Queens County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "11365",
+          "shortText": "11365",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.737034699999995,
+        "longitude": -73.79674179999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=10203999901265403235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.webdesignatny.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 21,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 15,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+          "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+          "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+          "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+          "Friday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+          "Saturday: Closed",
+          "Sunday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+        ],
+        "nextOpenTime": "2026-09-23T12:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 8,
+      "displayName": {
+        "text": "Web Design at NY",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJJ92uS4hhwokRY50L29jjm40/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKdVBtanV3RRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I recently had the pleasure of working with them, a renowned top-notch web design services. From start to finish, they exceeded my expectations, demonstrating their expertise not only in creating visually stunning websites but also in implementing effective SEO strategies. Their seamless integration of design and optimization truly sets them apart in the industry.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I recently had the pleasure of working with them, a renowned top-notch web design services. From start to finish, they exceeded my expectations, demonstrating their expertise not only in creating visually stunning websites but also in implementing effective SEO strategies. Their seamless integration of design and optimization truly sets them apart in the industry.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Wilfred Muoki",
+            "uri": "https://www.google.com/maps/contrib/100961964431293027202/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKP4NmjJix-agxW7sVUu_b1Vk3aizvxKCIdWc1TOpMxLS5PJw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-06-20T15:14:21.569001Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNKdVBtanV3RRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNKdVBtanV3RRAB!2m1!1s0x89c261884baedd27:0x8d9be3d8db0b9d63"
+        },
+        {
+          "name": "places/ChIJJ92uS4hhwokRY50L29jjm40/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKaUpQSHRBRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "From the moment I reached out to Web Design, their team displayed exceptional professionalism and a genuine eagerness to understand my specific needs. They took the time to carefully listen to my vision and goals for the website, ensuring that every aspect of the design would align with my brand's identity. Their attention to detail and commitment to delivering a unique user experience truly impressed me.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "From the moment I reached out to Web Design, their team displayed exceptional professionalism and a genuine eagerness to understand my specific needs. They took the time to carefully listen to my vision and goals for the website, ensuring that every aspect of the design would align with my brand's identity. Their attention to detail and commitment to delivering a unique user experience truly impressed me.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Eliud Allan",
+            "uri": "https://www.google.com/maps/contrib/101265627519580291308/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKN8pbMjv2ejw3cUA6wzoOg_2Nl8R8TKzw5lpUB2y0ngGEhVA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-06-19T17:27:31.748420Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNKaUpQSHRBRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNKaUpQSHRBRRAB!2m1!1s0x89c261884baedd27:0x8d9be3d8db0b9d63"
+        },
+        {
+          "name": "places/ChIJJ92uS4hhwokRY50L29jjm40/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4bjVfVUpBEAE",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "The design project was well organized and executed from on boarding to the final delivery, with excellent post delivery support. High efficiency, prompt communication, great patience and many more positive experiences working with the team. It is definitely a pleasure working with\u00a0Web design",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "The design project was well organized and executed from on boarding to the final delivery, with excellent post delivery support. High efficiency, prompt communication, great patience and many more positive experiences working with the team. It is definitely a pleasure working with\u00a0Web design",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Begi Collins",
+            "uri": "https://www.google.com/maps/contrib/115513242876714053213/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIdFR8kU8FHynqX0mJTvb6EiEyxGuuTMzEFvWtrlOUymJjmdA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-06-17T20:38:45.958542Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR4bjVfVUpBEAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR4bjVfVUpBEAE!2m1!1s0x89c261884baedd27:0x8d9be3d8db0b9d63"
+        },
+        {
+          "name": "places/ChIJJ92uS4hhwokRY50L29jjm40/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLdXVIa3RnRRAB",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I have 4 companies, locksmith and real estate each one of my sites was created by this team.\nI cannot stress enough how satisfied I am with their service, it's not only fair priced which is important obviously, it's the way the owner isahy cares about every minor thing.\nHe will not upload anything if it's not 100% he will answer every call every hour, he will update you on progress of seo and give you weekly reports.\nHe will above and beyond for you, and that is what you want when you manage a business.\nI truly recommend to work with him and his team.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I have 4 companies, locksmith and real estate each one of my sites was created by this team.\nI cannot stress enough how satisfied I am with their service, it's not only fair priced which is important obviously, it's the way the owner isahy cares about every minor thing.\nHe will not upload anything if it's not 100% he will answer every call every hour, he will update you on progress of seo and give you weekly reports.\nHe will above and beyond for you, and that is what you want when you manage a business.\nI truly recommend to work with him and his team.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "nessi ziv corali",
+            "uri": "https://www.google.com/maps/contrib/105529019202767052386/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwwgqYhp3ufPcDRklvfIRZlBOwDgRupBQoFOgyCEnZOM7dwvwRMQ=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2021-04-02T17:25:44.527726Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNLdXVIa3RnRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNLdXVIa3RnRRAB!2m1!1s0x89c261884baedd27:0x8d9be3d8db0b9d63"
+        },
+        {
+          "name": "places/ChIJJ92uS4hhwokRY50L29jjm40/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKdU9tOW9BRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "What truly sets them apart is their deep understanding of SEO. They possess a wealth of knowledge and expertise in optimizing websites to improve search engine rankings. From keyword research to on-page optimization and link building, Web Design incorporates SEO best practices throughout the entire web design process. They created a website structure that was highly crawlable for search engines, allowing my site to rank higher and gain more organic traffic.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "What truly sets them apart is their deep understanding of SEO. They possess a wealth of knowledge and expertise in optimizing websites to improve search engine rankings. From keyword research to on-page optimization and link building, Web Design incorporates SEO best practices throughout the entire web design process. They created a website structure that was highly crawlable for search engines, allowing my site to rank higher and gain more organic traffic.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Centano Vovine",
+            "uri": "https://www.google.com/maps/contrib/108990806844650995027/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKlsffRnDLnsJKHv89bOawSq4t1uUJglfxb3nIJXQREJSLMyQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-06-20T15:09:18.637287Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNKdU9tOW9BRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNKdU9tOW9BRRAB!2m1!1s0x89c261884baedd27:0x8d9be3d8db0b9d63"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJJ92uS4hhwokRY50L29jjm40/photos/AVoNoXRIbjxRwPpyqHUtyC3ZN0tgjGj75XC7u8o0WPn0dnlBGm1FQ1PNLC5afyVovDsSEw6tZDwnB3B2INZ_AJ7JMix2I5ok_q76zeI2_mE2xjYZza6_nxBg6yM452xBpQONfuY5yT1jMXTX2TokGU0u_TilFnttCqOVuGKoCzu7rf2z8-YpheXGuPNyo9Lkj8fwamck0h_u8T0BgkbYTujs_pEl4f5NMvacHEQQ-NBlvXXZtsfxhGeeY33l3HM7wBhcFUJKWSJVfC9vJx4fvRi1M54GzxX3tYSOqSVASlheVLnNuqBuKOP1QTAaq31URg69W0BkwcqZCUfrJ04LMZo_kwe833omajQjg_YX0wR1uEl2xbsXNMm8omIa9eYqyu3A1b-1BsgnnE9TGF8vxh_nEE9wFQCzLK6yP6gC5MHoiPyP2g",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Mani Chakol",
+              "uri": "https://maps.google.com/maps/contrib/101997009227390317444",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViX_rLLgipn0EyPgqcHBqF9JAR1oo_H6uG4edClXnOl3Gmc31E=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBawtYTGTrX6VX9cW1-k5ZW&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBawtYTGTrX6VX9cW1-k5ZW!2e10!4m2!3m1!1s0x89c261884baedd27:0x8d9be3d8db0b9d63"
+        },
+        {
+          "name": "places/ChIJJ92uS4hhwokRY50L29jjm40/photos/AVoNoXTVGfJtzNdSHL3_eoZKFben89g5sGBUxFm7sZaH54Bvod4_EFZsO_yuti2tKZDGPDF5PzTky4eDkxLOPJpDqd6VCrPHPpfKEQLhm1qP8JmVQMIwzjbqRF8GmR9gYtT2mJsct3_l2Q4SXHm_9aP0w1l2zqxBoE69Wz5SsDLk3sJpPvsLHMJcsOFglQDWSgSsl3GuXdVORzDsnG3fwtAlXiZJ1CU_iGorY4K4jQCvhxJvHOcVhxJmmml1O03YCKv2axE9EPpDve9IVi_BJ4f5HGaVvNIxQhMqMPajnklcERkoWUXD_hYWkvIiPnkKmVQjAACxS6TRUFC-TEg5duiIUUSqE0PX7az6spuIwbbjl127l0S1jBQbGRmeHJJ0d6WlsWp2xyIMHVJiwEUz_p-1J3cj8o7Bw48",
+          "widthPx": 4599,
+          "heightPx": 3764,
+          "authorAttributions": [
+            {
+              "displayName": "Web Design at NY",
+              "uri": "https://maps.google.com/maps/contrib/109219314643856651506",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGjjWNs2a7nYnE5mDdHs29GXCUe0qZQsGyGrjUVxPlyYaDqhQ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICam6SrjwE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICam6SrjwE!2e10!4m2!3m1!1s0x89c261884baedd27:0x8d9be3d8db0b9d63"
+        },
+        {
+          "name": "places/ChIJJ92uS4hhwokRY50L29jjm40/photos/AVoNoXStTcNk7wjEH74zmpjM3vWWaD5lsj4FOkxxw7J6mJNa_r5g42TrbKATvuU8AnWw4DDB2w7uB1WB-y-gXVuG-1N6fySsoOFxpbCQ-_GAlu425G-RXVCLYWOQhWL-Xh9BiSX6_WID_qZNI-Hcoe0MLafducyV1_yn3nZQp5uY3o7J8nFqalNX8cMM7Fgrkod5a5pptAmgeJF0EakjYvpUYMmGewtzi8oXmT44YHUdHNffJl7bf_bnYQSAw8_ITYTIwxmlcLxdthyFtd8kLKRjZZHFWHz-dsz-zz7VSez4F3zlvNI2qtyymHv1JuvjQNokZX023eGzthAxf1oegXvuP76WfYBYM2MxFh6MIvOTyNiu-8QHHiEhiHzhxBxO7fALmwWjLP3nsHa0vhjHlYNFBbv-JKeSNQ0",
+          "widthPx": 640,
+          "heightPx": 404,
+          "authorAttributions": [
+            {
+              "displayName": "Web Design at NY",
+              "uri": "https://maps.google.com/maps/contrib/109219314643856651506",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGjjWNs2a7nYnE5mDdHs29GXCUe0qZQsGyGrjUVxPlyYaDqhQ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8pOi98gE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8pOi98gE!2e10!4m2!3m1!1s0x89c261884baedd27:0x8d9be3d8db0b9d63"
+        },
+        {
+          "name": "places/ChIJJ92uS4hhwokRY50L29jjm40/photos/AVoNoXRu8WOKycHLhWbb17SY5U_fTbugn7il9lXnKGYQWXtXiwVya0oJzBLnoINcddtxffomqw_CdIOTWNP0EYSZidc7yiayQUQ3mJgvi9teCzKFeWs_ReQ9mLv49JXBl5MkcrL8Ustu6MkwUk67RhgQDVC3VHVSUyK1RUAUXddmUV4MDdlyBV1KYVt8KEFylLVIBbF3-XXgGM2aHIzeqndL66tCqZNPr0I8fsBLRA6pGJ_1I2PhrHQNPNIbAIJs25NZaZ8hwvw4UDrn07ii-GzgwGNtMvC_Yf9Oddi0CvU5NtrozkzX7hgINrmV0ceQtvXrevyeuCMfRVMsL5zJEtAa6F8au5vC5pRVTHs83SR41FpfiRVHFIrDLFxZ5r6L9TxqOdEYLihiCP15oce4vcpMz3vN0ezpRRQ",
+          "widthPx": 1080,
+          "heightPx": 1920,
+          "authorAttributions": [
+            {
+              "displayName": "Web Design at NY",
+              "uri": "https://maps.google.com/maps/contrib/109219314643856651506",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGjjWNs2a7nYnE5mDdHs29GXCUe0qZQsGyGrjUVxPlyYaDqhQ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDW_oLj-wE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDW_oLj-wE!2e10!4m2!3m1!1s0x89c261884baedd27:0x8d9be3d8db0b9d63"
+        },
+        {
+          "name": "places/ChIJJ92uS4hhwokRY50L29jjm40/photos/AVoNoXSnvHO2fezOvAuoK9vZuPmTTCywlIYmYQKOyy_I52Go7BN3JG5JtkdqjG1R_132MVGFPuFrSYExDCpICzvITR2I-uvLrvN3hD2-kIYQHrLoY6RtCVHOIVdcTEpJz4Nojk7HcNTiRVqACW7Yw2bqfL1jZb48dlh6XmEKdab73Ds5v3NJyE4g5Qf17gZXOAt1bO_trmxNfNcFdXOxYeRRhUiLu7ANWX9cj_poV8krpPz2xRocmcqwv1X8vxrXZKXfonS1Uy64IRu_Lbd3Z5_ih0xSH83aMl8GB_m8KqWaJwiDt7sV8OdKls5S6FJpIWjw61_G7rhdkNgbX4Qrd_r_0NkysV84TIJKQ6yTNSzOnCZqCAVXlAN3kC1vGjG0DuNBHVGekXC-i2HYCYfzWf-bNeDax2w",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "Web Design at NY",
+              "uri": "https://maps.google.com/maps/contrib/109219314643856651506",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGjjWNs2a7nYnE5mDdHs29GXCUe0qZQsGyGrjUVxPlyYaDqhQ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDW_vzNHA&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDW_vzNHA!2e10!4m2!3m1!1s0x89c261884baedd27:0x8d9be3d8db0b9d63"
+        },
+        {
+          "name": "places/ChIJJ92uS4hhwokRY50L29jjm40/photos/AVoNoXTfZ8GFN-7JAMg0pUQK_SkYFVtn-w5m6ezHWCgz28X5HM7vFGhqb60ckWe_bHfFSWVTo60pfKt41LpIoJIG5eGIrzEMo5aSpf4dQzhp2vlfZjH98V-WKJBPD-rsBEQbS-H5rET1G7sItcuYP2CF2QOXuf9f4shkKG0Io8UdQ2iAHbi6hlqCmtmRDLNzOhaqjLxZm-pvJ-Wi2z-CP2J1HaL5UbphEL0on5AyEiiSJuktuNMFu4oW-_1wrJPyRYUpU_AAlkWepz7U6BAC3E7vad6pFNbs0pnn7eye-WJUR-zRmebFmQ1z1VBDYQY6_IfmEMkpEvckwc6-fmf2gVs4dbtk2cd4lcIREMDhBg_yvUPXOud6HUNepuAMM3YD-lLhJ1xzojDJvbuYknxjJan4N_GbtQ",
+          "widthPx": 1512,
+          "heightPx": 2016,
+          "authorAttributions": [
+            {
+              "displayName": "Web Design at NY",
+              "uri": "https://maps.google.com/maps/contrib/109219314643856651506",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGjjWNs2a7nYnE5mDdHs29GXCUe0qZQsGyGrjUVxPlyYaDqhQ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDW_oK0aw&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDW_oK0aw!2e10!4m2!3m1!1s0x89c261884baedd27:0x8d9be3d8db0b9d63"
+        },
+        {
+          "name": "places/ChIJJ92uS4hhwokRY50L29jjm40/photos/AVoNoXTPR2tkjVNB4BTysYptMI15rxXAVxlr1X3dTE9rBNRmNN48nTRGC1kvND1jE72riQt1AG1RWm2dp160yWkeCuLm0TbrPOgdPqqVJFkJDeDbRWU8XEEzuHKbHQwBMC68ZMjC9Kc0aU6WwVGtsJ0hHOztlDIGhLiBkwQjcShZmVDHywjaGR_W6hEL-Mbk3xfComrRW8hI0Fr4VFt_loyzKqa6b8n6wGIHSYJEKGrS_AjSJTjo4EBdB4GeggP3yzTQ15ZwN-1FE2LbiOqf3CugFYbyHxY_wLJIrsfAlLEKX4HwYaoJhgKkppTaVSeZy20cXxdMCCmOamkThfV9zMLpXuhbYHHLVuCHScD49JAQMqydEEiNoluzoYRJYSa4iq8twD73DazszNUfKSMm8RYHAsQgGw",
+          "widthPx": 640,
+          "heightPx": 400,
+          "authorAttributions": [
+            {
+              "displayName": "Web Design at NY",
+              "uri": "https://maps.google.com/maps/contrib/109219314643856651506",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGjjWNs2a7nYnE5mDdHs29GXCUe0qZQsGyGrjUVxPlyYaDqhQ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8pOi9Cg&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8pOi9Cg!2e10!4m2!3m1!1s0x89c261884baedd27:0x8d9be3d8db0b9d63"
+        }
+      ]
+    }
+  ],
+  "nextPageToken": "AVoNoXQZhNiwtYbMqYY82cw0LWbNQT1BGMBj8XI3vMcOUSMxEUaXLfw_nS7yNDozsXBF85QrbY0Oa0hFC37jD-JFDYREPEHt0MEYB0d9M4O5VJjywxEa8uGQJErvTTzhdRnpn4X7bHzPeXLwubZHqkvtM1Y3j5URjxBwsez_EqQAK5lNZwoFnzp4q5-KFp63pIEa9-KyzIhhz4mZsDl90eK9B25wIyrKKx58cDAxYvrabxD7FRZXpfGnUaCuTm7-k9SJxQ3qvbhww64NJbdXhfDiYImiJADvRSVLmlAfrpZ0zMmXWA39KCEj519w_6kEiWfMAk2h9DKNioScAwR82XAj6U2doA4gniGj1gWMgrnDwyvbQOOh706QwwqrB17NE4ypNz0PEujh0MLXVo-qaoqEqPWs7xqITqWHCeUT0BOvWVnaWx0Ktz02-Px5KIo5Ic578PmFhhCVMb3PywSq_c6ykAoDgpsIm_zW5YHS_e1hnQCo06q2P4Q9CnO7Mf8u2GQPFscgg6AJxfuwm1_aK7WyeAnQzL4PqoJ7KdomKidaltALne0EXewJY9nT8p-VyAxsKMjlMr0RMMKLpCJiDFyacpgnwtrURLcy8A5G4Zj7j6J0xGv19cFXHxk-QtEEvhXNltapysGXHrR_dl1jrKQ5QwYRPVVVcd9sVGYx0oePKRO-mC9W8sDzpvlGufhy48XiuLt15Oc7c8Z0kUaLGr-706yk5TCEcOC6tcdB7qO0Wki0Cs9VJm4x8tJ_ebyO3xyhTjpzJl6kDXFd0zs2c5ul78d4BIrt3K5v_KtCKqFuFqUrtivXSHP0E0tSr-6lrZGaRBJWaVJuA9y3L54yVBQcZvdqmBe7MR8EC5lUFb3xH8EisXJfGxpPpZTmoeTKjN_tts-dAZI5AmzZcw_25-kfdjAyY9msmlH4gbsiOFR75ex8whlMVuWgZhR1jz9y1jCWe5qj8fTt0lodMinmbG1ihOvtybVQC1jBqAkgvkur8kCvdU3gQyYRWV0bIHd4ppUzT4lN-iYKBtOEGapTUa_ltRuTaZTH3viPJcUV_LGABbqtD9A55zU6tvBd-I-PA59F5DZ_Rwf9h-3CbCRnZV0h0w_xE4zP3P-mh_OiSmf5wa6_5v-AkWUqvhqtRFdcgmtqCwsQFm7gweeP9zTwf3Fpx1NED5rvJ7zcDYIBtzVmRxkZGiNnzEpfJpbCOWHl6MOWxrUGhxKRG7tqBOlDesdpjU_7rG7K6Li3HxBNnDL6brl9th25rdD9045JhAlU65MgEUXGECUJ1x1r25vRyjoAfxHv5QRh0Kr9-j8_NfQ3nmDyopG_q2zKX0U6iSQAFnk-yEAA4jFs1-7Oc8EiYRFjcVW09ObeUf1jVx7KjmAuPh6QrvbzZ_sZJMo-49QsFcTt7sghSj-QFwgOS1vHIidh7mexYgDJ7BVunv84Wz5UU6eOYbq5fwmT-i2dBa0Q7hMZIQROPVdFAUKyDAgf_EeFNFQ_qnNelYiT6S3X5rcFGkL6yUMDZgxp04PfWYKbKXRiS_Rc1VrMH-_xGU2w8QkVbrXBT2YIx1hdCmg7tUJWC9gEyaLzbUYFFBEySLup_v69yyNTTXSZEm9tgKjI7ueQ7sc1IGJgcNygctv6ccW_xapCuFNWyYS5vERsm5Rj9jTKUaJHwh7JXIGSlaADlSx4KNVEFCXWzA"
+}

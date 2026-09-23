@@ -1,0 +1,3650 @@
+{
+  "places": [
+    {
+      "id": "ChIJd4T6IUZNwokROBET3uoKJx0",
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(646) 974-1585",
+      "internationalPhoneNumber": "+1 646-974-1585",
+      "formattedAddress": "1110 South Ave Ste 303, Staten Island, NY 10314, USA",
+      "addressComponents": [
+        {
+          "longText": "Suite 303",
+          "shortText": "Ste 303",
+          "types": [
+            "subpremise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "1110",
+          "shortText": "1110",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "South Avenue",
+          "shortText": "South Ave",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bloomfield",
+          "shortText": "Bloomfield",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Staten Island",
+          "shortText": "Staten Island",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Richmond County",
+          "shortText": "Richmond County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10314",
+          "shortText": "10314",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.6139964,
+        "longitude": -74.1769329
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2100659755056042296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://blackopdigital.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+          "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+          "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+          "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+          "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-09-23T12:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Black Op Digital Marketing",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "photos": [
+        {
+          "name": "places/ChIJd4T6IUZNwokROBET3uoKJx0/photos/AVoNoXQscjK65fcAuY0iJ_m6jWeNkgYKN_WOJyDuM_-S0AiyTNUiJCt9meC_D_P3PzxgTDQY3PJloqFITwvSXfiTzxRS_b3WfsPfAKn7eTqKmCR4Fzs9Qm8zmCjUFMwQVluwTHPMN94Na945f2anG5X5xZJN5nQFwhmZPpbEybOHB1w09jae-93REdcKRyFUJU-RsKJxNYbthQFFTTrPnAo1tpObzZ-uTr8hr6zNkEsakbbFCDCbxb5JaKXbAIwXlhkuRFEyCFQLdYswhVwBrIWYdv8Ck0xAKnBARMN6hrABfVbLoZHRsyLrPO5c0V6__rlXzqiRVTGRfqUy5l9EbCtntOYTwK0afTsN9BO0KtKw5TOQPayaFXb8jglcJCsggOSvdifZaIIX9z5FbE48slfnwsLOTRs",
+          "widthPx": 828,
+          "heightPx": 466,
+          "authorAttributions": [
+            {
+              "displayName": "Black Op Digital Marketing",
+              "uri": "https://maps.google.com/maps/contrib/105339378658620463950",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTr7CgmLs8bh_9BBjjdj8-55Np-XoTeX6rp6WxD89VXEgLTfM=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDhwtOvLA&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhwtOvLA!2e10!4m2!3m1!1s0x89c24d4621fa8477:0x1d270aeade131138"
+        },
+        {
+          "name": "places/ChIJd4T6IUZNwokROBET3uoKJx0/photos/AVoNoXSEVmnU8qY54TKnffYvAygeZGKgPfapqLKXjRprIFeihyoNZjl3ageUqAHmgQpm7Fm0muDmCdTh6IjyIh_3u9TGibdZE2ntqnE0q2K7WQkF10f0-uxF5PH6titmP860nSPWrxqA1lGLErTrJfmERq9mQkUukag3ynY117YVEgXXBW-bqplQZDPQkkPslr0HjDb7HEB1tO_BQeCW7AqLX-nNB8NJbPXfO37tkuIzjeJIi0A0aKY8shgHvBrzB6W6AL4jBlUmprZeVZtVCK4pSc9bWd2XXzOTenKyUPwyMIZZUOBL9DQC_4_KyFIC5Bn6aTCy1iR87DfxGitQnVx6zL_zPM6zD9gA_FqSg_3ltMQG3I3oR8vRd9pFzu79Y8fy9AOsFcuwm8lwrRwzP0uuq3YjA3U",
+          "widthPx": 1000,
+          "heightPx": 707,
+          "authorAttributions": [
+            {
+              "displayName": "Black Op Digital Marketing",
+              "uri": "https://maps.google.com/maps/contrib/105339378658620463950",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTr7CgmLs8bh_9BBjjdj8-55Np-XoTeX6rp6WxD89VXEgLTfM=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDhjIjsMg&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhjIjsMg!2e10!4m2!3m1!1s0x89c24d4621fa8477:0x1d270aeade131138"
+        },
+        {
+          "name": "places/ChIJd4T6IUZNwokROBET3uoKJx0/photos/AVoNoXQsTivLhBEALM6pxn8R28VpEFvOVY-5WnahBcqqJ5V2nWJq4f8QWojKoSWX7ofLs9YghodviQm25ryt6153dlYeisoLMkjVHDWiiqzFvbVCTM4tqAdXJfaq8lGgT64TKreZeSJGv8iT-Zy0Kxi2WHjzCVLFYCJVXkWzlNOCic5K2S_KTsoiQHGwN2ax6JGo3pg8LZxnQcyWaFIf5320LpW5XW48bH1pjVsGOU1Mkx5BzYobnZxZUHNr2WNxboRm8FACyJXP_yWlEt5Dp0aRGMNOMzqCIidTZ3P3njZSpVdZX63K6cse8ue32t1dZEBQXNDdnfG1QqEnZdoZLzvrvdPV7fSUF_yZkOW3apfaUeo2feL-nLs8JjeqINUcD7uFcprdk24HGKPNBauj1L2E4UM4u1GMWr8",
+          "widthPx": 1000,
+          "heightPx": 1000,
+          "authorAttributions": [
+            {
+              "displayName": "Black Op Digital Marketing",
+              "uri": "https://maps.google.com/maps/contrib/105339378658620463950",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTr7CgmLs8bh_9BBjjdj8-55Np-XoTeX6rp6WxD89VXEgLTfM=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDhjIi0ngE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhjIi0ngE!2e10!4m2!3m1!1s0x89c24d4621fa8477:0x1d270aeade131138"
+        },
+        {
+          "name": "places/ChIJd4T6IUZNwokROBET3uoKJx0/photos/AVoNoXQa1qSGkic5Nqy1IKaP5TJHf3RJ3qsdcFIpAv3QTX7azSArWSG2qIXo6x40rtfhSBnNZ6mBBvj7FN1v_uV6WhH3VmLQ4VFM6t7S-KtEn7B5204-AmAzqNxsFvYhQ4N6iCEYHLRv4IOhDoQSRH0TtxtfeVyVES8PfgArlkDEWCkQH41BBrO7LHLyOp_rYzOGEGVpbLT98p5JuH4mUMd-WtwphYBPy6Dh_c6-KAjVfZN2bBBe0QcrNpCIidMB2tAWW8Ec8CL6UzkPWA54rAlFV9IjzcvqOEQw4to4E0zMw_oy_DCb8C-RXLPkMwJWe-7oUPrPhK5NHBu_3iXQb6uCCM3SKwVEinHevTwW6X6C4Idhvc1Dk6k9olqfAsYEFtXYcsiOJaOfltgEXRLp7njw5I3NlkU",
+          "widthPx": 1000,
+          "heightPx": 1000,
+          "authorAttributions": [
+            {
+              "displayName": "Black Op Digital Marketing",
+              "uri": "https://maps.google.com/maps/contrib/105339378658620463950",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTr7CgmLs8bh_9BBjjdj8-55Np-XoTeX6rp6WxD89VXEgLTfM=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDhjIjcAg&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhjIjcAg!2e10!4m2!3m1!1s0x89c24d4621fa8477:0x1d270aeade131138"
+        },
+        {
+          "name": "places/ChIJd4T6IUZNwokROBET3uoKJx0/photos/AVoNoXShJqwWkBhEO5jqWwS-deATRxTfx7kp7XCFw3YowFwtWpkGlzubZQqq22RncXySz8GcAe3Uz3DuvUQkJCLNP1PE2kI2tEjHuCsoyz9KX-TgxXL1iErPhOtu5EWOxNsdDIGhnamjM9ueycIGFm53BbSE7YsMaqeCSVofhfJaGnpfm8yPRYF7A5blFTQsizxMKf8QLe-UJsAvtshzQ7lQuc798hF9Z8Pj59K8EH4CR5F4GmPKi5-29O_KYfJUhj2exGu8DFYP-uH7oeiBi79L4O0WpM7e-TszcGPiRqRvJh_pF3WGNjWOT4AM-nBZvIFj3rxBxkl6N-Qr-R4i_C2uVnsot2yKyxNW8Heuu6xmSOE9KGpv7OegiDFVk48IpXRbh9G2WezmWks0m5k7G781UYw5cyE",
+          "widthPx": 1000,
+          "heightPx": 1000,
+          "authorAttributions": [
+            {
+              "displayName": "Black Op Digital Marketing",
+              "uri": "https://maps.google.com/maps/contrib/105339378658620463950",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTr7CgmLs8bh_9BBjjdj8-55Np-XoTeX6rp6WxD89VXEgLTfM=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDhjIjsNg&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhjIjsNg!2e10!4m2!3m1!1s0x89c24d4621fa8477:0x1d270aeade131138"
+        }
+      ]
+    },
+    {
+      "id": "ChIJC6BWUhVdwokR79_gkhCO3QY",
+      "types": [
+        "marketing_consultant",
+        "consultant",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(888) 857-6473",
+      "internationalPhoneNumber": "+1 888-857-6473",
+      "formattedAddress": "147 Prince St, Brooklyn, NY 11201, USA",
+      "addressComponents": [
+        {
+          "longText": "147",
+          "shortText": "147",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Prince Street",
+          "shortText": "Prince St",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Downtown Brooklyn",
+          "shortText": "Downtown Brooklyn",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Brooklyn",
+          "shortText": "Brooklyn",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Kings County",
+          "shortText": "Kings County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "11201",
+          "shortText": "11201",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.6928195,
+        "longitude": -73.98218279999999
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=494707735915454447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.poise.nyc/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 16,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 16,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 16,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 16,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 16,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+          "Tuesday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+          "Wednesday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+          "Thursday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+          "Friday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-09-23T13:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 22,
+      "displayName": {
+        "text": "Poise NYC",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJC6BWUhVdwokR79_gkhCO3QY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYMG9mVm13RRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "As a client of Poise Marketing, I have had a fantastic experience working with CEO Klara. Her leadership is evident in the team's professionalism and creativity. Klara's strategic vision and attention to detail have significantly improved our marketing efforts, driving tangible results for our business. She is responsive, innovative, and genuinely invested in her clients' success. I highly recommend Poise Marketing for anyone looking to elevate their brand.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "As a client of Poise Marketing, I have had a fantastic experience working with CEO Klara. Her leadership is evident in the team's professionalism and creativity. Klara's strategic vision and attention to detail have significantly improved our marketing efforts, driving tangible results for our business. She is responsive, innovative, and genuinely invested in her clients' success. I highly recommend Poise Marketing for anyone looking to elevate their brand.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Cristy Moya",
+            "uri": "https://www.google.com/maps/contrib/111218961681087449919/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLEmmkQFQumAqNC0bBfTvKRQFffcIqStzI4uk5homKSqs6edg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-10-14T21:58:43.542606Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYMG9mVm13RRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYMG9mVm13RRAB!2m1!1s0x89c25d155256a00b:0x6dd8e1092e0dfef"
+        },
+        {
+          "name": "places/ChIJC6BWUhVdwokR79_gkhCO3QY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5a2FEVlFWRE5XUnpRellrcFpWRFZHZVRCRVkzYxAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "I have had an amazing experience with POISE, and Klara the CEO is so amazing, attentive & helpful. She and her team are helping me out with a logo for my brand, and I have also won a raffle to a free customized website with WIX for a year! I have entered this raffle through a networking event at Klara's restaurant; I am so grateful for this organization and thank you Klara again you are a divine being!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I have had an amazing experience with POISE, and Klara the CEO is so amazing, attentive & helpful. She and her team are helping me out with a logo for my brand, and I have also won a raffle to a free customized website with WIX for a year! I have entered this raffle through a networking event at Klara's restaurant; I am so grateful for this organization and thank you Klara again you are a divine being!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Takeya S. Garner",
+            "uri": "https://www.google.com/maps/contrib/114681301836129831357/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVoJ4nJqkmSoD-JmAkJu76EqfBGqOE20UHVZ1tlawzGHJtPL3o=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2025-06-25T12:25:42.541618302Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5a2FEVlFWRE5XUnpRellrcFpWRFZHZVRCRVkzYxAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5a2FEVlFWRE5XUnpRellrcFpWRFZHZVRCRVkzYxAB!2m1!1s0x89c25d155256a00b:0x6dd8e1092e0dfef"
+        },
+        {
+          "name": "places/ChIJC6BWUhVdwokR79_gkhCO3QY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1VGMxTmlha0l3U21KUVNVWkdjMk5GUTJ4Q1IxRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Poise is an extraordinary marketing firm.  They were able to break down the business Model Canvas that I understood with great ease as well as the four Ps in Marketing.  Great class. Highly recommend. Cheryl Robinson",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Poise is an extraordinary marketing firm.  They were able to break down the business Model Canvas that I understood with great ease as well as the four Ps in Marketing.  Great class. Highly recommend. Cheryl Robinson",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "cheryl robinson",
+            "uri": "https://www.google.com/maps/contrib/106625293007616536718/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLc6mSy6fwdiiYVYOt6y1Llv4BH6BIthX88GY0Vki44q2UKGHA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2025-06-30T10:56:26.680348311Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1VGMxTmlha0l3U21KUVNVWkdjMk5GUTJ4Q1IxRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1VGMxTmlha0l3U21KUVNVWkdjMk5GUTJ4Q1IxRRAB!2m1!1s0x89c25d155256a00b:0x6dd8e1092e0dfef"
+        },
+        {
+          "name": "places/ChIJC6BWUhVdwokR79_gkhCO3QY/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwb29TaGRREAE",
+          "relativePublishTimeDescription": "7 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Poise helped me with restructuring the branding for my photography business and I couldn't be any happier and satisfied. As a local business owner, I needed to make sure that I'm up to date with digital marketing and they made sure that I was on the right path. I look forward to continuing to elevate my business' presence using their customized marketing methods.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Poise helped me with restructuring the branding for my photography business and I couldn't be any happier and satisfied. As a local business owner, I needed to make sure that I'm up to date with digital marketing and they made sure that I was on the right path. I look forward to continuing to elevate my business' presence using their customized marketing methods.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Henry S",
+            "uri": "https://www.google.com/maps/contrib/117832605794277886036/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKOdZuVNXiQh9OQceWJg4OGih-SUbOCbcgAN85BZo16OThRbA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-09-19T22:42:43.624977Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMwb29TaGRREAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMwb29TaGRREAE!2m1!1s0x89c25d155256a00b:0x6dd8e1092e0dfef"
+        },
+        {
+          "name": "places/ChIJC6BWUhVdwokR79_gkhCO3QY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxaDVPc1h3EAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I wanted to rebrand my business and update my website and i left everything in poise hands. I was VERY satisfied with the new website also the ease of them setting up my new e commerce store. The whole process was wonderful and they included me in all aspects. I gave the info and they put the plan into action. I\u2019m very happy with their business!!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I wanted to rebrand my business and update my website and i left everything in poise hands. I was VERY satisfied with the new website also the ease of them setting up my new e commerce store. The whole process was wonderful and they included me in all aspects. I gave the info and they put the plan into action. I\u2019m very happy with their business!!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Chanelle Morgan",
+            "uri": "https://www.google.com/maps/contrib/112525668255499422828/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUU40yQwxRmLJyTsF_tuX3N4h98JaM4Ok4f-vUlx12iEVQhb2Cv=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2021-06-20T19:24:51.043736Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNxaDVPc1h3EAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNxaDVPc1h3EAE!2m1!1s0x89c25d155256a00b:0x6dd8e1092e0dfef"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJC6BWUhVdwokR79_gkhCO3QY/photos/AVoNoXSk1mSGJQMsDIKbSk5lghSVgF2R4Rv4VUfdncp9aonhS8hjHuU0HucvIoX3VuziBXA-wJOoOnz21jhQ4QCW6udJvRwYtyUdT6ylni0Io81Z73Iph_NVMaJe12GVktoMtnfhW3TNz8rJPK3FPe6e7Tdyyy2bi-gnNvl0u5vIz1kdQ7iWsHGuUTTHXtJjAZtBIPs4Mx1bNO6A2ux5oKBIL7Pt1niMX8Fr-MoaYBOWBDoS-MkV5jC4gc2k8x-nHQf-NawTZllU6AFcEMUscM6ebQsJSbospNq963MYtuF-SSvo5jkQsPhWjnfPnbbVpeY0qNOuqVL-wWtireR7o8232EnGq0weIdEXXxUYDz3mpSwhpoNYHgMtQy62Sb-yo9E9gk90H-1R7UWZBD2TFszPABq32bg7q9EcdRnsIcaH9nc",
+          "widthPx": 1068,
+          "heightPx": 600,
+          "authorAttributions": [
+            {
+              "displayName": "Poise NYC",
+              "uri": "https://maps.google.com/maps/contrib/110916207714382413344",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7r0io68tGffkVixYiD4FwSEpnUXvcRAjBMCtbjrHJxjlN6L3m=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDGjMSBDg&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGjMSBDg!2e10!4m2!3m1!1s0x89c25d155256a00b:0x6dd8e1092e0dfef"
+        },
+        {
+          "name": "places/ChIJC6BWUhVdwokR79_gkhCO3QY/photos/AVoNoXTPgMAPxz2KC4cuGZ0_S2He6JCz_1eCBNSxLyof0cc1txn_fw_nTzNX85wmU3c4S0d1NHs0FRlbtynzGF7-fH2es9o3Us33_KGnr8J0C1y_XVDNlFuQpKlPWui8HUvL5VgQavtvzjAoHERB4OwB7mP7xgIRFaHqOJX2qo6yeUvDBMfU00utVsUmqD_TU7ZGDB3VjQ_jpjbd7GvnhBEN6OC7NUwzDCgXW8IctgMFhmc4aF9qPXlFV2oD1kNcgzwH2aiLYCW1HCUEpjqOqlIuDsXPckb68Iv4uTp_CiCauUgva4oXqoaUHUnvXzEpJBFe591nmQ75yOzkv5R2P-n1GDC2Uxg-CtxLRJOm8Ef5j-ua5Axi81QsA8zu7SP-VHL5B4Bt7jK3h8l9nEikUEmdiewjul3r7i74A-c-KFrS8-72rogk",
+          "widthPx": 1500,
+          "heightPx": 900,
+          "authorAttributions": [
+            {
+              "displayName": "Poise NYC",
+              "uri": "https://maps.google.com/maps/contrib/110916207714382413344",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7r0io68tGffkVixYiD4FwSEpnUXvcRAjBMCtbjrHJxjlN6L3m=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDGjPja-QE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGjPja-QE!2e10!4m2!3m1!1s0x89c25d155256a00b:0x6dd8e1092e0dfef"
+        },
+        {
+          "name": "places/ChIJC6BWUhVdwokR79_gkhCO3QY/photos/AVoNoXSMUvGSBUqCecvQmTG9FoQEuSwO4mSsSrRw0LJB2DhOKVmPqAEhx2H-0zCKI_Cdre2JP0AGqDmGzjsxjQ7I_SMZEp8yOAR3fwRmW-wto3BuEczWgpIqDMT6uisxBqEBHTYqRkzx-9BK8uFCtN8yD6-dB9q2QknGDKqT6fyPalolvf4QmWXBPuHQuAkn1coj_LYRoPmRLOv9LV7VrKzLniFsKFwSTQCD8QWjEmJ-LZCBd5Hbd_7-8YeHWzjXu-eWsItVymBAuB_MfGRJEawqhia51BEPkhObSTG1lAIPSQ7e_4mUVEAlgPepYQHRMNsC1_jU0TKR6gWdwCMZkiV6P051WwAIfK-UPkN3mvCjROSMO1ogieCAHop_q1TtwYWUy7urBwZbYdWR5hd2Cimnw5_9POfZuAoaToouaf-1qZJPCHs",
+          "widthPx": 1500,
+          "heightPx": 900,
+          "authorAttributions": [
+            {
+              "displayName": "Poise NYC",
+              "uri": "https://maps.google.com/maps/contrib/110916207714382413344",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7r0io68tGffkVixYiD4FwSEpnUXvcRAjBMCtbjrHJxjlN6L3m=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDGjPjapQE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGjPjapQE!2e10!4m2!3m1!1s0x89c25d155256a00b:0x6dd8e1092e0dfef"
+        },
+        {
+          "name": "places/ChIJC6BWUhVdwokR79_gkhCO3QY/photos/AVoNoXTyu1ClTQfo64tAqRdlfPbhf7xthb5wadXV7_sXWGE7A4E1geexvR8nQVNlawEkGQ0eDN16c81Wy_tXzXWk-MymqxM5owBGXTQ2sNrRhBn9udRPTW1PQhBa_3IGW1t9UI-Fi3hj0wkic2xZ_e2i0Pk_m_egFCiws_ZGCqajlspYLL74hpoUgGB1z_I6zf-dtE7HBUmIA_goo2LsQjaCD9NTZelriefiho7k_fKnejJP05FepBzC9sL-D9sWd_7Q9z48BzOERoQnR5pVy559oTr-J3XOxHXkuCQ1Xg6zNrxT1rtLyZJs6rJajrnrbTIjEz4vJ_FXCax0X5LKbZMnuyFOtPHVdpledR3NlT0Y9fI16vufJ2K0SlGwO5fURPdRmOnT31PHtPXop2EfwFI93pX6Nk2PdGUTcp1thpZLzWdO-A",
+          "widthPx": 2000,
+          "heightPx": 2000,
+          "authorAttributions": [
+            {
+              "displayName": "Poise NYC",
+              "uri": "https://maps.google.com/maps/contrib/110916207714382413344",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7r0io68tGffkVixYiD4FwSEpnUXvcRAjBMCtbjrHJxjlN6L3m=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID82rayag&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID82rayag!2e10!4m2!3m1!1s0x89c25d155256a00b:0x6dd8e1092e0dfef"
+        },
+        {
+          "name": "places/ChIJC6BWUhVdwokR79_gkhCO3QY/photos/AVoNoXRr8U6K7co21jc8Ihd6e2ysRy5REXrCFDGz9HxFQde1fodracEtbuDDoJZwy8qj-I4_4jBDsrPHhVCDwtaPdUzqU9JLwKDN-pTTqS-aFwnZBp8Y6ZbnYe4B43zsrFiG_N4AG1qIXIicWfomt626GleoD8zNQLfwNTlauBsbFw6brzxRwg6QN4a52rNEEjNEnaAzX30Sx2oEYtoEVfzMVFoYy0whtEW0txNLHPDnlLwAZoK9PPhlTDrx9epVC_PxIdha8eNkgUZEIJwPyw4KvgQ7uL3gE6RQuyKCIk1rbrv-2iYncAbdoe2NuMr_kxehypwhUtXaZ9-9yKj9Kdf72eipspgR-YNlvcPL5w1rIuNuJreKoESArwXOL6GNUsXNSg-Jj4pk-L-XsligbhehCVNYUvWlA-TUvOvfqDQlwLp8Zw",
+          "widthPx": 444,
+          "heightPx": 555,
+          "authorAttributions": [
+            {
+              "displayName": "Poise NYC",
+              "uri": "https://maps.google.com/maps/contrib/110916207714382413344",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7r0io68tGffkVixYiD4FwSEpnUXvcRAjBMCtbjrHJxjlN6L3m=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC65KquAQ&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC65KquAQ!2e10!4m2!3m1!1s0x89c25d155256a00b:0x6dd8e1092e0dfef"
+        },
+        {
+          "name": "places/ChIJC6BWUhVdwokR79_gkhCO3QY/photos/AVoNoXQ48gdTCU4YH_PQBNQ85vAuw1pdIloFzTnUSozffKlSCAa4IEXoryUXEIS8K1Yu3oE9_n3GiY50Yw45h-kHZVuTU8TAfdVhdVz0osalhMk_8O520JDTsYE43AAlTIYecre-kNIzH3mGuZMeZAodNtiVremTNtf3aRF2iGOlrF4ba5-0OxPdsm1eKKBx0RLS0eMC1FfcIXkqekB3ETAdqg_JzjXJPH4t5nzAI9bIfTOMgJuDQnPyTYpBRROfIXVJEu5LXr_H-lAwl-J7_BqMddCUdiN2sZKnywuZ2Oeetu9ZCpPW2Hp_FweN4q4YB4D6KIX3ubZdgVmWvGvFh6vhbZfSBsqA7CwWdliYqhLHsTK4f2Wh7OTkb1vgs6oH0lsY87-B3RH9Z8sAoAF_D_CZC3_yFtjL1nJXrMtwziYz-J_Jbg",
+          "widthPx": 1200,
+          "heightPx": 1200,
+          "authorAttributions": [
+            {
+              "displayName": "Poise NYC",
+              "uri": "https://maps.google.com/maps/contrib/110916207714382413344",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7r0io68tGffkVixYiD4FwSEpnUXvcRAjBMCtbjrHJxjlN6L3m=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID82rayKg&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID82rayKg!2e10!4m2!3m1!1s0x89c25d155256a00b:0x6dd8e1092e0dfef"
+        },
+        {
+          "name": "places/ChIJC6BWUhVdwokR79_gkhCO3QY/photos/AVoNoXRh7Htxc2KI0wUgO9hL8G3pyLm82Y9Xwre_zMLtiZH0Wf8s70GknPXlqIcQZIqMrEGPOmm82VNBT3616T8qWid9YEhJkz9qJYKT6ZvljmudZEB4HIr_YrAX4sAVqteXyrzAqBNCpVu2DuMrA4wuAoyCulR9YfzMyJXmh3kuhc7apG-oWCYT8vFF4P9Lls-zmK8kDVGPbph_sQnEcj43ko0HCz1tuytYwRWRIXyEpxhJXHo3780cRKREt6LMzxjOPVUaoF242TcP2LVTm5V3DSegNSYA94gRt975-PvgmXDT8T375EVRd8pCCRbJrPDnPaqKKplY9aFTOcO_J9KJ_e1F83WueeKfJQnLFVoY7D7KJloku4suuE0sxu6rsn1R3rDbSB__E1xxawm9zXIVIKZf9l2Nu7QHBMm9LJCXsvgMt5w",
+          "widthPx": 1500,
+          "heightPx": 900,
+          "authorAttributions": [
+            {
+              "displayName": "Poise NYC",
+              "uri": "https://maps.google.com/maps/contrib/110916207714382413344",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7r0io68tGffkVixYiD4FwSEpnUXvcRAjBMCtbjrHJxjlN6L3m=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDGjPjGgwE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGjPjGgwE!2e10!4m2!3m1!1s0x89c25d155256a00b:0x6dd8e1092e0dfef"
+        },
+        {
+          "name": "places/ChIJC6BWUhVdwokR79_gkhCO3QY/photos/AVoNoXQ_H_qqE_2VQH1DdVgf9hUZyE9tii-7RqYnXScH3eqavHlKpRsH465nXB0DaxTOuGv_74tXmC3wkfuq-QXlgOxkQyNT5CiLqhC5tp7AxIXlK3gcmy4z0drORcFBGxN3Zs4iwQPkM10pAPFxJ_Vlrj0VvYm6VrpCJG4kFp57g8JvQgDBbFNWEN5kfmRNHS7C-SpjGIu9mUWg1U6q-WEQC9jC2huY27IUKMF3Pqk7LueOHbrfN6-ARWojcIPmyu-vWVKn-XCiplf-1MK9jir0V_uvVos7EK5izhNH1BDxWmQMbkho5-JJanxwOYfof9g413uZT6nzDEC_RzhPepz-roxYQenxU5WFctlhA2XNNYp8qRbZvf_S9SOZeSzAnvs5C7lTJDWQsZA5VJIHibBgC0e8HiFfAiBZLEBT44-YRQ1G_Bsi",
+          "widthPx": 2000,
+          "heightPx": 2000,
+          "authorAttributions": [
+            {
+              "displayName": "Poise NYC",
+              "uri": "https://maps.google.com/maps/contrib/110916207714382413344",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7r0io68tGffkVixYiD4FwSEpnUXvcRAjBMCtbjrHJxjlN6L3m=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID82rayqgE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID82rayqgE!2e10!4m2!3m1!1s0x89c25d155256a00b:0x6dd8e1092e0dfef"
+        },
+        {
+          "name": "places/ChIJC6BWUhVdwokR79_gkhCO3QY/photos/AVoNoXTPn3sv3q3GInD2lzaBOVilMbCk4x4YGIIi4whk6awg7ZjoHe2oRqtHSDl4kcQyASdy0TCkwhLAN1T1iL5LfnpHqq74s-DvM5SJNvpmsfMUEhicxdJ-1hMRpsfJIIBiaJXL35Ziwv0uRadIbLOlKNWpwaJVwKCxepR4QFI4oqqPIKuxEsGztJlPkfmW9XkVZs4L1h5BBeDwCW0qet8tHedAS9SlgttXvxo1ofptBh48GKkpcyrKqD6KM20WQxIqTi64jJ0DffScIlhTZwQtmPsF2VC0DQbMpAuBDMxEiVTrfd3x1CDeGM1O2TbFSQyLyqhbFSzTEcM_uC0419BpWpT5uNF3QHgfVydsVp95p89eZSg1G-QlMcl8KFXlEEBIRCyaAL_D-rzNbzz2sB-5jUqIjvWa_tzRUg-0Pmi5QSk",
+          "widthPx": 2000,
+          "heightPx": 2000,
+          "authorAttributions": [
+            {
+              "displayName": "Poise NYC",
+              "uri": "https://maps.google.com/maps/contrib/110916207714382413344",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7r0io68tGffkVixYiD4FwSEpnUXvcRAjBMCtbjrHJxjlN6L3m=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID82raySg&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID82raySg!2e10!4m2!3m1!1s0x89c25d155256a00b:0x6dd8e1092e0dfef"
+        },
+        {
+          "name": "places/ChIJC6BWUhVdwokR79_gkhCO3QY/photos/AVoNoXRzvvsdrDdwfumnz0OQuSC7mCHHJyUUWGgpE_4c9EMJnO_ptCto1GaSYFnL1TfrkvlKP_wQKiomA7MzCQoLp_fVfvRArwBTSrA64jPF_3GQgou2VbG6hFrR4fczK1w9ek5L1UdNo9oQz3-rUMwii2V5dD3Dwqg5J1wAUonLJxBrwiNyucQLeJT2jXmI7AtKCIZRonIfUSXQhKIhoGGHPnE3C1N3IgvVKVzhuRg2MHVHe793oPX4dVZJDYF0VaqBztJ8b7lSoFe1IOudV81VT_UV6tfpv2ClTQo-FQyHbjSJvNevdy1UCioGyjOhT65y_wrY9CkB6G2cTrQUrRfTxVlHe5Mvb5ZXXhB9xIjBuQjGLIOBda90MfVHX06onWhizdx8unsOeoEF1XLr8jpOVracGdNvdrfUl84oGTGABfLxPvI",
+          "widthPx": 2000,
+          "heightPx": 2000,
+          "authorAttributions": [
+            {
+              "displayName": "Poise NYC",
+              "uri": "https://maps.google.com/maps/contrib/110916207714382413344",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7r0io68tGffkVixYiD4FwSEpnUXvcRAjBMCtbjrHJxjlN6L3m=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID82rayygE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID82rayygE!2e10!4m2!3m1!1s0x89c25d155256a00b:0x6dd8e1092e0dfef"
+        }
+      ]
+    },
+    {
+      "id": "ChIJt1JNwy5ZwokRQLvJGg3T2eA",
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "491 Broadway, New York, NY 10012, USA",
+      "addressComponents": [
+        {
+          "longText": "491",
+          "shortText": "491",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Broadway",
+          "shortText": "Broadway",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Manhattan",
+          "shortText": "Manhattan",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "New York",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York County",
+          "shortText": "New York County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10012",
+          "shortText": "10012",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.7220902,
+        "longitude": -74.00001300000001
+      },
+      "rating": 4.6,
+      "googleMapsUri": "https://maps.google.com/?cid=16202213187679533888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://nogood.io/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 6,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 19,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Tuesday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Wednesday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Thursday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Friday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-09-23T10:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 9,
+      "displayName": {
+        "text": "NoGood - Growth Marketing Agency",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJt1JNwy5ZwokRQLvJGg3T2eA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaaXFIQ3BRRRAB",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "From experience, hands down one of the best growth marketing and ads agencies with healthcare startups in NYC! They helped me scale my clinic businesses after struggling with a bunch of agencies.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "From experience, hands down one of the best growth marketing and ads agencies with healthcare startups in NYC! They helped me scale my clinic businesses after struggling with a bunch of agencies.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Amr E.",
+            "uri": "https://www.google.com/maps/contrib/112202759764039214156/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZtJF19I0S7OeMRN_SJa4SK-_Abd4CeOzUcm1vYKkofN90WQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-09-08T02:29:15.832485Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNaaXFIQ3BRRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNaaXFIQ3BRRRAB!2m1!1s0x89c2592ec34d52b7:0xe0d9d30d1ac9bb40"
+        },
+        {
+          "name": "places/ChIJt1JNwy5ZwokRQLvJGg3T2eA/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwa2YyNmd3RRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "This lean team is hands down the best growth hacking team for startups in New York City. They are smart, methodical, quick and passionate about growing and scaling businesses. Never met so many growth marketing nerds in one place!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This lean team is hands down the best growth hacking team for startups in New York City. They are smart, methodical, quick and passionate about growing and scaling businesses. Never met so many growth marketing nerds in one place!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Chantalle Hanna",
+            "uri": "https://www.google.com/maps/contrib/113097745921217583183/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXstmia2ZF3Qj8-_W9bBqyZI98QmJ1_09Sr4YJOR-2t4BfqCeI=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2019-11-01T14:48:29.278174Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQwa2YyNmd3RRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQwa2YyNmd3RRAB!2m1!1s0x89c2592ec34d52b7:0xe0d9d30d1ac9bb40"
+        },
+        {
+          "name": "places/ChIJt1JNwy5ZwokRQLvJGg3T2eA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPMFota2tRRRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "This might not be the right place to say yet but NoGood is good agency run by good people. They are truly ahead of the rest. Met some of the best creatives and growth marketers working with them.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This might not be the right place to say yet but NoGood is good agency run by good people. They are truly ahead of the rest. Met some of the best creatives and growth marketers working with them.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "jason brodsky - porges",
+            "uri": "https://www.google.com/maps/contrib/108091884412166360633/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXphRMmwMxpa4Mv88_Hwd9S33bMMjUwA9CAffzKTq2064p8bC6K=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-06-12T17:46:25.900741Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNPMFota2tRRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNPMFota2tRRRAB!2m1!1s0x89c2592ec34d52b7:0xe0d9d30d1ac9bb40"
+        },
+        {
+          "name": "places/ChIJt1JNwy5ZwokRQLvJGg3T2eA/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6bTRtb0RREAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 1,
+          "text": {
+            "text": "I would not recommend their content services. The quality was very poor and they responded very poorly to feedback pointing out that it failed to fulfill the requirements provided.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I would not recommend their content services. The quality was very poor and they responded very poorly to feedback pointing out that it failed to fulfill the requirements provided.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "JJ and Adam",
+            "uri": "https://www.google.com/maps/contrib/117354100256769925548/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJTIScJYSss4dsL5ymAbPmmGlgA3_PKsirSBoHP7lOqJVUv2g=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-06-05T09:57:14.918022Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN6bTRtb0RREAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6bTRtb0RREAE!2m1!1s0x89c2592ec34d52b7:0xe0d9d30d1ac9bb40"
+        },
+        {
+          "name": "places/ChIJt1JNwy5ZwokRQLvJGg3T2eA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMMko3YkZ3EAE",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Experienced and creative team delivering real and measurable results. Highly recommended",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Experienced and creative team delivering real and measurable results. Highly recommended",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Michele",
+            "uri": "https://www.google.com/maps/contrib/101622703397975618219/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJCAmLo7bvkPGeMAqvrN0siv7u_QupqCxFTgN86oU4YoL38oA=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2024-06-14T20:25:13.489395Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMMko3YkZ3EAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMMko3YkZ3EAE!2m1!1s0x89c2592ec34d52b7:0xe0d9d30d1ac9bb40"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJt1JNwy5ZwokRQLvJGg3T2eA/photos/AVoNoXRFpVFpvJIsvohXocT0kfLdGih4Gv0fi7CRm1fLvHDpj6nUt0cQFAmywSqZTv8Ka4ayZpyb3nKXz6Xd2uRj_LjHlKHZGGk1q_6G4_0C7CRZXqcg3bpUfF9Q8KR46rpQ9x04neGgwtlVEl3nz0wsSj57lSH5Aixqz5M4FVzGgEtrf3v830yQeJvDqaqc4WieuHZX5noWRlZ_iiRj4ADjgKveQkk2ut0Kvvb-qceLi09zUqHvI3IEGKhFVwBKUT5IYjT5xNLjKX4SFeZOHnt3FR5b161q1kg25UuRdlgXAgltMQs6eUd0-tclo2P3mG6ZQuZRAPury9OPodHNpWVzfTAqOv23_y-lCSd-seecinnFqu7pqe_Tbe00oIPJiOhDZk0wVYjo56acLeTvNd7f5ipOeH2Xrn7x-0bRGM0QUbuVuQ",
+          "widthPx": 1920,
+          "heightPx": 1080,
+          "authorAttributions": [
+            {
+              "displayName": "NoGood - Growth Marketing Agency",
+              "uri": "https://maps.google.com/maps/contrib/116114774765486027364",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmtXLnDxo-1v_sWXifFWqqrJXAFTjTsemQBdWrYr8OcrTiAvjp=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICz_8iPYg&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICz_8iPYg!2e10!4m2!3m1!1s0x89c2592ec34d52b7:0xe0d9d30d1ac9bb40"
+        },
+        {
+          "name": "places/ChIJt1JNwy5ZwokRQLvJGg3T2eA/photos/AVoNoXTC2BMyulT_aa8DU_0XksB2SL759tSj7jfFP16QILkAvXb7S0zmQhuGiKxsRGdGtHEXf8MEsVe6NpqT2uEp8GpNNWTVCtIs6YkjeXFLx4r5AbBKHboNdNhAdtsAz5Lvt8c6SVVDUyqQLJCfMLTch6QmC4XKzy0zT9M1Fdl6oUL1MQduqu9Ojxnl7alGo0ou7asxMi_GPdwQU09jn04R22DlethwxSnyeW9NA0gyNqFKEjQTpya350u_HpUGiUxvnXK0emvGxqs2GAGzzu1dw72FFBQtKKRbxcPgmR6-QCeWUU_h83jXn7xvqAI7bLIJkWX_zYTnH76SD-5nxYDjGjZLe_nT2M5c6a5weGNsf7rTvIaj02eRn4r-Qi6uwsbRROZAUF2eAckgN4JU7T9l3_5KUY6ESKdml1Oxx75Pjxv8inL3",
+          "widthPx": 627,
+          "heightPx": 627,
+          "authorAttributions": [
+            {
+              "displayName": "NoGood - Growth Marketing Agency",
+              "uri": "https://maps.google.com/maps/contrib/116114774765486027364",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmtXLnDxo-1v_sWXifFWqqrJXAFTjTsemQBdWrYr8OcrTiAvjp=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICz_-ih8wE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICz_-ih8wE!2e10!4m2!3m1!1s0x89c2592ec34d52b7:0xe0d9d30d1ac9bb40"
+        },
+        {
+          "name": "places/ChIJt1JNwy5ZwokRQLvJGg3T2eA/photos/AVoNoXQQd4UZsp6RIO7dRZ2fCQ2I4QYyxGvMFTBXh3EzaYGCvP7XxMeDqtOQr63cD8_44u58I-g7ZALBpiQEzTL43oq4_-lNBIQLOahxc5EMursAA2Nzj3pVYGYZGJqLeUCXo8g8dCfgQJEDxRiL8ySterC2PMW_XtBQIAsKAM5ZUU50q-kTcZfnnTBtcMDg7dI4pRupUE5SmdFckt43gD4Zgmgyrn8IQq0pYg45g3OqdYv-SwIJxUuatW0wFkXtJDa66Sap6EoE3anh7oGV0npOczriclAqs4OrAwpZtnS1a829SMtIHKJQ0AkMlimu0TBUSDv9TjjyE4p1R4cDqBlEDEreehFhudfH-sT05_MfKqkVN9SM_OOUcr8cBP0RvHCDLf-744lJzEM_HFWdHz8B0Z0YpuOFKasOyMq0eV_0gpqMov-q",
+          "widthPx": 1576,
+          "heightPx": 1322,
+          "authorAttributions": [
+            {
+              "displayName": "NoGood - Growth Marketing Agency",
+              "uri": "https://maps.google.com/maps/contrib/116114774765486027364",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmtXLnDxo-1v_sWXifFWqqrJXAFTjTsemQBdWrYr8OcrTiAvjp=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDtn9Dw4gE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDtn9Dw4gE!2e10!4m2!3m1!1s0x89c2592ec34d52b7:0xe0d9d30d1ac9bb40"
+        }
+      ]
+    },
+    {
+      "id": "ChIJ93OcnaxLwokRdFlPbTfUEqA",
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(718) 356-2867",
+      "internationalPhoneNumber": "+1 718-356-2867",
+      "formattedAddress": "12 Eltingville Blvd, Staten Island, NY 10312, USA",
+      "addressComponents": [
+        {
+          "longText": "12",
+          "shortText": "12",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Eltingville Boulevard",
+          "shortText": "Eltingville Blvd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Eltingville",
+          "shortText": "Eltingville",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Staten Island",
+          "shortText": "Staten Island",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Richmond County",
+          "shortText": "Richmond County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10312",
+          "shortText": "10312",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "3805",
+          "shortText": "3805",
+          "types": [
+            "postal_code_suffix"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.544832799999995,
+        "longitude": -74.16503440000001
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11534514930171468148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "day": 1,
+              "hour": 16,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "day": 2,
+              "hour": 16,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "day": 3,
+              "hour": 16,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "day": 4,
+              "hour": 16,
+              "minute": 30
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 30
+            },
+            "close": {
+              "day": 5,
+              "hour": 16,
+              "minute": 30
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:30\u202fAM\u2009\u2013\u20094:30\u202fPM",
+          "Tuesday: 8:30\u202fAM\u2009\u2013\u20094:30\u202fPM",
+          "Wednesday: 8:30\u202fAM\u2009\u2013\u20094:30\u202fPM",
+          "Thursday: 8:30\u202fAM\u2009\u2013\u20094:30\u202fPM",
+          "Friday: 8:30\u202fAM\u2009\u2013\u20094:30\u202fPM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-09-23T12:30:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Ivy Branding and Marketing Group",
+        "languageCode": "en"
+      },
+      "primaryType": "service"
+    },
+    {
+      "id": "ChIJMXJU_pYI64sRi16KlCkHRUg",
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "57 Beach St Ste 306-b, Staten Island, NY 10304, USA",
+      "addressComponents": [
+        {
+          "longText": "Suite 306-b",
+          "shortText": "Ste 306-b",
+          "types": [
+            "subpremise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "57",
+          "shortText": "57",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Beach Street",
+          "shortText": "Beach St",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Stapleton Heights",
+          "shortText": "Stapleton Heights",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Staten Island",
+          "shortText": "Staten Island",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Richmond County",
+          "shortText": "Richmond County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10304",
+          "shortText": "10304",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.6282065,
+        "longitude": -74.0779556
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=5207576419290996363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://waydigit.com/",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 3,
+      "displayName": {
+        "text": "WayDigit",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJMXJU_pYI64sRi16KlCkHRUg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWdVMwbGhlVGxwWHpGTFZESlJOMUpxYlRVemNtYxAB",
+          "relativePublishTimeDescription": "7 months ago",
+          "rating": 5,
+          "text": {
+            "text": "WayDigit delivered a seamless website with strong SEO and smooth CRM integration. They were responsive, flexible, and made sure our vision came to life. Highly recommend for anyone looking to boost their online presence!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "WayDigit delivered a seamless website with strong SEO and smooth CRM integration. They were responsive, flexible, and made sure our vision came to life. Highly recommend for anyone looking to boost their online presence!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Caitlyn Nazarenko",
+            "uri": "https://www.google.com/maps/contrib/115619917364366794417/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJBnIW8WvWhSRroR2d3DdNYpLYCePCVfX5oswftICcY1gMyRQ=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2026-02-06T15:10:39.866632676Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWdVMwbGhlVGxwWHpGTFZESlJOMUpxYlRVemNtYxAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWdVMwbGhlVGxwWHpGTFZESlJOMUpxYlRVemNtYxAB!2m1!1s0x8beb0896fe547231:0x48450729948a5e8b"
+        },
+        {
+          "name": "places/ChIJMXJU_pYI64sRi16KlCkHRUg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGclIycDNObkp5ZGxadlVtTjBlWGRpVFVsUFVHYxAB",
+          "relativePublishTimeDescription": "10 months ago",
+          "rating": 5,
+          "text": {
+            "text": "WayDigit did an amazing job building our gym\u2019s website! It looks professional, loads fast, and already ranking on Google. The team was responsive, creative, and easy to work with - highly recommend them!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "WayDigit did an amazing job building our gym\u2019s website! It looks professional, loads fast, and already ranking on Google. The team was responsive, creative, and easy to work with - highly recommend them!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Viktoria Stelnitska",
+            "uri": "https://www.google.com/maps/contrib/111782793269080205244/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKLVBwaYKZfLuUzhrpTUDoqD9y7qPAvmpUZhRWAuFi24eCd2Q=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2025-11-03T16:31:58.053612336Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGclIycDNObkp5ZGxadlVtTjBlWGRpVFVsUFVHYxAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGclIycDNObkp5ZGxadlVtTjBlWGRpVFVsUFVHYxAB!2m1!1s0x8beb0896fe547231:0x48450729948a5e8b"
+        },
+        {
+          "name": "places/ChIJMXJU_pYI64sRi16KlCkHRUg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KUFJtSnBlV2RsTjNWMFZsaFBUMEl6VHkxamFuYxAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Great company, great service. Happy customer",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Great company, great service. Happy customer",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Yana Zarra",
+            "uri": "https://www.google.com/maps/contrib/114206570539590599833/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAJqwSLQsufzg6eo4YS6a6TNYRKhWN0CTRHAMPmpKJLAF1Drg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2025-07-14T14:26:31.350809975Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KUFJtSnBlV2RsTjNWMFZsaFBUMEl6VHkxamFuYxAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KUFJtSnBlV2RsTjNWMFZsaFBUMEl6VHkxamFuYxAB!2m1!1s0x8beb0896fe547231:0x48450729948a5e8b"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJMXJU_pYI64sRi16KlCkHRUg/photos/AVoNoXSTP0CIWmtRcEYFilVcvmaNO6T3Sl_vpnp1GC_lxW2ruX4cnr08LIHuSo21g3ZyhA4a9HkijK6KDduP9tKTNFCXsxAcYegVwA9dtO8z5lIBHpp1Xoyi2s49H6Lxubf9ZGwT_WxrIXO1AXLXXyMi1DejF_1s_qoqlSb042JZkCCwpPbKRZ6f-ym87qCzLMqs4zUrP0g9cTmDxWLoptBOQisQiL1r-zixWtk94EzaJT-JsZ1sZ_mUzLFC5Yg5HXv-zow3mAMkaEJ-CQ1QJG9qiqzxCfM6D67P9TcI96Iz7xFvjwvxDcs3V5vwSQjlgZEbYvakhWPFkq-VKkHZG2NUDNWKzfH9BRLc6sp8UkL8N7pO9pdlSs_An0uDb36KQjF5us4t2MAqp7qB4FcfyH1stCPynqgBaec",
+          "widthPx": 1530,
+          "heightPx": 2040,
+          "authorAttributions": [
+            {
+              "displayName": "WayDigit",
+              "uri": "https://maps.google.com/maps/contrib/101185538805111695633",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4W81HotXcTgQBUJNpBuVIqzwxZjOdLMJQQubAODc3dnUTgjE=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDXh-PphwE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXh-PphwE!2e10!4m2!3m1!1s0x8beb0896fe547231:0x48450729948a5e8b"
+        },
+        {
+          "name": "places/ChIJMXJU_pYI64sRi16KlCkHRUg/photos/AVoNoXQJa5FRmGMuve8jsqhgknNTujTCw9XEfdp9AGgG_jHU9A3yN7rIBviR-R24SoVmgW8Ido2T5SUsqhCvVZxc5k7VpP6MO-vWNxAfp8mV6toIew_kudyfkn9TL5z0PBRnQROR2yiSnGom5t8LOhiVnULGUrnN3-rE3c7xroBVTOIEPUjy2tFyAO5kSNuzmv_--6AqBccsgDiq34o4XSfPkPM7ruGEfAACQQruugapEnuSO3O8UBjNlPzZBrezkOao4A1LIYD4qMkaXNMGzbPpL-g3LP4d0l23aaCdmZ8JXHwlyq4GCf9hixeVdv9c6A0QwNPwOBuLzUNJGxgP53UWXC8iByT6Gvhqjic7E98TNo9YqKcS2g7GDu1XA839erkKPpYAdq8Z5XaIaEEYRsX0IVhjYvYIStI",
+          "widthPx": 1530,
+          "heightPx": 2040,
+          "authorAttributions": [
+            {
+              "displayName": "WayDigit",
+              "uri": "https://maps.google.com/maps/contrib/101185538805111695633",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4W81HotXcTgQBUJNpBuVIqzwxZjOdLMJQQubAODc3dnUTgjE=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDXh-PlgQE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXh-PlgQE!2e10!4m2!3m1!1s0x8beb0896fe547231:0x48450729948a5e8b"
+        }
+      ]
+    },
+    {
+      "id": "ChIJOylWJ3dOwokRwsBvQ2NCQJc",
+      "types": [
+        "manufacturer",
+        "store",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(718) 447-8557",
+      "internationalPhoneNumber": "+1 718-447-8557",
+      "formattedAddress": "896 Forest Ave, Staten Island, NY 10310, USA",
+      "addressComponents": [
+        {
+          "longText": "896",
+          "shortText": "896",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Forest Avenue",
+          "shortText": "Forest Ave",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "West Brighton",
+          "shortText": "West Brighton",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Staten Island",
+          "shortText": "Staten Island",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Richmond County",
+          "shortText": "Richmond County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10310",
+          "shortText": "10310",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.6284397,
+        "longitude": -74.1192016
+      },
+      "rating": 4.5,
+      "googleMapsUri": "https://maps.google.com/?cid=10898784092337193154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.rlpressinc.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-09-23T13:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 79,
+      "displayName": {
+        "text": "R&L Press Inc",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJOylWJ3dOwokRwsBvQ2NCQJc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aNmNrTmplREoyUldoMVkxbHFXVlpHZFV3NFoxRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "\u201cI can\u2019t say enough good things about this place. They are extremely professional, reliable, and truly care about the work they do. Every time they tell me something will get done, they always follow through and deliver exactly what they promised, usually even better than expected. I\u2019ve had several things done through them already, and the quality and attention to detail has been outstanding every single time.\nIt\u2019s hard to find businesses nowadays that are this dependable and easy to work with. They always treat me with respect, communicate well, and make the whole process smooth from start to finish. This has definitely become my go-to place for my business needs, and I honestly wouldn\u2019t want to go anywhere else. Highly recommended to anyone looking for great service and people you can trust.\u201d",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "\u201cI can\u2019t say enough good things about this place. They are extremely professional, reliable, and truly care about the work they do. Every time they tell me something will get done, they always follow through and deliver exactly what they promised, usually even better than expected. I\u2019ve had several things done through them already, and the quality and attention to detail has been outstanding every single time.\nIt\u2019s hard to find businesses nowadays that are this dependable and easy to work with. They always treat me with respect, communicate well, and make the whole process smooth from start to finish. This has definitely become my go-to place for my business needs, and I honestly wouldn\u2019t want to go anywhere else. Highly recommended to anyone looking for great service and people you can trust.\u201d",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Ralph",
+            "uri": "https://www.google.com/maps/contrib/114325100639835428840/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVSCHKAlIO2sMoeb6M7NuLk0pFakdLOOtA05rjbAoaTg0SnlE_S6Q=s128-c0x00000000-cc-rp-mo-ba4"
+          },
+          "publishTime": "2026-05-28T01:36:26.454926446Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aNmNrTmplREoyUldoMVkxbHFXVlpHZFV3NFoxRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aNmNrTmplREoyUldoMVkxbHFXVlpHZFV3NFoxRRAB!2m1!1s0x89c24e772756293b:0x97404263436fc0c2"
+        },
+        {
+          "name": "places/ChIJOylWJ3dOwokRwsBvQ2NCQJc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZd05IZHdVVTlqUVVGalkxWnBaamxIZWtOMVpYYxAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Been buying t-shirts for my band from R&L Press. Prices are UNBEATABLE, and print is absolutely perfect. Many other places denied our order due to the logo being too \"complicated\" to print, yet R&L aced it AND FAST too! I wouldn't go to any other printing company. Support local, choose R&L.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Been buying t-shirts for my band from R&L Press. Prices are UNBEATABLE, and print is absolutely perfect. Many other places denied our order due to the logo being too \"complicated\" to print, yet R&L aced it AND FAST too! I wouldn't go to any other printing company. Support local, choose R&L.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Lauren Elisa",
+            "uri": "https://www.google.com/maps/contrib/112019401578948917935/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVk1R52niQjKU6-zdSVSL0kOgWzgGR_kktsrcSRx2T16Vkp1rr_=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2026-06-18T16:24:35.812182440Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZd05IZHdVVTlqUVVGalkxWnBaamxIZWtOMVpYYxAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZd05IZHdVVTlqUVVGalkxWnBaamxIZWtOMVpYYxAB!2m1!1s0x89c24e772756293b:0x97404263436fc0c2"
+        },
+        {
+          "name": "places/ChIJOylWJ3dOwokRwsBvQ2NCQJc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWelJtbG1ZM0JFWW1GelkwOWpPR1E1V0dsTFQxRRAB",
+          "relativePublishTimeDescription": "3 months ago",
+          "rating": 1,
+          "text": {
+            "text": "Beware of this place. The boss spoke to me in a harsh manner and I got bad service because I wasn't a huge order -- only $1500. I was a return customer too. It took them close to three weeks to get my order done. I even had to call them up and remind them that I had an order; then the boss grabs the phone, and in a tough-guy manner tells me he's got bigger orders to attend to, that I better get my information straight because he didn't want to deal with my order again. Instead of making me feel comfortable, which is what a good business does, he made me nervous. I swear on a stack of bibles, this is the crap I had to deal with. Imagine, they take your hard-earned dollars and treat you harshly. If your project is, say, less than $2,000, I wouldn't step foot inside their door. Go somewhere else. If your project has a few extra details, go somewhere else. They don't seem to handle well anything that's out of the ordinary or unique. This group lacks manners, finesse, and consideration.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Beware of this place. The boss spoke to me in a harsh manner and I got bad service because I wasn't a huge order -- only $1500. I was a return customer too. It took them close to three weeks to get my order done. I even had to call them up and remind them that I had an order; then the boss grabs the phone, and in a tough-guy manner tells me he's got bigger orders to attend to, that I better get my information straight because he didn't want to deal with my order again. Instead of making me feel comfortable, which is what a good business does, he made me nervous. I swear on a stack of bibles, this is the crap I had to deal with. Imagine, they take your hard-earned dollars and treat you harshly. If your project is, say, less than $2,000, I wouldn't step foot inside their door. Go somewhere else. If your project has a few extra details, go somewhere else. They don't seem to handle well anything that's out of the ordinary or unique. This group lacks manners, finesse, and consideration.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Louis Bardel",
+            "uri": "https://www.google.com/maps/contrib/115217995501708626716/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1UlQNB_GvSzj-tliRmDtZatkxvYW3dXDVl14eszM36RoEloE=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2026-06-08T15:18:04.574560073Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWelJtbG1ZM0JFWW1GelkwOWpPR1E1V0dsTFQxRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWelJtbG1ZM0JFWW1GelkwOWpPR1E1V0dsTFQxRRAB!2m1!1s0x89c24e772756293b:0x97404263436fc0c2"
+        },
+        {
+          "name": "places/ChIJOylWJ3dOwokRwsBvQ2NCQJc/reviews/Ci9DQUlRQUNvZENodHljRjlvT214NlNXODBkVU5rU2psRE0wOXZOR2R4Y1VsdVgxRRAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "Ive been using R&L for over 20 years for all my business printing needs and they've been terrific throughout that time.  I like their care and personal attention to my business needs and they do great quality work!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Ive been using R&L for over 20 years for all my business printing needs and they've been terrific throughout that time.  I like their care and personal attention to my business needs and they do great quality work!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dan Diner",
+            "uri": "https://www.google.com/maps/contrib/102785154496986538503/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLMBVOyPSqcZwnJ7Vv-bf71kbUMKC1GFmWs7a8TwucSiDnV=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2026-07-27T13:44:50.505397331Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214NlNXODBkVU5rU2psRE0wOXZOR2R4Y1VsdVgxRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214NlNXODBkVU5rU2psRE0wOXZOR2R4Y1VsdVgxRRAB!2m1!1s0x89c24e772756293b:0x97404263436fc0c2"
+        },
+        {
+          "name": "places/ChIJOylWJ3dOwokRwsBvQ2NCQJc/reviews/Ci9DQUlRQUNvZENodHljRjlvT214bVEyZHZWRnB0UW1GSFdWRlRZMmxyV1dWdlRuYxAB",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Excellent experience with R&L Press.\nVery professional, quick turnaround, and great quality work.\nThey printed custom T-shirts for my appliance repair business \u2014 clean print, great quality, and attention to detail.\nCommunication was clear from start to finish, and the result exceeded expectations.\nHighly recommend!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Excellent experience with R&L Press.\nVery professional, quick turnaround, and great quality work.\nThey printed custom T-shirts for my appliance repair business \u2014 clean print, great quality, and attention to detail.\nCommunication was clear from start to finish, and the result exceeded expectations.\nHighly recommend!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Badma",
+            "uri": "https://www.google.com/maps/contrib/110463749275651550979/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUUotdbVlXTc4cn6CjRt4oiVlLv-sUIex5DwTqTQH-xttU0uk=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2026-01-19T01:25:48.689493248Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214bVEyZHZWRnB0UW1GSFdWRlRZMmxyV1dWdlRuYxAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214bVEyZHZWRnB0UW1GSFdWRlRZMmxyV1dWdlRuYxAB!2m1!1s0x89c24e772756293b:0x97404263436fc0c2"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJOylWJ3dOwokRwsBvQ2NCQJc/photos/AVoNoXT_SVZw9Q9z-tTdXBvWZPlaN0zF_augNoBsHzFepJZnXOnyVySqCMr232su7sZur_5d6lnK0vKNcAduJIwKXdZ1szaAn9LRtqxPLiBaunZJ-mwp7-GNe84zGq8GvVL5PtupG00vsFaJcJmX36J3wq-TLQgkY5ikowVomrMWAOlg9uAt-lmzQKx6JYOw3oWYaewqkLSEH8KGi4cId-340Vi9b3mxh-pVfkXDzwka3dsjAWj5tptNkypq1A7vyBFIxnxcR-2cIhcDTxr4ZBZzelIdVODHf4XoNJo2yCuBBUkDXZJuukB6Mvoao0jx6wFsMQT4lgcaKVxfzGyLJAf4TXkhgeyKSTgEFf72Rl3N0tjWoyWaGg0Bcqr0fV4asGJbnU2BrtA0QKh_7_8GKXqUA_kMkI4taVw",
+          "widthPx": 300,
+          "heightPx": 450,
+          "authorAttributions": [
+            {
+              "displayName": "R&L Press Inc",
+              "uri": "https://maps.google.com/maps/contrib/110980711316644442686",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkwNvydZraoCNUMKOP1fdXOWDX3dYwCdV8S04xFxBowa8NzDjZ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICem5aPygE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICem5aPygE!2e10!4m2!3m1!1s0x89c24e772756293b:0x97404263436fc0c2"
+        },
+        {
+          "name": "places/ChIJOylWJ3dOwokRwsBvQ2NCQJc/photos/AVoNoXTPSDlgkwJrHFT7jqPykXsw1gxMeCnieuzFpZrrKKRHHn6_u_Qb6dbQbT24Zj3yyBitUi7kNJJ9z4jZRpEkJAJAg3_jVudfQAsZjguewxsCJ6Zes9cPPn-zy4gMw-tw3DFMuMEFfJPna_9NZyq6PIt6LvBcUca_L8iWKTz6D6ACDj7O_DNFDmOH61uqwauRYSJHfCrkt0scopsFopUGlbV16lZGj_TonYC0ehDqRUvGnzcwfzNeClqyVvVApyfC1k1b2Gitwk20S0nnBmNP0snA_VzSe6gkvZ3j6zGEnjjI_MZCsisOtgltizua3APC1U49NywkI0HCZWRLlPIDn3vd1JlF_bZSWYr1ZIMc_zIVqtdPAcguJxxhLutDKP14MEZsSKYO5WVrlBs_BOqOZQtyO03AO9k",
+          "widthPx": 2030,
+          "heightPx": 1320,
+          "authorAttributions": [
+            {
+              "displayName": "R&L Press Inc",
+              "uri": "https://maps.google.com/maps/contrib/110980711316644442686",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkwNvydZraoCNUMKOP1fdXOWDX3dYwCdV8S04xFxBowa8NzDjZ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICem-G2rAE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICem-G2rAE!2e10!4m2!3m1!1s0x89c24e772756293b:0x97404263436fc0c2"
+        },
+        {
+          "name": "places/ChIJOylWJ3dOwokRwsBvQ2NCQJc/photos/AVoNoXShH17y06n_-WBsxm9EKixJPvmGmG8QCfUgHemsTkpF1fcIaAoZv2rPciCl_3FlkMnMJdABMHl0iu6zcTwamGf5JnVi1qFZfip2Gf4n_XechNTt-FX3SblgOZOeFPQ1cu7jALaUS3Ixczy_iVHKRnfVzCDXgal1qk2N0xbQ3yuGQ5Vy72lyEU4S_6VL300xxjMtdggzgfEETuPGIgN_7uAb-JHwltilLtbf7OSduUahtBHofcHT8WyrWjIcIesuSDOwknYJ-lsrN0B-yCHdvV58O9DBCgUEPx70zzrkQHgRRSzSSWQWpdK1uwmpX7QquJQOsFtdi_mtXYwoGEJeLj6qIGk8Tyh5dBcZ8kx1_xeW2KfVUGxMX3QymEGLLOCz1PUsK-7R6-NGlbkPl-NmeWnruNCwwkI",
+          "widthPx": 1360,
+          "heightPx": 909,
+          "authorAttributions": [
+            {
+              "displayName": "R&L Press Inc",
+              "uri": "https://maps.google.com/maps/contrib/110980711316644442686",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkwNvydZraoCNUMKOP1fdXOWDX3dYwCdV8S04xFxBowa8NzDjZ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICTp_iIqAE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTp_iIqAE!2e10!4m2!3m1!1s0x89c24e772756293b:0x97404263436fc0c2"
+        },
+        {
+          "name": "places/ChIJOylWJ3dOwokRwsBvQ2NCQJc/photos/AVoNoXTbxNpq9H7Jdtt7MwHDH-A8z6qtkTjB9qLIZ5eNyMLbZjkV9mP0I_XPzTU0lghnJD2HCRH-hcvgGPPSlpSsW8G6jNGtlH0SGnPMhHgzE0g9NixmHSMX0ruEGmOkdyTSgcEBRlagbwcDIzeqg1Jh95dVgQdebT-pXqcokwWvZEIq4JwsPpB2De2gztbUCD7RW2cyZVCoureLawpm6Wue3Jq7p5GFm83LU6FQJ2h2hkfSPitp4808d7f1Y-JtllnaAZTCEMdm9-ni_qrANS9nYz6alOsTO28NpPBaVdJYeYI6MtHHZVAj8jFc_Zc0h-Yz6OY6eOIfJ3nyveLu35xs-E69R-qVjEo8_6Oa-HwvksiZTAGuOlOCP-XeC2Sx6k_ufKq5hJWEeZr3ho39XvAe3bDc7SHU",
+          "widthPx": 500,
+          "heightPx": 500,
+          "authorAttributions": [
+            {
+              "displayName": "R&L Press Inc",
+              "uri": "https://maps.google.com/maps/contrib/110980711316644442686",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkwNvydZraoCNUMKOP1fdXOWDX3dYwCdV8S04xFxBowa8NzDjZ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICem5bP6gE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICem5bP6gE!2e10!4m2!3m1!1s0x89c24e772756293b:0x97404263436fc0c2"
+        },
+        {
+          "name": "places/ChIJOylWJ3dOwokRwsBvQ2NCQJc/photos/AVoNoXSY58koXtY0euVDiQlyOQuuUpqjgjN-seH4sxYMSoNvlx2galeWzbiw-Z3Lvj8HbYoNSd3vZ7Pm2ie-m0oBfcc4kd7rwa3t4PG9M3UrFshJ7g5q45jcGhtaCtkR64a-sncSANI8Hpl5csPbHdQ7f2O3FQ4JJoAmFyyotCoQFPd_U5vADD9boyF0m3XNuvVtzbtHnWrEc2hEqJm2sI_c91kYaLKIH8iSWC6lKQ2Jy03kMzShRNhCGwWG4th56QXOU8IdHCDr6NuQBcWS0ZBErbCv43e5M5g_KTQSyOnyCTz8PTbCS8WL_6_ckE6MarXZe8b0LlvoyZprffs-FLX3lk4HO60qa_d_-gHPAaZdsJmovrRpwHhC1FXf9WD5BU0eXdmHmIu2k7g4ieX5XqxIPLwvD5I",
+          "widthPx": 583,
+          "heightPx": 357,
+          "authorAttributions": [
+            {
+              "displayName": "R&L Press Inc",
+              "uri": "https://maps.google.com/maps/contrib/110980711316644442686",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkwNvydZraoCNUMKOP1fdXOWDX3dYwCdV8S04xFxBowa8NzDjZ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICem5aPUg&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICem5aPUg!2e10!4m2!3m1!1s0x89c24e772756293b:0x97404263436fc0c2"
+        },
+        {
+          "name": "places/ChIJOylWJ3dOwokRwsBvQ2NCQJc/photos/AVoNoXTOjP1-Gd4jv6wQf6192Ox29Jv9uxHG_pFeItCk4rwml8OTm8FJ_Q2AFH4kusSWcRHSwr3-7qecYiTi0_TKWOEUK3Rz97D6GEQm7kXDeZGoDQIbNW0VPyZXkfEwt4gyIAPeT0vLSTkMI5ZDFNiDRa9qiMvzaaxh1z3iXrjX9fqDaxxzfCAK8hmBQ8AkRJEfJsWf35KvBlQzIRKmv7KRvCkHJKpNZAvNZfusWTF4SOGbQD49ZorJW_YuQ227IUzgrkZdVq-J5GKL8DvNhtyxCs8p357auFiYGmmzP9deBOdN1q0RiQ2udq4j34TYPHJ4RTvNyaRSScsWhPjxvanPKfxDNjAHqn-nS_9zTTja5qu722fZeme3MxcvmDuC_sV-Eu-gruEQkg0Im3Z9bu5QhAd68v2KeB8",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "April",
+              "uri": "https://maps.google.com/maps/contrib/103709084405136574291",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiRaOcp4Y-Yfv6zdUrtnuqSzEoIp63TPykz2aTGMwb6F4EkJl8=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICZtfjSvAE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZtfjSvAE!2e10!4m2!3m1!1s0x89c24e772756293b:0x97404263436fc0c2"
+        },
+        {
+          "name": "places/ChIJOylWJ3dOwokRwsBvQ2NCQJc/photos/AVoNoXSDemXf2kA2SAyswqqPqE5EKqXE5sZKsQYtN7hHmyjsFLFAUeC1kefAysm6a71l0Hzm5dvQDOfPHHBtxMQ9eGcoQYJ5R7Uh6yMW-32FNv4uCwwpwGZvmnF_VrPPlsSYYBbfkfRmQvWHht-1p8XMmW6sEHiMYF71gRw9sc7-YvgZB1oWjCluS0NPRPLAVkCxvNoEoaDjGGMdgoXcn6Jqu79QsGfwWK8ALAQ3dqLSXulhhNDOxn63xNUlq_dv56m3WC8i1Wp-QfBk6WiY6Wed7Mb9ssMdF2EhCT6xPqN9QfG4sGrFr1xVvDWCOSbc0eZ6tim0Jmt8e1arfG2p5nA--9Na2LjXgcGjHvX9kZhyU6KvgSdvfR8R-v0rfJ9bTyDqpJDzuMz0Rf8pl0PpVoaqOaH3lfKFu0o",
+          "widthPx": 1122,
+          "heightPx": 1115,
+          "authorAttributions": [
+            {
+              "displayName": "R&L Press Inc",
+              "uri": "https://maps.google.com/maps/contrib/110980711316644442686",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkwNvydZraoCNUMKOP1fdXOWDX3dYwCdV8S04xFxBowa8NzDjZ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICem9m7ngE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICem9m7ngE!2e10!4m2!3m1!1s0x89c24e772756293b:0x97404263436fc0c2"
+        },
+        {
+          "name": "places/ChIJOylWJ3dOwokRwsBvQ2NCQJc/photos/AVoNoXQebLvRNni4h-MqGzIEcexaqy-BHbf4tnMJ25D7rNCwKCv36nIcEzlQOSZ8jqO0IXIdUfZiSCY_7e1e1K-Z04gbrluniBI1pGfPpvmer7t7obhU1yc5HDEYM-HzRhGjSsuOy3RHN8vXOfrvgKXHCvnCxX4X4nCFr0V43lKpRP9k4JeauW6e6pmkCt6KMwnSESOK_wN3SIqfCRl1xX345suuz5gfkMxvJgfiSZyUbklHEj-xoM3s2mcHAFacdqzrTURb1Kt4mFZoxg8AZUW6_4drPBm3xZ1oQnbr2c6VonEdSq5oaOj4_CiX-bCMmYJEKBUyUtz4zo_pu24manBVOWDsOWcxAQ-LxLgUvaS6hFtSvlrcYFIHtCYqv0tgPZ9P_8FPe5bqQI8u9VrHhNGqtAzpXV4",
+          "widthPx": 500,
+          "heightPx": 500,
+          "authorAttributions": [
+            {
+              "displayName": "R&L Press Inc",
+              "uri": "https://maps.google.com/maps/contrib/110980711316644442686",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkwNvydZraoCNUMKOP1fdXOWDX3dYwCdV8S04xFxBowa8NzDjZ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICem5a3Lw&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICem5a3Lw!2e10!4m2!3m1!1s0x89c24e772756293b:0x97404263436fc0c2"
+        },
+        {
+          "name": "places/ChIJOylWJ3dOwokRwsBvQ2NCQJc/photos/AVoNoXRU1PIrPgQwyXeVsx77s41PR_pWqn2EKaEiQgPT_kFHYRnhCXSamH6c6WiLeNneHgHMvIND8D23h4iwakT9b32dUO_iPo-urN-1ek1ySYShFrcti41ncL9NgpGPFOOxhf0ca1XrQRhbFHcFJ_2EzC54MoO9mrgfLBGPruwZiNegTd_Hc1ie4dxWI6YDokSlTbzhFbRQwKbJ7CnZ7bBkfqz7_yTFDN5QJU6EJmSOvV_sg5wmo40HuWwmVSMRpq548UtNvAmxaw2_6-ec4rZqlQqYhEXJhqEQdIVKPcVaQA_Pjd5s3UzeId21M_tobAyF7JJdV8GR1yhaDQhhFjoekvnHRDA4GI4Ooe7a0H0BmH2-zFiiLF8-iWgyEO6E4EenbIh6dkDvJ1a9w46he9iGQZ2BEEGxcDmD2erBpCAlT6xVKw",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Paul Proscia",
+              "uri": "https://maps.google.com/maps/contrib/112430242899141615623",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJ6wisUjt8hTvcAS_5hh7d9tYeAxqeMlnh-7XH5oG3bH9wlSKbPQ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCC2wCTquP-UGz6CJpwDASA&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCC2wCTquP-UGz6CJpwDASA!2e10!4m2!3m1!1s0x89c24e772756293b:0x97404263436fc0c2"
+        },
+        {
+          "name": "places/ChIJOylWJ3dOwokRwsBvQ2NCQJc/photos/AVoNoXTqbyqs6H_CnEybHrP60bwN3K_GnWKPtDMsmqGKm4UJiAG7sccXmPjCAgZW-qtBLygUeyxtCP7gd1xuM00RKNtTc16cu-GCJJTUrqA7kx2nuk6nq_BUX4YMs2Xh038memm9fi11QET7dto-UtS2wiEuRUgH1I8lqoc2xHUOID9MARpRIt6P5K08YhUI8lbFGPMWl32d0u82ztMnof8Kqv68JDci-cy6b3CB1sEMeA3uKa-uKamcQylXzlCEt3gj7Wn7x6x9g1H3Usoi4-TRgmTqzE9DjnKJHLGa5JNGNGliRPlvphquUvM3LxY3Xlea5HFriWSU3oL59E4SNy0Z9J3O-ualqo2SUDuPijraPdkCvIRr1ihK_GoMhNJb1mctSCDnuZqEKGKI9i2akx_tsKxbbMTn7AY",
+          "widthPx": 1125,
+          "heightPx": 1120,
+          "authorAttributions": [
+            {
+              "displayName": "R&L Press Inc",
+              "uri": "https://maps.google.com/maps/contrib/110980711316644442686",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkwNvydZraoCNUMKOP1fdXOWDX3dYwCdV8S04xFxBowa8NzDjZ=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICem9mH9AE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICem9mH9AE!2e10!4m2!3m1!1s0x89c24e772756293b:0x97404263436fc0c2"
+        }
+      ]
+    },
+    {
+      "id": "ChIJm2TLXB5NwokRDx3BIlqZOao",
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(347) 249-9323",
+      "internationalPhoneNumber": "+1 347-249-9323",
+      "formattedAddress": "34 Clermont Pl, Staten Island, NY 10314, USA",
+      "addressComponents": [
+        {
+          "longText": "34",
+          "shortText": "34",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Clermont Place",
+          "shortText": "Clermont Pl",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Castleton Corners",
+          "shortText": "Castleton Corners",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Staten Island",
+          "shortText": "Staten Island",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Richmond County",
+          "shortText": "Richmond County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10314",
+          "shortText": "10314",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.611624,
+        "longitude": -74.1284233
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=12266003672529444111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://statensolutions.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 7,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 19,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Tuesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Wednesday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Thursday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Friday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Saturday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Sunday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+        ],
+        "nextOpenTime": "2026-09-23T11:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 8,
+      "displayName": {
+        "text": "Staten Solutions",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJm2TLXB5NwokRDx3BIlqZOao/reviews/ChZDSUhNMG9nS0VJQ0FnSUNjbC1YSGRBEAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Ricky did an amazing job on my website.  He was very responsive to all my texts and a great guy to work with.  I would highly recommend his company to anyone in need of a new website or an upgrade to an existing site.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Ricky did an amazing job on my website.  He was very responsive to all my texts and a great guy to work with.  I would highly recommend his company to anyone in need of a new website or an upgrade to an existing site.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Mike Pellegrino",
+            "uri": "https://www.google.com/maps/contrib/114472556871624763802/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZ9m0xIY1XpnCQZyMEf6scvh86w0ncG0TMVlBbTXX-5dzv7g=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-04-29T02:39:57.605628Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNjbC1YSGRBEAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNjbC1YSGRBEAE!2m1!1s0x89c24d1e5ccb649b:0xaa39995a22c11d0f"
+        },
+        {
+          "name": "places/ChIJm2TLXB5NwokRDx3BIlqZOao/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzOXAzamFnEAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I met with Ricky on a Saturday, and within a few days my site was upon and running. He does great work and also shares his ideas with you to make the site better. I highly recommend Staten Solutions.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I met with Ricky on a Saturday, and within a few days my site was upon and running. He does great work and also shares his ideas with you to make the site better. I highly recommend Staten Solutions.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Marco Altieri",
+            "uri": "https://www.google.com/maps/contrib/102926963813711314948/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfRqftduyx3wEWYYkN5NXysdQZ23GzuhsCsFlDSos9PYIgMk5_=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-02-01T16:07:47.636350Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNzOXAzamFnEAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNzOXAzamFnEAE!2m1!1s0x89c24d1e5ccb649b:0xaa39995a22c11d0f"
+        },
+        {
+          "name": "places/ChIJm2TLXB5NwokRDx3BIlqZOao/reviews/ChdDSUhNMG9nS0VJQ0FnSUM4aUtfaWpRRRAB",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Ricky did an amazing job on my site.\n\nWe had an idea of what we wanted but didn\u2019t have the knowledge to execute.\n\nBringing Ricky in was what connected the dots to bring our vision to life.\n\nThankful that we hired him would highly recommend",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Ricky did an amazing job on my site.\n\nWe had an idea of what we wanted but didn\u2019t have the knowledge to execute.\n\nBringing Ricky in was what connected the dots to bring our vision to life.\n\nThankful that we hired him would highly recommend",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jared Oks",
+            "uri": "https://www.google.com/maps/contrib/107814448969522601478/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjfsXYaQH7XrqWurLc1xLbEaPT8heE18n4p-Q1EVeuMmwt3kGo=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-06-22T21:43:49.571225Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM4aUtfaWpRRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM4aUtfaWpRRRAB!2m1!1s0x89c24d1e5ccb649b:0xaa39995a22c11d0f"
+        },
+        {
+          "name": "places/ChIJm2TLXB5NwokRDx3BIlqZOao/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzX2ZMbE1BEAE",
+          "relativePublishTimeDescription": "6 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Ricky did a great job on improving our existing website! He was always quick in responding and very dependable in his work. We will definitely be calling him again!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Ricky did a great job on improving our existing website! He was always quick in responding and very dependable in his work. We will definitely be calling him again!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Aysim Bastemur",
+            "uri": "https://www.google.com/maps/contrib/112995082961828101960/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEUJY134gy_WHM8vBZWirg5EC84-aht1vZC6o-WkfQDgd-VJpfFA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2020-02-11T20:16:26.205232Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNzX2ZMbE1BEAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNzX2ZMbE1BEAE!2m1!1s0x89c24d1e5ccb649b:0xaa39995a22c11d0f"
+        },
+        {
+          "name": "places/ChIJm2TLXB5NwokRDx3BIlqZOao/reviews/ChZDSUhNMG9nS0VJQ0FnSURLMmNuN0t3EAE",
+          "relativePublishTimeDescription": "5 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I have very little knowledge in website design, so even though I had an idea for my site ricky really put everything together and made it incredible.  Not only that but he was extremely patient and attentive to all of my questions and concerns.  I highly recommend him to anyone looking to build a quality website.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I have very little knowledge in website design, so even though I had an idea for my site ricky really put everything together and made it incredible.  Not only that but he was extremely patient and attentive to all of my questions and concerns.  I highly recommend him to anyone looking to build a quality website.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Dylan Lopez",
+            "uri": "https://www.google.com/maps/contrib/109552894612854438997/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJO-GI8nH3xbQ6brRCT-1mwUAMPVqY9dD-OgVtWSOkt4X2zWw=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2021-05-13T01:36:54.603996Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURLMmNuN0t3EAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURLMmNuN0t3EAE!2m1!1s0x89c24d1e5ccb649b:0xaa39995a22c11d0f"
+        }
+      ]
+    },
+    {
+      "id": "ChIJTRYdgZ9PwokRCFoLNDc3D6Q",
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(347) 358-7853",
+      "internationalPhoneNumber": "+1 347-358-7853",
+      "formattedAddress": "441 Castleton Ave, Staten Island, NY 10301, USA",
+      "addressComponents": [
+        {
+          "longText": "441",
+          "shortText": "441",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Castleton Avenue",
+          "shortText": "Castleton Ave",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mid Island",
+          "shortText": "Mid Island",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Staten Island",
+          "shortText": "Staten Island",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Richmond County",
+          "shortText": "Richmond County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10301",
+          "shortText": "10301",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "2700",
+          "shortText": "2700",
+          "types": [
+            "postal_code_suffix"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.634138799999995,
+        "longitude": -74.09700699999999
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=11821728257106729480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 14,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 14,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 14,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 14,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 14,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 14,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 14,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+          "Tuesday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+          "Wednesday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+          "Thursday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+          "Friday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+          "Saturday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+          "Sunday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM"
+        ],
+        "nextOpenTime": "2026-09-23T13:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Moe digital marketing",
+        "languageCode": "en"
+      },
+      "primaryType": "service"
+    },
+    {
+      "id": "ChIJ10PiNUtNwokRgsbRYAeAMFU",
+      "types": [
+        "consultant",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(917) 829-0403",
+      "internationalPhoneNumber": "+1 917-829-0403",
+      "formattedAddress": "45 Jardine Ave, Staten Island, NY 10314, USA",
+      "addressComponents": [
+        {
+          "longText": "45",
+          "shortText": "45",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Jardine Avenue",
+          "shortText": "Jardine Ave",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Travis - Chelsea",
+          "shortText": "Travis - Chelsea",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Staten Island",
+          "shortText": "Staten Island",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Richmond County",
+          "shortText": "Richmond County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10314",
+          "shortText": "10314",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "3320",
+          "shortText": "3320",
+          "types": [
+            "postal_code_suffix"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.5952366,
+        "longitude": -74.1827148
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=6138547061283473026&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.wereliveconsulting.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 19,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Tuesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Wednesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Thursday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Friday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-09-23T13:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "We're Live Consulting",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJ10PiNUtNwokRgsbRYAeAMFU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqc1pTSm1RRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "They have revamped my site letting me still own everything , made my local ranking go up immediately. Everything has been phenomenal and I can\u2019t express how much this is money well spent! If you want results , hire these guys! Can\u2019t recommend enough!!!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "They have revamped my site letting me still own everything , made my local ranking go up immediately. Everything has been phenomenal and I can\u2019t express how much this is money well spent! If you want results , hire these guys! Can\u2019t recommend enough!!!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Chris Hect",
+            "uri": "https://www.google.com/maps/contrib/104291634219101456025/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUt0qQYV_CduybR906EN8PoNoRVx75gZoXjjTPgwADBSUlAoZQrNg=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2024-04-22T23:06:33.963046Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNqc1pTSm1RRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqc1pTSm1RRRAB!2m1!1s0x89c24d4b35e243d7:0x5530800760d1c682"
+        },
+        {
+          "name": "places/ChIJ10PiNUtNwokRgsbRYAeAMFU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqc2Y3dl9BRRAB",
+          "relativePublishTimeDescription": "2 years ago",
+          "rating": 5,
+          "text": {
+            "text": "This service was so helpful for my Physical Therapy business! After using them for a month, my Google referral leads increased ten fold! I\u2019m so thankful for their expertise and would recommend to anyone!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "This service was so helpful for my Physical Therapy business! After using them for a month, my Google referral leads increased ten fold! I\u2019m so thankful for their expertise and would recommend to anyone!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Lauren Shute",
+            "uri": "https://www.google.com/maps/contrib/102062269473347329326/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJo-Yu2Stb7HJxS3MXSAMeWOxltQ2XKfbIluRTofnA2ux6xUg=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2024-04-23T00:04:36.399790Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNqc2Y3dl9BRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqc2Y3dl9BRRAB!2m1!1s0x89c24d4b35e243d7:0x5530800760d1c682"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJ10PiNUtNwokRgsbRYAeAMFU/photos/AVoNoXSTp_CgzCpruCbR2twBmlYMPWvDJXm-nGMXxn78of9elKPEWESbcp5CQaCQuYMOlNGzQJPA24gkI4lvuvxNsnHjIBFlpDYXKR2bhYYFKdElW1gPTuDO7h5v7AT5wOIubr7IpGMyN9L6HB0ATBAKbphqSJTPqyXKfFyhv9yjN9g6kU8hggxz1KX-lJh-2PmJ-CUk_F3iqHi72qFQ62jCsx0VRabwCPWDuGBYNKxvuwOLSfh-fI5UquTzyCnJ4J-Y33NkG4FdZKNQWmk11ZWZ1TnyZnGbVavJlD__Q7HZRiJj7IviMnGlexwhSYkDPA4JRUwgdBNkAzwPmNtbuJVRC2zngV-Mxw6ZLwvLPZ5qFEi7MAN4XKPIKbWIHurlhJJbGKcD4W_R_QAVj_5usRORHUD8MUh2",
+          "widthPx": 1731,
+          "heightPx": 617,
+          "authorAttributions": [
+            {
+              "displayName": "We're Live Consulting",
+              "uri": "https://maps.google.com/maps/contrib/109777633272646025700",
+              "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJY5jszFWvaFVpwZbQnZYlhb2bVixDGg729jlZKc20w2Bp5cg=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICbsIne6QE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbsIne6QE!2e10!4m2!3m1!1s0x89c24d4b35e243d7:0x5530800760d1c682"
+        }
+      ]
+    },
+    {
+      "id": "ChIJRRu-4zdMwokRqXaEt68M018",
+      "types": [
+        "supplier",
+        "manufacturer",
+        "store",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "5B Montauk Pl, Staten Island, NY 10314, USA",
+      "addressComponents": [
+        {
+          "longText": "5B",
+          "shortText": "5B",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Montauk Place",
+          "shortText": "Montauk Pl",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Mid Island",
+          "shortText": "Mid Island",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Staten Island",
+          "shortText": "Staten Island",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Richmond County",
+          "shortText": "Richmond County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10314",
+          "shortText": "10314",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "1827",
+          "shortText": "1827",
+          "types": [
+            "postal_code_suffix"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.6108829,
+        "longitude": -74.1471979
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=6904876602526824105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "http://www.aaronmaxdesign.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 1,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 18,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 10,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 18,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Tuesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Wednesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Thursday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Friday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ],
+        "nextOpenTime": "2026-09-23T14:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 2,
+      "displayName": {
+        "text": "Aaron Max Design",
+        "languageCode": "en"
+      },
+      "primaryType": "manufacturer",
+      "reviews": [
+        {
+          "name": "places/ChIJRRu-4zdMwokRqXaEt68M018/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZby15WWFnEAE",
+          "relativePublishTimeDescription": "7 years ago",
+          "rating": 5,
+          "text": {
+            "text": "I couldn't have been happier with the job Aaron  has done for me.. He took an idea and elaborated on it and made the impossible possible.. Everything was done to perfection and in the exact time frame he laid out.. im an extremely satisfied customer and will be using his services again and again as needed... id recommend him for any of your design needs..",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I couldn't have been happier with the job Aaron  has done for me.. He took an idea and elaborated on it and made the impossible possible.. Everything was done to perfection and in the exact time frame he laid out.. im an extremely satisfied customer and will be using his services again and again as needed... id recommend him for any of your design needs..",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "michael viggiano",
+            "uri": "https://www.google.com/maps/contrib/117149610255106130767/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFmPHEaplRBQ4q5-p5fe8j7k_La9e11Xya2zSqPJUmb1kq23M=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2019-04-18T02:20:13.725910Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNZby15WWFnEAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNZby15WWFnEAE!2m1!1s0x89c24c37e3be1b45:0x5fd30cafb78476a9"
+        },
+        {
+          "name": "places/ChIJRRu-4zdMwokRqXaEt68M018/reviews/Ci9DQUlRQUNvZENodHljRjlvT205emVrSjFXVTVJVTJodE1sZElkSGRzTTJkV2VYYxAB",
+          "relativePublishTimeDescription": "2 months ago",
+          "rating": 5,
+          "authorAttribution": {
+            "displayName": "George Panagiotopoulos",
+            "uri": "https://www.google.com/maps/contrib/112379554812590846634/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtZd5oz5YEF5_O3ZqlpVcQUzl-WXW72qhJ6_4hpThnquUFgZqU=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2026-06-26T23:29:45.471433912Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205emVrSjFXVTVJVTJodE1sZElkSGRzTTJkV2VYYxAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205emVrSjFXVTVJVTJodE1sZElkSGRzTTJkV2VYYxAB!2m1!1s0x89c24c37e3be1b45:0x5fd30cafb78476a9"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJRRu-4zdMwokRqXaEt68M018/photos/AVoNoXTwzGgalLyuYwOE2pn_y7NtM-lIusL7ZMBssxViScMC_1OMLszqKNxRbF9nZ2FyQN_jhKubOS5nyWfS_dIxCH8KZMrdUmxKlZml3wkAQhzl_pEVlC0BGX9xg6X6Mpy4ea-M3B2rNZOutg1guCym44nQUZblqY7t2Dx7BGfEvbknQxZ26KyNXNEK8konMPWfC12yDVO4zQePtDnzpcojmnVN9rmETVA_esN7OH5go3rZyplV82mSyCFH9E0XxhzzLWHBO1TpjbSftoMkP1yunKktj0q5HF5vLBsEFThBiSR2RmWPeOgdYNjf0uWbzMJrVesXSdxajuqRvDdYs0xT6ojCmQltr5OROdvWDSmk_BtUHrIkC2UdDmzLpg6oZuOIzVJ5KDhdQrVZVszoJ0r2TBWOik8SpUOOt4taxvUfdzo",
+          "widthPx": 600,
+          "heightPx": 338,
+          "authorAttributions": [
+            {
+              "displayName": "Aaron Max Design",
+              "uri": "https://maps.google.com/maps/contrib/117934588823514847420",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV96dig2TwIt1ZK0RQR0ulCycqgikgeFP5ydwa0iGGMzw_I9GU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6vd2Xdw&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6vd2Xdw!2e10!4m2!3m1!1s0x89c24c37e3be1b45:0x5fd30cafb78476a9"
+        },
+        {
+          "name": "places/ChIJRRu-4zdMwokRqXaEt68M018/photos/AVoNoXTNpLymAgbKDB0EqVkzjviCjdzMfD-NPIrn42ZGBlsPWLacF_qfNPU-sk4g5HLb8Fbo9-Ilnn7taP7jegvUAhA9K2DVmfX16TMrpJON1ksW2i5bk_zJPIWYWSeJftkGc6-dXL0y5YKDl4V8EBLf3seLMFItZ9ojjt6ovL_sAc0267_-p3WJknWo8NncUBIuv-HgKhlrLkHJB89EGFhZupc2FbxBUrQpfuAU1K_38F2gP5g7IOkQKreHjB6cB2ITDA3Uo6qDn8hnVbvqXDi-4_AWcdjh7jcP1WWJhbn_SOtByp-Hn17bILmInIwVzU1xiAqn_RXRAp1Ht_7FMUDPzytyu1U1NZsiFkLtaouML4A1uSRH0KnXgmM9JUtutsIizQ1mN9-WGbJe4kaiM4qCQIsYkUKp22uOImfgSmgenHSbFA",
+          "widthPx": 618,
+          "heightPx": 347,
+          "authorAttributions": [
+            {
+              "displayName": "Aaron Max Design",
+              "uri": "https://maps.google.com/maps/contrib/117934588823514847420",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV96dig2TwIt1ZK0RQR0ulCycqgikgeFP5ydwa0iGGMzw_I9GU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6vd2Xfw&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6vd2Xfw!2e10!4m2!3m1!1s0x89c24c37e3be1b45:0x5fd30cafb78476a9"
+        },
+        {
+          "name": "places/ChIJRRu-4zdMwokRqXaEt68M018/photos/AVoNoXTdkJ0cbzo7zR-kAaGnhrQhHk__Tl3yqWnYfzWYVeeWBbe01tlvVSW9gUtr88wPs60p2m0chFpbYiI7w9fjEXtwUxvhVaz4TOQaB_PofZi8ZZTzqwHfT-JLaVnpHRFfIOPXMtgva-ufHtdSCeMLl3FaLNdZ8pexrA0UikfwCRFICHWvMDwlRFxF3zMCD7IuTyWh6zcYMr_szQakvByhBRt2ot8Kdpm2nwABpRjNtelgVZdkMpisacxEBwJtqIBYpqYvPpQpqbox6nQCYL-x8PUFzFmOdwlDJRZOGEFn7IQxR7HtP2a0fM9xgIenbjK3FRJ2ci_O8JIvRthJYrDUYb1aVXEHiKouL_IjU6KlUjdCz66ihMME2SNSaRpTPAqs8Xs-Ae8GmnU78omdeWZ7F01KnKmz9Z8dHKNkb406tEFEDtgU",
+          "widthPx": 930,
+          "heightPx": 360,
+          "authorAttributions": [
+            {
+              "displayName": "Aaron Max Design",
+              "uri": "https://maps.google.com/maps/contrib/117934588823514847420",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV96dig2TwIt1ZK0RQR0ulCycqgikgeFP5ydwa0iGGMzw_I9GU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6vd2X5wE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6vd2X5wE!2e10!4m2!3m1!1s0x89c24c37e3be1b45:0x5fd30cafb78476a9"
+        },
+        {
+          "name": "places/ChIJRRu-4zdMwokRqXaEt68M018/photos/AVoNoXSt5j-C2hqHtfEDHAFx7yZtNvFB7Wj2hE4Aa0rU1WT5mh167y9J78uhHELJ474UWCaJEW9fArF8nb__VTNfaQiA7Oqa3-GVPjQsHSsO-IzecBOdW0sJwz6WaI70Qh_R9eNhCxh8zZad2Q5wnwmtXtsKLQBLDBkiooTk-MHXjDe14XMUUGWQQ5sxL1ZlLQZ1h_GaZon3XmeY8A2bbzN_FX2BYFvMoPEYb40ZK_MC4fVMgaW-zK5mrPs4qIBS318TFz8NEz1f6DeZ1fwISSC_VCLWAPpv8QHFRNlUBNXRiS_M5rCi9c-jdK2Q9lsZ1Y9oYoH-3dXRA5nr07CHWeP-iakQR07x0IEGxbc6_GuRUg0Ii6xEo5i-iof_1eQfVWDJ_IR-2G4xVSutB429SJEE6L0JtQUvsR0GnGat0TlC8jWZjKs",
+          "widthPx": 2268,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Aaron Max Epstein",
+              "uri": "https://maps.google.com/maps/contrib/116808807602054655504",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUH2UbjFNGvSaHIGc6FdTFVxfy8kDYdOqLweCNbgKzngNL7JQUU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDEy66wzwE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEy66wzwE!2e10!4m2!3m1!1s0x89c24c37e3be1b45:0x5fd30cafb78476a9"
+        },
+        {
+          "name": "places/ChIJRRu-4zdMwokRqXaEt68M018/photos/AVoNoXSW7X0LcY9k2wz5S1zNq51vdSa7a_ZEodu5aTH-NM_8i5NTue5zeyBl2vJWcMMY3eBymq1ZXcXvQ2TStRcQrVCP0VIQjvm52d_mrBEGDZJZ3yH1Wmr2ODs-qQfFzdoMdtv_975mdK12DKIHyWuSaz00ZVWGuNjZiJjx2GWWqv5VQFIN3LazccqYWZGpGquopm3nnkDFoDmf_x4hjvJdnSE0HUb07WqOZqpCvGTvCoAtCksuJh9bQg8D0L8hpz_HCPcwx3W2U5b1haPIqEEgFf9qHODtftmSX4URd0GF48oUqPj6L7958NDFFrN2lUkSmUF8s2r7HGn1XpyLDmdUdH8pSpk-VPSu5NFh5xDntn_9nnNx0ElQi-q66ov2FyPUYVrbI0ctyUHLNId1fff4JF_hV-KZ_FlM2afsaKQrJXBTDA",
+          "widthPx": 930,
+          "heightPx": 360,
+          "authorAttributions": [
+            {
+              "displayName": "Aaron Max Design",
+              "uri": "https://maps.google.com/maps/contrib/117934588823514847420",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV96dig2TwIt1ZK0RQR0ulCycqgikgeFP5ydwa0iGGMzw_I9GU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6vd2XPw&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6vd2XPw!2e10!4m2!3m1!1s0x89c24c37e3be1b45:0x5fd30cafb78476a9"
+        },
+        {
+          "name": "places/ChIJRRu-4zdMwokRqXaEt68M018/photos/AVoNoXRr-cxgoClo7oeqdZNnyQz1IUU9jUsvVGc5mMHViJ0UwyC5YMbt4jZ7UOOwVVK-ag_puZ72kbWSihgxSDyOQiGhBNYuFw8IwGvAuTVFhpF3b-6TbF0U19tr1irCHCifIgJel1n7Jh-sfBTN4ixqKZoIu1hsHVq3TpsFNUeycDspXkEhyA1lFd9_IKnwjHb5NhUZKxLptNbkW54LpixjBqrY2pnX9ocMvGfNijv6EzHuAQcgSgNyfa13VMMP5752ITK1AFr7HQ1OLriu8gX-DyA5GDxXmhmtGFj1yx048_hjHvJndnlq2d9HF3cErNKt4B7vemomlrcH_NkZsXigvZXnMI2stSKVx1avPc3_dK9spwyxcB5KKXeSZWsUf2CsSpiGd09ZdpgvKrgFz1XHcJNycSDrbRLKeMXlTQRAAESG8WFk",
+          "widthPx": 930,
+          "heightPx": 360,
+          "authorAttributions": [
+            {
+              "displayName": "Aaron Max Design",
+              "uri": "https://maps.google.com/maps/contrib/117934588823514847420",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV96dig2TwIt1ZK0RQR0ulCycqgikgeFP5ydwa0iGGMzw_I9GU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6vd2X1wE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6vd2X1wE!2e10!4m2!3m1!1s0x89c24c37e3be1b45:0x5fd30cafb78476a9"
+        },
+        {
+          "name": "places/ChIJRRu-4zdMwokRqXaEt68M018/photos/AVoNoXSqbS9Yf-dLAgEjb_ZCYZGBNZJjuBd9IivwpDd-b-XF1lPX6Oi0lGJME4_2VK55pEH05VHIu9iGngwD9j12a3fWexdaKSSB_fmVY1UAh4HpAB7IPH_-3cybOEIVWKPdxAANF9wW-afctsAKiV3zI7DENypUxUBEc-0PF02ewp27UNTvUOWeKsonk23ywrBWC1R_-PW6FzD77k7T6h9oWsufa8M6wyWhLO0KC5ik_eVUxcIES3UTP43K8bqGP_n1B6ZTm2zVQKyZJ8m_fZPzvEr-nN11EEesFW_jMQOnqutfFAe92GMBrYGJv0cdn_K3Lv-NgD0AHyagUCQUIr0dkEjHRPvuoumX4mLkhKFJ8D47boXlQbugL6Vgk1vPDD7IimViNIG2O12FklMhCUsof1QMB1LAQot5yXGxkop5UZG_I7vW",
+          "widthPx": 930,
+          "heightPx": 360,
+          "authorAttributions": [
+            {
+              "displayName": "Aaron Max Design",
+              "uri": "https://maps.google.com/maps/contrib/117934588823514847420",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV96dig2TwIt1ZK0RQR0ulCycqgikgeFP5ydwa0iGGMzw_I9GU=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDSj_mMwwE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDSj_mMwwE!2e10!4m2!3m1!1s0x89c24c37e3be1b45:0x5fd30cafb78476a9"
+        }
+      ]
+    },
+    {
+      "id": "ChIJgT7TfQ5JwokRNJ-Qe6_APV8",
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(438) 797-7319",
+      "internationalPhoneNumber": "+1 438-797-7319",
+      "formattedAddress": "2493 Richmond Rd, Staten Island, NY 10306, USA",
+      "addressComponents": [
+        {
+          "longText": "2493",
+          "shortText": "2493",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Richmond Road",
+          "shortText": "Richmond Rd",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New Dorp",
+          "shortText": "New Dorp",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Staten Island",
+          "shortText": "Staten Island",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Richmond County",
+          "shortText": "Richmond County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10306",
+          "shortText": "10306",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.575339799999995,
+        "longitude": -74.1214956
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=6862853267107389236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://www.mintmediaservices.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 15,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 19,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 15,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Tuesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Wednesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Thursday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+          "Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+          "Saturday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+          "Sunday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+        ],
+        "nextOpenTime": "2026-09-23T13:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 1,
+      "displayName": {
+        "text": "Mint Media - Web Design & Development",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJgT7TfQ5JwokRNJ-Qe6_APV8/reviews/ChZDSUhNMG9nS0VJQ0FnSURCZ2U2dk5nEAE",
+          "relativePublishTimeDescription": "3 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Jonathan and his team were extremely helpful in helping me establish myself more effectively on Google. He wasn't just a machine; he listened to my ideas and discussed them with me. I might be able to do some of this myself, but I don't have the time. Furthermore, for the price, it's a fantastic buy in my opinion. With Jonathan's assistance, I was able to quickly create a well-structured website that was optimised for search engine rankings. Jonathan's knowledge was priceless to me.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Jonathan and his team were extremely helpful in helping me establish myself more effectively on Google. He wasn't just a machine; he listened to my ideas and discussed them with me. I might be able to do some of this myself, but I don't have the time. Furthermore, for the price, it's a fantastic buy in my opinion. With Jonathan's assistance, I was able to quickly create a well-structured website that was optimised for search engine rankings. Jonathan's knowledge was priceless to me.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Amelia Hall",
+            "uri": "https://www.google.com/maps/contrib/107548988828014362409/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqyyyeTtPzxEq-aqGrzE2sap9mVmpT9DANu9MZBFOh6DromrU=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2023-01-21T00:41:39.971076Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURCZ2U2dk5nEAE&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURCZ2U2dk5nEAE!2m1!1s0x89c2490e7dd33e81:0x5f3dc0af7b909f34"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJgT7TfQ5JwokRNJ-Qe6_APV8/photos/AVoNoXQHYi-9GM-rDjdnG5HJg1ZyYGBFiq1iER_9F92hjN2m3WdR0QxmDDCT9s-J7HNUNccCPzFVUqu2SJBwlDSBYR5VZfUL1KGWd4HsduwfMroqDD1SQJSN1Okphbp4teXqb54q06OlsHjZn8OgoXF8NnKbcrW7906zimfRDccS8aYpQxpIS003nHmDaZcTOlwCJQli98Kxe8aFVwZvhMBUtVyYyV8-p9rIa_ECcyjcfqOFp9QznucrFiZwlYsuUn4h-Y_PDcRio5O-awdJ1uHZ0IXs0j-tE_bUxyIKP17Byj2rfkSfJb95xEsDbOsn-YFZGonm1lrGTuai4upYcaQEu0n9mjVe-kM-z2VhVyXSqJUuvgeX1-nopHrTGz5uC-p8I-c_kS9OolLrFpS7npfOqMW8B8M",
+          "widthPx": 2400,
+          "heightPx": 1500,
+          "authorAttributions": [
+            {
+              "displayName": "Mint Media - Web Design & Development",
+              "uri": "https://maps.google.com/maps/contrib/116174672415966313814",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9ANkZ5QZ6pziWuHRQrHdCSHf-0mETGxEV9Gh844_vkTFUInk=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID-gb2Bdg&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-gb2Bdg!2e10!4m2!3m1!1s0x89c2490e7dd33e81:0x5f3dc0af7b909f34"
+        },
+        {
+          "name": "places/ChIJgT7TfQ5JwokRNJ-Qe6_APV8/photos/AVoNoXS7tCBYaE1CozHTM_FrGYesxRNTYiRQRdCI67M1H-Etj9TIZ7FWWw8JRTZkhH34aU5-ev_GIm5q7XL9G9NzvMcmD7D_awOhS8wc5k7bnn_2OC3ezmBf_jCeSasQwU1WLfwFUWgfBiUfvFeZabVea__s_rj0p-Z8-fO-L_NRee9Tc_103Kuk_7lRwzbqJt2WKS5jDe2rvk7pMpbtv72Ero1nYWdmIQFWk8T7Gt0dQEQ2ofoJ9gXvcYJpqah6-kLT7ID7Vl3n8Mg7oLEoPGdVdQhrhXRfdaZm3Y6FbdCKqmz3P2J2F2zkiTyPriSd9nf1PFG9Yh72_zLoqUKYAjOi_ey4BSOFpbmiF7s6lyIfbbWKHoIWB5_9AAUUQ3M-dTicf1zjT3cAMqH6g35ZHN0ypl3A0wtE7TQ",
+          "widthPx": 2680,
+          "heightPx": 927,
+          "authorAttributions": [
+            {
+              "displayName": "Mint Media - Web Design & Development",
+              "uri": "https://maps.google.com/maps/contrib/116174672415966313814",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9ANkZ5QZ6pziWuHRQrHdCSHf-0mETGxEV9Gh844_vkTFUInk=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICu6-LEpgE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICu6-LEpgE!2e10!4m2!3m1!1s0x89c2490e7dd33e81:0x5f3dc0af7b909f34"
+        },
+        {
+          "name": "places/ChIJgT7TfQ5JwokRNJ-Qe6_APV8/photos/AVoNoXR4v31VafTR3SDiGwSP_kl7BB2OBnkIvS9oNQViwGDXib_B99pg8va5szLuCSyB84DEURQy9c8W218jPxBoRB6bsq_duREf-eXCyYeUyRLubWgi7Setsv0Fk1xCg2hGCEBOj2hFKMLGbay1WkV0vV8JYUTTdD-DHinjtj3TaZt_D_Y3YSiX9Pvx2fWvUAH4fl5gVs9g-d95zKcwLc-kZHXfIB5u_uQbJ-_ja35h96KTTV6B57ogTaOaEbKcOVuRMaFIgSVcx-b-DgbbJeUwG1Zna8y6j6LMWfUOvjpARy0YxKDoUFPSuvYyKcPIKfkTC29BMnwKn8L8Pwfpl-_umafUubTNaRy1Dh6-VOwL6PYyQrZ_GbzRenKt2HzDoOj7NwTAf3LUrA5gwYnq3w62Tv18SeObhT8",
+          "widthPx": 256,
+          "heightPx": 256,
+          "authorAttributions": [
+            {
+              "displayName": "Mint Media - Web Design & Development",
+              "uri": "https://maps.google.com/maps/contrib/116174672415966313814",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9ANkZ5QZ6pziWuHRQrHdCSHf-0mETGxEV9Gh844_vkTFUInk=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICu6-LS9AE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICu6-LS9AE!2e10!4m2!3m1!1s0x89c2490e7dd33e81:0x5f3dc0af7b909f34"
+        }
+      ]
+    },
+    {
+      "id": "ChIJzQrTSzhLwokRhNY0Tqviux8",
+      "types": [
+        "marketing_consultant",
+        "consultant",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "88 E Macon Ave, Staten Island, NY 10312, USA",
+      "addressComponents": [
+        {
+          "longText": "88",
+          "shortText": "88",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "East Macon Avenue",
+          "shortText": "E Macon Ave",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Eltingville",
+          "shortText": "Eltingville",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Staten Island",
+          "shortText": "Staten Island",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Richmond County",
+          "shortText": "Richmond County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10312",
+          "shortText": "10312",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.5583561,
+        "longitude": -74.1627827
+      },
+      "googleMapsUri": "https://maps.google.com/?cid=2286670461200029316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://mustang-rd-marketing.ueniweb.com/?utm_campaign=gmb",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 0,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
+      },
+      "businessStatus": "OPERATIONAL",
+      "displayName": {
+        "text": "Mustang Rd Marketing",
+        "languageCode": "en"
+      },
+      "primaryType": "marketing_consultant"
+    },
+    {
+      "id": "ChIJZdTc7PhMwokR9GP8wlZGbno",
+      "types": [
+        "consultant",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(718) 672-2177",
+      "internationalPhoneNumber": "+1 718-672-2177",
+      "formattedAddress": "900 South Ave #300, Staten Island, NY 10314, USA",
+      "addressComponents": [
+        {
+          "longText": "300",
+          "shortText": "300",
+          "types": [
+            "subpremise"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "900",
+          "shortText": "900",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "South Avenue",
+          "shortText": "South Ave",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Bloomfield",
+          "shortText": "Bloomfield",
+          "types": [
+            "neighborhood",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Staten Island",
+          "shortText": "Staten Island",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Richmond County",
+          "shortText": "Richmond County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "New York",
+          "shortText": "NY",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "10314",
+          "shortText": "10314",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "location": {
+        "latitude": 40.6171621,
+        "longitude": -74.1726403
+      },
+      "rating": 5,
+      "googleMapsUri": "https://maps.google.com/?cid=8822066058517832692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "websiteUri": "https://microskyms.com/",
+      "regularOpeningHours": {
+        "openNow": false,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 20,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 8,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 20,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+          "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+          "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+          "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+          "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+          "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+          "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+        ],
+        "nextOpenTime": "2026-09-23T12:00:00Z"
+      },
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 96,
+      "displayName": {
+        "text": "MicroSky MS - NYC Data Recovery Services - Managed IT Services",
+        "languageCode": "en"
+      },
+      "primaryType": "service",
+      "reviews": [
+        {
+          "name": "places/ChIJZdTc7PhMwokR9GP8wlZGbno/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KYVNtMVNhbFpXY1hGNFUxSTJXbWhWWmtvd1JtYxAB",
+          "relativePublishTimeDescription": "a month ago",
+          "rating": 5,
+          "text": {
+            "text": "2 laptops & 2 printers decide to take holidays.... They didn't even get \"sick\", as humans tend to share illnesses. So no prints of letters, bills; no checking up on emails, news articles... And much of the time they wouldn't connect to the wifi. A good friend recommended MicroSky and life is returning to normal! Thanks Fred & Julio!!! The 4th fireworks added to my celebration!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "2 laptops & 2 printers decide to take holidays.... They didn't even get \"sick\", as humans tend to share illnesses. So no prints of letters, bills; no checking up on emails, news articles... And much of the time they wouldn't connect to the wifi. A good friend recommended MicroSky and life is returning to normal! Thanks Fred & Julio!!! The 4th fireworks added to my celebration!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Diane Clark",
+            "uri": "https://www.google.com/maps/contrib/102248777765128094542/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJAUNatjQHqwftRiQZ_TGX1guSSio0UJ6_jTGmOi_ESgwHFUw=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2026-07-29T20:34:13.246213859Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KYVNtMVNhbFpXY1hGNFUxSTJXbWhWWmtvd1JtYxAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KYVNtMVNhbFpXY1hGNFUxSTJXbWhWWmtvd1JtYxAB!2m1!1s0x89c24cf8ecdcd465:0x7a6e4656c2fc63f4"
+        },
+        {
+          "name": "places/ChIJZdTc7PhMwokR9GP8wlZGbno/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SUmFsRlpkMHRzWWpCelNIZHJWVFo0YW5OUGExRRAB",
+          "relativePublishTimeDescription": "5 months ago",
+          "rating": 5,
+          "text": {
+            "text": "I would like to highly recommend this company for all your IT needs.  Dominic and Fred  customer service is outstanding - always quick to resolve our IT issues and consistently meeting our needs.  Reliable, responsive and truly excellent at what they do.\nThanking their support from the Avalon Community - HOA Board",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I would like to highly recommend this company for all your IT needs.  Dominic and Fred  customer service is outstanding - always quick to resolve our IT issues and consistently meeting our needs.  Reliable, responsive and truly excellent at what they do.\nThanking their support from the Avalon Community - HOA Board",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Maria Ball",
+            "uri": "https://www.google.com/maps/contrib/110209313286776252912/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK4PAfraTEjYh5qnrMPr-TDRCUncnQpY8nKACFMgnF6TzludA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2026-04-16T18:10:05.584056670Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SUmFsRlpkMHRzWWpCelNIZHJWVFo0YW5OUGExRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SUmFsRlpkMHRzWWpCelNIZHJWVFo0YW5OUGExRRAB!2m1!1s0x89c24cf8ecdcd465:0x7a6e4656c2fc63f4"
+        },
+        {
+          "name": "places/ChIJZdTc7PhMwokR9GP8wlZGbno/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WSlZuZHNZVFpETVVWM1RHWXRUbGx0YjFocFdWRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "I\u2019ve had an outstanding experience with this Company., Dominic and Fred are so great to deal with and the support is exceptional. Their customer service is top-notch\u2014always professional, prompt, and knowledgeable. Every interaction reflects their deep expertise in IT and technology. Whether it\u2019s website support, technical assistance, or general IT services, their team delivers quick and efficient responses.\nAs they continue building the Avalon Community Website, I look forward to exploring the full range of IT products they offer. There\u2019s a multitude of tools and solutions available that can enhance the functionality and user experience of our site.\nI highly recommend this Company for any of your technology needs.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I\u2019ve had an outstanding experience with this Company., Dominic and Fred are so great to deal with and the support is exceptional. Their customer service is top-notch\u2014always professional, prompt, and knowledgeable. Every interaction reflects their deep expertise in IT and technology. Whether it\u2019s website support, technical assistance, or general IT services, their team delivers quick and efficient responses.\nAs they continue building the Avalon Community Website, I look forward to exploring the full range of IT products they offer. There\u2019s a multitude of tools and solutions available that can enhance the functionality and user experience of our site.\nI highly recommend this Company for any of your technology needs.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "maria ball",
+            "uri": "https://www.google.com/maps/contrib/105144903167367268751/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLvLhNRSQFAs77IIBpnzn1JvYfCJF2vEVUqoyL9Ay3epxnDXQ=s128-c0x00000000-cc-rp-mo-ba2"
+          },
+          "publishTime": "2025-07-21T22:38:46.434472448Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WSlZuZHNZVFpETVVWM1RHWXRUbGx0YjFocFdWRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WSlZuZHNZVFpETVVWM1RHWXRUbGx0YjFocFdWRRAB!2m1!1s0x89c24cf8ecdcd465:0x7a6e4656c2fc63f4"
+        },
+        {
+          "name": "places/ChIJZdTc7PhMwokR9GP8wlZGbno/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kYVVraDFSaTFLVDBGQmVWZGtObGhuVVdZMk1sRRAB",
+          "relativePublishTimeDescription": "9 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Great experience with MicroSky MS. Dominic was very responsive and handled my technical issues promptly and efficiently. Excellent service and support overall! Thanks again.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Great experience with MicroSky MS. Dominic was very responsive and handled my technical issues promptly and efficiently. Excellent service and support overall! Thanks again.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Brett Tremblay",
+            "uri": "https://www.google.com/maps/contrib/104895601088189069236/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJh8ysEZPU4IkG9aTmlyWDMg1RHhm9PaMzb2wDfOOZctqUysA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2025-12-26T14:10:39.041693797Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kYVVraDFSaTFLVDBGQmVWZGtObGhuVVdZMk1sRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kYVVraDFSaTFLVDBGQmVWZGtObGhuVVdZMk1sRRAB!2m1!1s0x89c24cf8ecdcd465:0x7a6e4656c2fc63f4"
+        },
+        {
+          "name": "places/ChIJZdTc7PhMwokR9GP8wlZGbno/reviews/ChdDSUhNMG9nS0VJQ0FnSURmdkpHb3RRRRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "For the past 7 years, I have been in business and I have to tell you that Dom and his team are amazing people on every level! I have been looking for reliable IT people and these guys are the best. I love them! I use them to host my client's sites and have never experienced any problems. If you're looking for the perfect hosting company and IT company, this is the one. I am in the marketing industry who happens to design a lot of websites for a living and this company is the one to use!!! I cannot say any more. I love them!! And, the best part is that they have a pleasant persona. That's rare to find in the IT industry.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "For the past 7 years, I have been in business and I have to tell you that Dom and his team are amazing people on every level! I have been looking for reliable IT people and these guys are the best. I love them! I use them to host my client's sites and have never experienced any problems. If you're looking for the perfect hosting company and IT company, this is the one. I am in the marketing industry who happens to design a lot of websites for a living and this company is the one to use!!! I cannot say any more. I love them!! And, the best part is that they have a pleasant persona. That's rare to find in the IT industry.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Joseph Pidoriano",
+            "uri": "https://www.google.com/maps/contrib/101299662156343018069/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0ay_c1JuTKuyFXxdLLCnurN_3GsJrnczsYkvQWLsH8nadzIKi=s128-c0x00000000-cc-rp-mo-ba3"
+          },
+          "publishTime": "2025-01-04T19:06:06.714777Z",
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmdkpHb3RRRRAB&d=17924085&t=1",
+          "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmdkpHb3RRRRAB!2m1!1s0x89c24cf8ecdcd465:0x7a6e4656c2fc63f4"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJZdTc7PhMwokR9GP8wlZGbno/photos/AVoNoXQAaI-K320JPMMOwNoO8M5j8KR9LrkDKKKzcF8rrT2ug_oj7NQpsRBI0pgTFwL6wopdTW84NIwqGZbV7XG19jyeMyj2RrhxE6a1woapLhvU_HjYKs2WD5CXV0Wv0Poxci9h3t4-M7oLGF3yzXn_bEluPZg5NFluQaDPwQlnjAGwqH00xbl7n6PwuIPVNksVHES0m2Y4xb-9Zwrp0e9LAvUrOty7dFpVeaHXzTT0IpbTpDomm8nvRrwPcV0HKWs6uQnUdTddRVKdN8X9gCMLVY0YgnnDnSaDyLjD5oxvyITVGbvQ3sQN2IqdUbIt5UT1Wwv4_HfDlvJaL_hiz0TrtmS4FTgUxM6gIy44glPo6P2zC6ZtWL3WIdFlkauVeKg7Y9CeCNWTCXtAP-VSBrtsplwRIw",
+          "widthPx": 720,
+          "heightPx": 540,
+          "authorAttributions": [
+            {
+              "displayName": "Microsky MS - NYC Data Recovery Services - Managed IT Services",
+              "uri": "https://maps.google.com/maps/contrib/105030614749428138583",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUf0E-d5srOfPD06dFfQ5bEvTVDsEtyHCWWtIxGzusZDfX9VlA=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi66TUPw&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi66TUPw!2e10!4m2!3m1!1s0x89c24cf8ecdcd465:0x7a6e4656c2fc63f4"
+        },
+        {
+          "name": "places/ChIJZdTc7PhMwokR9GP8wlZGbno/photos/AVoNoXQ6mqIR9_zKRXySxhOkCAiuHj0VL3H6Vxdkk5z2zmqPTro2rdTgYTR6C18sHlx7v_rzZr3VhUSlOsjgvl2vv4m2fHCLOKWnwYhaJ8E44pKHEDfqGF6bDMO1KzMjCmUMHb5sJxKAe6P9iiuh-yHKQIzFINYCrDMSXn6HspNEtKZcCSDLJPymybD8OkQQpsJ95Bu24pyjy0BI4dGW6qmdAe51eVo7VEnr550eVHBkBa_cfWvXMDhuPe7ZssnNZGnM4_L4coFadJbZKigykHI0-JxHkgtr195XTctDg24o2viVAn6Xys4QhenPtTOHkY1YJ49rwN3ykMKsGlf79lq7zFJCyX8DpsFd9cuxAx0R9Z61sJBBsOgwdpcyaV4GBC4ayRIh0O5qFFyNyHVNyJHgCBn3mDeSXWQ",
+          "widthPx": 720,
+          "heightPx": 540,
+          "authorAttributions": [
+            {
+              "displayName": "Microsky MS - NYC Data Recovery Services - Managed IT Services",
+              "uri": "https://maps.google.com/maps/contrib/105030614749428138583",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUf0E-d5srOfPD06dFfQ5bEvTVDsEtyHCWWtIxGzusZDfX9VlA=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi683d9AE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi683d9AE!2e10!4m2!3m1!1s0x89c24cf8ecdcd465:0x7a6e4656c2fc63f4"
+        },
+        {
+          "name": "places/ChIJZdTc7PhMwokR9GP8wlZGbno/photos/AVoNoXSVl8Xkm4slOZqLlsHoKUw3mWD0SWr6-mgQIEWRSDZyozM4FFUcSUgRfPrwAcmYx27BVppmEbsXEjiONk6-DpehOKgTqDYQX7utesmIfu8MVUfxmjsWJSDO0w0FxQFAymX4OkYU30peBgOxJiFUUIBcnPLXPxDZKvUMOKqVwhQ-XjtZV6Cjc7cAfqVDmQPWa0PMvqAxgWKW0cgsf9qWeI1OMjq_LeP2zG3SlBVd_7yuf2vaFewgQmKyXcF8fhzvZ6h1jJgieACMuVheHFB92_o7HJzTTK8RvNBMNbK0sGJtI3UV-mffxgQUNjBO4nFwl296Y9Q1Iow7p7SnXETSV-Bc83PllIVWV4aJUVRpdo593MNetEN2G6V8UNi4zjQJwqWeuK0n_tbCQd38tfJ3lC0yd8k",
+          "widthPx": 1085,
+          "heightPx": 635,
+          "authorAttributions": [
+            {
+              "displayName": "Microsky MS - NYC Data Recovery Services - Managed IT Services",
+              "uri": "https://maps.google.com/maps/contrib/105030614749428138583",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUf0E-d5srOfPD06dFfQ5bEvTVDsEtyHCWWtIxGzusZDfX9VlA=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi68SvRA&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi68SvRA!2e10!4m2!3m1!1s0x89c24cf8ecdcd465:0x7a6e4656c2fc63f4"
+        },
+        {
+          "name": "places/ChIJZdTc7PhMwokR9GP8wlZGbno/photos/AVoNoXTUgkPdcY0q_yYG7gPk08MOElOWCEmQ4PN3iQCsw-2wUiVgVSBF-wiZ3j5Vhx7oiR7xWB1CUPO3c6gdqcSPApCzakbk1MmbwNDeGrpc-wC2Fp5uRiWNw5j-gDtji3p9jsWU9zuTa6QIyWzYZB8-jln4usYrJjo8qq9Y8iM5XB6DS-ab3UaLvo737LQJ6usDV3nEOA1WS2GpQk5uCSKTFf677msV7o_Xy0986LJV3OF8O7AA52XQiyO-3bsnhzUbUBlPs240r-7n1MopOTVe8dnCPJKzD6iHOZVmOtD-TxTsFxrjl5_FMGyjT7voIMoBDDUIdzJJvmAED8XGuR3FOaBMQAqdKOpO0O-248kvkQJmjWfIfifuvTht6MBSwmQB5f2rri5NuiOKC6SS0dSHOX_8dMTA",
+          "widthPx": 720,
+          "heightPx": 540,
+          "authorAttributions": [
+            {
+              "displayName": "Microsky MS - NYC Data Recovery Services - Managed IT Services",
+              "uri": "https://maps.google.com/maps/contrib/105030614749428138583",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUf0E-d5srOfPD06dFfQ5bEvTVDsEtyHCWWtIxGzusZDfX9VlA=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi683p8QE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi683p8QE!2e10!4m2!3m1!1s0x89c24cf8ecdcd465:0x7a6e4656c2fc63f4"
+        },
+        {
+          "name": "places/ChIJZdTc7PhMwokR9GP8wlZGbno/photos/AVoNoXQQoGWDrLKnF894wSWVdcs-ZL8kuXbFBrUN98vgtL-RNAEZ7TtnclKo05_r1Cnmbq6vXSHwpCXABxI34IIaJT3k6hYOka_RMmmVD3L6hNRarZHU1WzlNivLDkQI9lPTqU1uxISgzsYUkyyqv49lGCHjRdMM46iyfRNOmNtSmYdAvzVO-Tyy31Pxstdwff4mOJm_4r-eg-ruYrmWvUcxE_AADJmqSvQFITQ_HdtFlSqcu0fqKDpvEMJneKm4qj_zVoLlTiF0lpz5ssIPvlhXZaI5g8eTMJyHUFbYxrUwIt-KxyeK13Xq4TMqjOrW8n4Iey29GctLnBFdzNWCSq7MYSCS-2ctwg9LsdfiHkf5JvAvSWBYtQ9yvGYaSz9mAzC7O5Lqe5RoVvIn90zDvPdahLvBxaeYv-k",
+          "widthPx": 640,
+          "heightPx": 360,
+          "authorAttributions": [
+            {
+              "displayName": "Microsky MS - NYC Data Recovery Services - Managed IT Services",
+              "uri": "https://maps.google.com/maps/contrib/105030614749428138583",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUf0E-d5srOfPD06dFfQ5bEvTVDsEtyHCWWtIxGzusZDfX9VlA=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICGp6iOqgE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGp6iOqgE!2e10!4m2!3m1!1s0x89c24cf8ecdcd465:0x7a6e4656c2fc63f4"
+        },
+        {
+          "name": "places/ChIJZdTc7PhMwokR9GP8wlZGbno/photos/AVoNoXTacZ-WDhKNsbJNmmI1QHA65fMNSwNH8K5Mi4P9VQCoHa3j1xOOjirpciN9BE0hHU14L8XRu-KjarK9EQRLDsU3VTFKrOLKIZZVSsV1OguxdJH34tAYizT-5R7rWAmn8QTIAN_bUGM-lRTdmJhlbEW1j405XYu02GCjhFZngkEptFjPK0AqDalgl86F8ZExCdqtN3WiCVuMbXPUhm5T6oLS-HwjxJB3zxU7R9pfrpUHm8FNwjiOihDj6iUkGaK8Bxco2zMlJjNxaqlwCm2XWQt-KGxJzcwL4JX5lCFx613n_Pb6PeIPeG8Do3JP4pZn2SKsDDV63haqdTJFv3x501t0TQMiEjBbVCUdtkf-LAKaOU4w2kfjU0n8OGBy0Z19G55ElGBP9_g-lfuQdnD4uu1245s",
+          "widthPx": 720,
+          "heightPx": 540,
+          "authorAttributions": [
+            {
+              "displayName": "Microsky MS - NYC Data Recovery Services - Managed IT Services",
+              "uri": "https://maps.google.com/maps/contrib/105030614749428138583",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUf0E-d5srOfPD06dFfQ5bEvTVDsEtyHCWWtIxGzusZDfX9VlA=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi66TkCg&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi66TkCg!2e10!4m2!3m1!1s0x89c24cf8ecdcd465:0x7a6e4656c2fc63f4"
+        },
+        {
+          "name": "places/ChIJZdTc7PhMwokR9GP8wlZGbno/photos/AVoNoXQQeJqipRD_1wLVNRDeYSHznBHfuo1R2Dy5zMrHWdnaZESXMD_TCgno1vXggW1sik3lZnIj5NzFc-_YtxTRXVKL-ZbOO5FEFjwWSemIbiW0f_MdrKpF6rRFpPN-uOFt20PYk4B0mkvcs7iB280O8ZeD5vddXO9tCDYEW3Tqw9ur4EHvFlks5AlNLNJQXtOaGcB729iCOcRyjXBbr96w-eMLYIDSiFJXwbm5_vMGp8EKOi_Pm4BPPs4ctF67Y9d8e4LHuY9r_TSkFvDd8wzJ5_qVYTW3NumW0oWovfY2B96t8QzhJF2egH7Mb-OxVRY8Sab-vTom54PNDkAy4zeD3gp-pRY8KsajZpCP_1vxUNcuTVwrJUMMCV1OCwk3dublrE-5BDgklkRsaRH_WnO_DqQ7v4mnMy0",
+          "widthPx": 2048,
+          "heightPx": 1152,
+          "authorAttributions": [
+            {
+              "displayName": "Microsky MS - NYC Data Recovery Services - Managed IT Services",
+              "uri": "https://maps.google.com/maps/contrib/105030614749428138583",
+              "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUf0E-d5srOfPD06dFfQ5bEvTVDsEtyHCWWtIxGzusZDfX9VlA=s100-p-k-no-mo"
+            }
+          ],
+          "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi68TbwAE&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+          "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi68TbwAE!2e10!4m2!3m1!1s0x89c24cf8ecdcd465:0x7a6e4656c2fc63f4"
+        }
+      ]
+    }
+  ],
+  "nextPageToken": "AVoNoXTGji3EqkLlEtdPIQFFxad-mSc7hMtlVn4g_U7KVfLUAScrmecGVEfP7nBQEY5RfJF6HoZo0N2kB4kxW2Y79lwlONxbp0zOW2f_9LUwPXw6qiO9nkZJ_mG_3R4NS7cmbpyZWJyaeT8pgWehWfoQfwJr80vgO_RiY7Cvqt1v7HHUKkwcwjRHUgH__CBz9rwk0piYMhw288iQeCuuYZ_JhvhKG-TWLxPu9SVWTkIfQfSgOvzU2irSrKuOUGeiwPVsa565AGcAVqF6VX3VOazCK0hPEx1iog8Zskh8CbPtu8GM3U2vCfj0kiPGCmCmcraE03EyhYLt5Ul5HPzR5IhZIrrYs7sQwsM0V2n3Z_vK-2byvN7zziWPR6jgo2acnjQ5p9y-oXYHBtoI4dv4B2GORlxr8I0FK0Qh7aDBD6K4_518QhzudNJZ8dMs-7xOdMwpMMLEkJJm9-vCy_OZ6294CdIcdZxbV-X3TaX8YwCKN88v_hxoAnyfaMZkphQWXmLq2Huvqp2dcx-8ORW1mIyyl9F2GRA5OR8Z3bJT7ikO2zOGmZfVT8DMkjktqDwm-iPGL8Dw-itrB2lscnOOAgY0cqA3rU3LFzUznPx638Q39VDOFybHl5IoZxnGwZklqNqdWqY1qPNlSfcAFga0hbBcIRvYcvLfcUObB58FVLk2mq44Y2aVWCcyTYXEnR6DiP41J2zCIw3UaqdAYTrYTnvt9oQWmjgZAeV3xpMP0keAOla9MaIVViYko2Xswe5HmpdQH9JUZgAJ0JfYTEDrmSqi0uynDVKCjaCr-QM8rrHurJ-6Omyy64NBto-_NFjWLYG4o0iZdtQTavKAcKNs4KsGEnAeeXKKfAXwwspT3jorGAYSrjPdFdT7xL4NX3Z707GpDSdnpqjXdpcq4HjTxu_LTrmCpohFDosHGv_Co5jHQQqseUxrskeU8Xq1maqYGUXXnVtggq4yYVyFe_u8bhShioQBczEEebzdR29yToKGs6_Wx8pJdRVZqOlwv0wlUL8szayeN7wVbip3zlmxrZFCi0NoRgk1QP3ovL4SlkYPPmyQouKXN9EuQfHUk8--AXi6uXkoQneetj4JAOyVVDwLBt66UwIAP05WTnDKX7Y50KuJy2pRZMyyqnuHxBVe0Mg7MrcvZr0VVvhRg5d87g5C8NZiljAs0SNjIangMw2LPViZC5Bxag9WOMf5XoEJm8-n2DOselI3TGEe2UZPrFCSNR0afsyxOMoVg6Bj4vjIEZ2ONHG9W5JKPxqsv3ewghkjWXscV1ahZxtzVJqehupMM1YMwovbxWsQZ2P7nyJUAEDQgur2gDjl3XkVm0m4pJxQpWulmRfr2U5GMnRZKmUmdjG2fV34-TqJHXV4BBEbFNtJlJohp5WGeBqWLg5szWAcsGbUeTl9GrIRq6OFAru-eXxhY2nBsNyo9J0nLue6Feat3xDJI_OagBNUeUQH4V1Eoq3gv6NZQsyzoXeJGUVHIvzILFBUwqUO6DR60Cydu6oLtKsJZdvL-xKdpSaTVCTG1HPqMGfIqeOaKHSc6xnfaM-RV0wtZv5R8PE7fxU3H1F9PvwQj51XJku8oMLw462QJxouOOA_o4ILIZ4hqYUOgkAlq1ujfVwnprS2kCNA9ZsPbwXfFaquHxvkT1filQyyCc0AHBXaBzKPk6fusgxN0_YmfdMZn6ULvqeOQDTt82JQ7fszJmR_jL4BODnFPEfsCGq7XNAPT0ArxHjsIfUyJZ6w-OAoijFqybk38qRQklvkRjhiouknsKgpGqRB4VJ_1Q8rcepwjexDHhOivrYwD2pC6VSrZ8qTBKUn0NZUEjKyE-36hBv8mSUXGxKV1sj0yL-5dTmL8w7iWsZoYhBIJYOnsNSchAM"
+}

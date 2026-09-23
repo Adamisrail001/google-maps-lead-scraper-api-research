@@ -1,0 +1,3186 @@
+{
+  "meta": {
+    "total": 125,
+    "perPage": 100,
+    "currentPage": 2,
+    "lastPage": 2,
+    "firstPage": 1,
+    "firstPageUrl": "/?page=1",
+    "lastPageUrl": "/?page=2",
+    "nextPageUrl": null,
+    "previousPageUrl": "/?page=1"
+  },
+  "data": [
+    {
+      "id": 529502376,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "menu": {
+          "overview": {
+            "menuPhotos": [
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmARbR-FDhWfxsF3eGRjIBuAJOid_dbrb7CvR36H6nBmLqAD1JoHDO4vTEsOYKAgii9x15Mh8fcJb_raqogT54aPoGBSNXTU0xEq3yxWRKiS_uVWsPrhouN1hsRPNV75V8yv8lQ=s1024-v1",
+                "postedAt": "2024-11-9"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5XWBxvPJ3YtSorx4MR8cE-I8BLJUs2xjCQmKrpX9EP8tujEHVNUtpg0WiZga7_7x4Idb4UgQmmQFk9EcHZuXrx8CPFZF24qT-htjZTNb86D84TBlV1WktilNorE3HcizZGlhg9g=s1024-v1",
+                "postedAt": "2024-11-9"
+              }
+            ]
+          }
+        },
+        "type": "Restaurant",
+        "kgmid": "/g/11whbcn_fm",
+        "phone": "(818) 922-2181",
+        "price": "$20–30",
+        "title": "GG'S FOODHOUSE | International Restaurant- Mediterranean Food, Authentic Food in Van Nuys, LA,CA",
+        "types": [
+          "Restaurant",
+          "Armenian restaurant",
+          "Chicken wings restaurant",
+          "Georgian restaurant",
+          "Italian restaurant",
+          "Mediterranean restaurant",
+          "Pasta shop",
+          "Pizza restaurant",
+          "Sandwich shop",
+          "Vegetarian restaurant"
+        ],
+        "dataId": "0x80c297d477c7f86f:0x4c10d11ea629fc3a",
+        "emails": [
+          "info@ggsfoodhouse.com"
+        ],
+        "rating": 4.5,
+        "address": "14419 Sherman Way, Van Nuys, CA 91405",
+        "placeId": "ChIJb_jHd9SXwoAROvwpph7REEw",
+        "reviews": 24,
+        "website": "https://www.ggsfoodhouse.com/",
+        "position": 29,
+        "extraCost": 7,
+        "openState": "Closed · Opens 11 AM Thu",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkmADGfWMbuqRNhTKyVUM9c5dU04hFFT1zs47wVvr7zc8SDJIpq7UeUX78-exmZO4KVH_GDSNZtT1CYATHKBLhPdYzxsE-jbG85r6nF-pAFw7rrY0xhRYqpdbl3c7pTQEMZAJ50EwChcbZU=s1024-v1",
+        "extensions": {
+          "pets": [
+            "Dogs allowed outside"
+          ],
+          "crowd": [
+            "Family-friendly",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ],
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking"
+          ],
+          "children": [
+            "Good for kids",
+            "Has changing table(s)",
+            "High chairs",
+            "Kids' menu"
+          ],
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ],
+          "planning": [
+            "Accepts reservations"
+          ],
+          "amenities": [
+            "Restroom",
+            "Wi-Fi"
+          ],
+          "offerings": [
+            "Comfort food",
+            "Happy hour food",
+            "Healthy options",
+            "Late-night food",
+            "Organic dishes",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ],
+          "atmosphere": [
+            "Casual",
+            "Quiet"
+          ],
+          "highlights": [
+            "Sports"
+          ],
+          "popularFor": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ],
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ],
+          "diningOptions": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ],
+          "serviceOptions": [
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "Closed"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "11 AM–10 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "11 AM–10 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "11 AM–10 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "11 AM–10 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "11 AM–10 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "11 AM–10 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.201449,
+          "longitude": -118.4470906
+        },
+        "serviceOptions": [
+          "Delivery",
+          "Onsite services",
+          "Takeout",
+          "Dine-in"
+        ],
+        "priceDescription": "$20 to $30"
+      },
+      "createdAt": "2026-09-23T12:07:31.066+00:00",
+      "updatedAt": "2026-09-23T12:07:31.066+00:00",
+      "dataId": "ChIJb_jHd9SXwoAROvwpph7REEw"
+    },
+    {
+      "id": 529502375,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "menu": {
+          "overview": {
+            "menuPhotos": [
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnqrE1CRdnHm2UOjl_3rYQcxGo2r1tLIhZJfkM_YpePs6wk8MHIKX6wFNbw3-4oyypiTOzPARJATRBPwx_OnomTK03xnoUqKERHRuxLVnFC443W7HGIO5kZybTvvHTTtSUVr_sKGAMOzfkl=s1024-v1",
+                "postedAt": "2026-1-5"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn5Cem4FVaqFeRYfvX_-dI0MElg3JVksttdmkqSSH99v_HDlF7hBEwln3lP9lB9XNF0Sdcn7ymg5E2dAQhHfuMPop6pWqktBUfZT7w6rWXCxkLZ_dO1JeOzQV3s6Ygd2-z_wxDX5bUGLcN0=s1024-v1",
+                "postedAt": "2026-1-5"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmsoND6szyYW9PIkc2dKViiCK11rr-rR0Fg6AA7mzbE8MRBbbQozBFQFdQqJADXWBLjQRBuVLEgHCzosZ7akJqHx6UUw_afI-IJDny-9Do4CVn0kYeO6fX2soJgDNWPD2SMfSLXLqaNrUl_=s1024-v1",
+                "postedAt": "2026-1-5"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkB_wcViUGVzphym5vmuVxKPCroqS0eEcZd5qidKez2GC2oAbZl3zqDS-tVK5dXf6ovXJBYIRfReHKTF6I2cHJCbUV4AmTStAjXWTwFpNZekLumYjmD3RJS_MG27TrKWlYZZD_NACVdxnys=s1024-v1",
+                "postedAt": "2026-1-7"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm3azhP4QGFxxx702MPFvQNrYt0BAoJaOxmLYxfwdHNpSxryEUV1TlyGXoq8Y7mck2Ad4jjA4P88rgGtK2ziSXbXdqHbfgwfOWIwzT-Ad2sLhV1hyjGf65NXJ2fRFp2t-ofSuJYZMkpUjg=s1024-v1",
+                "postedAt": "2026-7-18"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmwv91YuO4hy5d9pZa5eIeL0jPIydJ-LmyPeukJnDShp6XyAR-Z3XIKoPg17WgvK1fChAh_DTD5Wj-rQwXJ47sUOkqGDvRB0meNIVCth-Hj6_Zvr_jHQOU4eTzcBzprqrFIHX2DYuahDuyK=s1024-v1",
+                "postedAt": "2026-7-18"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWngwGLVVvhQKF7e3gaOmrAeVSuEF4TW_jcFFtPtA03OqQtErnVqNQV4YfCRgm2tqZRfy86AHbNz5J9aryTFHFGBAtFBOwuT0C54-UdZK_nh9aHz0WJ1zr5MHoTFfiZ0PrVnbdyOIflclG8=s1024-v1",
+                "postedAt": "2025-9-9"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm10-yCQfjiZaEQXBXoE_V34wUKOzKPpQ0n5CRSYjW_vdDEGDkyBQpXEmvzJa87XQwKX6ohnqPJVl-wyGXnhDN5JN20AiX9YgETahIEGyIwsKhIB4j_Mq5tXoKeNykDycOHjLrZn10XUV3J=s1024-v1",
+                "postedAt": "2025-9-9"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmMfjSuQKkPrp1dkQYdXol_QENhb7CDuFAwC2lHBrbohuyOxDpK12pYub-HdOme7Raj8c0GaMKUuAp6wjDgQ8VsErL0SiLqrffdxmtsxRoxrogD7uBEkLxeyWlZfF5jpbLdVZIupAPD13g=s1024-v1",
+                "postedAt": "2025-9-9"
+              }
+            ]
+          }
+        },
+        "type": "Mediterranean restaurant",
+        "kgmid": "/g/11w_lxstmn",
+        "phone": "(818) 403-3880",
+        "price": "$20–30",
+        "title": "The Grill Stories",
+        "types": [
+          "Mediterranean restaurant",
+          "Armenian restaurant",
+          "Catering food and drink supplier",
+          "Family restaurant",
+          "Kebab shop",
+          "Lunch restaurant",
+          "Middle Eastern restaurant",
+          "Sandwich shop"
+        ],
+        "dataId": "0x80c291ec5daa56f3:0x71cb41078aa3ae8d",
+        "emails": [
+          "info@thegrillstories.com"
+        ],
+        "rating": 4.6,
+        "address": "233 N Maclay Ave A, San Fernando, CA 91340",
+        "placeId": "ChIJ81aqXeyRwoARja6jigdBy3E",
+        "reviews": 202,
+        "website": "https://www.thegrillstories.com/",
+        "position": 28,
+        "extraCost": 7,
+        "openState": "Closed · Opens 10:30 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmDiMQ8sQ-b1U1vRau09X_xwgIRJBkMjvlad9iptJ6Rv-ZXEc4b2FN57qRwVPMdM6Bj8srchRlqjgVbWmDB2UQ_nPTemGmlc9r2qY8r5zTj35Wlp8A0KSPUtWdDkoCwPcYbPNrmiu3p2CZz=s1024-v1",
+        "extensions": {
+          "pets": [
+            "Dogs allowed"
+          ],
+          "crowd": [
+            "Family-friendly",
+            "Groups"
+          ],
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking"
+          ],
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ],
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ],
+          "amenities": [
+            "Restroom"
+          ],
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Healthy options",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ],
+          "atmosphere": [
+            "Casual"
+          ],
+          "highlights": [
+            "Fast service"
+          ],
+          "popularFor": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ],
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ],
+          "diningOptions": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating"
+          ],
+          "serviceOptions": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "10:30 AM–8:30 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "10:30 AM–8:30 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "10:30 AM–8:30 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "10:30 AM–8:30 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "10:30 AM–8:30 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "10:30 AM–8:30 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "10:30 AM–8:30 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.2857199,
+          "longitude": -118.43827599999999
+        },
+        "serviceOptions": [
+          "Outdoor seating",
+          "No-contact delivery",
+          "Delivery",
+          "Onsite services",
+          "Takeout",
+          "Dine-in"
+        ],
+        "priceDescription": "$20 to $30"
+      },
+      "createdAt": "2026-09-23T12:07:31.064+00:00",
+      "updatedAt": "2026-09-23T12:07:31.064+00:00",
+      "dataId": "ChIJ81aqXeyRwoARja6jigdBy3E"
+    },
+    {
+      "id": 529502374,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "menu": {
+          "overview": {
+            "menuPhotos": [
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlYEZXXpU_GQDbhVieOVZ5e7FuLJcmyMAz31eDUPzZ69uWg8T3zndrRy-4U6G20oNSWDG81xk6cOAvpqdFN_t1aXhdDpYdGzxqZvgNuV7fgcIOdFrf-XE5kF0SHnyxcPJzXDJOBzMImYBXB=s1024-v1",
+                "postedAt": "2025-9-16"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmbntHAUM1uF9E8Bt9V2jDjqUXn2Hd3R02BPO6uuihXEDqh-y-aLssnSK-we9pWQY_Z1zXLqLT5cENP059sD7O75ghAF3GQDLMmveSUXnbusUVsl89vj1GxBX2VL7R05oTzx5Eo10tRsjE=s1024-v1",
+                "postedAt": "2025-9-16"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkFpcN0jX-qt_XN119SPg4QPiuxZyTNi3x-Wem1DM_bXvM8b5r5V2qTO4IEeaO3cYm9tVN2bFz_OgxuugS6p_CSsBkLLvWrHp1iLPGssUqCRPh7SWm5HHcseZeNqyLCx38a9vI6=s1024-v1",
+                "postedAt": "2024-7-13"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkiqOH2XnxgdJ7O1ENe5P7g_FIqPMMRF_BjLrp47zCRTKSsA3FbcHn3PEDdl6w9fYvPC30QlHDykEJfQJEq6hN-lXFitUq7nSRp5Z-sP4B6WwECkZ-9CvcBjl-RbxF3bzaob8129Q=s1024-v1",
+                "postedAt": "2023-9-30"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlYfB84uAeXZhXGdILj7YMFrpI-4Ns53tKhk2a-sYzNolfbw7BpZewZTXz2MwMl8kWvZmdyPw2gLuhvPzMjflbVqT2Tc1bxc-glIbL7E379hJnkGfW7OV8ryd2VtxgeKO3xULxR=s1024-v1",
+                "postedAt": "2023-9-25"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmAcLPkeReN9NQ6fYMhko1wVEfkHWakDzLA7vJxufnSnZ9Yx9CnsNW71RZlOXrwSI64FKmY4OY-izgsry0HPlCwtmi6YJqwKjz02aY6ovqHRN6lvFazMKEJxGUes2wD_Y48ce8fww=s1024-v1",
+                "postedAt": "2023-9-30"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl3vaNrdNtLLDSVy9bTfE13Wf2OBPU2wzoOtHCjoTlX_IDCh8nFpsS8HEut62FFYsdIC1S1GmSHe1sqhPzNLkF8mozZ_52Hw6pm_PQLfPNLNmVIOzhXoF0bLclbkfi0_E9JEKi3xA=s1024-v1",
+                "postedAt": "2022-3-25"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlJdrAL1HbkHAScIcHkybuZ1mIAIHtUsi-g1BiJIkuAufLHoKV77_UjS9zNUKABB7AB3oSESQsy_FEsDgM4Fwt8Us9I91TJfgZsx4hjnt8UK9c4w_qWrBdw-Um7TcnXQ5kcxpZy=s1024-v1",
+                "postedAt": "2023-6-23"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmkA6uBCmt5E87xwzptKKqsBzj_8X0JXcvVCbfsYQoVO_qY_6puZaBgzfmFFa-GOYMnDUj94B1JE7hDaT14wQ_uM9cq9ZikCYgla0W6QHQHbQlJaANzOQjtcpcGy1fUTmrlv-oC=s1024-v1",
+                "postedAt": "2020-10-18"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlro6WAkEb7MvUNZ8uIVzXsM5p4C4HOf_bxbbAeRaVoYlbeO9xMlesQbZXdDlDBKFpYYSSlHMB9rcWWMDe-DCXVkq6L4qmHIQOwWi2GaDePGJlZwt_-eUKywwt4DYBYBSzexlYULA=s1024-v1",
+                "postedAt": "2018-6-8"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk7HrMPbNISe2DBjSI8xcevV1NwSR5cpvEDtCsU7o1pQtkIUOsnPMGL9XPGOsFp6YnUgK9hGFWnpwqS0olV2l5Di5kwW4ljjOOvi0k1_c2ce0S0vuwTsx2HuG_35xS8gwwGSNY=s1024-v1",
+                "postedAt": "2017-6-14"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5uRAEryhEUlKsbVgjRxzFqbQiNrFpAsjuJwFAc3ZLgHiaCCMsQGeEWN8klJgSA8KbdnC4QPA0yCtO9bCcu8yN7QhVObV7OmIZLdFw2g5owqx6vqbyuy1l1QHfHdmuRQBkmoEhrw=s1024-v1",
+                "postedAt": "2018-6-7"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlrTIBrGpbcsAku9I_T8EgBgPkrdqoz27Jw4Wgwlzm_SFNfxsza3Rw54zx6mY3S3HPGyg3UCXwVEav-tOOb536c5680UUpsOyDkOsaiyWOsLfTwNFgAwrrNbTZGR1nZdHc-lLBI=s1024-v1",
+                "postedAt": "2018-3-9"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnzqgOwyeRU4iMKn_HlCwq40H7Jf5LARw4s5d5gdUNZvKO8OnPy-J-yR7miztRdLiKC5eO87V_mj1Bza5K5ko0b-GrWwPyuxOcV-yds4wa2gzH9Rah4--Klmiifk3kk3x6o60Rh=s1024-v1",
+                "postedAt": "2018-6-8"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl-4EEyzqJeYSOQhkV0DZnyDeLDw93QiIMdq4_OReWMglJWKdpFMSLdW1vLOOtOK2SmNxGAp5zdli1_BYtRNJU_VQTywr_Opey-SdzAWReiMfbbm4peAxRSP-dELRynNXz-ZUWVSA=s1024-v1",
+                "postedAt": "2019-4-26"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlZsaeDspgdJR7PuJSCDT2a2aGz003UJC-n377JGJVqskNCA7v0t2PEVzCSc-xL7Y8k6YSgu-AUYZ6PwciqZMKDuaFKr9tWNagwZvaq2cMViSSuABnwr1t7ONpGO3HCDfnC0sEy=s1024-v1",
+                "postedAt": "2018-12-23"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm6mGoar5_ENT7523mr8RiWheIV_KzpZZtDbrM4cXiTJw9WHgS5UHQY5EeDtc0IpQVr_chs4eIte-xyFc61q2MC1QEvFP2p4uFC30Lad-3QUizHtpZbGxygBbpYzRHydGaqrHe1=s1024-v1",
+                "postedAt": "2017-6-14"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlzAe8yntuLiSsYiYf5PLPxrdhqOMU9ov6AmZPaE6j1mmreuMlBbNLneyfvIQVgdjXZNfASaUmkkS0vCxgURsiMAhWU9Z-OuVFMDOfh59TTaGD6lPh3O7tUnFIqy51Pkt4JJfrf=s1024-v1",
+                "postedAt": "2019-4-26"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkZP9aVg-ZEXKOLKjth6Uv2hI4Fgbwt8K0jxp4phyGpGN9Zv4PzOREZFyw2p9u2DqwBE9IHc2CnL2I0y2zQD-YjzMy_Di7t6_JcbFxg7PIM_7l7-b1GT4WRhec9I88zDl_5SWHcuA=s1024-v1",
+                "postedAt": "2018-6-8"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn7fCBzdHDf7VynUQMqvHQA8P3RbyAr21UjrCZu1dJiNckzUXBUtWux_sdbREhkJbM8tEwogZUaN4M2DBqno6P29nZXFESH8nhJEjJ_QYiaZ3pbaHhZ4u0VGSWENTBeKkDyEcn1bHu4Sjo=s1024-v1",
+                "postedAt": "2026-5-9"
+              }
+            ]
+          }
+        },
+        "type": "Korean restaurant",
+        "kgmid": "/g/11clsdt752",
+        "phone": "(818) 810-6396",
+        "title": "Corner Grille",
+        "types": [
+          "Korean restaurant",
+          "Asian fusion restaurant",
+          "Hamburger restaurant",
+          "Korean barbecue restaurant",
+          "Restaurant"
+        ],
+        "dataId": "0x80c290b403811f89:0xec2f2382faabcba1",
+        "rating": 4.7,
+        "address": "8261 Sepulveda Blvd, Van Nuys, CA 91402",
+        "placeId": "ChIJiR-BA7SQwoARocur-oIjL-w",
+        "reviews": 503,
+        "website": "https://cornergrillepc.com/?utm_source=google",
+        "position": 27,
+        "openState": "Closed · Opens 11 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk4rYyiwko-o0PH-lgQNP79Wod4bv5Mq26nBIOsQ0ysUgq8T9fr-exOsJrzeHMMINRCSqvbXGbZYjfDilkMq6Nb5edBQsD4i4yIPwOsic7jaOs5kszE-lKLmYHyBbTNa8o5UxMS=s1024-v1",
+        "extensions": {
+          "crowd": [
+            "Family-friendly",
+            "Groups"
+          ],
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot"
+          ],
+          "children": [
+            "Good for kids",
+            "Kids' menu"
+          ],
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ],
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ],
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Comfort food",
+            "Quick bite",
+            "Small plates",
+            "Vegetarian options"
+          ],
+          "atmosphere": [
+            "Casual"
+          ],
+          "highlights": [
+            "Fast service"
+          ],
+          "popularFor": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ],
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ],
+          "diningOptions": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating"
+          ],
+          "serviceOptions": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        "description": "Modest stop for Korean BBQ & wings. Laid-back, quick-serve outpost for Korean BBQ, wings, tacos, burgers, fries & other fusion dishes.",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "11 AM–9 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "11 AM–9 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "11 AM–9:30 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "12–9:30 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "11 AM–9 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "11 AM–9 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.2212223,
+          "longitude": -118.4683606
+        },
+        "serviceOptions": [
+          "Curbside pickup",
+          "No-contact delivery",
+          "Delivery",
+          "Onsite services",
+          "Takeout",
+          "Dine-in"
+        ]
+      },
+      "createdAt": "2026-09-23T12:07:31.063+00:00",
+      "updatedAt": "2026-09-23T12:07:31.063+00:00",
+      "dataId": "ChIJiR-BA7SQwoARocur-oIjL-w"
+    },
+    {
+      "id": 529502373,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "menu": {
+          "overview": {
+            "menuPhotos": [
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnqdiIDRGvbf485Vo4U56XzF8gYq-6MwC_aZng6EPeHflBU2pi6fwVGjmpk-9fAYlW6erJ8ctQH4tMcNK5dFiZqg7U27wZ6TAHFDVsTAk0nIf-ztrzHSQMdmAfnjJxBt5Uuz9HU=s1024-v1",
+                "postedAt": "2023-5-3"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnIxMjPSb1Mu9-hEeYImt0I4m6H8GS4MVPFGl_wMpDsNr0knfTLeuVD43FiJqk6LJ9CJB1yop5RD5-14WFzrOVUVAsJFsRhDQ5xbBMOLi8i0Cq5AVeMiG8lQ8g36jXq7vDbbxbO7g=s1024-v1",
+                "postedAt": "2023-5-3"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm1JXwvK8GeFrlZ0P2HaQFGjWacfQxNN11Zd-ExUUZNqcisFPOKVHZYSsTOn2qkFUmYDcYSr-bfhkUuDLPzOux-eyeGZWDyD9qm2-7LMcD2lS4wX2AFazJepnqYvF5wdGcB2IF0=s1024-v1",
+                "postedAt": "2022-3-24"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkbDDGE36POlkQx4Bdooxv6am32QcnK1GQIQt6JMZyf6RQd5nPORILxTIXJ5gMJF0XgjUPsASp4Uj7Ckz58n8HMIKdSEc6ffSx-hyDVcECok4Je7jEmwYi4q7VzpRSdnBvNlfim=s1024-v1",
+                "postedAt": "2023-5-3"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnaT8fHOD5PApWVstsEHnSYspws4Y9cvpBXyImvGmZO8_zFcEoBv29pFSizt5dMmaeCe8isIujXyyvr7zQh7AklPYlP2Ft8c3kgAnReoIxV6oW1_b-KQ1VBywAMpSXlUM5qYSi_=s1024-v1",
+                "postedAt": "2023-5-3"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmo6IReyQXcCyUKGgiFCOPOplfSS0AsoSwdbg7u8csviKxJcZuyxbMvKt5U1IJZiOr9Sodl5_LUaHWT2aTMGOZKa5MsQ3Zn0J_Pb0XtknDLuRCpjfOpcR4YwU-3OEC3sjYf9Rzt=s1024-v1",
+                "postedAt": "2019-1-16"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnc2OsLZxa3NrCwPFsZicJ4TtFgGVdIM3jFQ03AimVWQrS0ymVxuyGlzRXoRZnOhZas2qHPwfr5psDGZ798uFY2ZuHewneMWfvgNHe7gWnb8ELcLaxjrlpjJ_ZlQ8ndFO6QV0qovg=s1024-v1",
+                "postedAt": "2017-8-12"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlTzg-VohBEGmJGHSYSfjf8POEUpeiTfmO7R1nCHNXjqtWsj-qENjjAmigpchaXkWJa2VMoZhUxrkhWgNmmsyZkZMZKHMDorBkv977GdKUeTIuz8b5Gu0bYnr5Pv8-wrNsfni3U=s1024-v1",
+                "postedAt": "2019-9-30"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlwRLNUSUB5leqaXcgCCvpg21n_zRb6Ua6RyCoh-q4cnAu_oB7N_4PTFZosbzknlcHk1x-7hAT54lpDE2NmydagmRMx_NdWddfbtKzYiJsFmqEoXcAxM8pxMjtL8ZrWHISnNfo=s1024-v1",
+                "postedAt": "2019-1-21"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmsYCqhu72Wvzc6y_g-K3gkb8duBDfZt_IzEoOnV6YVE4fAQCWG6uq8x521vtOgh8TpzY_XuySrUp_LOn5ARmO8wV23KC_VtnHoZHbb4Fw5z9rksvga_dVg-37EqVlUBUmBXTAX=s1024-v1",
+                "postedAt": "2019-1-21"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlQIG0HGIiAQQhxMzXJbij8BFmCMoS6mSTpo2AneIF1vGtSl85qMIRkogVeq7yS8vqM5lkd9QXUTvxzYYnOxjvErE0Ek26G_j27BBql2HHyeeD6t2YgVCgSkCywnl6sFZV3eq9aGg=s1024-v1",
+                "postedAt": "2019-9-30"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmdbgqaLh_kJQulVux5o6NYw3Fm4dZQd8g5iDT1WfsDlCDnUWgbhcCMuhYSSsUU3d2hcfN1lsYNOchFSi28FH9Ru-ypjDDRD-6AYDsi3vKN2fcmgdzOoO1aL9r92-JeevwkssP_7g=s1024-v1",
+                "postedAt": "2019-9-30"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8nf_T02BqdB-zOt0ZkL-vXUNaevqcocpU5ZGdlPxfVN5qDJW7myvRVNn9iShee1qa2IDOSJYWWkl8EdZTG1vRXukmxmRY8cxFrF7dOw7TukTsfJgjBsQziPXnjShIbtDxK-p9=s1024-v1",
+                "postedAt": "2019-9-30"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLPzQQZ80XO_UbvIztAIsFwfu_3A8cKzEnKzB_AGqN9YFaHqabHq__LUXSY7Fk1X4B50_pirRrHYyntJXMlYL-1ZCUZ1jLwlT2vfbB06CPlSZ9qrQC_gTHrFQ_RUsxHe5zsj7E=s1024-v1",
+                "postedAt": "2023-5-3"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlpnGO1RGLHdM7x59lbV5kpw0Fasxqnb8GhLb0vxOELKS8q7j-HqOkh1W_f5Si9VhBwBAfwAPSuNS_fGEG4SJOhKWQ8Mlj03XsvrCpqvVwjd1sd9AewTDL_JU-eLmlg_l1XWoKW=s1024-v1",
+                "postedAt": "2023-7-23"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlKl4cdZkJMADhZ1sqLgCL9H0169LpYDbFMy7nmoO50yqVYaP7odYbQoJvMHzFY9lQ8bVM3w9g3pZBvnqKF1thiRbPcnmUCCqHU6ASxKAlfkZu3y_8SBZOftx0uQ_zVlE_woM6J=s1024-v1",
+                "postedAt": "2020-6-28"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkKRDqqE1b3OoVPb-q2BjfeZhQLll_1IfLqi_MeI-c5eopKrEs-sBaqRkb6n2ktSVINbwNRahnUWa-PjE2WVM2lFCnb2zfF_PJRTIEoJN3HELkNwEdya2Zo5nsk40fdpNN6_S4gxw=s1024-v1",
+                "postedAt": "2022-11-22"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmZ2dUzRS0acFlTMRikvEdNzk2CjNdcDXQMYbQ_ml19W3adYWixC8_eUj_eYtgeYo41UQOtY-FN_hLsEs0K8SOhvBgZ2Sx2BpbZ02NMuDfl-MgZDMvLhQyOq_h9ecyb1NXaaR9f=s1024-v1",
+                "postedAt": "2023-7-28"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlh1WbzDTvYihGdnrx9TQczYXYDC0oI4EfzlzZfEPyz7_4s2-p0BvJlJaC7Xf8MbjwyDn-bB4gFu7JnyoUInu1lhFnO_7HrSAZRw1Ef05yUxTF33RPiUS2xGiIa31okpaMheuSu=s1024-v1",
+                "postedAt": "2022-11-22"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn9vFWcySC2rnHkzldzQ86uQtDcpHUuo555LV3jIqAmUFQ78tSeBlvMPqCw1s1geB5LBdcbeLWqjKaE_7x0WXKByRpLC6L22pYdRSg1D33ThP9YHsp9Swbn1jGL4G2zMPPFNnGGaQ=s1024-v1",
+                "postedAt": "2017-6-3"
+              }
+            ]
+          }
+        },
+        "type": "Syrian restaurant",
+        "kgmid": "/g/11bws7mx8h",
+        "phone": "(818) 909-2593",
+        "price": "$10–20",
+        "title": "Kobee Factory",
+        "types": [
+          "Syrian restaurant"
+        ],
+        "dataId": "0x80c297ab2f7924a1:0x2799987417c337c0",
+        "rating": 4.8,
+        "address": "14110 Oxnard St, Sherman Oaks, CA 91401",
+        "placeId": "ChIJoSR5L6uXwoARwDfDF3SYmSc",
+        "reviews": 356,
+        "website": "http://kobeefactoryla.com/",
+        "position": 25,
+        "openState": "Closed · Opens 10 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk4ca9HGWBuQhZC6UPHmS_i0PsDnntkkYykCKHFUgyNNLqWRfwTVbHfIaaB0pjt7PwudFA1xsu7En2WsdXLaobm7oDukwUz7p7uuvJ1fj8f9O4LbVajvC5n8L2-3d1pwRkMsJQX=s1024-v1",
+        "extensions": {
+          "crowd": [
+            "Groups"
+          ],
+          "parking": [
+            "Free parking lot",
+            "Free street parking"
+          ],
+          "children": [
+            "Good for kids"
+          ],
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ],
+          "amenities": [
+            "Restroom"
+          ],
+          "offerings": [
+            "Coffee",
+            "Comfort food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ],
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet"
+          ],
+          "highlights": [
+            "Serves local specialty"
+          ],
+          "popularFor": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ],
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ],
+          "diningOptions": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert"
+          ],
+          "serviceOptions": [
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        "description": "Snug cafe for homestyle Syrian fare. Unpretentious counter-serve offering classic Middle Eastern cuisine in a colorful, compact space.",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "10 AM–8 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "10 AM–8 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "10 AM–8 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "10 AM–8 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "10 AM–8 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "10 AM–8 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "10 AM–8 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.1792276,
+          "longitude": -118.440461
+        },
+        "serviceOptions": [
+          "No-contact delivery",
+          "Delivery",
+          "Onsite services",
+          "Takeout",
+          "Dine-in"
+        ],
+        "priceDescription": "$10 to $20"
+      },
+      "createdAt": "2026-09-23T12:07:31.062+00:00",
+      "updatedAt": "2026-09-23T12:07:31.062+00:00",
+      "dataId": "ChIJoSR5L6uXwoARwDfDF3SYmSc"
+    },
+    {
+      "id": 529502372,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "menu": {
+          "overview": {
+            "menuPhotos": [
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkQ8mY_OOoeGqgWfoS_hK1kVXdXlua0YZnq7sNsdHMj5dV38uBUFX5QjtSfzywzDb8uMiwz7grh4B0Jq7WXgMbwu8V1mkK5fxmvxCJb14ZA-gHV7CJYGKxY75q9ZyQxuVKYRApP=s1024-v1",
+                "postedAt": "2025-4-2"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlLaS5SYR8t5Is7XQoxSgzk4P3xakz-RlgVJDOj_QgOHMSjWADVwNIwEWcsJnI9eOuUqtNDm0T_79dGGNov3mo6iBVl-IriQHtuVTBWW0vxJ2Ad1kZXQo1I-_Vjq3tPulZPecLBlNaglw3c=s1024-v1",
+                "postedAt": "2025-8-14"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWltbmRw67kpVxPdhW81_KxXTVRxU2aL7MkA8xbqdbeS4b-eP9ywdN_BX1_tI26-0czM4ELtt1jczYZ3iRisgu1K3vgWE-ceOf77WgTUlkeDDNj3ASW3p2jX4NMkBqYr6uHDLrsHIzwElWhi=s1024-v1",
+                "postedAt": "2025-12-26"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlPuiJJKimnpjNqBtGKmhmfwiQODhI0ri3aazuPS_PYdX5gsjtmAdUemEnSBIjmC-80BfVcHr9q9d7L_paKLlAoyYnUt8qVbItoQYefzkyqBfHxHFg7T1n7JAhtzbz0H_Rm45ChMuGs_7DO=s1024-v1",
+                "postedAt": "2025-12-26"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm17QWrBsuP7MwVS4pHoWOAf_cDuHwoy6qmw6BhotEc5PtBjsk4YKG7vjgfHQri9ntaMShoEyqPI3nmSuJrwtOsOJJp0Eiu5PI7RF20H4WpUV5nT_BXKgOEnRbKZIPDgYL_qZ5j9g=s1024-v1",
+                "postedAt": "2023-11-20"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk-B6kbFj8Miny-DR0cro83-OTeMQtdKzP7ttPV7wpz5OEwPtzyOIricoJHz2pgmjMhvNdNMr1vWaaw8a4N9sRXKX1qoa9aTPCSZC89vunYoyiFhw1ENZmc5SLgV_AY9InRgDY=s1024-v1",
+                "postedAt": "2025-4-2"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnWFWBi3WcFo3bAdiABJJ9VN2YLGV5sZulK6sFezdeQuKZaGy2V8p7GOjEvMvVfv4KZREEbvWSAwCHtuZRrtXCzBKTJttPUk0B5Ih740jIZIZg11u-W79uTwj69nyZ1_ErMy39I=s1024-v1",
+                "postedAt": "2025-4-2"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmw8nvWhVzz7zS5fjThHhfX6DFGeGHU3dUgs1pG21mtefFdmnpRMnWcQGDVlcCKb3N9iDWSkQHQ_HDwwt4j4kWVH3_Jn1D6jsZU7bkYkzNsefb8vKFqRYxhIElk6XRI4Z0rJeT8=s1024-v1",
+                "postedAt": "2025-4-2"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkRhvBTlzW2famVOjGI7RyPyJhIzLJmNkSToC7n8VGzFt9MTXdRraSmn0pQ17Kx6GZ9QZ6YZ60aZQuQ5cj56hL39JOqIvW5Q7TNG3jHvn9TCFfDoPrmmU40v5hglpakW2gPd0bmcg=s1024-v1",
+                "postedAt": "2025-4-2"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkvILvqHlb1Gzx0E81HU7ma6ozNtVJQnfAPobTCXKt52wyqI0EPHgWhjtTWMKc7_-I6l6w74bo5Mlc8owyY27nGum5L1rnQe5czmCyPaZ_VZOSZuuuqMP1r1tPcX_Uz4VkYGZ7b=s1024-v1",
+                "postedAt": "2025-4-2"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnTe-C50jBoGTb53p1plb_6C_PltoSSVI75sX93JZpqiVbc5ILuoDDku4m4MoD8m3NX5n7swAui8aYI0FHQwyOLKoY3YsqSse973JgXjEP2byLtWw3q3hwmNetY3sQGk-3-SXs13A=s1024-v1",
+                "postedAt": "2025-4-2"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl07f0gG2TxyoB47FWXpt8ZGEeLWgiOi1g0Ozu-bEXGxPaO7qLE2gZ9TAx3IvUnhOIhEdUT7IUdW1KXlXtYPIP1VGAlxCG9_XBqeFbsaCoRCNj3pJml4e4xjvLjOI485CiCAYMO=s1024-v1",
+                "postedAt": "2025-4-2"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmlLVJHlODhHtueWMdLJv5FyV2uTEP8Z-qEw44ePxoHFqjASXcWxvyUw2T4J7OvmQ0nZXXK4Nz3yf85PnHa-E3FApa1djYr6yPgEA1Nl7p-qo2CO3OrwKjQdTfPWmXN_4LOZ48J-Q=s1024-v1",
+                "postedAt": "2025-4-2"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmoCsmCVQOCBkDTqZiW0Sdj3JP9nWStWzqbdhW3UY3yRJtag7GQj3IJK1RwmJy9tqIWm51ovzBMFD427OooffXTwF699Kv1_pdrFYI8Q0ppiTbEycvTlmJIZt4rZuy7QY_U5cNr=s1024-v1",
+                "postedAt": "2022-5-13"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmOyczzHXiWBgAUQPy_aKF6qjU823u57VfK_kE4fpkEumC4WK78owvr9m2dhnwn0300wgIQH73hZPGNmAJ7nJYhLqLYQqX7fjwrQPc16oVzp29057nmVWH7MJ9HGPM1PQ3tYFiptYzUdIKl=s1024-v1",
+                "postedAt": "2025-8-14"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkiawFfag9azlPkbgA5rsyuzeta18KmumCpGyzGfcZJIcLoPAxPhVFIQnibv0OKHqo49tOPT62kxi_qVsOSmkHLBImLAc38DChseumjAFjwFdzSiO1D9STGFpIHEXSpBD9U4Pgd=s1024-v1",
+                "postedAt": "2022-10-6"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkLk5SCQT3dSUFFYO0PQrIPYC8vtDSGJl-KO5JdKy9Vj5gi-68BlQGd8XaBfsAcvyxkgE2qpWl4IU9Bv2MGsh2OuE5Jfksrjx_f4iKexij_jKskUlSLHy5iOAGNIdPEnyZNoelMeQ=s1024-v1",
+                "postedAt": "2022-5-13"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnODmysANYSphXSCv-PEzeNlqfOhcuqL8v74-BdZisBYOQxW-LkDxp45yvzvZD519lo8J9JkjPHqfBjw5fFAyiB-pMuze1keWYA7oPCsKLoaMWnicdStgea-FjrX7PzadeErYPhZw=s1024-v1",
+                "postedAt": "2024-7-22"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlAZMPJuzCwW6Yjwgw4VWqs6O61cZ9k696RY0TwH4dJVmvJCDun4rQXFdifekM-2mcliq93FxeYQNH4Ouh9MpHHWGD9dSw3nDMgHEaCz29ResGgF4eYBSJGtk_YVeKGT7jmvre6BQ=s1024-v1",
+                "postedAt": "2024-2-5"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm47Ouq5-MvrKreRM24ynD4sp20oTiOXH_BQfbAzdg_pbmFD9QJ95lxqViQ0I0udDMRzFf0jgxgkynY843ssxgCFd0Kp0jHLuQHpAIcMRE3J3ywKMcd-vbQE_CJAq1ng1T7yGfs=s1024-v1",
+                "postedAt": "2023-11-8"
+              }
+            ]
+          }
+        },
+        "type": "Breakfast restaurant",
+        "kgmid": "/g/1tddy0kf",
+        "phone": "(818) 781-3040",
+        "price": "$10–20",
+        "title": "Nat's Early Bite",
+        "types": [
+          "Breakfast restaurant",
+          "Cafe",
+          "Coffee shop",
+          "Restaurant"
+        ],
+        "dataId": "0x80c297ad58473d0d:0xb6946c34a9222675",
+        "rating": 4.6,
+        "address": "14115 Burbank Blvd, Sherman Oaks, CA 91401",
+        "placeId": "ChIJDT1HWK2XwoARdSYiqTRslLY",
+        "reviews": 1577,
+        "website": "http://www.natsearlybite.com/",
+        "position": 23,
+        "openState": "Closed · Opens 7 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkSSNjeHkMk7paVGVT-oLJ7ZMMtHl71zL31pNE6KcKIimOf48jnR7sYv5XSrsofINXxuUkiutDMEAs40z0Td6usWFsjZVN8eQNxI6ODQq1lq6EvXqKbkidKGN1k2NUePQAlgEbUMw=s1024-v1",
+        "extensions": {
+          "crowd": [
+            "Family-friendly",
+            "Groups"
+          ],
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ],
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ],
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ],
+          "planning": [
+            "Usually a wait"
+          ],
+          "amenities": [
+            "Restroom",
+            "Wi-Fi"
+          ],
+          "offerings": [
+            "Coffee",
+            "Comfort food",
+            "Healthy options",
+            "Quick bite"
+          ],
+          "atmosphere": [
+            "Casual",
+            "Cozy"
+          ],
+          "highlights": [
+            "Great coffee",
+            "Great tea selection",
+            "Serves local specialty"
+          ],
+          "popularFor": [
+            "Breakfast",
+            "Solo dining"
+          ],
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ],
+          "diningOptions": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ],
+          "serviceOptions": [
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        "description": "Down-home diner grub. Diner offering hearty American classics & traditional Mexican eats, plus breakfast all afternoon.",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "7 AM–2 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "7 AM–2 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "7 AM–2 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "7 AM–2:30 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "7 AM–2:30 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "7 AM–2 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "7 AM–2 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.1722971,
+          "longitude": -118.44056189999999
+        },
+        "serviceOptions": [
+          "Onsite services",
+          "Takeout",
+          "Dine-in"
+        ],
+        "priceDescription": "$10 to $20"
+      },
+      "createdAt": "2026-09-23T12:07:31.061+00:00",
+      "updatedAt": "2026-09-23T12:07:31.061+00:00",
+      "dataId": "ChIJDT1HWK2XwoARdSYiqTRslLY"
+    },
+    {
+      "id": 529502371,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "menu": {
+          "overview": {
+            "menuPhotos": [
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlqms3eeZjzI3RpigaiwLYQ_WB2rJk2KWWLtmIsIU7-cAnFkA1ablWOoRxBFkD5-qs0tg7PYowEaePpsILHECGIWV6kb6Oe5QcTcOoX4HSFWg3DwsOzyDtGxchOenHilpTUIAAewFp_uCOE=s1024-v1",
+                "postedAt": "2026-7-30"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnRMmM0K6n4STXR6mVxvyxjLawDVyzfJ-kAYvVQwv6Sov6ylqF0SOssAWHSHPBKjyVILZIg8keL5Kkiw6S-fO1I3a5KX4HiZtZAcmW-MPdv7bnWVR-nmQlUNHFm9F83cKktS6Zx_5eJt0E=s1024-v1",
+                "postedAt": "2026-7-30"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmo70ji72yFR10UQ3YFmgUnCzR1jxYrF3kYEWqZmYiwTVk_QnfI6gzoy3puoxRVhDNvf9KJPTuPuNXlErPu6bN_qOETtIAPiXFm4q3Ihxyma0x17uh_k--RI2o1tg_Vrj8iKo9B6dC16U3f=s1024-v1",
+                "postedAt": "2026-7-4"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnLZeUjtKDmv6PB7Tb9QVrVW6V6F4oS3put-swIrV9eB03DemK_EqFVSOpLOqab1OrGCaXCFNW-8vybzKfA4QcVkIlkJn_wgMNr5aq8UTe3_ckGqkNM9HLZw4vn4y_sLdWRZVDkBf9o3ZY=s1024-v1",
+                "postedAt": "2026-7-4"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkxNUJQjUPmliEWwtQ7rvOj8NJ7xyOU2NUU48zBwoGuitrV-lHjTrDpN1Fb94twNUBYKZpq1wPxPqN0BqWYVtcHcQzkfwsS_jHSJTNesoWbbpIjlufl4oSXEsJy2Jo9pv_G0Vx6RQy-U7W1=s1024-v1",
+                "postedAt": "2026-7-4"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm6n6_NBKlohxpN7iYD3pPAccuxXb-9JjV2y47PfDv9m48d_j2wgr6oRA2QIkYP7E0bvX6Eb7hwAqYjqOGbTyxFfHAJCuL1JHUX1GNdAb3nhDeAufX3tP8KXCx9f8h0f1M__XUlpYfkh-L0=s1024-v1",
+                "postedAt": "2026-7-4"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkCIfYjHGown4gbyrZHsXTOLJlxnJZRB1IHf2qlC8rOo-JsOGkSqU7djiz8NgSP9eduEf1n1Y5MBe43g6EKMpVs2MttuxRPGPH9g01By4GAZNVnT1Y5aJJaeG6yKfkHn1L_2aCycxnJKJGc=s1024-v1",
+                "postedAt": "2026-7-4"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn0-goNkNxNJDNqwxtyd6GxgrdAJfUTWZdh8Yba2-qw9NvqsMO2pqCkCyEH4woYzgnN2L94BqpP4aCnzRJSBFK52k16ZJl3SrxXGHyJoFQJFNrFw8TDCB5YoPRyZ9r3vsyCb5Jbc_xl6qoC=s1024-v1",
+                "postedAt": "2025-8-4"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWna4vdQnTjNpOmmishnV9Y653ZXGMB9RdIOjBZNwuI7e2E4Ncgu-2gyPaBvxXdGOldioINJ6k10l-Pu4__e0F63Yj3G5dFElHKA7MKXsEF5U5AKJxN8FI6OqmdIRvGt3OOsYktzrcFxk90m=s1024-v1",
+                "postedAt": "2026-7-30"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkWYqfBkqmtbQvtv3oc4k2gB65_sRuXLPx7gNQNpCgDidB3skoFVXBgwbKJxVOwacMjfe5w80UvBJb5E-oWPPKehuWHsMZyHO1TLC1XXbwDIrlnlzEz7n3HBtfsGzWxVV2HT5OM=s1024-v1",
+                "postedAt": "2025-4-8"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmSoAr8oNDpLl1eIy0eSxQ2Tl6m0xogFg5TwPf-j1DFXAhNMmqZrlrG-MqW6hSprfuKIG-FsWTd-yghVoYp5gnBC8eFzmEQRaMVsFKKeZ0oV0eJXC0y_P7eywn8-65lDzj5ySFhBa4lUbQ4=s1024-v1",
+                "postedAt": "2026-7-4"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk4u2GzQy31XCl6Q1BC0azOhrnt0Z9yl1tPnmjdSP_7ntby0UFtcaq55OINT-9ZIhSxUPYoq9mp3SDw9k6a1jj3SsTh2a4HQalKk0ic2S60BN5-6X4hoGVtYDRLsJQu3nkpZ_HUtTmeuxRM=s1024-v1",
+                "postedAt": "2025-8-4"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkyofbVMWiZSDQtQOf270xhn5jeWdP0vi_QpvFZ2WxVCO2mbvFgLgtUwig5YKoOOTez-mRtTbQuumAya1JX7M-FAkBPiHNJbmaEGqIryMIhnj1BwAgV_4aDAOwBJaK4o4wGfDkO6_vxY0Vz=s1024-v1",
+                "postedAt": "2026-4-27"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnwqrykoTnYAIhwzUdA76xULgLxjdb-tJC1zyGmqZer1x9FD9vzXxjuaDN8VglDZF5ks7XroIK11yrjVdnYVRlt5wUUadRF3jhFuqAk4Xi6jdR5P7M9nBuDVmV5Zoi4YwehRJm9=s1024-v1",
+                "postedAt": "2023-2-6"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnW1DU0Bn4Od_zXmqLRN7OaGfn1SHTDZG9XLzAoagtINZvp7GrFuy13QEuI4PkoyXxJl4B00pTHvzGt2r0KrIlU7Yt1A4Yj97phrmM8zYpd31-fYd0KNnr27LWshECyNRlPNHRKrGOEx82f=s1024-v1",
+                "postedAt": "2026-7-4"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkG410xEZf3pK_Ve_yBh8AIoorAU0AY63AK3vrsUGtWG5xhBTpyMGOk6oDUSpZlh_Ss6gpidzTOY0MUYZR7sui0FdQsmyYs4v-3s1nb0YVqUVUfXJ3SWM6uQAuC8x6KCSSDuUyGpHatqgA=s1024-v1",
+                "postedAt": "2025-7-29"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlT4qCm7UwS9WY_lQ5n7uzKmkmEVunlxANL6qxezAgmYnogJdGYJwl7Q6GwPKWA5XqbhPip_8vGafyLg6qofRtx1Ao2Yxmlf3hgHHwFDBTf-qsvTtm2RnLe0GCDFJkxOEqP_1yT6w=s1024-v1",
+                "postedAt": "2023-12-9"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnOvoRfctabWC0JnOCqgoB3VhW-QcJuIE7z1LU00goWRSF6TCxsYQVDmsSKpEL-qX7itZGiZMWzy6J8tlCbWooqZcA5wVDQEOWC3KfpS_EYN-0tkh9sw6slAQfXaRRb-fZ_xvbf=s1024-v1",
+                "postedAt": "2023-5-13"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmPK_eu_0A899o4AGSVYRG0kMi1k0VFpWMZu5RJ6qHiQYHcl-7DCvRnMEZPqoZHzcLDIOJZaNIcQnfLl-70fRevAAVNWCCnIUIcZ1YT8McAw4Y82a2aCRI3-iGAdSwv3z93D7Sy=s1024-v1",
+                "postedAt": "2025-1-1"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnwnDxs2oqymsB4MRK7AKpjkmxWta_17ADnEsXYp5Gkj7uKAK2XTkRsPYZwvqljoLYIFOdbmCI-e8t-oLL3BynlXYspUb8_x6CMdTJR84q36XNDISEVPrbr1-DcSBaIAMFh4sJI=s1024-v1",
+                "postedAt": "2023-6-1"
+              }
+            ]
+          }
+        },
+        "type": "Breakfast restaurant",
+        "kgmid": "/g/11jvn2rvb8",
+        "phone": "(747) 264-0929",
+        "price": "$10–20",
+        "title": "Victory Caffe- Van Nuys",
+        "types": [
+          "Breakfast restaurant",
+          "Açaí shop",
+          "Coffee shop",
+          "Juice shop",
+          "Sandwich shop",
+          "Vegan restaurant",
+          "Vegetarian restaurant"
+        ],
+        "dataId": "0x80c297e8a1890851:0xaa13e5827efa5e8",
+        "emails": [
+          "victorycaffevn@gmail.com"
+        ],
+        "rating": 4.5,
+        "address": "14909 Vanowen St, Van Nuys, CA 91405",
+        "placeId": "ChIJUQiJoeiXwoAR6KXvJ1g-oQo",
+        "reviews": 581,
+        "website": "http://www.victorycaffe.com/",
+        "position": 22,
+        "extraCost": 7,
+        "openState": "Closed · Opens 6:30 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnwyLSiKnpn5Uu8AbtoCdnkR1q0a9PJFclb4bn9zbAeVaMss4XIzLoMpBWutFqbYNmLZzjyhA4NCIdtlyBpelvm2luAkTQSbsFu2UVH8pDldd1EidNOExEbdWo45xCdCwME7d67tgc4ANd_=s1024-v1",
+        "extensions": {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ],
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ],
+          "children": [
+            "Good for kids",
+            "Kids' menu"
+          ],
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ],
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ],
+          "offerings": [
+            "Coffee",
+            "Comfort food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ],
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy"
+          ],
+          "highlights": [
+            "Great coffee",
+            "Great tea selection",
+            "Serves local specialty"
+          ],
+          "popularFor": [
+            "Breakfast",
+            "Solo dining"
+          ],
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ],
+          "diningOptions": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Table service"
+          ],
+          "serviceOptions": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        "description": "Simple eatery for burritos & sandwiches. Unfussy strip mall eatery focusing on veggie & vegan burritos, sandwiches & sweet treats.",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "6:30 AM–5 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "6:30 AM–5 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "6:30 AM–5 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "7 AM–5 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "7 AM–5 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "6:30 AM–5 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "6:30 AM–5 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.1942816,
+          "longitude": -118.457916
+        },
+        "serviceOptions": [
+          "Curbside pickup",
+          "No-contact delivery",
+          "Delivery",
+          "Onsite services",
+          "Takeout",
+          "Dine-in"
+        ],
+        "priceDescription": "$10 to $20"
+      },
+      "createdAt": "2026-09-23T12:07:31.059+00:00",
+      "updatedAt": "2026-09-23T12:07:31.059+00:00",
+      "dataId": "ChIJUQiJoeiXwoAR6KXvJ1g-oQo"
+    },
+    {
+      "id": 529502370,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "menu": {
+          "overview": {
+            "menuPhotos": [
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmvKGXZb5pKjKQitLxxFZKqK8vAY_pBGJ1i9AOOK60OWFRhbn8UwXaxP_zsHM1FOtqyBas_zvCRytPBk0PBEJpspafAycrWjHRfyFrKoH3pd9nBV7hNkjPHxowYvu-6DscP3OU=s1024-v1",
+                "postedAt": "2025-2-2"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnajHCpA4NCxMuKJyYnMEceaTTAVlRsOav1fRVzmcsNcRL_YVAVxm7Gd_QxuUCJLUY4XcF7ieTErUOd1p6vP29tJDJZaECfpV8STfYiOqAJwKTnWM6F6IIopUAlMvLqdl56oQfI-tVbq0Q=s1024-v1",
+                "postedAt": "2026-4-4"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlrsyKeELBQbZNahz9BqKFBK_9pGb5Va-fhzHtafz4FamTjc9PlBi3iWcMx7j-8AGRpwnEXBj1iVE8FWfKf_DFDJehp-1i2GGHjnyLEbXdbStnNNObpFwp9hAG5-QM2OdMWt9DxKvPJ3iY=s1024-v1",
+                "postedAt": "2026-4-4"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkOiVDeZstjduvc8SdUDyOsmpM7LrhIiuSGMfd44f-HdkOi3OctwxwgGMvKqy3f1TsVLrlFZ-zZTJLASPODM5AkYKEZ27ScyUfIIO0Qs4TA19EhW7X0bL90TR2vU2MUlMDKQ3XT=s1024-v1",
+                "postedAt": "2025-2-2"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnhb2e7IzV2-laeC14YCl033ZPmU9GgPDrlgE-qTslRY2rdQUrsdVx8zyVYrn7Nl9N2JL6glyc3HQZTgKUJx30PYzrIvMjYFU0RXadvX20eaS8oYMKyTOfjYCXVlVVbvCIXKZNLc78DWHc=s1024-v1",
+                "postedAt": "2026-5-16"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm7Ztkze8soETpSf0q10DP6MPZ2Ac_AxTdHeujrxR-bDqIdT1zMBKbvldVenKGjFIIEeyGjlaVw-M0Gisxx-Nj8PFf9bXIZEyPEhgTuorD5TsVZ_6JWuP2RCrWjt71zduUKmOcjW91XjisF=s1024-v1",
+                "postedAt": "2026-5-16"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkxSfu_KOzE50N47_ELiPSEQDZ_OMfiwpYHtYfPS6rZkmNs6M2jW7tKbsGo5kBabCM5j22vBzKdiOB19rI2ut19BgoZaTl_c5GJcRLusXcdHDvhNSCgil-jf4H3wn69_FoulkwZ-Bd9tKEI=s1024-v1",
+                "postedAt": "2026-4-4"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmOuFwijFs3SFf-8jFTrxF27f76ME1rpsAmO7-H_sVAmhJFoDZsF0zYSw9uBW9R838EHu-9SN29XR9Cjx17a2HX5QVifX8aYvAaySNRA7EDFfVxMwpJuMNFpHCvxhLXSvgIwro5kVRricE=s1024-v1",
+                "postedAt": "2026-4-4"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn_gjunRgXkCqlr3rEOQ_qKFK5081qwwFzuglPDa6Y-HcTrIcVV4aZ-J4oZ_yZiUjhO07BKJ1K87Cjal6E9jL9FL3pjo3STb_VtFGoAeu5K4cPMI-GK038cgRjVs6Ww_QmRg7Vm8O8KLd6y=s1024-v1",
+                "postedAt": "2026-5-16"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWni4nYNIkvpyYvDTxVnRV4Dqr6GQ2coMZeAZxwMsKxZBmSbwhYF7U7L7X0Ir8e3uXaNcFPcCjc_K-5dJkiKDPAn5bNazVEmWFe5DHF8R4bp-Rw-_OvDlThyWPZhUMVIRd_5u33jBFR-k1Yb=s1024-v1",
+                "postedAt": "2026-5-16"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmbSIZGiMZfHMe-iec6YDFlup1_Cc6_msrIXKZWk_9lXGmeRZMKGV1ONzuZQ4ieEAE_0rhNFFtmbVFVKSHfm9iATaO7Bjd-mu6qoOhlDqy12TgZXHm1sZh00lTGMaVuQ--OKqZFWKYzUOg=s1024-v1",
+                "postedAt": "2025-3-16"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5En5hP1HapyVFMTipbqsw9gL3D57-lwaLDPMip9tw2K31_-_OON24aQaJy6S3bS4papI8HZcfNA9ldTw2zFvlehjXP00DFYGbA_wAYsmSQnfT2MPX2oYuLxpbEyvKblxTBzD4-VpKbaBl=s1024-v1",
+                "postedAt": "2026-2-17"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm99kEwhWGHlfQ9nXsx_4GtCt7TdHUVblmvrNtPXRJ7tpjsngc3yyx0iiMQwa3Y5eSCNElTXZpmAo9OhSawXLyu-SRijiqHAltVRpkYdLorwZwLacSLAUCPlyJDs60bTqRn5oE=s1024-v1",
+                "postedAt": "2022-3-5"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlHQrpPnshlwQEivBqwrxdNgB4OASJ3moXttavvsWv7wirsTxAsLfr_qGl37wruPWJQWO0pwl_YXjyV46XSzkvcAg5eqWnSgoWfD6_jKoKC51xemjKcmuWrMinHVz84imTJM2qo3QTfQZ6E=s1024-v1",
+                "postedAt": "2026-2-17"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm__bs1DMzVLWnStA-pYB6s6TG7oGxUlvxxfNA3YP6itr1k8VHW8EIMFNZEjhKEYoDD14wiCviXWBF2hCTHu4sfrBpH_HM45GdZWWmXDZmEtszg0XStthEEuCmyCIFCHNWDE6ujSQ=s1024-v1",
+                "postedAt": "2024-1-29"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl9Bc7d-46iELNKnSWLUcde5vyh12fmpIeN9oG7ec1AdHlwkyW8ByT9_kBF16TnOFum4cNpg1jDl_naTZpFJ8NxpObtY4GcAXEz5KxXxD8be54Jr_-Ocq7uzPzkSxsgyl6HzCotkA=s1024-v1",
+                "postedAt": "2024-1-29"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmbscwgRqK_A4SpZ5bcNsXoLvsbvPWhFXiUUUcBu5RSYyUVP3Qwku-eW3DSvCXyvFrpXqspfatLP5i59HznYJ4WHtEpejjQfN0a7tyCiwHoaircJS_uvdr_mIu6XoEb8yguSpzs=s1024-v1",
+                "postedAt": "2022-3-5"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmb3gCW-37W41s4_j8JGtyM74sgpSXNeg8i89mqXMDmoCg9Y9dW7dQdDrXaGyMzLiXFaSmcriEKrUnvVGGG6_fqd_5LZU91GHdcfGv6s23pAjU8Ygm3vlP4okNS0xAPmyMpXyNPVA=s1024-v1",
+                "postedAt": "2022-12-5"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlSYS5iYsMarL3mmyn7cZ1D47fKj8ePC8qz4Y52_5u_MlbQrg1RxJ9UT6oyGGTwKPmnfXrSdRi6anfaYQ73B8dcY38HfN53P77FCBA8CxTmofRh82-bZKa6WAw9oKaiIVLZI2yE=s1024-v1",
+                "postedAt": "2022-12-5"
+              },
+              {
+                "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmJVXU9T-oTYrRhcxrKzNEQUj5ajSqwV2KNZjYvctyyRZdVd4PuLogf0p5Lo_FByqiqp_T58QLcYS6ktAaW6jz51Yn8_fDzGv-BPRHKWyG9pGHjV2Yi68knmn0kZXnVobMpFLjQOg=s1024-v1",
+                "postedAt": "2022-4-12"
+              }
+            ]
+          }
+        },
+        "type": "Indian restaurant",
+        "kgmid": "/g/11pcsyffdc",
+        "phone": "(818) 849-6986",
+        "price": "$10–20",
+        "title": "Assam Indian Kitchen",
+        "types": [
+          "Indian restaurant",
+          "Delivery service",
+          "Indian takeaway"
+        ],
+        "dataId": "0x80c297215fce9719:0x3e95293a224cd0ae",
+        "rating": 4.7,
+        "address": "6322 Van Nuys Blvd, Van Nuys, CA 91401",
+        "placeId": "ChIJGZfOXyGXwoARrtBMIjoplT4",
+        "reviews": 194,
+        "website": "https://assamindiankitchenca.com/",
+        "position": 21,
+        "openState": "Closed · Opens 5 PM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmc_-O1i7Is22PuDNsAp_Sb7Gm3zFYzFj2jk2Xj1Cw-tzZZ0TS3f6wJ8qv0prYd-9738XCV6o7f2aWYLRXhHFC2usVwHlgFVi9S0AHL0Vl2gaTC0kMChsI3wQIVOMfQtB8gG_zMQdggTzHx=s1024-v1",
+        "extensions": {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ],
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid street parking"
+          ],
+          "children": [
+            "Good for kids"
+          ],
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ],
+          "planning": [
+            "Accepts reservations"
+          ],
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi"
+          ],
+          "offerings": [
+            "Comfort food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ],
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Quiet"
+          ],
+          "popularFor": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ],
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ],
+          "diningOptions": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ],
+          "serviceOptions": [
+            "Delivery",
+            "Takeout",
+            "Dine-in"
+          ],
+          "fromTheBusiness": [
+            "Identifies as Asian-owned"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "5 PM–1 AM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "5 PM–1 AM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "5–11:30 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "5 PM–1 AM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "5 PM–1 AM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "5 PM–12 AM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "12 AM–5 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.1854066,
+          "longitude": -118.4484509
+        },
+        "serviceOptions": [
+          "Identifies as Asian-owned"
+        ],
+        "priceDescription": "$10 to $20"
+      },
+      "createdAt": "2026-09-23T12:07:31.057+00:00",
+      "updatedAt": "2026-09-23T12:07:31.057+00:00",
+      "dataId": "ChIJGZfOXyGXwoARrtBMIjoplT4"
+    },
+    {
+      "id": 529502167,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Restaurant",
+        "kgmid": "/g/11c20t11w8",
+        "phone": "(818) 495-9994",
+        "title": "FarmTable Coffeehouse",
+        "types": [
+          "Restaurant",
+          "Breakfast restaurant",
+          "Brunch restaurant",
+          "Coffee shop",
+          "Coffee stand",
+          "Free parking lot",
+          "Latin American restaurant",
+          "Mexican restaurant",
+          "Parking lot"
+        ],
+        "dataId": "0x80c297065251fced:0x5204bc3fcc57e6a9",
+        "emails": [
+          "info@farmtableinc.com"
+        ],
+        "rating": 4.2,
+        "address": "6209 Van Nuys Blvd, Van Nuys, CA 91401",
+        "placeId": "ChIJ7fxRUgaXwoARqeZXzD-8BFI",
+        "reviews": 867,
+        "website": "http://farmtableinc.com/",
+        "position": 19,
+        "extraCost": 7,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlIuTILYJVtKnphEod6P1sRcEjyB_G-QuLH7JpUDpHJupGXJ85nsVLAKAeLDHds6PFbzOnEf8Xw1WQNnTOd8mD6nzVrYUgE-j72cdIw8AzR6wJeuIWfPJlqhSiL0fSddReKT_YDnA=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "description": "Rustic, relaxed spot for American eats. Coffee shop & café sandwiches, salads, soups, burgers, & breakfast options in a casual space.",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–3 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–3 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–3 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "8 AM–3 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "8 AM–3 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–3 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–3 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.182981999999996,
+          "longitude": -118.44900899999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T12:07:19.423+00:00",
+      "updatedAt": "2026-09-23T12:07:19.423+00:00",
+      "dataId": "ChIJ7fxRUgaXwoARqeZXzD-8BFI"
+    },
+    {
+      "id": 529502166,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Vegan restaurant",
+        "kgmid": "/g/11jp2rvtk3",
+        "phone": "(818) 317-5654",
+        "title": "El Cocinero Restaurant",
+        "types": [
+          "Vegan restaurant"
+        ],
+        "dataId": "0x80c2978fad4e4ed5:0x6d4cf62fdc753265",
+        "emails": [
+          "elcocinerorest@gmail.com",
+          "hi@mystore.com"
+        ],
+        "rating": 4.7,
+        "address": "6265 Sepulveda Blvd Unit 12, Van Nuys, CA 91411",
+        "placeId": "ChIJ1U5OrY-XwoARZTJ13C_2TG0",
+        "reviews": 917,
+        "website": "https://www.elcocinerorestaurant.com/",
+        "position": 18,
+        "extraCost": 7,
+        "openState": "Closed · Opens 11 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmNhobuS0MK-ch3qQn1IRLH3x5AH0whLz26ccVUiX-88Y2pQVyj-PfO_cO8NSXdnwSl9uF_IWNWSebep9PSnBaRqFhnJz7Ug__3lud2_nxM5-1JDUbxmY1QEUSNhqwpEM5jZzFjeA=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "description": "Vegan Mexican food in a modest setting. Vegan burritos, tacos & quesadillas whipped up in an unpretentious strip-mall outlet.",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "11 AM–8 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "11 AM–8 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "11 AM–8 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "11 AM–8 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "11 AM–8 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Closed"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "11 AM–8 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.184457699999996,
+          "longitude": -118.46663509999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T12:07:19.422+00:00",
+      "updatedAt": "2026-09-23T12:07:19.422+00:00",
+      "dataId": "ChIJ1U5OrY-XwoARZTJ13C_2TG0"
+    },
+    {
+      "id": 529502165,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Persian restaurant",
+        "kgmid": "/g/11kf7g824y",
+        "phone": "(818) 809-2391",
+        "title": "Chelo - Taste of Persia",
+        "types": [
+          "Persian restaurant",
+          "Mediterranean restaurant"
+        ],
+        "dataId": "0x80c29762f9abf31f:0xac546ab6fbeba7d",
+        "emails": [
+          "mastoory@tasteofchelo.com"
+        ],
+        "rating": 4.7,
+        "address": "6321 Van Nuys Blvd, Van Nuys, CA 91401",
+        "placeId": "ChIJH_Or-WKXwoARfbq-b6tGxQo",
+        "reviews": 194,
+        "website": "http://www.tasteofchelo.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10872002482320627191",
+        "position": 17,
+        "extraCost": 7,
+        "openState": "Closed · Opens 11 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnYHVZWzfKJDzuu5BSHa3Q1vh7ZacP3tqUbdtcIHSwaTUfIRIbgbF9ogUu5vWUlWFYFF9fapY9nlao_BKOQVY0fjaEaQSO-xQHXRvWlyDyj4fH5RRQyCoBWtimt9jW45l-zEGAwTA=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "11 AM–7 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "11 AM–7 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "11 AM–7 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "11 AM–5 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "11 AM–7 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "11 AM–7 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.1853481,
+          "longitude": -118.44891489999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T12:07:19.421+00:00",
+      "updatedAt": "2026-09-23T12:07:19.421+00:00",
+      "dataId": "ChIJH_Or-WKXwoARfbq-b6tGxQo"
+    },
+    {
+      "id": 529502164,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Family restaurant",
+        "kgmid": "/g/1tfrh0b7",
+        "phone": "(818) 780-5060",
+        "title": "NORMS Restaurant",
+        "types": [
+          "Family restaurant",
+          "American restaurant",
+          "Breakfast restaurant",
+          "Diner",
+          "Restaurant"
+        ],
+        "dataId": "0x80c2962880056005:0xe82948749b50fa1f",
+        "rating": 4.2,
+        "address": "13636 Sherman Way, Van Nuys, CA 91405",
+        "placeId": "ChIJBWAFgCiWwoARH_pQm3RIKeg",
+        "reviews": 7842,
+        "website": "https://norms.com/",
+        "position": 16,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlh9WvuXCQXP2-9T-NlJR7m1pZE1Dirypx169UuBgtY1rF9sMYX9nwx6hWSzvIlfdPAK4BD3kY3d0ypU_-mFJ_DjivgdRZXx0d2t-vbI5qAmBDOKfFJ1fuuQ67KNTx6kZtbsv70=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "description": "Coffee shop serving American fare 24/7. 24/7 chain coffee shop offering generous portions of classic American food in a no-frills setting.",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "12 AM–11 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "7 AM–12 AM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.2009478,
+          "longitude": -118.4304141
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T12:07:19.419+00:00",
+      "updatedAt": "2026-09-23T12:07:19.419+00:00",
+      "dataId": "ChIJBWAFgCiWwoARH_pQm3RIKeg"
+    },
+    {
+      "id": 529502163,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "American restaurant",
+        "kgmid": "/g/11rvgf25j7",
+        "phone": "(818) 356-3826",
+        "title": "Lola’s Kitchen",
+        "types": [
+          "American restaurant",
+          "Breakfast restaurant",
+          "Family restaurant",
+          "Hamburger restaurant",
+          "Delivery Restaurant",
+          "Takeout Restaurant",
+          "Sandwich shop"
+        ],
+        "dataId": "0x80c291597f902d39:0x2d780ea0d9b885cd",
+        "emails": [
+          "lolaskitchensf@gmail.com"
+        ],
+        "rating": 4.5,
+        "address": "128 N Maclay Ave, San Fernando, CA 91340",
+        "placeId": "ChIJOS2Qf1mRwoARzYW42aAOeC0",
+        "reviews": 290,
+        "website": "https://lolaskitchenca.com/",
+        "position": 15,
+        "extraCost": 7,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmubVRH74FWelm10dpaOxTSVNMse9xsGig6LY1-Ky8my0Vhgl9sywlkgTZN19gw4YoI4dqJLyy8vNrpQT5OfxlXloYrQtCMKglvW20URo6q4yAqXam19thfBVodgNwxMAVXAvQRBA=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–5 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–5 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–5 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "8 AM–5 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "8 AM–3 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–5 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–5 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.2846836,
+          "longitude": -118.43910849999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T12:07:19.418+00:00",
+      "updatedAt": "2026-09-23T12:07:19.418+00:00",
+      "dataId": "ChIJOS2Qf1mRwoARzYW42aAOeC0"
+    },
+    {
+      "id": 529502162,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Mexican restaurant",
+        "kgmid": "/g/1tj2nqlk",
+        "phone": "(818) 994-7715",
+        "title": "The Rancherito",
+        "types": [
+          "Mexican restaurant",
+          "Breakfast restaurant"
+        ],
+        "dataId": "0x80c296f90b8a9305:0x229bb43089b8605f",
+        "rating": 4.5,
+        "address": "6455 Woodman Ave, Van Nuys, CA 91401",
+        "placeId": "ChIJBZOKC_mWwoARX2C4iTC0myI",
+        "reviews": 804,
+        "website": "http://orderelrancheritomex-restaurant.mobile-webview7.com/",
+        "position": 14,
+        "openState": "Closed · Opens 7:30 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWllAVS4ew9RRE7zlCCDvMqEc9KdQllzFgu5abTXAYg8mg4oVVEvezUb4dCQ3PSUm35TP4-HKPD3xdRtsyDqd42sLQFP3HuvhcgGd1r--OBKdaDlb79367UXuqA_ZBZADhB8NOjb=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "7:30 AM–10 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "7:30 AM–10 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "7:30 AM–10 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "7:30 AM–10 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "7 AM–10 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "7:30 AM–10 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "7:30 AM–10 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.1883185,
+          "longitude": -118.43146159999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T12:07:19.417+00:00",
+      "updatedAt": "2026-09-23T12:07:19.417+00:00",
+      "dataId": "ChIJBZOKC_mWwoARX2C4iTC0myI"
+    },
+    {
+      "id": 529502161,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Mexican restaurant",
+        "kgmid": "/g/1w04kc9f",
+        "phone": "(818) 779-0131",
+        "title": "Costa Grande",
+        "types": [
+          "Mexican restaurant"
+        ],
+        "dataId": "0x80c29741213928bb:0x5e4aaca5ccab3e30",
+        "rating": 4.6,
+        "address": "7139 Sepulveda Blvd, Van Nuys, CA 91405",
+        "placeId": "ChIJuyg5IUGXwoARMD6rzKWsSl4",
+        "reviews": 738,
+        "website": "http://lacostagrande.com/",
+        "position": 13,
+        "openState": "Closed · Opens 10 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5dGzOAO4crbPMvrRJLIe-k7U4R-bnlLdjHZsp-IBLGpXudOB_APBigtEkrBoFpTOwQ4vlsS9UZuaUKSNzf7qC5Wo4EhW0syq_lrn06-e7ktTM-sh22i9R_E5GRICLK3DpAIfzyg=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "description": "Typical Mexican eats in a humble setup. Simple eatery for familiar Mexican fare such as nachos, carne asada, tacos & breakfast burritos.",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "10 AM–9 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "10 AM–9 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "10 AM–9 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "10 AM–9 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "10 AM–9 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "10 AM–9 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "10 AM–9 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.200283,
+          "longitude": -118.467119
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T12:07:19.415+00:00",
+      "updatedAt": "2026-09-23T12:07:19.415+00:00",
+      "dataId": "ChIJuyg5IUGXwoARMD6rzKWsSl4"
+    },
+    {
+      "id": 529502160,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "American restaurant",
+        "kgmid": "/g/1tx1tf_f",
+        "phone": "(818) 785-3894",
+        "title": "Millie's Restaurant & Bakery",
+        "types": [
+          "American restaurant",
+          "Breakfast restaurant"
+        ],
+        "dataId": "0x80c299ef3b8308c3:0xe4bece2917a2e711",
+        "rating": 4.4,
+        "address": "16840 Vanowen St, Van Nuys, CA 91406",
+        "placeId": "ChIJwwiDO--ZwoAREeeiFynOvuQ",
+        "reviews": 958,
+        "website": "http://milliesrestaurantandbakery.net/",
+        "position": 12,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn9TDb7dHwCKKOxcsRsoPTt8CFE_TPflAIgkSg08znCd5tG9Mv7PtR078SflPG-qWNk_lsljnB5y1eKg8v13fOl1h5GA9pRoEYtrHWXEevcWoppXOd9t3vFE5PJcNu-1uZ3KByV=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "description": "Old-school spot for familiar diner eats. Old-fashioned diner with nostalgic decor serving classic food, including sandwiches, salads & pies.",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–8 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.1935895,
+          "longitude": -118.50029769999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T12:07:19.414+00:00",
+      "updatedAt": "2026-09-23T12:07:19.414+00:00",
+      "dataId": "ChIJwwiDO--ZwoAREeeiFynOvuQ"
+    },
+    {
+      "id": 529502159,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Armenian restaurant",
+        "kgmid": "/g/11tp9lzzrc",
+        "phone": "(818) 653-8709",
+        "title": "Gev's Kitchen",
+        "types": [
+          "Armenian restaurant",
+          "Georgian restaurant",
+          "Mediterranean restaurant",
+          "Restaurant"
+        ],
+        "dataId": "0x80c2973191a79d23:0xa018625f2eec35f5",
+        "emails": [
+          "you@company.com"
+        ],
+        "rating": 4.5,
+        "address": "7335 Van Nuys Blvd #110, Van Nuys, CA 91405",
+        "placeId": "ChIJI52nkTGXwoAR9TXsLl9iGKA",
+        "reviews": 156,
+        "website": "http://gevskitchen.com/",
+        "position": 11,
+        "extraCost": 7,
+        "openState": "Closed · Opens 11 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl0cDXar9vTWAIQP5HFy5NN70sABlAhn_HU3vuImk3lR0NwiAqTn0Q3kJ52Uq82yrjiFTjuratM-vq9ud3EhGB6Z1xuqcN2phc-v6nQqbG2iemEVzZcJ0dHOA2aTen6-33GifGriQ=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "11 AM–7 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "11 AM–7 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "11 AM–7 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "11 AM–7 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "11 AM–7 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "11 AM–7 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "11 AM–7 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.203834799999996,
+          "longitude": -118.44937139999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T12:07:19.413+00:00",
+      "updatedAt": "2026-09-23T12:07:19.413+00:00",
+      "dataId": "ChIJI52nkTGXwoAR9TXsLl9iGKA"
+    },
+    {
+      "id": 529502158,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Diner",
+        "kgmid": "/g/1tkb5c9v",
+        "phone": "(818) 781-0830",
+        "title": "Beeps Fast Food",
+        "types": [
+          "Diner",
+          "American restaurant",
+          "Breakfast restaurant",
+          "Burrito restaurant",
+          "Family restaurant",
+          "Fast food restaurant",
+          "Hamburger restaurant",
+          "Hot dog restaurant",
+          "Sandwich shop",
+          "Vegetarian restaurant"
+        ],
+        "dataId": "0x80c29759cd51d015:0xe39f88dd578b616e",
+        "rating": 4.4,
+        "address": "16063 Sherman Way, Van Nuys, CA 91406",
+        "placeId": "ChIJFdBRzVmXwoARbmGLV92In-M",
+        "reviews": 2017,
+        "website": "https://beepsdiner.com/?utm_source=google",
+        "position": 10,
+        "openState": "Closed · Opens 7 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlleBDHFe-iRxbwwfjLcnJ1043DBQQq5gfrQJL_5-wt2KLzVv0Y-ukXodNTzIoLuETFyFlZgjyJ35-hDgHE8vqv-fY_eTJK16NYs0eZQK9n7ie-GxDw_aP7rptcxnI0oIZK8bs=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "description": "Vintage 1950s diner with patio seating. Veteran 1950s diner with a menu of classic American eats & Mexican fare, plus outdoor seats.",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "7 AM–9 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "7 AM–9 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "7 AM–9 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "7:30 AM–9 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "8 AM–7:30 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "7 AM–9 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "7 AM–9 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.201494,
+          "longitude": -118.483413
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T12:07:19.412+00:00",
+      "updatedAt": "2026-09-23T12:07:19.412+00:00",
+      "dataId": "ChIJFdBRzVmXwoARbmGLV92In-M"
+    },
+    {
+      "id": 529502157,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Italian restaurant",
+        "kgmid": "/g/1tj1msf_",
+        "phone": "(818) 781-2551",
+        "title": "Lido Pizza",
+        "types": [
+          "Italian restaurant",
+          "Restaurant"
+        ],
+        "dataId": "0x80c29772829430ad:0x36186b3041fc24c",
+        "emails": [
+          "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+          "5186753057894873a8ab886d452b8660@sentry-next.wixpress.com",
+          "8c4075d5481d476e945486754f783364@sentry.io"
+        ],
+        "rating": 4.6,
+        "address": "15232 Victory Blvd, Van Nuys, CA 91411",
+        "placeId": "ChIJrTCUgnKXwoARTMIfBLOGYQM",
+        "reviews": 1523,
+        "website": "http://chichispizza.com/",
+        "position": 9,
+        "extraCost": 7,
+        "openState": "Closed · Opens 11 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmpoaJRPdO_gbnD4zgwGMXhvvsWFCIO-Toz1_IJCyCBlUUK7GgJ7PprP6aBrkkcnxkT4X8-ZqnLVU6lb_cJSJxN6_UG-RphMpdQkEx_L9fuFoB6g2vel8AgwSX6i4NZvLxUKqKIRQ=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "description": "Italian mainstay for egg pasta & pies. Veteran no-frills Italian joint turning out fresh egg pastas & traditional pies, plus beer & wine.",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "11 AM–9 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "11 AM–9 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "11 AM–10 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "11 AM–10 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "11 AM–9 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "11 AM–9 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "11 AM–9 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.186374,
+          "longitude": -118.4651933
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T12:07:19.411+00:00",
+      "updatedAt": "2026-09-23T12:07:19.411+00:00",
+      "dataId": "ChIJrTCUgnKXwoARTMIfBLOGYQM"
+    },
+    {
+      "id": 529502156,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Californian restaurant",
+        "kgmid": "/g/1v44f6vm",
+        "phone": "(818) 988-0707",
+        "title": "Lulu's Restaurant and Sports Bar",
+        "types": [
+          "Californian restaurant"
+        ],
+        "dataId": "0x80c29b4f1033e94f:0xbeab73eeb1e0c0a9",
+        "emails": [
+          "mikecamorlinga@gmail.com"
+        ],
+        "rating": 4.4,
+        "address": "16900 Roscoe Blvd, Van Nuys, CA 91406",
+        "placeId": "ChIJT-kzEE-bwoARqcDgse5zq74",
+        "reviews": 1339,
+        "website": "https://www.lulusrestaurant.com/",
+        "position": 7,
+        "extraCost": 7,
+        "openState": "Closed · Opens 7:30 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm1jAV92x-5svKjAWl0fAhdt7hF7bfImPWrrm8vJPlzcrY9FOdlaIGK6KB_kQm9sUMKIBn8PM2gT8BqmV1-34gOrqAEmnXPK1D_jmkXZ_B134fKWFoyIp9AS9tkyE_2sIgc_-I=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "description": "Local comfort-food stalwart with a bar. Low-key, veteran option for classic American comfort food in basic digs & a bar with TVs & karaoke.",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "7:30 AM–9 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "7:30 AM–9 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "7:30 AM–10 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "7:30 AM–10 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "7:30 AM–9 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "7:30 AM–9 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "7:30 AM–9 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.2209836,
+          "longitude": -118.50145359999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T12:07:19.410+00:00",
+      "updatedAt": "2026-09-23T12:07:19.410+00:00",
+      "dataId": "ChIJT-kzEE-bwoARqcDgse5zq74"
+    },
+    {
+      "id": 529502155,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Japanese restaurant",
+        "kgmid": "/g/11n52ln6q5",
+        "phone": "(818) 908-3368",
+        "title": "Kaiyu Sushi",
+        "types": [
+          "Japanese restaurant"
+        ],
+        "dataId": "0x80c297f7990bdc87:0x50d0ce6aebf018ce",
+        "emails": [
+          "kaiyu15333@gmail.com"
+        ],
+        "rating": 4.9,
+        "address": "15333 Sherman Way Unit J, Van Nuys, CA 91406",
+        "placeId": "ChIJh9wLmfeXwoARzhjw62rO0FA",
+        "reviews": 165,
+        "website": "http://www.kaiyusushi.com/",
+        "position": 6,
+        "extraCost": 7,
+        "openState": "Closed · Opens 11:30 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk85_hgkVCUEJG4eAi044aUreyJLKm_R1TdLOqmgMNiFOemhJup8WZ-2TFl49P1JAjjTBruXtmh4_Nr-X1rIaPAFERwRNcNRJXw2VwBTDfmDAgkW9kKFR5BDxc7h1oBzP7rP2iujXh7qQw=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "11:30 AM–9:30 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "11:30 AM–9:30 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "11:30 AM–10:30 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "11:30 AM–10:30 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "11:30 AM–9:30 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "11:30 AM–9:30 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "11:30 AM–9:30 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.201388099999996,
+          "longitude": -118.46725819999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-23T12:07:19.409+00:00",
+      "updatedAt": "2026-09-23T12:07:19.409+00:00",
+      "dataId": "ChIJh9wLmfeXwoARzhjw62rO0FA"
+    },
+    {
+      "id": 529502154,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Restaurant",
+        "kgmid": "/g/11y5gsy98t",
+        "title": "All Valley Eats",
+        "types": [
+          "Restaurant"
+        ],
+        "dataId": "0x80c29720964af2d7:0x23ee12164377bc96",
+        "rating": 4.1,
+        "address": "14435 Victory Blvd, Van Nuys, CA 91401",
+        "placeId": "ChIJ1_JKliCXwoARlrx3QxYS7iM",
+        "reviews": 32,
+        "website": "http://www.allvalleyeats.com/",
+        "position": 5,
+        "openState": "Opens soon · 5:30 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnZ_xGh9Xb3S_E-iCM8d6ZIj6cQ82dQntUic2XcGe4RjoxQLp3nxu04F71WxnX9jSqxZ2ttm32lKUdJMuKDm4Yuyo_gDVjfFLiUKgcTI1ccxbZ4e6_F0X-jLRDfud4iAdC8QFxb6XaPOhPo=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "5:30 AM–9 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "5:30 AM–9 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "5:30 AM–9 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "5:30 AM–9 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "5:30 AM–9 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "5:30 AM–9 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "5:30 AM–9 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.1869358,
+          "longitude": -118.4476796
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T12:07:19.408+00:00",
+      "updatedAt": "2026-09-23T12:07:19.408+00:00",
+      "dataId": "ChIJ1_JKliCXwoARlrx3QxYS7iM"
+    },
+    {
+      "id": 529502153,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Pizza restaurant",
+        "kgmid": "/g/11fl9pb97s",
+        "phone": "(818) 616-4746",
+        "title": "Chef M",
+        "types": [
+          "Pizza restaurant",
+          "Catering food and drink supplier",
+          "Hamburger restaurant",
+          "Delivery Restaurant",
+          "Shawarma restaurant"
+        ],
+        "dataId": "0x80c2979c357eba15:0x8544a5070d4d3f0f",
+        "emails": [
+          "referral-affiliates@doordash.com",
+          "deliverysupport@doordash.com",
+          "john@doordash.com",
+          "ddcatering@doordash.com",
+          "snapebt@doordash.com"
+        ],
+        "rating": 4.8,
+        "address": "13611 Sherman Way, Van Nuys, CA 91405",
+        "placeId": "ChIJFbp-NZyXwoARDz9NDQelRIU",
+        "reviews": 175,
+        "website": "https://www.doordash.com/store/chef-m-los-angeles-614747/1879573/?preview=1",
+        "position": 4,
+        "extraCost": 7,
+        "openState": "Closed · Opens 10 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmF-rndjIXNSVg0JEiDyQKW3B7HSS3VlRMo3XCDHBfg7SiiioTx2liEQa_v-mewU0A3guSKo5uGobKjAGZGNX1ec2FJRH9X3kTeBYet67sdoSrX63fkqxY82UQjos5ZWezm6jnx=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "10 AM–8 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "10 AM–8 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "10 AM–8 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "10 AM–8 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "10 AM–8 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "10 AM–8 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "10 AM–8 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.201399599999995,
+          "longitude": -118.4293543
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T12:07:19.407+00:00",
+      "updatedAt": "2026-09-23T12:07:19.407+00:00",
+      "dataId": "ChIJFbp-NZyXwoARDz9NDQelRIU"
+    },
+    {
+      "id": 529502152,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Argentinian restaurant",
+        "kgmid": "/g/1wrgkdvz",
+        "phone": "(818) 786-0522",
+        "title": "Mercado Buenos Aires",
+        "types": [
+          "Argentinian restaurant",
+          "Deli",
+          "Restaurant",
+          "Steak house"
+        ],
+        "dataId": "0x80c297488b2fa93b:0x42c12efcea4f3114",
+        "emails": [
+          "mercadobuenosairesusa@gmail.com"
+        ],
+        "rating": 4.5,
+        "address": "7540 Sepulveda Blvd, Van Nuys, CA 91405",
+        "placeId": "ChIJO6kvi0iXwoARFDFP6vwuwUI",
+        "reviews": 2886,
+        "website": "https://www.mercadobuenosairesusa.com/",
+        "position": 3,
+        "extraCost": 7,
+        "openState": "Closed · Opens 7:30 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlpzlNPnKLifcrqdMN4pYSl1uNOD--oB3aW_mIWq6cDyNn-HmdSFXXHhXLqUlE9qoU1Xmt3Ua7HPZ7p7jJvqs6mW-ubKgwTLKZjUh8zDMImt89T7lNA-gRBBUVpi0Be2sKYkZk=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "description": "Argentine baked goods, pizza & empanadas. Long-running cafe chain for empanadas, pizza & Argentine baked treats along with wine & beer.",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "7:30 AM–9 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "7:30 AM–9 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "7:30 AM–10 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "7:30 AM–10 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "7:30 AM–9 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "7:30 AM–9 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "7:30 AM–9 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.20792,
+          "longitude": -118.46581259999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T12:07:19.406+00:00",
+      "updatedAt": "2026-09-23T12:07:19.406+00:00",
+      "dataId": "ChIJO6kvi0iXwoARFDFP6vwuwUI"
+    },
+    {
+      "id": 529502151,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Hamburger restaurant",
+        "kgmid": "/g/11yx63s_qv",
+        "phone": "(734) 808-3532",
+        "title": "The Great White Hut",
+        "types": [
+          "Hamburger restaurant",
+          "Breakfast restaurant",
+          "Mexican restaurant",
+          "Taco restaurant"
+        ],
+        "dataId": "0x80c29718bb036ecd:0xaba59cfe6d43b929",
+        "rating": 4.9,
+        "address": "6235 Van Nuys Blvd, Van Nuys, CA 91401",
+        "placeId": "ChIJzW4DuxiXwoARKblDbf6cpas",
+        "reviews": 60,
+        "website": "https://greatwhitehut.com/van-nuys?utm_source=google",
+        "position": 2,
+        "openState": "Closed · Opens 7:30 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm5Abtvoh_5CRiQdlRWr5RBJ2Rba5h5UbJfsCu0Y93w6jVYOiO1URG2ATDnkkQiTSNX4MxcuNVvo-1h3Gc4yc606t5pDleMa_Y4FmtwLhQtZxj8CzMO8PZwJl3HkK7dQfvKzSI1ccS9S4UK=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "7:30 AM–10 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "7:30 AM–10 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "7:30 AM–12 AM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "7:30 AM–12 AM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "10 AM–9 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "7:30 AM–10 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "7:30 AM–12 AM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.1835276,
+          "longitude": -118.4489656
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T12:07:19.405+00:00",
+      "updatedAt": "2026-09-23T12:07:19.405+00:00",
+      "dataId": "ChIJzW4DuxiXwoARKblDbf6cpas"
+    },
+    {
+      "id": 529502150,
+      "jobId": "515819",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Restaurant",
+        "kgmid": "/g/11k3hx3ttw",
+        "phone": "(213) 315-1095",
+        "title": "Everytable",
+        "types": [
+          "Restaurant"
+        ],
+        "dataId": "0x80c2970350525987:0x455ad0d04777383d",
+        "emails": [
+          "support@everytable.com"
+        ],
+        "rating": 4.6,
+        "address": "7048 Sepulveda Blvd, Van Nuys, CA 91405",
+        "placeId": "ChIJh1lSUAOXwoARPTh3R9DQWkU",
+        "reviews": 83,
+        "website": "https://everytable.com/",
+        "position": 1,
+        "extraCost": 7,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl-iieUE55re5f2xW_PhG-erCCjVqCqVPLTStbnJSgb1ShSpcEtFUQh-1tPyWdC65XymYJmoFpsV_Aj1aO-Df-5hSSKVGaIxr8dF2LrUuq_vXKTWx__Kq26iNJd18qhmy4ydkw64b2zyawg=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–8 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.1989166,
+          "longitude": -118.4651021
+        }
+      },
+      "createdAt": "2026-09-23T12:07:19.404+00:00",
+      "updatedAt": "2026-09-23T12:07:19.404+00:00",
+      "dataId": "ChIJh1lSUAOXwoARPTh3R9DQWkU"
+    }
+  ]
+}

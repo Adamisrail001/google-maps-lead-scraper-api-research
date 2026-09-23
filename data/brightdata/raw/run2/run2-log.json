@@ -1,0 +1,60 @@
+{
+  "run": "run2",
+  "inputs": [
+    {
+      "country": "US",
+      "keyword": "restaurants in Manhattan, New York"
+    },
+    {
+      "country": "US",
+      "keyword": "restaurants in Brooklyn, New York"
+    },
+    {
+      "country": "US",
+      "keyword": "restaurants in Queens, New York"
+    },
+    {
+      "country": "US",
+      "keyword": "restaurants in Bronx, New York"
+    },
+    {
+      "country": "US",
+      "keyword": "restaurants in Staten Island, New York"
+    },
+    {
+      "country": "US",
+      "keyword": "restaurants in Downtown LA, Los Angeles"
+    },
+    {
+      "country": "US",
+      "keyword": "restaurants in Hollywood, Los Angeles"
+    },
+    {
+      "country": "US",
+      "keyword": "restaurants in Santa Monica, Los Angeles"
+    },
+    {
+      "country": "US",
+      "keyword": "restaurants in Koreatown, Los Angeles"
+    },
+    {
+      "country": "US",
+      "keyword": "restaurants in San Fernando Valley (Van Nuys), Los Angeles"
+    }
+  ],
+  "limit_per_input": 100,
+  "started": "2026-09-23T12:17:29.089347+00:00",
+  "snapshot_id": "sd_mue2izsfbmtpycqaz",
+  "progress_final": {
+    "status": "ready",
+    "snapshot_id": "sd_mue2izsfbmtpycqaz",
+    "dataset_id": "gd_m8ebnr0q2qlklc02fz",
+    "records": 985,
+    "errors": 0,
+    "collection_duration": 322178,
+    "avg_duration_per_input": 32218
+  },
+  "wall_clock_s": 339.6,
+  "rows_downloaded": 2,
+  "finished": "2026-09-23T12:23:12.336634+00:00"
+}

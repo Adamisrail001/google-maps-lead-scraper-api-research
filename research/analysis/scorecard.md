@@ -2,6 +2,7 @@
 
 **Computed:** 2026-09-23 by `scripts/compute_scorecard.py` (rerun it to regenerate; every sub-score carries its basis + evidence).
 
+> **Disqualification note:** Google Places API (New) is scored below for reference but DISQUALIFIED from the rankings — its own customer agreement (Maps Platform Terms §3.2.3) prohibits storing/exporting the data (the article's deliverable), on top of the measured 60/query ceiling and absent contact fields. Full grounds: knowledge.md eliminations table.
 > **Comparability note:** HasData and Bright Data scored from their 2026-09-23 stage-2 runs (HasData: benchmark-standard 200/sub-area; Bright Data: 2x1,000 brief design, 100/input) - identical query set, different volume ceilings, flagged where it matters. Bright Data cost is a rate-card ESTIMATE (no billing visibility).
 > **Unscoreable on existing evidence, zeroed for ALL providers equally (0.8 pts):** Accuracy-vs-ground-truth (0.5 — sample never built, testing-plan §10 open item) and Freshness (0.3 — no signal collected). Max attainable = 9.2.
 > **Rubric artifacts to keep in mind:** wall-clock ratio scoring severely penalizes batch scrapers that do per-row website-visit enrichment vs a sync API returning 20 records/call (§5 reporting rule caveat applies); Outscraper scored on its reduced budget scope (base scrape, 80/query); Google's cost scored on rate-card since its run billed $0 in free tier.
@@ -17,7 +18,11 @@
 | Speed | 1.5 | 0.21 | 0.21 | 0.20 | 1.34 | 0.26 | 0.26 |
 | Scalability | 1.2 | 1.20 | 0.44 | 0.88 | 0.96 | 1.00 | 0.88 |
 | Usability | 1.8 | 1.36 | 1.20 | 1.48 | 1.50 | 1.40 | 0.74 |
-| **TOTAL /10** | 10.0 | **6.46** | **4.97** | **6.22** | **7.66** | **5.99** | **5.30** |
+| **TOTAL /10** | 10.0 | **6.46** | **4.97** | **6.22** | **7.66** (ref — DQ) | **5.99** | **5.30** |
+
+**Ranking (disqualified providers excluded):** 1. Lobstr 6.46 · 2. Outscraper 6.22 · 3. HasData 5.99 · 4. BrightData 5.30 · 5. Apify 4.97
+
+**Google: DISQUALIFIED (E5): customer agreement §3.2.3 bars storing/exporting business names/addresses; 60/query ceiling (measured 10/10 at cap); zero contact fields. Scored for reference only — see knowledge.md eliminations.**
 
 ## Sub-criterion detail
 

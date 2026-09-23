@@ -210,10 +210,14 @@ for c in ["Reliability", "Data Quality", "Cost", "Speed", "Scalability", "Usabil
 
 totals = {p: round(sum(ct[2][p] for ct in crits), 2) for p in P}
 
+DQ = {"Google": "DISQUALIFIED (E5): customer agreement §3.2.3 bars storing/exporting business names/addresses; 60/query ceiling (measured 10/10 at cap); zero contact fields. Scored for reference only — see knowledge.md eliminations."}
+
 lines = ["# Benchmark Scorecard — 10-Point Rubric (testing-plan §2, method §13)", "",
          "**Computed:** 2026-09-23 by `scripts/compute_scorecard.py` (rerun it to regenerate; every sub-score carries its basis + evidence).",
          "",
-         "> **Comparability note:** HasData and Bright Data scored from their 2026-09-23 stage-2 runs (HasData: benchmark-standard 200/sub-area; Bright Data: 2x1,000 brief design, 100/input) - identical query set, different volume ceilings, flagged where it matters. Bright Data cost is a rate-card ESTIMATE (no billing visibility).\n> **Unscoreable on existing evidence, zeroed for ALL providers equally (0.8 pts):** Accuracy-vs-ground-truth (0.5 — sample never built, testing-plan §10 open item) and Freshness (0.3 — no signal collected). Max attainable = 9.2.",
+         "> **Disqualification note:** Google Places API (New) is scored below for reference but DISQUALIFIED from the rankings — its own customer agreement (Maps Platform Terms §3.2.3) prohibits storing/exporting the data (the article's deliverable), on top of the measured 60/query ceiling and absent contact fields. Full grounds: knowledge.md eliminations table.",
+         "> **Comparability note:** HasData and Bright Data scored from their 2026-09-23 stage-2 runs (HasData: benchmark-standard 200/sub-area; Bright Data: 2x1,000 brief design, 100/input) - identical query set, different volume ceilings, flagged where it matters. Bright Data cost is a rate-card ESTIMATE (no billing visibility).",
+         "> **Unscoreable on existing evidence, zeroed for ALL providers equally (0.8 pts):** Accuracy-vs-ground-truth (0.5 — sample never built, testing-plan §10 open item) and Freshness (0.3 — no signal collected). Max attainable = 9.2.",
          "> **Rubric artifacts to keep in mind:** wall-clock ratio scoring severely penalizes batch scrapers that do per-row website-visit enrichment vs a sync API returning 20 records/call (§5 reporting rule caveat applies); Outscraper scored on its reduced budget scope (base scrape, 80/query); Google's cost scored on rate-card since its run billed $0 in free tier.",
          "> **Disclosure:** Lobstr.io is the house product. Per criteria.md writer rules, the aggregate winner is whoever scores highest — no predetermined outcome.",
          ""]
@@ -223,7 +227,15 @@ lines.append("| Criterion | Max | " + " | ".join(P) + " |")
 lines.append("|---|---:|" + "---:|" * len(P))
 for c, mx, sc in crits:
     lines.append(f"| {c} | {mx:.1f} | " + " | ".join(f"{sc[p]:.2f}" for p in P) + " |")
-lines.append(f"| **TOTAL /10** | 10.0 | " + " | ".join(f"**{totals[p]:.2f}**" for p in P) + " |")
+lines.append(f"| **TOTAL /10** | 10.0 | " + " | ".join(
+    f"**{totals[p]:.2f}**" + (" (ref — DQ)" if p in DQ else "") for p in P) + " |")
+lines.append("")
+ranked = sorted((p for p in P if p not in DQ), key=lambda p: -totals[p])
+lines.append("**Ranking (disqualified providers excluded):** " +
+             " · ".join(f"{i+1}. {p} {totals[p]:.2f}" for i, p in enumerate(ranked)))
+for p, why in DQ.items():
+    lines.append("")
+    lines.append(f"**{p}: {why}**")
 lines.append("")
 lines.append("## Sub-criterion detail")
 lines.append("")

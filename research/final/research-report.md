@@ -85,6 +85,8 @@ Full 10-point rubric computed from the measured evidence (`research/analysis/sco
 | Lobstr.io | 1.88 | 1.20 | 0.61 | 0.21 | 1.20 | 1.36 | **6.46** |
 | Outscraper | 1.88 | 1.08 | 0.70 | 0.20 | 0.88 | 1.48 | **6.22** |
 | Apify | 0.91 | 0.87 | 1.34 | 0.21 | 0.44 | 1.20 | **4.97** |
+| HasData | 1.48 | 0.98 | 0.87 | 0.26 | 1.00 | 1.40 | **5.99** |
+| Bright Data | 1.78 | 1.13 | 0.51 | 0.26 | 0.88 | 0.74 | **5.30** |
 
 **How to read this without being misled:** the rubric measures *API quality* — and Google is, by the numbers, the best-engineered API in this test. But a person searching "Google Maps lead scraper API" is not shopping for API engineering; they are shopping for **leads**. Google cannot deliver the defining field of a lead (no email, social, or contact data exists in its API at any price), so it is **not eligible for the lead-generation verdict** — its 7.66 answers a different question. Ranked for the searcher's actual intent: **Lobstr 6.46 · Outscraper 6.22 · Apify 4.97** (both runs pooled), with the per-intent picks in §4. (Scoring caveats — 0.8 pts unscoreable for all, wall-clock architecture artifact, Outscraper's reduced scope, house-product disclosure — travel with the table; see scorecard.md.)
 

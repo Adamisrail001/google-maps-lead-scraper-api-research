@@ -25,7 +25,7 @@ Displaying live data in-app → **Google Places API (New)**: best-engineered API
 | ScrapingDog (stage 1 only) | 80 (smoke) | **0 — no fields** | phone 96, web 96 | $0.04–0.15 (projected) | 1.5s/request | 🔴 billed duplicate pages past depth |
 | Google Places (New) | 1,044 (60/query cap) | **0 — no fields** | phone 95, web 94 | $0 free tier / $2.30 | **97 s both runs** | none; §3.2.3 storage prohibition |
 
-**API-quality scorecard (all-persona aggregate, /10, max attainable 9.2):** Google 7.66 · Lobstr 6.46 · Outscraper 6.22 · Apify 4.97 (`research/analysis/scorecard.md`; HasData/Bright Data/ScrapingDog joined after the scored benchmark — their measured axes are in this table, full rubric scoring pending a re-run under identical conditions).
+**API-quality scorecard (all-persona aggregate, /10, max attainable 9.2):** Google 7.66 · Lobstr 6.46 · Outscraper 6.22 · **HasData 5.99 · Bright Data 5.30** · Apify 4.97 (`research/analysis/scorecard.md`; HasData/Bright Data scored from their 2026-09-23 stage-2 runs — comparability caveats in the scorecard header; ScrapingDog remains stage-1-only pending its paid plan).
 
 ## Google Places API (New) — the direct answer for persona 1
 

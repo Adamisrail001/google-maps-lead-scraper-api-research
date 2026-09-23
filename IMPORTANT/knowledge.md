@@ -237,10 +237,12 @@ Scrapers do materially more work per row (website visits for contacts); Google r
 | Lobstr.io | 1.88 | 1.20 | 0.61 | 0.21 | 1.20 | 1.36 | **6.46** |
 | Outscraper | 1.88 | 1.08 | 0.70 | 0.20 | 0.88 | 1.48 | **6.22** |
 | Apify | 0.91 | 0.87 | 1.34 | 0.21 | 0.44 | 1.20 | **4.97** |
+| HasData (added post-brief, stage-2 2026-09-23) | 1.48 | 0.98 | 0.87 | 0.26 | 1.00 | 1.40 | **5.99** |
+| Bright Data (added post-brief, stage-2 2026-09-23) | 1.78 | 1.13 | 0.51 | 0.26 | 0.88 | 0.74 | **5.30** |
 
 *(Recomputed 2026-09-23 on BOTH runs after Run-2 pooling — supersedes the Run-1-only totals 7.70/6.44/6.19/5.10 previously recorded here; ranking unchanged, Apify fell further below the 6.0 band on its 68.3% both-run delivery.)*
 
-**Intent rule for the article (load-bearing):** the rubric scores *API quality*. Google tops it while being structurally incapable of the article's core use case — no email/social/contact fields exist in its API at any price — so it is **not eligible for the lead-generation verdict**; its 7.66 answers "how good is this API", not "can it produce leads". Ranked for the lead-gen searcher: **Lobstr 6.46 · Outscraper 6.22 · Apify 4.97**.
+**Intent rule for the article (load-bearing):** the rubric scores *API quality*. Google tops it while being structurally incapable of the article's core use case — no email/social/contact fields exist in its API at any price — so it is **not eligible for the lead-generation verdict**; its 7.66 answers "how good is this API", not "can it produce leads". Ranked for the lead-gen searcher (persona 2, email-capable only): **Lobstr 6.46 · HasData 5.99 · Outscraper 6.22* · Apify 4.97** (*Outscraper's email stages untested). Persona-1 field (no contacts needed): Google 7.66 · Outscraper 6.22 · HasData 5.99 · Bright Data 5.30 — with Google's §3.2.3 storage prohibition attached. HasData/Bright Data comparability caveats in scorecard.md header (different volume ceilings; Bright Data cost is a rate-card estimate).
 
 **Both-run measured costs (Lobstr Run-2 credits fetched live 2026-09-23, run `6b7150f5`: 5,342 credits):** Apify $1.3656 billed / 2,523 uniques = **$0.54/1K** · Google $2.40 rate-card / 1,044 = **$2.30/1K** ($0 billed, free tier) · Outscraper $4.80 rate-card / 1,300 = **$3.69/1K** (base only) · Lobstr 8,968 credits × Growth rate = $14.95 / 2,567 = **$5.82/1K** (incl. 1,747 extracted emails + socials + images).
 

@@ -51,9 +51,16 @@ These six were selected by measured user-discovery frequency across 31 search/co
 
 \* docs-verified only, not tested. Full per-provider records: `research/providers/`.
 
-### 3.2 Volume (same 10 Run-1 queries, unique results)
+### 3.2 Volume (same queries, unique results after identical dedupe — both runs pooled)
 
-Google 444 · Lobstr 998 · Apify 1,405 · Outscraper 512 (80/query budget cap). Google's ceiling is structural: 20 results/page, 3 pages max per text query — reaching scraper-scale volume requires ~3–4× more, finer-grained queries (~90–120 billed requests for ~1,400 uniques), with rising cross-query overlap (6.8% dupes already at 10 sub-areas).
+| | Run 1 (agencies) | Run 2 (restaurants) | Both runs |
+|---|---:|---:|---:|
+| Lobstr | 998 | 1,569 | **2,567** |
+| Apify | 1,405 | 1,118 | 2,523 |
+| Outscraper (80/query cap) | 512 | 788 | 1,300 |
+| Google Places API | 444 | 600 | 1,044 |
+
+Google's ceiling is structural: 20 results/page, 3 pages max per text query (hit on 10/10 restaurant queries) — reaching scraper-scale volume requires ~3–4× more, finer-grained queries with rising cross-query overlap (6.8% dupes already at 10 sub-areas). Run 2 also quantified Apify's vertical sensitivity: restaurant delivery collapsed to 56% of requested (1,122/2,000) as its profit-breaker gave up on low-email-yield queries, while Lobstr's rose to 90% (1,809/2,000) — the two scrapers' delivery ranking flipped between industries. Email yield dropped for everyone on restaurants (Lobstr 59%→37%, Apify 32%→23%), confirming email scarcity is a property of the vertical, not the tool.
 
 ### 3.3 Speed (Google, measured; both runs)
 
@@ -66,7 +73,7 @@ Google 444 · Lobstr 998 · Apify 1,405 · Outscraper 512 (80/query budget cap).
 | Google Places API | 60 req × $40/1K (Enterprise+Atmosphere, live rate) → 1,044 uniques | **$0 within 1,000 free req/mo (~18.7K places); $2.30/1K after** — no emails/socials at any price |
 | Apify | 451 verified-email leads billed × $0.0016 + starts | ~$0.65/1K uniques returned — but you pay per *verified email*, so cost concentrates on the 32% enriched |
 | Outscraper | $3/1K base records, 800 requested → 512 uniques | ~$4.69/1K uniques (listings only; email stage +$3/1K, verification +$3/1K) |
-| Lobstr | 3,626 credits measured (Run 1) at Growth plan rate ($50/mo ÷ 30K credits) | **$6.05/1K uniques with emails + socials + details + images** (~$2.66/1K base scrape without email extraction) |
+| Lobstr | 8,968 credits measured (both runs) at Growth plan rate ($50/mo ÷ 30K credits) = $14.95 | **$5.82/1K uniques with emails + socials + details + images** ($6.05 Run 1, $5.67 Run 2; ~$2.66/1K without email extraction) |
 
 ### 3.5 Scorecard — read through the searcher's intent
 
@@ -74,12 +81,12 @@ Full 10-point rubric computed from the measured evidence (`research/analysis/sco
 
 | Scored as an API | Reliability | Data | Cost | Speed | Scale | Usability | **/10** |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| Google Places API | 2.00 | 1.13 | 0.77 | 1.34 | 0.96 | 1.50 | **7.70** |
-| Lobstr.io | 1.85 | 1.20 | 0.62 | 0.21 | 1.20 | 1.36 | **6.44** |
-| Outscraper | 1.88 | 1.06 | 0.69 | 0.20 | 0.88 | 1.48 | **6.19** |
-| Apify | 1.06 | 0.85 | 1.34 | 0.21 | 0.44 | 1.20 | **5.10** |
+| Google Places API | 1.96 | 1.13 | 0.77 | 1.34 | 0.96 | 1.50 | **7.66** |
+| Lobstr.io | 1.88 | 1.20 | 0.61 | 0.21 | 1.20 | 1.36 | **6.46** |
+| Outscraper | 1.88 | 1.08 | 0.70 | 0.20 | 0.88 | 1.48 | **6.22** |
+| Apify | 0.91 | 0.87 | 1.34 | 0.21 | 0.44 | 1.20 | **4.97** |
 
-**How to read this without being misled:** the rubric measures *API quality* — and Google is, by the numbers, the best-engineered API in this test. But a person searching "Google Maps lead scraper API" is not shopping for API engineering; they are shopping for **leads**. Google cannot deliver the defining field of a lead (no email, social, or contact data exists in its API at any price), so it is **not eligible for the lead-generation verdict** — its 7.70 answers a different question. Ranked for the searcher's actual intent: **Lobstr 6.44 · Outscraper 6.19 · Apify 5.10**, with the per-intent picks in §4. (Scoring caveats — 0.8 pts unscoreable for all, wall-clock architecture artifact, Outscraper's reduced scope, house-product disclosure — travel with the table; see scorecard.md.)
+**How to read this without being misled:** the rubric measures *API quality* — and Google is, by the numbers, the best-engineered API in this test. But a person searching "Google Maps lead scraper API" is not shopping for API engineering; they are shopping for **leads**. Google cannot deliver the defining field of a lead (no email, social, or contact data exists in its API at any price), so it is **not eligible for the lead-generation verdict** — its 7.66 answers a different question. Ranked for the searcher's actual intent: **Lobstr 6.46 · Outscraper 6.22 · Apify 4.97** (both runs pooled), with the per-intent picks in §4. (Scoring caveats — 0.8 pts unscoreable for all, wall-clock architecture artifact, Outscraper's reduced scope, house-product disclosure — travel with the table; see scorecard.md.)
 
 ## 4. What the searcher wants — and which tool fits
 

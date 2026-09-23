@@ -87,6 +87,18 @@ All four pass E1–E6 — no eliminations this benchmark.
 
 Shortfalls vs requested partly reflect genuine Google Maps data scarcity in some sub-areas (Queens/Bronx/Staten Island/Van Nuys under-filled for every provider) — success rate mixes provider capability with supply; kept explicit, not resolved silently.
 
+**Run 2 (restaurants) — ✅ CAPTURED, pooled 2026-09-23 via `scripts/pool_run2.py` (same dedupe as Run 1):**
+
+| Provider | Requested | Raw / Unique | Delivery | Notes |
+|---|---:|---|---:|---|
+| Lobstr | 2,000 | 1,809 / 1,569 | 90.5% | server metadata corroborates (total_results 1,570); email fill 37% (vs 59% run1) |
+| Apify | 2,000 | 1,122 / 1,118 | **56.1%** 🔴 | profit-breaker on low-email vertical, confirmed pattern (3/10 queries cut; 262 charged vs 527 run1); email 23% |
+| Outscraper | 800 | 800 / 788 | 100% of its cap | fill: phone 97%, website 93%, rating 100%, hours 99% |
+| Google Places API | 600 doc-max | 600 / 600 | 100% of its cap | all 10 queries hit the 60 ceiling exactly |
+
+**Both-run unique totals:** Lobstr 2,567 · Apify 2,523 · Outscraper 1,300 · Google 1,044.
+**Cross-run delivery flip (article-worthy):** Apify out-delivered Lobstr on agencies (80.4% vs 79.7%) but collapsed on restaurants (56.1% vs 90.5%) — its economics-driven early exits make delivery *vertical-dependent*, while Lobstr's delivery tracked data supply. Email yield fell for every provider on restaurants (industry property, not tool property).
+
 ---
 
 ## 2. Cost Effectiveness
@@ -201,20 +213,24 @@ Scrapers do materially more work per row (website visits for contacts); Google r
 
 | Provider | Reliability /2.0 | Data /2.0 | Cost /1.5 | Speed /1.5 | Scale /1.2 | Usability /1.8 | **Total /10** |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| Google Places API (New) | 2.00 | 1.13 | 0.77 | 1.34 | 0.96 | 1.50 | **7.70** |
-| Lobstr.io | 1.85 | 1.20 | 0.62 | 0.21 | 1.20 | 1.36 | **6.44** |
-| Outscraper | 1.88 | 1.06 | 0.69 | 0.20 | 0.88 | 1.48 | **6.19** |
-| Apify | 1.06 | 0.85 | 1.34 | 0.21 | 0.44 | 1.20 | **5.10** |
+| Google Places API (New) | 1.96 | 1.13 | 0.77 | 1.34 | 0.96 | 1.50 | **7.66** |
+| Lobstr.io | 1.88 | 1.20 | 0.61 | 0.21 | 1.20 | 1.36 | **6.46** |
+| Outscraper | 1.88 | 1.08 | 0.70 | 0.20 | 0.88 | 1.48 | **6.22** |
+| Apify | 0.91 | 0.87 | 1.34 | 0.21 | 0.44 | 1.20 | **4.97** |
 
-**Intent rule for the article (load-bearing):** the rubric scores *API quality*. Google tops it while being structurally incapable of the article's core use case — no email/social/contact fields exist in its API at any price — so it is **not eligible for the lead-generation verdict**; its 7.70 answers "how good is this API", not "can it produce leads". Ranked for the lead-gen searcher: **Lobstr 6.44 · Outscraper 6.19 · Apify 5.10**.
+*(Recomputed 2026-09-23 on BOTH runs after Run-2 pooling — supersedes the Run-1-only totals 7.70/6.44/6.19/5.10 previously recorded here; ranking unchanged, Apify fell further below the 6.0 band on its 68.3% both-run delivery.)*
 
-### 1. Google Places API (New) — 7.70 — best-engineered API in the test (perfect reliability, 1.54s median, best docs, best core-field fill 94–98%); zero lead capability, 60/query cap. Winner only outside lead gen (core-data accuracy, ≤1K free calls/mo).
+**Intent rule for the article (load-bearing):** the rubric scores *API quality*. Google tops it while being structurally incapable of the article's core use case — no email/social/contact fields exist in its API at any price — so it is **not eligible for the lead-generation verdict**; its 7.66 answers "how good is this API", not "can it produce leads". Ranked for the lead-gen searcher: **Lobstr 6.46 · Outscraper 6.22 · Apify 4.97**.
 
-### 2. Lobstr.io (house product — disclosed) — 6.44 — top scraper: wins Data Quality (59% emails + ~50% socials, richest lead records) and Scalability (user-set concurrency, no hidden caps found); most expensive at $6.05/1K unique (Growth rate) and slow wall-clock. Per criteria.md house rule: did NOT win the aggregate → not crowned; placed where it genuinely wins — contact-complete lead lists.
+**Both-run measured costs (Lobstr Run-2 credits fetched live 2026-09-23, run `6b7150f5`: 5,342 credits):** Apify $1.3656 billed / 2,523 uniques = **$0.54/1K** · Google $2.40 rate-card / 1,044 = **$2.30/1K** ($0 billed, free tier) · Outscraper $4.80 rate-card / 1,300 = **$3.69/1K** (base only) · Lobstr 8,968 credits × Growth rate = $14.95 / 2,567 = **$5.82/1K** (incl. 1,747 extracted emails + socials + images).
 
-### 3. Outscraper — 6.19 — solid middle on a budget-reduced test (base scrape, 80/query): 93.5% delivery, richest default listing schema, cheapest full-stack enrichment path on paper; email stages untested (budget), several usability sub-scores on thin evidence.
+### 1. Google Places API (New) — 7.66 — best-engineered API in the test (perfect reliability, 1.54s median, best docs, best core-field fill 94–98%); zero lead capability, 60/query cap. Winner only outside lead gen (core-data accuracy, ≤1K free calls/mo).
 
-### 4. Apify — 5.10 — below the 6.0 "recommended at scale" band despite winning Cost ($0.64/1K, only verified-email leads billed, empirically proven): the two undocumented profit-guards silently truncated 4/20 queries (🔴 worst trust finding of the benchmark), business_status broken on 100% of records, and top-level SUCCEEDED masks under-delivery. Cheapness and untrustworthiness share the same mechanism.
+### 2. Lobstr.io (house product — disclosed) — 6.46 — top scraper: wins Data Quality (59% emails + ~50% socials, richest lead records) and Scalability (user-set concurrency, no hidden caps found); most expensive at $5.82/1K unique both-run measured (Growth rate) and slow wall-clock. Per criteria.md house rule: did NOT win the aggregate → not crowned; placed where it genuinely wins — contact-complete lead lists.
+
+### 3. Outscraper — 6.22 — solid middle on a budget-reduced test (base scrape, 80/query): 93.5% delivery, richest default listing schema, cheapest full-stack enrichment path on paper; email stages untested (budget), several usability sub-scores on thin evidence.
+
+### 4. Apify — 4.97 — below the 6.0 "recommended at scale" band despite winning Cost ($0.54/1K both-run, only verified-email leads billed, empirically proven): the two undocumented profit-guards silently truncated 4/20 queries (🔴 worst trust finding of the benchmark), business_status broken on 100% of records, and top-level SUCCEEDED masks under-delivery. Cheapness and untrustworthiness share the same mechanism.
 
 ---
 

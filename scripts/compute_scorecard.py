@@ -24,11 +24,11 @@ def add(crit, sub, mx, scores):
     S.append((crit, sub, mx, scores))
 
 # ---- 2.1 Reliability (2.0)
-add("Reliability", "Success rate (returned/requested, ratio vs best 93.5%)", 1.0, {
-    "Lobstr": (0.85, "1,594/2,000 raw returned = 79.7% (run e57af71d)"),
-    "Apify": (0.86, "1,608/2,000 = 80.4% (run1 datasets)"),
-    "Outscraper": (1.0, "748/800 = 93.5% (512 unique + 236 dups)"),
-    "Google": (1.0, "1,120/1,200 page-slots = 93.3% (run-log.json)")})
+add("Reliability", "Success rate, BOTH runs (returned/requested, ratio vs best 96.8%)", 1.0, {
+    "Lobstr": (0.88, "(1,594+1,809)/4,000 = 85.1% (runs e57af71d + run2 pooled)"),
+    "Apify": (0.71, "(1,608+1,122)/4,000 = 68.3% - run2 restaurants collapsed to 56.1% via profit-breaker"),
+    "Outscraper": (1.0, "(748+800)/1,600 = 96.8%"),
+    "Google": (0.96, "1,120/1,200 page-slots = 93.3% (run-log.json)")})
 add("Reliability", "Empty/partial responses (anchor)", 0.4, {
     "Lobstr": (0.4, "Full - none observed"),
     "Apify": (0.08, "Weak - 4/20 queries silently truncated by profit guards; business_status broken on 100% of records"),
@@ -46,10 +46,10 @@ add("Reliability", "Stability during window (anchor)", 0.3, {
     "Google": (0.3, "Full - 60/60 HTTP 200, latency stable (p95 2.26s)")})
 
 # ---- 2.2 Data Quality (2.0)
-add("Data Quality", "Field coverage, 10 lead fields, measured fill-rate proxy (ratio vs best 85.6) - GROUND TRUTH NOT BUILT, proxy flagged", 0.8, {
-    "Lobstr": (0.80, "85.6 (core-8 93.3 + email 59 + socials 51)"),
-    "Apify": (0.61, "65.3 (core-8 77.9 + email 32 + 0; no review-count field)"),
-    "Outscraper": (0.66, "70.7 (core-8 88.4, category only 48%; no email/socials in base scope)"),
+add("Data Quality", "Field coverage, 10 lead fields, BOTH-run measured fill-rate proxy (ratio vs best 85.8) - GROUND TRUTH NOT BUILT, proxy flagged", 0.8, {
+    "Lobstr": (0.80, "85.8 (core-8 95.7 weighted both runs + email 45.6 + socials ~47)"),
+    "Apify": (0.63, "67.7 (core-8 81.1 + email 28.3 verified + 0; no review-count field)"),
+    "Outscraper": (0.68, "73.0 (core-8 91.2, category weak 48-55%; no email/socials in base scope)"),
     "Google": (0.73, "78.2 (core-8 97.75 - best core fill - + email 0 + socials 0, fields absent from API)")})
 add("Data Quality", "Accuracy vs ground truth - NOT MEASURED (sample never built)", 0.5, {
     p: (0.0, "not measurable - scored 0 for all, per plan rule") for p in P})
@@ -62,11 +62,11 @@ add("Data Quality", "Freshness - NOT MEASURED (no signal collected)", 0.3, {
     p: (0.0, "not measurable - scored 0 for all, per plan rule") for p in P})
 
 # ---- 2.3 Cost (1.5)
-add("Cost", "Cost per 1K unique (ratio vs cheapest $0.64)", 0.8, {
-    "Lobstr": (0.085, "$6.05/1K measured credits x Growth rate"),
-    "Apify": (0.8, "$0.64/1K - billed $0.8932 via billing API"),
-    "Outscraper": (0.11, "$4.69/1K rate-card, base only"),
-    "Google": (0.19, "$2.70/1K rate-card (run billed $0 in free tier - scored on rate card for comparability, flagged)")})
+add("Cost", "Cost per 1K unique, BOTH runs (ratio vs cheapest $0.54)", 0.8, {
+    "Lobstr": (0.07, "$5.82/1K - 8,968 credits measured (3,626 + 5,342, runs e57af71d + 6b7150f5) x Growth rate / 2,567 uniques"),
+    "Apify": (0.8, "$0.54/1K - billed $1.3656 total via billing API / 2,523 uniques"),
+    "Outscraper": (0.12, "$3.69/1K rate-card - $4.80 for 1,600 requested / 1,300 uniques, base only"),
+    "Google": (0.19, "$2.30/1K rate-card - $2.40 / 1,044 uniques (billed $0 in free tier - scored on rate card for comparability, flagged)")})
 add("Cost", "Billing fairness (anchor)", 0.3, {
     "Lobstr": (0.3, "Full - pays per delivered row/email only"),
     "Apify": (0.3, "Full - only verified-email leads charged, proven per-record via charged field"),

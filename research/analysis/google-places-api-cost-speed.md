@@ -24,7 +24,7 @@ Text Search Enterprise + Atmosphere = **$40 / 1,000 requests** (tier 1,001–100
 
 - **This benchmark, actually billed: $0.00** — 62 total requests, inside the 1,000-free-events allowance. (To cross-check on your side: Cloud Console → Billing report, SKU 120C-BEC3-B48F.)
 - **Rate-card cost had free tier been exhausted:** 60 req × $0.040 = **$2.40** → 1,044 unique places → **$2.30 per 1,000 unique businesses** (fields at scraper parity minus email/socials).
-- **Comparators (Run 1, same queries):** Apify measured $0.0016/verified-email lead + $0.005/run (451 of 1,405 uniques billed); Outscraper $3.00/1K base records ($2.40 for 800 requested → 512 unique ≈ **$4.69/1K unique**, listings only); Lobstr 1 credit/row + 2/email extracted (credit→$ conversion at plan rate — pending, tracked in testing plan §9.4).
+- **Comparators (Run 1, same queries, measured):** Apify **$0.8932 billed** (per its billing API: 451 verified-email leads of 1,405 uniques charged) ≈ **$0.64/1K unique**; Lobstr **3,626 credits** (`credit_used` on run `e57af71d…`) at the Growth plan rate ($50/mo ÷ 30,000 credits = $1.667/1K credits) = **$6.04 → $6.05/1K unique** with emails+details+images on (~$2.66/1K without email extraction); Outscraper $3.00/1K base records ($2.40 for 800 requested → 512 unique ≈ **$4.69/1K unique**, listings only, emails +$3/1K extra).
 - **Free-tier reality:** 1,000 Enterprise+Atmosphere requests/mo ≈ ~18,700 raw places/month at zero cost — a genuinely large free allowance, but per-month, per-project, and email-less.
 
 ## Field coverage — measured on all 1,044 unique places

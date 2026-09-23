@@ -85,6 +85,17 @@
 
 > Strict distinction maintained throughout: **confirmed billed cost** (from the provider's own billing field) vs. **API usage field** vs. **published rate-card calculation** vs. **credit count with no monetary conversion** vs. **no direct charge observed during the test.** These are never conflated.
 
+**Run 1 measured costs (same 10 sub-area queries) — ✅ CAPTURED 2026-09-23:**
+
+| Provider | Evidence tier | Measured basis | Cost / 1K unique results |
+|---|---|---|---:|
+| Apify | confirmed billed (billing API `usageTotalUsd`) | $0.8932 Run 1 ($0.4724 Run 2) — only 451 verified-email leads charged | **$0.64** |
+| Google Places API (New) | $0 billed (free tier) + live rate-card | 30 req × $40/1K Enterprise+Atmosphere → 444 unique | **$0 in free tier; $2.70 after** (no contact fields) |
+| Outscraper | published rate-card ($3/1K base) | 800 requested → 512 unique, base scrape only | **$4.69** (listings only; email stages not run) |
+| Lobstr | API usage field (`credit_used: 3626`, run `e57af71d…`) × account plan rate (Growth, $50/mo ÷ 30,000 credits, user-confirmed 2026-09-23) | $6.04 Run 1 → 999 unique, incl. 974 extracted emails + details + images | **$6.05** (≈$2.66 without email extraction) |
+
+Caveats that must travel with any cost table: Apify's figure buys 32% verified-email coverage; Lobstr's buys 59% email + ~50% socials coverage (extraction-only); Google's buys zero contact fields; Outscraper's buys bare listings. These are different products per dollar — never rank on price alone.
+
 ### [Provider 1]
 
 - **Billing model:**

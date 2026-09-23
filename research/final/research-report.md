@@ -66,7 +66,7 @@ Google 444 · Lobstr 998 · Apify 1,405 · Outscraper 512 (80/query budget cap).
 | Google Places API | 60 req × $40/1K (Enterprise+Atmosphere, live rate) → 1,044 uniques | **$0 within 1,000 free req/mo (~18.7K places); $2.30/1K after** — no emails/socials at any price |
 | Apify | 451 verified-email leads billed × $0.0016 + starts | ~$0.65/1K uniques returned — but you pay per *verified email*, so cost concentrates on the 32% enriched |
 | Outscraper | $3/1K base records, 800 requested → 512 uniques | ~$4.69/1K uniques (listings only; email stage +$3/1K, verification +$3/1K) |
-| Lobstr | 1 credit/row + 2 credits/extracted email | credit→$ conversion at plan rate — pending in benchmark analysis |
+| Lobstr | 3,626 credits measured (Run 1) at Growth plan rate ($50/mo ÷ 30K credits) | **$6.05/1K uniques with emails + socials + details + images** (~$2.66/1K base scrape without email extraction) |
 
 ## 4. Which tool for which job
 

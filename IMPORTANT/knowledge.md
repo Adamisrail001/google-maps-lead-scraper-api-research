@@ -20,7 +20,7 @@
 - **Test window:** [dates the raw evidence spans]
 - **Shared script template:** one benchmark script template adapted per provider's auth/request format.
 - **What was logged:** raw request/response captures, timings, error/cost/pagination reports per provider.
-- **Public repo URL:** [TBD]
+- **Public repo URL:** https://github.com/Adamisrail001/google-maps-lead-scraper-api-research (made public 2026-09-23; contains `research/` discovery evidence, `data/` benchmark raw evidence, `scripts/`, and this methodology doc — `.env`, `prompt.txt`, and `outputs/` scratch excluded; oversized `data/lobstr/raw/results/run2-page1.json` tracked as `.json.gz` due to GitHub's 100MB limit)
 
 ---
 

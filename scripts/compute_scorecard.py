@@ -210,7 +210,8 @@ for c in ["Reliability", "Data Quality", "Cost", "Speed", "Scalability", "Usabil
 
 totals = {p: round(sum(ct[2][p] for ct in crits), 2) for p in P}
 
-DQ = {"Google": "DISQUALIFIED (E5): customer agreement §3.2.3 bars storing/exporting business names/addresses; 60/query ceiling (measured 10/10 at cap); zero contact fields. Scored for reference only — see knowledge.md eliminations."}
+DQ = {"Google": "DISQUALIFIED (E5): customer agreement §3.2.3 bars storing/exporting business names/addresses; 60/query ceiling (measured 10/10 at cap); zero contact fields. Scored for reference only — see knowledge.md eliminations.",
+      "Outscraper": "DISQUALIFIED on cost/testability (2026-09-23): the full email-enriched workload every ranked provider ran projects to $7–11/1K uniques by its own rate card (up to $9/1K records across 3 stages) — most expensive in test, ~4–6× HasData — so the full-scope run was declined and its email metrics remain untested. Its 6.22 rests on a reduced-scope run (80/query, base-only, easiest workload) and is kept for reference only."}
 
 lines = ["# Benchmark Scorecard — 10-Point Rubric (testing-plan §2, method §13)", "",
          "**Computed:** 2026-09-23 by `scripts/compute_scorecard.py` (rerun it to regenerate; every sub-score carries its basis + evidence).",

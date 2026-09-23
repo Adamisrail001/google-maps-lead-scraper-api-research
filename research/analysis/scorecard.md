@@ -18,11 +18,13 @@
 | Speed | 1.5 | 0.21 | 0.21 | 0.20 | 1.34 | 0.26 | 0.26 |
 | Scalability | 1.2 | 1.20 | 0.44 | 0.88 | 0.96 | 1.00 | 0.88 |
 | Usability | 1.8 | 1.36 | 1.20 | 1.48 | 1.50 | 1.40 | 0.74 |
-| **TOTAL /10** | 10.0 | **6.46** | **4.97** | **6.22** | **7.66** (ref — DQ) | **5.99** | **5.30** |
+| **TOTAL /10** | 10.0 | **6.46** | **4.97** | **6.22** (ref — DQ) | **7.66** (ref — DQ) | **5.99** | **5.30** |
 
-**Ranking (disqualified providers excluded):** 1. Lobstr 6.46 · 2. Outscraper 6.22 · 3. HasData 5.99 · 4. BrightData 5.30 · 5. Apify 4.97
+**Ranking (disqualified providers excluded):** 1. Lobstr 6.46 · 2. HasData 5.99 · 3. BrightData 5.30 · 4. Apify 4.97
 
 **Google: DISQUALIFIED (E5): customer agreement §3.2.3 bars storing/exporting business names/addresses; 60/query ceiling (measured 10/10 at cap); zero contact fields. Scored for reference only — see knowledge.md eliminations.**
+
+**Outscraper: DISQUALIFIED on cost/testability (2026-09-23): the full email-enriched workload every ranked provider ran projects to $7–11/1K uniques by its own rate card (up to $9/1K records across 3 stages) — most expensive in test, ~4–6× HasData — so the full-scope run was declined and its email metrics remain untested. Its 6.22 rests on a reduced-scope run (80/query, base-only, easiest workload) and is kept for reference only.**
 
 ## Sub-criterion detail
 

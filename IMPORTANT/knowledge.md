@@ -232,16 +232,16 @@ Scrapers do materially more work per row (website visits for contacts); Google r
 
 **Scorecard totals (max attainable 9.2 — accuracy & freshness unscoreable for all, zeroed equally; full sub-scores with evidence in `research/analysis/scorecard.md`):**
 
-**Official ranking (Google disqualified — see Eliminations; scored 7.66 for reference only):**
+**Official ranking (Google and Outscraper disqualified — see Eliminations and Outscraper's verdict below; both scored for reference only):**
 
 | Rank | Provider | Reliability /2.0 | Data /2.0 | Cost /1.5 | Speed /1.5 | Scale /1.2 | Usability /1.8 | **Total /10** |
 |---:|---|---:|---:|---:|---:|---:|---:|---:|
 | 1 | **Lobstr.io** (house — disclosed) | 1.88 | 1.20 | 0.61 | 0.21 | 1.20 | 1.36 | **6.46** |
-| 2 | Outscraper | 1.88 | 1.08 | 0.70 | 0.20 | 0.88 | 1.48 | **6.22** |
-| 3 | HasData (stage-2 2026-09-23) | 1.48 | 0.98 | 0.87 | 0.26 | 1.00 | 1.40 | **5.99** |
-| 4 | Bright Data (stage-2 2026-09-23) | 1.78 | 1.13 | 0.51 | 0.26 | 0.88 | 0.74 | **5.30** |
-| 5 | Apify | 0.91 | 0.87 | 1.34 | 0.21 | 0.44 | 1.20 | **4.97** |
+| 2 | HasData (stage-2 2026-09-23) | 1.48 | 0.98 | 0.87 | 0.26 | 1.00 | 1.40 | **5.99** |
+| 3 | Bright Data (stage-2 2026-09-23) | 1.78 | 1.13 | 0.51 | 0.26 | 0.88 | 0.74 | **5.30** |
+| 4 | Apify | 0.91 | 0.87 | 1.34 | 0.21 | 0.44 | 1.20 | **4.97** |
 | DQ | Google Places API (New) — reference | 1.96 | 1.13 | 0.77 | 1.34 | 0.96 | 1.50 | *(7.66)* |
+| DQ | Outscraper — reference (cost/testability, 2026-09-23) | 1.88 | 1.08 | 0.70 | 0.20 | 0.88 | 1.48 | *(6.22)* |
 
 *(Recomputed 2026-09-23 on BOTH runs after Run-2 pooling — supersedes the Run-1-only totals 7.70/6.44/6.19/5.10 previously recorded here; ranking unchanged, Apify fell further below the 6.0 band on its 68.3% both-run delivery.)*
 
@@ -253,7 +253,7 @@ Scrapers do materially more work per row (website visits for contacts); Google r
 
 ### 1. Lobstr.io (house product — disclosed) — 6.46 — top scraper: wins Data Quality (59% emails + ~50% socials, richest lead records) and Scalability (user-set concurrency, no hidden caps found); most expensive at $5.82/1K unique both-run measured (Growth rate) and slow wall-clock. 🔴 With Google's disqualification (2026-09-23), Lobstr now tops the eligible aggregate — under the house rule this makes the disclosure, per-persona tables, and public raw evidence load-bearing for credibility; the DQ grounds are Google's own contract, verified and quoted, not editorial choice.
 
-### 2. Outscraper — 6.22 — the reliable all-rounder, NOT the affordable one. Measured: base-only test cost $4.80 for 1,300 uniques (**$3.69/1K, listings only, no emails**), 96.8% delivery, richest default listing schema. **Full-scope re-run DECLINED 2026-09-23 on cost projection:** completing the same email-enriched workload the others ran is ~$22–32 by its own published stage pricing ($3/1K × base + extraction + verification, up to $9/1K records) → **~$7–11 per 1K enriched uniques — the most expensive scraper in the test** (~1.3–1.9× Lobstr $5.82, ~4–6× HasData $1.75, ~15–20× Apify $0.54). Consequences, recorded not hidden: its email fill remains **not tested (cost)**; its 96.8% delivery was earned on the easiest workload (80/query, no enrichment); and it cannot be recommended to price-sensitive personas at enrichment depth. Its rank reflects reliability + breadth, not value.
+### DISQUALIFIED — Outscraper — 6.22 reference — the reliable all-rounder, NOT the affordable one. Measured: base-only test cost $4.80 for 1,300 uniques (**$3.69/1K, listings only, no emails**), 96.8% delivery, richest default listing schema. **Full-scope re-run DECLINED 2026-09-23 on cost projection:** completing the same email-enriched workload the others ran is ~$22–32 by its own published stage pricing ($3/1K × base + extraction + verification, up to $9/1K records) → **~$7–11 per 1K enriched uniques — the most expensive scraper in the test** (~1.3–1.9× Lobstr $5.82, ~4–6× HasData $1.75, ~15–20× Apify $0.54). Consequences, recorded not hidden: its email fill remains **not tested (cost)**; its 96.8% delivery was earned on the easiest workload (80/query, no enrichment); and it cannot be recommended to price-sensitive personas at enrichment depth. Its rank reflects reliability + breadth, not value.
 
 ### 3. HasData — 5.99 — the stage-2 addition that matters: 42% email fill at $1.75/1K measured (~3.3× cheaper than Lobstr per email), fastest scraper (~4–5 min/run); held back by 73.7% delivery and email-mode field wobble. The persona-2 value pick.
 

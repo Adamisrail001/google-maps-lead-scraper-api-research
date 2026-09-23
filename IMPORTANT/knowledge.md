@@ -232,14 +232,16 @@ Scrapers do materially more work per row (website visits for contacts); Google r
 
 **Scorecard totals (max attainable 9.2 — accuracy & freshness unscoreable for all, zeroed equally; full sub-scores with evidence in `research/analysis/scorecard.md`):**
 
-| Provider | Reliability /2.0 | Data /2.0 | Cost /1.5 | Speed /1.5 | Scale /1.2 | Usability /1.8 | **Total /10** |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| Google Places API (New) | 1.96 | 1.13 | 0.77 | 1.34 | 0.96 | 1.50 | **7.66** |
-| Lobstr.io | 1.88 | 1.20 | 0.61 | 0.21 | 1.20 | 1.36 | **6.46** |
-| Outscraper | 1.88 | 1.08 | 0.70 | 0.20 | 0.88 | 1.48 | **6.22** |
-| Apify | 0.91 | 0.87 | 1.34 | 0.21 | 0.44 | 1.20 | **4.97** |
-| HasData (added post-brief, stage-2 2026-09-23) | 1.48 | 0.98 | 0.87 | 0.26 | 1.00 | 1.40 | **5.99** |
-| Bright Data (added post-brief, stage-2 2026-09-23) | 1.78 | 1.13 | 0.51 | 0.26 | 0.88 | 0.74 | **5.30** |
+**Official ranking (Google disqualified — see Eliminations; scored 7.66 for reference only):**
+
+| Rank | Provider | Reliability /2.0 | Data /2.0 | Cost /1.5 | Speed /1.5 | Scale /1.2 | Usability /1.8 | **Total /10** |
+|---:|---|---:|---:|---:|---:|---:|---:|---:|
+| 1 | **Lobstr.io** (house — disclosed) | 1.88 | 1.20 | 0.61 | 0.21 | 1.20 | 1.36 | **6.46** |
+| 2 | Outscraper | 1.88 | 1.08 | 0.70 | 0.20 | 0.88 | 1.48 | **6.22** |
+| 3 | HasData (stage-2 2026-09-23) | 1.48 | 0.98 | 0.87 | 0.26 | 1.00 | 1.40 | **5.99** |
+| 4 | Bright Data (stage-2 2026-09-23) | 1.78 | 1.13 | 0.51 | 0.26 | 0.88 | 0.74 | **5.30** |
+| 5 | Apify | 0.91 | 0.87 | 1.34 | 0.21 | 0.44 | 1.20 | **4.97** |
+| DQ | Google Places API (New) — reference | 1.96 | 1.13 | 0.77 | 1.34 | 0.96 | 1.50 | *(7.66)* |
 
 *(Recomputed 2026-09-23 on BOTH runs after Run-2 pooling — supersedes the Run-1-only totals 7.70/6.44/6.19/5.10 previously recorded here; ranking unchanged, Apify fell further below the 6.0 band on its 68.3% both-run delivery.)*
 
@@ -247,13 +249,17 @@ Scrapers do materially more work per row (website visits for contacts); Google r
 
 **Both-run measured costs (Lobstr Run-2 credits fetched live 2026-09-23, run `6b7150f5`: 5,342 credits):** Apify $1.3656 billed / 2,523 uniques = **$0.54/1K** · Google $2.40 rate-card / 1,044 = **$2.30/1K** ($0 billed, free tier) · Outscraper $4.80 rate-card / 1,300 = **$3.69/1K** (base only) · Lobstr 8,968 credits × Growth rate = $14.95 / 2,567 = **$5.82/1K** (incl. 1,747 extracted emails + socials + images).
 
-### 1. Google Places API (New) — 7.66 — best-engineered API in the test (perfect reliability, 1.54s median, best docs, best core-field fill 94–98%); zero lead capability, 60/query cap. Winner only outside lead gen (core-data accuracy, ≤1K free calls/mo).
+### DISQUALIFIED — Google Places API (New) — 7.66 reference — best-engineered API in the test (perfect reliability, 1.54s median, best core-field fill 94–98%), removed from the ranking on three verified grounds (§3.2.3 storage prohibition in its own customer agreement; measured 60/query ceiling; zero contact fields). Remains the recommended tool for the one permitted use: real-time in-app display.
 
-### 2. Lobstr.io (house product — disclosed) — 6.46 — top scraper: wins Data Quality (59% emails + ~50% socials, richest lead records) and Scalability (user-set concurrency, no hidden caps found); most expensive at $5.82/1K unique both-run measured (Growth rate) and slow wall-clock. Per criteria.md house rule: did NOT win the aggregate → not crowned; placed where it genuinely wins — contact-complete lead lists.
+### 1. Lobstr.io (house product — disclosed) — 6.46 — top scraper: wins Data Quality (59% emails + ~50% socials, richest lead records) and Scalability (user-set concurrency, no hidden caps found); most expensive at $5.82/1K unique both-run measured (Growth rate) and slow wall-clock. 🔴 With Google's disqualification (2026-09-23), Lobstr now tops the eligible aggregate — under the house rule this makes the disclosure, per-persona tables, and public raw evidence load-bearing for credibility; the DQ grounds are Google's own contract, verified and quoted, not editorial choice.
 
-### 3. Outscraper — 6.22 — solid middle on a budget-reduced test (base scrape, 80/query): 93.5% delivery, richest default listing schema, cheapest full-stack enrichment path on paper; email stages untested (budget), several usability sub-scores on thin evidence.
+### 2. Outscraper — 6.22 — solid middle on a budget-reduced test (base scrape, 80/query): 93.5% delivery, richest default listing schema, cheapest full-stack enrichment path on paper; email stages untested (budget), several usability sub-scores on thin evidence.
 
-### 4. Apify — 4.97 — below the 6.0 "recommended at scale" band despite winning Cost ($0.54/1K both-run, only verified-email leads billed, empirically proven): the two undocumented profit-guards silently truncated 4/20 queries (🔴 worst trust finding of the benchmark), business_status broken on 100% of records, and top-level SUCCEEDED masks under-delivery. Cheapness and untrustworthiness share the same mechanism.
+### 3. HasData — 5.99 — the stage-2 addition that matters: 42% email fill at $1.75/1K measured (~3.3× cheaper than Lobstr per email), fastest scraper (~4–5 min/run); held back by 73.7% delivery and email-mode field wobble. The persona-2 value pick.
+
+### 4. Bright Data — 5.30 — second-best core-field fills (97.2 core-8), 0.2% errors; dragged down by zero cost visibility (rate-card estimate only), onboarding/geo friction, keyword-only inputs. Persona-1 contender.
+
+### 5. Apify — 4.97 — below the 6.0 "recommended at scale" band despite winning Cost ($0.54/1K both-run, only verified-email leads billed, empirically proven): the two undocumented profit-guards silently truncated 4/20 queries (🔴 worst trust finding of the benchmark), business_status broken on 100% of records, and top-level SUCCEEDED masks under-delivery. Cheapness and untrustworthiness share the same mechanism.
 
 ---
 

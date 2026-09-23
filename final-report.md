@@ -25,7 +25,7 @@ Use **Lobstr** for the most contactable, richest records — highest email fill 
 | ScrapingDog (stage 1 only) | 80 (smoke) | **0 — no fields** | phone 96, web 96 | $0.04–0.15 (projected) | 1.5s/request | 🔴 billed duplicate pages past depth |
 | Google Places (New) — **DISQUALIFIED** | 1,044 (60/query cap) | **0 — no fields** | phone 95, web 94 | $0 free tier / $2.30 | **97 s both runs** | flawless technically; §3.2.3 bars storing the output — see disqualification |
 
-**API-quality scorecard (all-persona aggregate, /10, max attainable 9.2):** Lobstr 6.46 · Outscraper 6.22 · HasData 5.99 · Bright Data 5.30 · Apify 4.97 — Google scored 7.66 for reference but is **disqualified from the rankings** (below) (`research/analysis/scorecard.md`; HasData/Bright Data scored from their 2026-09-23 stage-2 runs — comparability caveats in the scorecard header; ScrapingDog remains stage-1-only pending its paid plan).
+**Official ranking (API-quality aggregate, /10, max attainable 9.2):** **1. Lobstr 6.46 · 2. Outscraper 6.22 · 3. HasData 5.99 · 4. Bright Data 5.30 · 5. Apify 4.97** — Google scored 7.66 for reference but is **disqualified** (below); ScrapingDog unranked pending stage 2 (`research/analysis/scorecard.md`; HasData/Bright Data scored from their 2026-09-23 stage-2 runs — comparability caveats in the scorecard header; ScrapingDog remains stage-1-only pending its paid plan).
 
 ## Google Places API (New) — tested, measured, and disqualified
 

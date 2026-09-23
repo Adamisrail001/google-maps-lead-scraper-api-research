@@ -43,6 +43,22 @@
 
 All four pass E1–E6 — no eliminations this benchmark.
 
+**Candidate eliminations from post-benchmark smoke tests (decision 2026-09-23, per lead's free-test-first policy):**
+
+| Provider | Criterion failed | One-line reason | Evidence |
+|---|---|---|---|
+| Scrapingdog | E5 (article's core data type = lead contact data) | Smoke test PASSED on API quality (fields 95–100%, 1.5s median, "failed requests never charged" verified true) but **0% emails and 0% socials by design — fields don't exist in the response**; same disqualification as Google's API for the lead-gen intent, and a second contact-less provider in the ranking dilutes the piece. Retained for one use-case mention (bulk business data ~$0.04–0.15/1K projected) + the measured 🔴 finding that past ~75 uniques/query it serves fully-billed HTTP-200 duplicate pages with no exhaustion signal. | `data/scrapingdog/reports/smoke-findings.md`, raw in `data/scrapingdog/raw/smoke/` |
+
+---
+
+## Post-benchmark candidate pipeline (smoke → scale, decisions 2026-09-23)
+
+| Candidate | Smoke result | Decision |
+|---|---|---|
+| **HasData** | ✅ PASS — **70% email fill (14/20) via API** on the Van Nuys agencies query (vs Lobstr 59% / Apify 32% same vertical — n=20 caveat); base billing exact (3 credits/row), email job billed 158 not the naive 200 (undocumented partial charging, favorable); ~18s for 20 email-enriched rows; 278/1,000 free credits spent | **→ SCALE TEST approved** — full 2-run benchmark ≈ 32K credits, needs Startup plan ($49/mo, 200K credits). Projected ~$1.94/1K email rows ≈ 3× cheaper than Lobstr's measured $5.82 — the only untested provider that can move the lead-gen ranking. Scale-script rules: poll the **results endpoint, not job status** (status sticks at `exporting_data` while data is complete 🔴); schema varies with `extractEmails` (hours/open-state columns dropped); socials = separate 5-credit enrichments, untested. Evidence: `data/hasdata/reports/smoke-findings.md` |
+| **Scrapingdog** | ✅ API quality / ❌ lead fields (see elimination above) | **→ ELIMINATED from the ranking** (E5, lead-data absence); keep one line in the bulk-data use-case section |
+| **Bright Data** | ⏸ blocked — key authenticates, right scraper identified (`gd_m8ebnr0q2qlklc02fz`, "Google Maps full information", discovery by location/place_id/cid — no keyword mode), but trigger refused: `"Customer is not active"` (account needs dashboard activation). Network note: brightdata.com zone unresolvable via local DNS — workaround = DoH-resolved pinned IP, works | **→ ON HOLD** pending account activation; if activated, smoke must first check whether email fields exist at all (unverified) — if absent, same E5 path as Scrapingdog |
+
 ---
 
 ## Official API Deep-Dive (Google Places API (New)) — ✅ CAPTURED, live-tested 2026-09-23

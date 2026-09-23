@@ -1,0 +1,16 @@
+Hi @Adam
+2 simple questions:
+
+Who and Why
+
+Who will use the scraper
+Why? what does he need?
+
+Ask your agent to do a small research on these 2 points, you got user intent.
+
+In this specific case:
+Disqualifying a scraper bcz it doesn't offer social media and email data (which is usually found on website not in the listing) is not good call.
+
+Why?
+
+I'm not looking for lots of data per listing. I simply need name, address, phone number, and opening hours of every google maps business listing from my search. I'm looking for an affordable option here that just does this specific job reliably.

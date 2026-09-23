@@ -13,7 +13,7 @@ Short answer, from measured runs on identical workloads (20 sub-area queries, 2 
 
 - **If you need emails or social profiles, the official API is out** — those fields do not exist in its response surface at any price. Scrapers with contact enrichment (Lobstr, Apify, Outscraper's add-on stage) are the only API route.
 - **If you need thousands of records per search area, the official API fights you** — a hard 60-results-per-query cap (measured: all 10 restaurant queries stopped at exactly 60) vs 998–1,405 uniques the scrapers pulled from the same 10 queries.
-- **If you need accurate core business data (phone, website, rating, hours) in modest volumes, the official API is excellent** — highest fill-rates we measured (94–98%), fastest responses (median 1.54s), 1,000 free enterprise-tier calls/month, zero ToS ambiguity.
+- **If you need accurate core business data (phone, website, rating, hours) in modest volumes, displayed live inside your own app, the official API is excellent** — highest fill-rates we measured (94–98%), fastest responses (median 1.54s), 1,000 free enterprise-tier calls/month. **But if you intend to keep the data, its own terms stop you** (see §5): Maps Platform Terms §3.2.3 prohibits "copying and saving business names, addresses, or user reviews" and storing anything but place IDs.
 
 The rest of this report is the evidence: who the real contenders are (§2), what we measured (§3), which tool fits which job (§4), where the official API wins and loses (§5), why other tools were set aside (§6), and how the research was done (§7).
 
@@ -109,8 +109,8 @@ Recurring cost dominates. **Google's** 1,000 free enterprise calls/mo cover a ~3
 
 ## 5. Official Google Places API — where it wins and loses (measured)
 
-**Wins:** best fill-rates of anything tested for phone (95%), website (94%), rating and hours (98%); fastest responses in the project; 1,000 free Enterprise+Atmosphere requests/month (≈18,700 places); structured, stable schema; no ToS ambiguity.
-**Loses:** emails, social profiles, contact forms, owner data, popular times — **absent from the API surface entirely**, which disqualifies it from outreach lead generation, the highest-intent job in this market; hard 60-results-per-query cap (measured at the ceiling on 10/10 restaurant queries); 5-review cap; photo media billed separately; volume beyond the free tier costs per-request, and the request count — not the record count — is what the 60-cap inflates.
+**Wins:** best fill-rates of anything tested for phone (95%), website (94%), rating and hours (98%); fastest responses in the project; 1,000 free Enterprise+Atmosphere requests/month (≈18,700 places); structured, stable schema; fully compliant for its intended use (real-time in-app display).
+**Loses:** emails, social profiles, contact forms, owner data, popular times — **absent from the API surface entirely**, which disqualifies it from outreach lead generation, the highest-intent job in this market; hard 60-results-per-query cap (measured at the ceiling on 10/10 restaurant queries); 5-review cap; photo media billed separately; volume beyond the free tier costs per-request, and the request count — not the record count — is what the 60-cap inflates. **And the decisive one, verified against Google's own terms (§3.2.3, cloud.google.com/maps-platform/terms): storing the data is prohibited** — "Customer will not export, extract, or otherwise scrape Google Maps Content for use outside the Services," including "copying and saving business names, addresses, or user reviews"; only place IDs may be stored indefinitely (developers.google.com/maps/documentation/places/web-service/policies). A saved, exportable business list — the product every user in this article wants — is contractually off the table regardless of price.
 
 ## 6. Tools considered and set aside — in terms that matter to a buyer
 

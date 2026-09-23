@@ -1,0 +1,1519 @@
+{
+  "meta": {
+    "total": 20,
+    "perPage": 100,
+    "currentPage": 1,
+    "lastPage": 1,
+    "firstPage": 1,
+    "firstPageUrl": "/?page=1",
+    "lastPageUrl": "/?page=1",
+    "nextPageUrl": null,
+    "previousPageUrl": null
+  },
+  "data": [
+    {
+      "id": 529313941,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/1z44b8ssp",
+        "phone": "(310) 873-3366",
+        "title": "Rosewood Creative",
+        "types": [
+          "Marketing agency"
+        ],
+        "dataId": "0x80c2ba94345f4ea3:0x4bdd27c00fe7bbbc",
+        "rating": 3,
+        "address": "16217 Kittridge St, Van Nuys, CA 91406",
+        "placeId": "ChIJo05fNJS6woARvLvnD8An3Us",
+        "reviews": 2,
+        "website": "http://www.rosewoodcreative.com/",
+        "position": 20,
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmaW-_IZQIb1vDR3tAQldCsqWnQI2b5vhQuHb0YIbDGhZ-8JonrEA-9WGAvX49aDAHwRs6V0NnLhE3wDEJLeDc54vMuQ_UyHx8S-PAl1CpXmFMRM9DAXtzvFwjrn4uMKtXzt4IX=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.1904335,
+          "longitude": -118.4865257
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-23T10:21:21.475+00:00",
+      "updatedAt": "2026-09-23T10:21:21.475+00:00",
+      "dataId": "ChIJo05fNJS6woARvLvnD8An3Us"
+    },
+    {
+      "id": 529313940,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11h7gjdvk2",
+        "phone": "(352) 232-1949",
+        "title": "GC Creative Designs",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "Service establishment",
+          "Graphic designer",
+          "Media company",
+          "Website designer"
+        ],
+        "dataId": "0x80c29705f509f70d:0x4a6ce6721cf65ad",
+        "rating": 5,
+        "placeId": "ChIJDfcJ9QWXwoARrWXPIWfOpgQ",
+        "reviews": 10,
+        "website": "https://www.gccreativedesigns.com/",
+        "position": 19,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnZ8Msk2q8K0NQQ8QLnuwh6R2BZYESo2KOXZh2bf2u8H67_UxlB3BCOQN0TRA9JeZ6MWh6OgKxX0_XKCSPA-O4svUf1UDgc8wFuI5dxEqQ86Dg4nqnyBRmUJ9_lUHD2bzSuSYg=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–6 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.6892034,
+          "longitude": -84.02539639999999
+        }
+      },
+      "createdAt": "2026-09-23T10:21:21.472+00:00",
+      "updatedAt": "2026-09-23T10:21:21.472+00:00",
+      "dataId": "ChIJDfcJ9QWXwoARrWXPIWfOpgQ"
+    },
+    {
+      "id": 529313939,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11x1d9h_pn",
+        "phone": "(800) 790-9612",
+        "title": "A&N Marketing",
+        "types": [
+          "Marketing agency"
+        ],
+        "dataId": "0x80c2970c171476cb:0xbab8dd6e0387a22",
+        "rating": 5,
+        "address": "13746 Victory Blvd, Van Nuys, CA 91401",
+        "placeId": "ChIJy3YUFwyXwoARIno44NaNqws",
+        "reviews": 1,
+        "website": "https://anmarketinginc.com/",
+        "position": 18,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlbUuhEUo52PCeLuTw-52bYsH2E4FS1aIjHPy0ANky1BZFVnyZ70293MYbqMcTt5aw3UZSG0YVlNA6K3G0sAzk850TRwsYs7rdlpJ2TKgiPqCHoAJ05JRMKDvIhyfO9YHU-p01kb4VqN0TB=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–6 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.186391799999996,
+          "longitude": -118.43273749999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-23T10:21:21.470+00:00",
+      "updatedAt": "2026-09-23T10:21:21.470+00:00",
+      "dataId": "ChIJy3YUFwyXwoARIno44NaNqws"
+    },
+    {
+      "id": 529313938,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11jn0z3dyl",
+        "phone": "+971 56 120 1368",
+        "title": "Parsis Digital Marketing",
+        "types": [
+          "Marketing agency",
+          "Service establishment"
+        ],
+        "dataId": "0x80c29773f9c3e1b7:0xfc39c4909f6b1bf5",
+        "rating": 5,
+        "placeId": "ChIJt-HD-XOXwoAR9Rtrn5DEOfw",
+        "reviews": 3,
+        "website": "https://parsis.agency/",
+        "position": 17,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkz_GzEEyD9PvknNGR8GHOG87RLRQBzMlvRMELkSpuTakXR16JjCJOkdW4oxBxnyHTfeIXchyT5CRa7DmuNjCFLRma071ygDS5LwyS2fGX9PMyutoDmXQqMkidwgrOq0a2Sa6W66w=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Closed"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 49.96405,
+          "longitude": -64.8329597
+        }
+      },
+      "createdAt": "2026-09-23T10:21:21.468+00:00",
+      "updatedAt": "2026-09-23T10:21:21.468+00:00",
+      "dataId": "ChIJt-HD-XOXwoAR9Rtrn5DEOfw"
+    },
+    {
+      "id": 529313937,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing consultant",
+        "kgmid": "/g/11vz6_32y_",
+        "phone": "(818) 300-6135",
+        "title": "Alvand Consulting",
+        "types": [
+          "Marketing consultant",
+          "Advertising agency",
+          "Service establishment",
+          "Marketing agency"
+        ],
+        "dataId": "0x4c9e7aef5d0a7005:0xe168d5cea5f31118",
+        "emails": [
+          "rama@marketingscalepoint.com"
+        ],
+        "rating": 5,
+        "placeId": "ChIJBXAKXe96nkwRGBHzpc7VaOE",
+        "reviews": 13,
+        "website": "http://ramaalvand.com/",
+        "position": 16,
+        "extraCost": 7,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm3Lbt3lHxF6byM0No0KFd3TGB3I9yyz_jkInoOMLdWuZmuOp5Xrcl8rCQmr6lYReosEh4BGSFkdVo1lgBgaMwNJBqGlmFo495_SR8iQonQ7TZpMM_2QSgXxOJn-9Sz-uzO-hZZvaqjvspb=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/Detroit"
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 46.423669,
+          "longitude": -129.9427086
+        }
+      },
+      "createdAt": "2026-09-23T10:21:21.466+00:00",
+      "updatedAt": "2026-09-23T10:21:21.466+00:00",
+      "dataId": "ChIJBXAKXe96nkwRGBHzpc7VaOE"
+    },
+    {
+      "id": 529313936,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11zhb0nbxf",
+        "title": "SEO for California Lawfirms",
+        "types": [
+          "Marketing agency",
+          "Service establishment"
+        ],
+        "dataId": "0xab25289837e286af:0xca73f8f4a3ee4c91",
+        "emails": [
+          "hello@californialawfirmseo.com"
+        ],
+        "rating": 5,
+        "placeId": "ChIJr4biN5goJasRkUzuo_T4c8o",
+        "reviews": 1,
+        "website": "https://californialawfirmseo.com/",
+        "position": 15,
+        "extraCost": 7,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmIT5ErNeKrEGHW6V62edD6E_syFJz9QPAtPugnwXSN6mmNAJUYbd6-hnKgEpx11N59ld8UQ_vBcPllkHkY27zd2mvyfzNH7H2V790sTcDNgvQ9LBYjKjKuloIkYudmRvzu2pjuNhOZkFfM=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 37.269505599999995,
+          "longitude": -119.306607
+        }
+      },
+      "createdAt": "2026-09-23T10:21:21.465+00:00",
+      "updatedAt": "2026-09-23T10:21:21.465+00:00",
+      "dataId": "ChIJr4biN5goJasRkUzuo_T4c8o"
+    },
+    {
+      "id": 529313935,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11hhf2zhqx",
+        "phone": "(786) 408-8600",
+        "title": "Targetiva Digital Marketing Agency",
+        "types": [
+          "Marketing agency",
+          "Service establishment",
+          "Website designer"
+        ],
+        "dataId": "0x80c29738e30ab673:0xd86a64f4e595ba86",
+        "emails": [
+          "info@targetiva.com"
+        ],
+        "rating": 5,
+        "placeId": "ChIJc7YK4ziXwoARhrqV5fRkatg",
+        "reviews": 1,
+        "website": "https://www.targetiva.com/",
+        "position": 14,
+        "extraCost": 7,
+        "openState": "Closed · Opens 9 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmd7BYERDLfkc_6aH70HaBo-r1Cz_YLk1XwFic2CD3jQzK47uOsQwOOqB05q4QHHEzT2uBMpIepv-I5VyFs9irR9Cgv6WvZYzZ9adGVNejMPrmPoiG-V5o0qDQxHVlFsSxSYMwrGw=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "9 AM–7 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9 AM–7 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "9 AM–7 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "9 AM–7 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "9 AM–1 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9 AM–7 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9 AM–7 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.706084499999996,
+          "longitude": -98.129747
+        }
+      },
+      "createdAt": "2026-09-23T10:21:21.463+00:00",
+      "updatedAt": "2026-09-23T10:21:21.463+00:00",
+      "dataId": "ChIJc7YK4ziXwoARhrqV5fRkatg"
+    },
+    {
+      "id": 529313934,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Market researcher",
+        "kgmid": "/g/11z15jlj64",
+        "phone": "(818) 599-2696",
+        "title": "TurboAgency - A Melleka Marketing Company",
+        "types": [
+          "Market researcher"
+        ],
+        "dataId": "0x80c297c38b58127f:0x66afbdc1d0968832",
+        "rating": 5,
+        "address": "7141 Valjean Ave #201, Van Nuys, CA 91406",
+        "placeId": "ChIJfxJYi8OXwoARMoiW0MG9r2Y",
+        "reviews": 4,
+        "website": "https://turboagency.io/",
+        "position": 13,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnmpGJqusonQzk8AX7jeirovbs2YGDp6EMdHtSerLs40YWXePDV4IRbQig2FDYHMS94Qhmj92oKhz_SSD8Eo5AdQw0glCICcPWlQKA1BhVtVmUgBzy662uNbrJiAzR-ztk2DFVGLhIGwtd1=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.2004777,
+          "longitude": -118.48627909999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-23T10:21:21.461+00:00",
+      "updatedAt": "2026-09-23T10:21:21.461+00:00",
+      "dataId": "ChIJfxJYi8OXwoARMoiW0MG9r2Y"
+    },
+    {
+      "id": 529313933,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11wc3vqzww",
+        "phone": "(424) 600-9191",
+        "title": "Platinum Web Studio",
+        "types": [
+          "Marketing agency",
+          "Automation company",
+          "Graphic designer",
+          "Internet marketing service",
+          "Marketing consultant",
+          "Software company"
+        ],
+        "dataId": "0x80c297f2d0daedc9:0xcdcc6fa1f48f4d7a",
+        "emails": [
+          "info@platinumwebstudio.com"
+        ],
+        "rating": 5,
+        "address": "6666 Sepulveda Blvd APT 204, Van Nuys, CA 91411",
+        "placeId": "ChIJye3a0PKXwoARek2P9KFvzM0",
+        "reviews": 63,
+        "website": "https://platinumwebstudio.com/van-nuys-marketing-agency",
+        "position": 12,
+        "extraCost": 7,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn5lJi7y55qYNKHQyJsKMKQ3wB7auQD1H40esKW9OROIzGlNLZxUjIO0nko7jI4pnVRzDf2VWB-lToGWO3VxP3Tb2XQtbDdYqW1mwMQWW89E2kmhkNUDLT_m0nPjLZORX1YD9rzJs-48zwW=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–7 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.191904199999996,
+          "longitude": -118.4654101
+        }
+      },
+      "createdAt": "2026-09-23T10:21:21.459+00:00",
+      "updatedAt": "2026-09-23T10:21:21.459+00:00",
+      "dataId": "ChIJye3a0PKXwoARek2P9KFvzM0"
+    },
+    {
+      "id": 529313932,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11k76x2qr2",
+        "phone": "(747) 998-2779",
+        "title": "Digital Marketing Agency Van Nuys CA",
+        "types": [
+          "Marketing agency"
+        ],
+        "dataId": "0x80c2975c9884ea4b:0x2d2df4b191d2f4d6",
+        "emails": [
+          "sunny7479@gmail.com",
+          "localserviceseo@gmail.com"
+        ],
+        "address": "7525 Sepulveda Blvd 201 B, Van Nuys, CA 91405",
+        "placeId": "ChIJS-qEmFyXwoAR1vTSkbH0LS0",
+        "website": "http://seotechpro.com/local-seo-services-van-nuys-ca/",
+        "position": 11,
+        "extraCost": 7,
+        "openState": "Temporarily closed",
+        "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dGngkG5Xo4hiFFuzxmRVIg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=274.77155&pitch=0&thumbfov=100",
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.2072323,
+          "longitude": -118.46677629999999
+        }
+      },
+      "createdAt": "2026-09-23T10:21:21.457+00:00",
+      "updatedAt": "2026-09-23T10:21:21.457+00:00",
+      "dataId": "ChIJS-qEmFyXwoAR1vTSkbH0LS0"
+    },
+    {
+      "id": 529313931,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11s9y4c7_1",
+        "phone": "(818) 428-1209",
+        "title": "Bluecap Studio",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "Graphic designer",
+          "Design agency",
+          "Marketing consultant",
+          "Website designer"
+        ],
+        "dataId": "0x80c2994451d438cf:0xecdb6ded80f94001",
+        "emails": [
+          "hello@bluecapstudio.com"
+        ],
+        "rating": 5,
+        "address": "16461 Sherman Way #350, Lake Balboa, CA 91406",
+        "placeId": "ChIJzzjUUUSZwoARAUD5gO1t2-w",
+        "reviews": 3,
+        "website": "http://www.bluecapstudio.com/",
+        "position": 10,
+        "extraCost": 7,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlrKLkZxtf_SpyY9dnkIHu6aR91zjjp0v891ajz4QfGMi96oAMZnjk_FkxhGkY7vxzfH6IN90ee7ekgjosmupJ4Ezd4mxfUN6Nad2YzrW-CdS1gU1bIMI9WlnucLaVwKVKytcw=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.2014132,
+          "longitude": -118.4920494
+        },
+        "serviceOptions": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-23T10:21:21.456+00:00",
+      "updatedAt": "2026-09-23T10:21:21.456+00:00",
+      "dataId": "ChIJzzjUUUSZwoARAUD5gO1t2-w"
+    },
+    {
+      "id": 529313930,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11fl3pkrm7",
+        "phone": "(747) 264-1413",
+        "title": "A Very Good Agency",
+        "types": [
+          "Marketing agency",
+          "Film production company"
+        ],
+        "dataId": "0x80c2b93fa1a94a21:0x29752e168a5dd282",
+        "rating": 4,
+        "address": "15757 Stagg St, Van Nuys, CA 91406",
+        "placeId": "ChIJIUqpoT-5woARgtJdihYudSk",
+        "reviews": 1,
+        "website": "http://www.averygoodagency.com/",
+        "position": 9,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWncLoYRsUEjE2aDMMBlDAm5kfX5gFz8_lrQmFJWLxHtDG2zMrXBHGnba6a_1BiIwJgXpDUuik0xEg2RYgT5efsLA0msOScH4HPaNv3zuWgQTgLUDT1LnZEGWsi8KF_6KDb1SmK5c8ifTA0=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–6 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.212845099999996,
+          "longitude": -118.4768788
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T10:21:21.454+00:00",
+      "updatedAt": "2026-09-23T10:21:21.454+00:00",
+      "dataId": "ChIJIUqpoT-5woARgtJdihYudSk"
+    },
+    {
+      "id": 529313929,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11rjp5dzj9",
+        "phone": "(310) 560-9782",
+        "title": "Marketing Audit Agency",
+        "types": [
+          "Marketing agency"
+        ],
+        "dataId": "0x80c299193c508cd5:0xf12a93ef3d6a9357",
+        "emails": [
+          "your@agency.com"
+        ],
+        "rating": 5,
+        "address": "6747 Odessa Ave #202, Van Nuys, CA 91406",
+        "placeId": "ChIJ1YxQPBmZwoARV5NqPe-TKvE",
+        "reviews": 2,
+        "website": "https://marketingaudit.agency/",
+        "position": 8,
+        "extraCost": 7,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWksuNcjgm-1VOLX3CZxjPNziT02Q0jvoAn1G7XL9BTeDN35EVHn9KPPkF8tiuZHlf8t8KBbxNJIhaU_Jw_TiobjxuuNX4wHCWKT41hQ3VQo3Qpfsir57jowhgB4vM7TFVHfkRvp=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–7 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.193253299999995,
+          "longitude": -118.4906178
+        },
+        "serviceOptions": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-23T10:21:21.452+00:00",
+      "updatedAt": "2026-09-23T10:21:21.452+00:00",
+      "dataId": "ChIJ1YxQPBmZwoARV5NqPe-TKvE"
+    },
+    {
+      "id": 529313928,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11clgk3wh2",
+        "phone": "(818) 824-4479",
+        "title": "Marketing 4 Real Results",
+        "types": [
+          "Marketing agency"
+        ],
+        "dataId": "0x80c297bc7cbc6b01:0xc5b58324fc4ef5db",
+        "emails": [
+          "info@m4rr.com"
+        ],
+        "rating": 5,
+        "address": "14900 Magnolia Blvd #57234, Sherman Oaks, CA 91413",
+        "placeId": "ChIJAWu8fLyXwoAR2_VO_CSDtcU",
+        "reviews": 52,
+        "website": "https://www.m4rr.com/",
+        "position": 7,
+        "extraCost": 7,
+        "openState": "Closed · Opens 9 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn_mYexpesvmW2t03Br6AJXNLtConyNPfLzBsR_pVyXeRTcTqBopL6aDiXa2S2IDJyOkhgyLafdiFfh3GVqfDMBONvLwDACyT1ksCnmg0lyhUSQheQ-ATz5FNmIaWSEZ37c3_1_p67gu0w=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9 AM–5 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.1643036,
+          "longitude": -118.45802649999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-23T10:21:21.450+00:00",
+      "updatedAt": "2026-09-23T10:21:21.450+00:00",
+      "dataId": "ChIJAWu8fLyXwoAR2_VO_CSDtcU"
+    },
+    {
+      "id": 529313927,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/113gpl6zt",
+        "phone": "(213) 245-1057",
+        "title": "LAS Digital Agency",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "Graphic designer",
+          "Internet marketing service",
+          "Marketing consultant",
+          "Photography service",
+          "Video production service",
+          "Website designer"
+        ],
+        "dataId": "0x80c297eb181505cb:0x6b66996a9797ef6e",
+        "emails": [
+          "info@yourwebsite.com",
+          "your-email@mail.com",
+          "hello@lasagency.com"
+        ],
+        "rating": 5,
+        "address": "14011 Ventura Blvd #402, Sherman Oaks, CA 91423",
+        "placeId": "ChIJywUVGOuXwoARbu-Xl2qZZms",
+        "reviews": 1,
+        "website": "https://lasagency.com/",
+        "position": 6,
+        "extraCost": 7,
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkRAEe_kck8QbqXm4CuD8MLvHowRYvqlkGvO_aRPv7Z6QZwzQcLmB_0sV32ttVOioW4GGBpGhjtRpBGwv-CW6QYG_XMuTEwh3EN-w2oHmh93fiHzsZ9cJKNG8ZGUvPahfk7PnT64g=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.1494199,
+          "longitude": -118.43795859999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-23T10:21:21.448+00:00",
+      "updatedAt": "2026-09-23T10:21:21.448+00:00",
+      "dataId": "ChIJywUVGOuXwoARbu-Xl2qZZms"
+    },
+    {
+      "id": 529313926,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11b6s_zp9b",
+        "phone": "(323) 613-2773",
+        "title": "Falcon Marketing Advertising & SEO",
+        "types": [
+          "Marketing agency",
+          "Internet marketing service",
+          "Advertising agency",
+          "Software company",
+          "Website designer"
+        ],
+        "dataId": "0x80c2966ba5e2c67d:0x6d3a98588923f5b9",
+        "emails": [
+          "hello@falconmarketing.com",
+          "jane@company.com"
+        ],
+        "rating": 4.9,
+        "address": "6442 Coldwater Canyon Ave #200, Valley Glen, CA 91606",
+        "placeId": "ChIJfcbipWuWwoARufUjiViYOm0",
+        "reviews": 33,
+        "website": "http://www.falconmarketing.com/?utm_campaign=gmb",
+        "position": 5,
+        "extraCost": 7,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkOZLWAn6gof0ybsUGg7BEYbIF6ZXrT_lgKDKga8wb8RrUtEdAyIgB8shP74BksaZuSGrCI7D8-eMBx-tkE5N4a9_SFi8HTaCf-XQEZPfvCBdoquKkdLGBLz_5ysEz6Aw1FoMcz=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–4 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–8 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.188175799999996,
+          "longitude": -118.4133021
+        }
+      },
+      "createdAt": "2026-09-23T10:21:21.446+00:00",
+      "updatedAt": "2026-09-23T10:21:21.446+00:00",
+      "dataId": "ChIJfcbipWuWwoARufUjiViYOm0"
+    },
+    {
+      "id": 529313925,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Internet marketing service",
+        "kgmid": "/g/11cks4zyll",
+        "phone": "(818) 274-9245",
+        "title": "Inbound Real Estate Marketing",
+        "types": [
+          "Internet marketing service",
+          "Marketing agency",
+          "Real estate consultant",
+          "Website designer"
+        ],
+        "dataId": "0x80c2970c4526f361:0xd364e7969e8d7def",
+        "emails": [
+          "inboundrem@gmail.com"
+        ],
+        "rating": 4.9,
+        "address": "6268 Lemona Ave, Van Nuys, CA 91411",
+        "placeId": "ChIJYfMmRQyXwoAR732NnpbnZNM",
+        "reviews": 78,
+        "website": "https://www.inboundrem.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+        "position": 4,
+        "extraCost": 7,
+        "openState": "Closed · Opens 9 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlFNRy96dZHGjChfuj_SPF2PL7xKw2mmol3YPZO6cBzVpER4kxBFqVlq0gYsCgvN6ZfZOw2tbQvWDFCLQrUgUUNO8KnPvDhVqoIW0oGgWbUAd93PnCetJD6ewY6t5taJED2hJlkrQ=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9 AM–5 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.184525199999996,
+          "longitude": -118.4593599
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-23T10:21:21.444+00:00",
+      "updatedAt": "2026-09-23T10:21:21.444+00:00",
+      "dataId": "ChIJYfMmRQyXwoAR732NnpbnZNM"
+    },
+    {
+      "id": 529313924,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11f2wlf41l",
+        "phone": "(323) 364-4614",
+        "title": "365 Digital Agency",
+        "types": [
+          "Marketing agency",
+          "Advertising agency"
+        ],
+        "dataId": "0x80c29789eb4f443b:0x3daae6d5bc769bd",
+        "emails": [
+          "info@365digitalagency.com"
+        ],
+        "rating": 5,
+        "address": "16133 Ventura Blvd, Encino, CA 91436",
+        "placeId": "ChIJO0RP64mXwoARvWnHW22u2gM",
+        "reviews": 27,
+        "website": "https://365digitalagency.com/",
+        "position": 3,
+        "extraCost": 7,
+        "openState": "Closed · Opens 8:30 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWntfhohVyHuzZeW5KbeWyBkQV6BWMu_F1Z33ZoUWqFd41GroFaA_ZnPkE6bSej6hVB8dleC4tIarOfKjU8qw2eJSRqXzZJ2nwIZX9ShhLaHzAdatJ3UnrdpkOf1Bt-YSvnTqb4b=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8:30 AM–7 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8:30 AM–7 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8:30 AM–5:30 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Closed"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8:30 AM–7 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.15685,
+          "longitude": -118.484978
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-23T10:21:21.442+00:00",
+      "updatedAt": "2026-09-23T10:21:21.442+00:00",
+      "dataId": "ChIJO0RP64mXwoARvWnHW22u2gM"
+    },
+    {
+      "id": 529313923,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11gzs7388p",
+        "phone": "(818) 913-6740",
+        "title": "Sunny Creative",
+        "types": [
+          "Marketing agency"
+        ],
+        "dataId": "0x80c2be3e331539cd:0x13c44ee088ffda49",
+        "emails": [
+          "info@sunnycreative.com"
+        ],
+        "rating": 4.8,
+        "address": "14753 Oxnard St, Van Nuys, CA 91411",
+        "placeId": "ChIJzTkVMz6-woARSdr_iOBOxBM",
+        "reviews": 24,
+        "website": "http://sunnycreative.com/",
+        "position": 2,
+        "extraCost": 7,
+        "openState": "Closed · Opens 7:30 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWln8im5PyYuoIU5X8FwuJX6uSDPl0WxhxKdyXH6tTrkvo_Sk79YoWepJsP9z7NlrOZU5NJLm6vlUatj-q6_qbLRlq3VAoQAQkAEU13N-6ytnfjo2d0nHEtTTS-GWRsAH7vrigX9cw=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "7:30 AM–7:30 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "7:30 AM–7:30 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "7:30 AM–7:30 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "7:30 AM–7:30 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "7:30 AM–7:30 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "7:30 AM–7:30 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.1795301,
+          "longitude": -118.4547712
+        },
+        "serviceOptions": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-23T10:21:21.439+00:00",
+      "updatedAt": "2026-09-23T10:21:21.439+00:00",
+      "dataId": "ChIJzTkVMz6-woARSdr_iOBOxBM"
+    },
+    {
+      "id": 529313922,
+      "jobId": "515784",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11gxm55gwg",
+        "phone": "(818) 599-2696",
+        "title": "Melleka Marketing - A Digital Marketing Agency",
+        "types": [
+          "Marketing agency"
+        ],
+        "dataId": "0x80c29b67230b73e5:0x7c6b1eeb80f10afd",
+        "emails": [
+          "support@mellekamarketing.com"
+        ],
+        "rating": 4.9,
+        "address": "7141 Valjean Ave Second Floor, Van Nuys, CA 91406",
+        "placeId": "ChIJ5XMLI2ebwoAR_QrxgOsea3w",
+        "reviews": 60,
+        "website": "https://www.melleka.com/",
+        "position": 1,
+        "extraCost": 7,
+        "openState": "Closed · Opens 9 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmwBU4cQDZL6-uE7wT-nVvEHeVs1QTg0Qons1fyXdtWrvE-NWFSA1-9ihYFTiFAQXILpDR8132Igy3KrwAaIQKQc56J2ntSKHM1HPaZNmezIgdpr5S6BeT-hqOtvK5KoV7B6njJ4JUzdCGh=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "9 AM–5:30 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9 AM–5:30 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "9 AM–5:30 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9 AM–5:30 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9 AM–5:30 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.200473699999996,
+          "longitude": -118.48624029999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-23T10:21:21.437+00:00",
+      "updatedAt": "2026-09-23T10:21:21.437+00:00",
+      "dataId": "ChIJ5XMLI2ebwoAR_QrxgOsea3w"
+    }
+  ]
+}

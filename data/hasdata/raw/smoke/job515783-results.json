@@ -1,0 +1,3177 @@
+{
+  "meta": {
+    "total": 40,
+    "perPage": 100,
+    "currentPage": 1,
+    "lastPage": 1,
+    "firstPage": 1,
+    "firstPageUrl": "/?page=1",
+    "lastPageUrl": "/?page=1",
+    "nextPageUrl": null,
+    "previousPageUrl": null
+  },
+  "data": [
+    {
+      "id": 529312448,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Advertising agency",
+        "kgmid": "/g/1tdcsfxr",
+        "phone": "(212) 220-5000",
+        "title": "Horizon Media, Inc.",
+        "types": [
+          "Advertising agency"
+        ],
+        "dataId": "0x89c259039475bfbf:0xc81605a2d7cf0e9c",
+        "rating": 4.5,
+        "address": "75 Varick St, New York, NY 10013",
+        "placeId": "ChIJv791lANZwokRnA7P16IFFsg",
+        "reviews": 85,
+        "website": "http://www.horizonmedia.com/",
+        "position": 40,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlt77LYfoQIHvS0Jwx1BKxIkKsl2zXjmFoSnAG0NpOU1jaLhzDMykeEmJ-VYcTe22tJYPIsLLG_iQam7ofQnFkXClEuBM09ClZV2s_6EXqA9YwvrySReRkin-jQf0DiScllBI8C=s1024-v1",
+        "extensions": {
+          "parking": [
+            "Paid street parking"
+          ],
+          "planning": [
+            "Appointment required"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–7 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.723341,
+          "longitude": -74.0064156
+        },
+        "serviceOptions": [
+          "Appointment required"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:35.455+00:00",
+      "updatedAt": "2026-09-23T10:20:35.455+00:00",
+      "dataId": "ChIJv791lANZwokRnA7P16IFFsg"
+    },
+    {
+      "id": 529312447,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Internet marketing service",
+        "kgmid": "/g/11y3n5d22y",
+        "phone": "(646) 452-5272",
+        "title": "Top New York SEO",
+        "types": [
+          "Internet marketing service"
+        ],
+        "dataId": "0x89c259aff12f8429:0x95b5e7b8165152c0",
+        "rating": 4.9,
+        "address": "594 Broadway Ste 701, New York, NY 10012",
+        "placeId": "ChIJKYQv8a9ZwokRwFJRFrjntZU",
+        "reviews": 79,
+        "website": "https://www.topnewyorkseo.company/",
+        "position": 39,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Oy77rseR5c6d85BivxMwtQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=145.64867&pitch=0&thumbfov=100",
+        "extensions": {
+          "planning": [
+            "Appointment required"
+          ],
+          "serviceOptions": [
+            "Online appointments"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–7 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.724933,
+          "longitude": -73.9968949
+        },
+        "serviceOptions": [
+          "Online appointments"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:35.454+00:00",
+      "updatedAt": "2026-09-23T10:20:35.454+00:00",
+      "dataId": "ChIJKYQv8a9ZwokRwFJRFrjntZU"
+    },
+    {
+      "id": 529312446,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11z2snj5gn",
+        "phone": "(646) 814-1045",
+        "title": "Summit Solutions New York",
+        "types": [
+          "Marketing agency"
+        ],
+        "dataId": "0x728d14de8512183:0x2bb9f109d4009e7d",
+        "rating": 5,
+        "address": "589 8th Ave, New York, NY 10018",
+        "placeId": "ChIJgyFR6E3RKAcRfZ4A1AnxuSs",
+        "reviews": 30,
+        "website": "https://www.summitsolutionsnewyork.com/",
+        "position": 38,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8nFmGe33EQ8v5DmskQ5jm5vFfUZLNqdjQx6i9Rjv80nlMmDqwO1BXYSShhCikqouNJPeZ2jpf7AVspG6YLfGhPw_6CzyrO9AuSyRAU0ftei2Xy27ZaANMk8sWpjthS6eXEDo3kFx4NVjs=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–6:30 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–6:30 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–6:30 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "9 AM–1 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–6:30 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–6:30 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7553048,
+          "longitude": -73.9915114
+        }
+      },
+      "createdAt": "2026-09-23T10:20:35.453+00:00",
+      "updatedAt": "2026-09-23T10:20:35.453+00:00",
+      "dataId": "ChIJgyFR6E3RKAcRfZ4A1AnxuSs"
+    },
+    {
+      "id": 529312445,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Branding agency",
+        "kgmid": "/g/119wwcm74",
+        "phone": "(646) 354-7770",
+        "title": "GreyBox Creative",
+        "types": [
+          "Branding agency",
+          "Internet marketing service",
+          "Website designer"
+        ],
+        "dataId": "0x89c259b32156dbe1:0x277914b39a92c2fe",
+        "rating": 4.8,
+        "address": "1345 6th Ave Ste 33-060, New York, NY 10105",
+        "placeId": "ChIJ4dtWIbNZwokR_sKSmrMUeSc",
+        "reviews": 16,
+        "website": "http://www.greyboxcreative.com/",
+        "position": 37,
+        "openState": "Closed · Opens 9 AM",
+        "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SKDWy5dlczY-laDy1ndn4g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=300.0776&pitch=0&thumbfov=100",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9 AM–5 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.762938399999996,
+          "longitude": -73.97895799999999
+        }
+      },
+      "createdAt": "2026-09-23T10:20:35.452+00:00",
+      "updatedAt": "2026-09-23T10:20:35.452+00:00",
+      "dataId": "ChIJ4dtWIbNZwokR_sKSmrMUeSc"
+    },
+    {
+      "id": 529312444,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11pz8sj8sh",
+        "phone": "(619) 618-0344",
+        "title": "Storm Brain",
+        "types": [
+          "Marketing agency"
+        ],
+        "dataId": "0x89c259b8b37b96af:0x9b865ca5d482582e",
+        "rating": 5,
+        "address": "1740 Broadway Ste 200, New York, NY 10019",
+        "placeId": "ChIJr5Z7s7hZwokRLliC1KVchps",
+        "reviews": 90,
+        "website": "https://stormbrain.com/",
+        "position": 36,
+        "openState": "Closed · Opens 9 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn-NUsm_gRTLbUARAFmk-1d9tevQL-MmDvZ1xu9xilq24iLtW0eTWygWDL8FArEoeXStQn9DnbZ90hP1MxxbgVsuyT4AcfwZN0EmO3W8Zo6UAmQqkElFUtTprapfMyiunODPmZl=s1024-v1",
+        "extensions": {
+          "serviceOptions": [
+            "Online appointments",
+            "Onsite services"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9 AM–5 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7650295,
+          "longitude": -73.9817281
+        },
+        "serviceOptions": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:35.451+00:00",
+      "updatedAt": "2026-09-23T10:20:35.451+00:00",
+      "dataId": "ChIJr5Z7s7hZwokRLliC1KVchps"
+    },
+    {
+      "id": 529312443,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11h81gtk44",
+        "title": "NoGood - Growth Marketing Agency",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "Internet marketing service"
+        ],
+        "dataId": "0x89c2592ec34d52b7:0xe0d9d30d1ac9bb40",
+        "rating": 4.6,
+        "address": "491 Broadway, New York, NY 10012",
+        "placeId": "ChIJt1JNwy5ZwokRQLvJGg3T2eA",
+        "reviews": 9,
+        "website": "https://nogood.io/",
+        "position": 35,
+        "openState": "Open · Closes 7 PM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmGTG0Jzd76v7R4L6Ym8gEVUfZekytRth23H2zH25Im5QAZrMIlw_eDEGvnOgbMB8TcfByxLaG4SxI3bUCBccjQskvEDPPGbQVA1-4Q7A8MDqK-cPCy_OYdizmFVvppy2sBd-ui=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "6 AM–7 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "6 AM–7 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "6 AM–7 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "6 AM–7 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "6 AM–7 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7220902,
+          "longitude": -74.000013
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:35.450+00:00",
+      "updatedAt": "2026-09-23T10:20:35.450+00:00",
+      "dataId": "ChIJt1JNwy5ZwokRQLvJGg3T2eA"
+    },
+    {
+      "id": 529312442,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Internet marketing service",
+        "kgmid": "/g/11h7b5dcj4",
+        "phone": "(212) 213-0035",
+        "title": "NuStream",
+        "types": [
+          "Internet marketing service",
+          "Advertising agency",
+          "Marketing agency",
+          "Website designer"
+        ],
+        "dataId": "0x89c259fd3ca8169d:0x7487a3599770d33f",
+        "rating": 5,
+        "address": "369 Lexington Ave 3rd floor suite 351, New York, NY 10017",
+        "placeId": "ChIJnRaoPP1ZwokRP9Nwl1mjh3Q",
+        "reviews": 12,
+        "website": "https://nustreammarketing.com/new-york-city/",
+        "position": 34,
+        "openState": "Closed · Opens 8:30 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWni3D4WsevdswwC9QZyxpyLSthtHCACeC5J2kv4xNxnjc_Kdedf3nGFbAr_qJXg8ZVSPaFeWMcZkFWbpPC4b8fV3Ye_LiB-iUjJhJNJpNKoIQZ0Ua4P9x6YgvM4Q_5e135O8kMwPg=s1024-v1",
+        "extensions": {
+          "serviceOptions": [
+            "Online appointments",
+            "Onsite services"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8:30 AM–7 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8:30 AM–7 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8:30 AM–7 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8:30 AM–7 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8:30 AM–7 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.750578999999995,
+          "longitude": -73.9764314
+        },
+        "serviceOptions": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:35.449+00:00",
+      "updatedAt": "2026-09-23T10:20:35.449+00:00",
+      "dataId": "ChIJnRaoPP1ZwokRP9Nwl1mjh3Q"
+    },
+    {
+      "id": 529312441,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11c54dqypy",
+        "phone": "(424) 296-1444",
+        "title": "RIOT – Creative Agency & Production Studio",
+        "types": [
+          "Marketing agency",
+          "Commercial photographer",
+          "Animation studio",
+          "Branding agency",
+          "Design agency",
+          "Film production company",
+          "Graphic designer",
+          "Advertising agency",
+          "Media company",
+          "Video production service"
+        ],
+        "dataId": "0x89c2599c8cbdf873:0x163270a1d0d806b3",
+        "rating": 4.9,
+        "address": "438 W 37th St #5a, New York, NY 10018",
+        "placeId": "ChIJc_i9jJxZwokRswbY0KFwMhY",
+        "reviews": 17,
+        "website": "https://riot.nyc/",
+        "position": 33,
+        "openState": "Closed · Opens 10 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkLOrDLnUoT-t-_09B861yOQ1XAxR6oOS0ScSn8rD1daG99ULcX_UOrU2guwDPIE3e0OhL3Gv_JDoFfX_YAkblMaCDkEBtIidRRZfWP3KyaLCuhKyd9yqTgnbKgZQv6l5I7y5ueayxpZBWO=s1024-v1",
+        "extensions": {
+          "parking": [
+            "Paid parking lot"
+          ],
+          "planning": [
+            "Appointment required"
+          ],
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "10 AM–7 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "10 AM–7 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "10 AM–7 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "10 AM–7 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "10 AM–7 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.755935,
+          "longitude": -73.996854
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:35.447+00:00",
+      "updatedAt": "2026-09-23T10:20:35.447+00:00",
+      "dataId": "ChIJc_i9jJxZwokRswbY0KFwMhY"
+    },
+    {
+      "id": 529312440,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11fsxc1yxq",
+        "title": "Leadflow NYC",
+        "types": [
+          "Marketing agency",
+          "Consultant",
+          "Design agency",
+          "Internet marketing service",
+          "Marketing consultant",
+          "Website designer"
+        ],
+        "dataId": "0x89c259a85859daef:0x40aa5b69542218f6",
+        "rating": 5,
+        "address": "340 E 23rd St, New York, NY 10010",
+        "placeId": "ChIJ79pZWKhZwokR9hgiVGlbqkA",
+        "reviews": 40,
+        "website": "http://www.leadflow.nyc/",
+        "position": 32,
+        "openState": "Closed · Opens 12 PM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkerPpiQ533rw4Vc0b48H7iB2VIJkM_GjajX6iQ0uZRAJ-jVqBanlHQiNEVXmHfx7odxjDHPQyzJ81731heWAfq0ejRH2KaBARpd4Jula8oTaWoXcwRhceFb9ewCmtSVrk2MHjC=s1024-v1",
+        "extensions": {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ],
+          "planning": [
+            "Appointment required"
+          ],
+          "amenities": [
+            "Gender-neutral restroom"
+          ],
+          "accessibility": [
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ],
+          "serviceOptions": [
+            "Online appointments",
+            "Onsite services"
+          ],
+          "fromTheBusiness": [
+            "Identifies as Asian-owned"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "12–8 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "12–8 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "12–8 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "12–8 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "12–8 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "12–8 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7370087,
+          "longitude": -73.9794227
+        },
+        "serviceOptions": [
+          "Identifies as Asian-owned"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:35.446+00:00",
+      "updatedAt": "2026-09-23T10:20:35.446+00:00",
+      "dataId": "ChIJ79pZWKhZwokR9hgiVGlbqkA"
+    },
+    {
+      "id": 529312439,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11bbtnqbgf",
+        "phone": "(212) 843-9900",
+        "title": "SMA NYC",
+        "types": [
+          "Marketing agency",
+          "Media consultant"
+        ],
+        "dataId": "0x89c259a7ff7f6b87:0x47e1f92b1de68276",
+        "rating": 5,
+        "address": "43 W 24th St, New York, NY 10010",
+        "placeId": "ChIJh2t__6dZwokRdoLmHSv54Uc",
+        "reviews": 1,
+        "website": "http://www.smanyc.com/",
+        "position": 31,
+        "openState": "Closed · Opens 8:30 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm2ZrFDi2iIj8oxW3m4BGCqbRmD3LFdbxxv5UJRCGztq0HROvwhZCf0BLZNWGyZgapdDrWfN0YbUMr6xf36hDqGAO17khuqKGyNdJ98lrYGq6cPYZMbP_iKJviHHDPj0CFn_B3r=s1024-v1",
+        "extensions": {
+          "parking": [
+            "Paid street parking"
+          ],
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8:30 AM–6 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8:30 AM–6 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8:30 AM–6:30 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8:30 AM–6 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8:30 AM–6 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7433322,
+          "longitude": -73.9914316
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:35.445+00:00",
+      "updatedAt": "2026-09-23T10:20:35.445+00:00",
+      "dataId": "ChIJh2t__6dZwokRdoLmHSv54Uc"
+    },
+    {
+      "id": 529312438,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11n4smyq05",
+        "title": "RAW Marketing Agency",
+        "types": [
+          "Marketing agency"
+        ],
+        "dataId": "0x89c2592314190717:0x89e8ea9c71f9fdeb",
+        "rating": 5,
+        "address": "230 Park Ave Ste 1893A, New York, NY 10017",
+        "placeId": "ChIJFwcZFCNZwokR6_35cZzq6Ik",
+        "reviews": 3,
+        "website": "https://www.rawwwagency.com/",
+        "position": 30,
+        "openState": "Closed · Opens 9 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm6BV-ex9NVKEQT-_SPwGOFb_lroSYHemQumzyE2aj57r-kuHMizWwgtY3wrvk5fdGph7FdM5ROkDJB-QLGLg-3LjWonqQg9mT03rrf5oOE7_2ArC85KyjxUMIlmUyh57EfWaKG1LL3_wZq=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "9 AM–7 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9 AM–7 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "9 AM–7 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9 AM–7 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9 AM–7 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.754360399999996,
+          "longitude": -73.9761919
+        }
+      },
+      "createdAt": "2026-09-23T10:20:35.444+00:00",
+      "updatedAt": "2026-09-23T10:20:35.444+00:00",
+      "dataId": "ChIJFwcZFCNZwokR6_35cZzq6Ik"
+    },
+    {
+      "id": 529312437,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Advertising agency",
+        "kgmid": "/g/1tdfjlv_",
+        "phone": "(212) 859-5100",
+        "title": "Zenith New York",
+        "types": [
+          "Advertising agency"
+        ],
+        "dataId": "0x89c259f2a20b91cb:0x7bcfcc59a5854562",
+        "rating": 4.6,
+        "address": "375 Hudson St, New York, NY 10014",
+        "placeId": "ChIJy5ELovJZwokRYkWFpVnMz3s",
+        "reviews": 15,
+        "website": "http://zenithusa.com/",
+        "position": 29,
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmsXKVfcx6dhw4x9F8ZxDn2wWIPPJcIWXr_3y3iU_K8AAeHey9GL_3zgNgaDhUbH0ZFrXQfj0GJbdegTjpqq4tuqh0n0TxKex2BzifrIGZwihC2atn7TeHk7iB0eGuplccJKqNr=s1024-v1",
+        "extensions": {
+          "parking": [
+            "Paid street parking"
+          ],
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7285032,
+          "longitude": -74.0073367
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:35.443+00:00",
+      "updatedAt": "2026-09-23T10:20:35.443+00:00",
+      "dataId": "ChIJy5ELovJZwokRYkWFpVnMz3s"
+    },
+    {
+      "id": 529312436,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11k5k0bwwf",
+        "phone": "(212) 868-0868",
+        "title": "NU Media",
+        "types": [
+          "Marketing agency",
+          "Event planner",
+          "Public relations firm"
+        ],
+        "dataId": "0x89c25945034ca73d:0xb763934204b0c8cc",
+        "rating": 5,
+        "address": "589 8th Ave Fl 8, New York, NY 10018",
+        "placeId": "ChIJPadMA0VZwokRzMiwBEKTY7c",
+        "reviews": 25,
+        "website": "http://www.nu.marketing/",
+        "position": 28,
+        "openState": "Closed · Opens 10 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmHCjd3TH6gddoS05ev7evYVdBypru4cJOASUM7fvB8LF3zoeWsUjGM8HMH7jDCT9CWweynHuI308Htnu2CEdoS1GjthD3upgFMqeG1vHpohsIvM76mr2JzhwrSnJma5Q7irftp=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "10 AM–6 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "10 AM–6 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "10 AM–6 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "10 AM–6 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "10 AM–6 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7553099,
+          "longitude": -73.99142839999999
+        }
+      },
+      "createdAt": "2026-09-23T10:20:35.442+00:00",
+      "updatedAt": "2026-09-23T10:20:35.442+00:00",
+      "dataId": "ChIJPadMA0VZwokRzMiwBEKTY7c"
+    },
+    {
+      "id": 529312435,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Internet marketing service",
+        "kgmid": "/g/1v2gfp4w",
+        "phone": "(845) 320-2304",
+        "title": "Best Marketing NYC",
+        "types": [
+          "Internet marketing service",
+          "Advertising agency",
+          "Marketing agency"
+        ],
+        "dataId": "0x89c258fe0d1322a9:0x539e9caa7598f7f0",
+        "rating": 4.1,
+        "address": "20 E 46th St rm 200, New York, NY 10017",
+        "placeId": "ChIJqSITDf5YwokR8PeYdaqcnlM",
+        "reviews": 14,
+        "website": "https://www.bestmarketingnyc.com/",
+        "position": 27,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkTGbWTIt7Es6eippV0LlcuG0vqRhumU_Tl-BnJIYOiyNMOA42qrGoOCWNBivYTj2xpQnIy-0hPc2Fl12C0T4-Z_8NzSU6ik1C1EsxzssfF0dZPXWZ7cCjpmAniK1x1c1fL0YEiCQ=s1024-v1",
+        "extensions": {
+          "planning": [
+            "Appointment required"
+          ],
+          "serviceOptions": [
+            "Online appointments",
+            "Onsite services"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–8 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7552871,
+          "longitude": -73.977932
+        },
+        "serviceOptions": [
+          "Online appointments",
+          "Onsite services"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:35.441+00:00",
+      "updatedAt": "2026-09-23T10:20:35.441+00:00",
+      "dataId": "ChIJqSITDf5YwokR8PeYdaqcnlM"
+    },
+    {
+      "id": 529312434,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/1thsb8b7",
+        "title": "e9digital",
+        "types": [
+          "Marketing agency",
+          "Branding agency",
+          "E commerce agency",
+          "Graphic designer",
+          "Internet marketing service",
+          "Website designer",
+          "Web hosting company"
+        ],
+        "dataId": "0x89c259ad3d978295:0xcd41fc2e73bfb26d",
+        "rating": 5,
+        "address": "606 W 57th St #4403, New York, NY 10019",
+        "placeId": "ChIJlYKXPa1ZwokRbbK_cy78Qc0",
+        "reviews": 107,
+        "website": "https://e9digital.com/",
+        "position": 26,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmjYTHDebCrKhZvSOw1_gZVZMmyZAqYt-WCgwJkedQrs1yeajJx62z4GH6onpKCyuHwzTrY2mQKr6qhkbADIqFC2YaVsN4O371AySuO21FdwwARsfiVnsOtqaOT-piNxwDpKatPL0DJURQ=s1024-v1",
+        "extensions": {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ],
+          "planning": [
+            "Appointment required"
+          ],
+          "serviceOptions": [
+            "Online appointments"
+          ],
+          "fromTheBusiness": [
+            "Identifies as Asian-owned",
+            "Identifies as women-owned",
+            "Small business"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7704288,
+          "longitude": -73.9922675
+        },
+        "serviceOptions": [
+          "Identifies as Asian-owned",
+          "Identifies as women-owned",
+          "Small business"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:35.440+00:00",
+      "updatedAt": "2026-09-23T10:20:35.440+00:00",
+      "dataId": "ChIJlYKXPa1ZwokRbbK_cy78Qc0"
+    },
+    {
+      "id": 529312433,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11bxh914k9",
+        "phone": "(646) 650-5557",
+        "title": "MusicPromoToday",
+        "types": [
+          "Marketing agency"
+        ],
+        "dataId": "0x89c259a66b4e9445:0x6c644162e6c91c82",
+        "rating": 5,
+        "address": "1178 Broadway Fl 4 #144, New York, NY 10001",
+        "placeId": "ChIJRZROa6ZZwokRghzJ5mJBZGw",
+        "reviews": 48,
+        "website": "http://musicpromotoday.com/",
+        "position": 25,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sw-XmN5BmRGbopVolAqr7g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=43.705845&pitch=0&thumbfov=100",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–11 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7452688,
+          "longitude": -73.9883569
+        }
+      },
+      "createdAt": "2026-09-23T10:20:35.439+00:00",
+      "updatedAt": "2026-09-23T10:20:35.439+00:00",
+      "dataId": "ChIJRZROa6ZZwokRghzJ5mJBZGw"
+    },
+    {
+      "id": 529312432,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/1tg_mk75",
+        "phone": "(212) 242-2000",
+        "title": "darling agency | creative, design and advertising",
+        "types": [
+          "Marketing agency",
+          "Branding agency",
+          "Design agency",
+          "Film production company",
+          "Advertising agency"
+        ],
+        "dataId": "0x89c259ec5f38a261:0x7638f7050f09f8b",
+        "rating": 4.4,
+        "address": "420 W 14th St 5th Floor, New York, NY 10014",
+        "placeId": "ChIJYaI4X-xZwokRi5_wUHCPYwc",
+        "reviews": 14,
+        "website": "http://www.darling.nyc/",
+        "position": 24,
+        "openState": "Closed · Opens 9:30 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmdsRV7V4riQnusZZMZonH7ENX7Ytfetvy96AZGchRpB6xXTUBVrXZrnVenUMPK0Xaj1gAoalfqJfc4DkCzT_Leg_c5xYoQJVng6zWgfNZoBGxNch30kQX3MwVElH2ZGmvk4kwgRg=s1024-v1",
+        "extensions": {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ],
+          "planning": [
+            "Appointment required"
+          ],
+          "amenities": [
+            "Gender-neutral restroom"
+          ],
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ],
+          "serviceOptions": [
+            "Online appointments"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "9:30 AM–6:30 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9:30 AM–6:30 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8:30 AM–4:30 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "11 AM–3:30 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9:30 AM–6:30 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9:30 AM–6:30 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7412103,
+          "longitude": -74.00673859999999
+        },
+        "serviceOptions": [
+          "Online appointments"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:35.438+00:00",
+      "updatedAt": "2026-09-23T10:20:35.438+00:00",
+      "dataId": "ChIJYaI4X-xZwokRi5_wUHCPYwc"
+    },
+    {
+      "id": 529312431,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11f13vcvbw",
+        "phone": "(315) 930-1001",
+        "title": "Thrive Internet Marketing Agency",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "Copywriting service",
+          "E commerce agency",
+          "Internet marketing service",
+          "Marketing consultant",
+          "Web hosting company",
+          "Website designer"
+        ],
+        "dataId": "0x89c25900c6c04877:0x2bd31146a1ffca74",
+        "rating": 4.1,
+        "address": "260 Madison Ave 8th floor, New York, NY 10016",
+        "placeId": "ChIJd0jAxgBZwokRdMr_oUYR0ys",
+        "reviews": 8,
+        "website": "https://thriveagency.com/nyc-digital-marketing-agency/?utm_source=GMBlisting&utm_medium=organic",
+        "position": 23,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk7sCEvGlC-k9e4hihc0h0_5uxEL5_h6s2rNij7bNBoa8yymoY_aUqMGNRF48EfLy7PESUIrqRUfCcIEn-9tVu1ir02Vw3tinAzwvsWy5nUDooCIOcni3U6p32iD1PjKt6AYSnHrMC0MM4A=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7506832,
+          "longitude": -73.9811227
+        }
+      },
+      "createdAt": "2026-09-23T10:20:35.437+00:00",
+      "updatedAt": "2026-09-23T10:20:35.437+00:00",
+      "dataId": "ChIJd0jAxgBZwokRdMr_oUYR0ys"
+    },
+    {
+      "id": 529312430,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/1tdhfxzt",
+        "phone": "(212) 627-7483",
+        "title": "Massivemedia",
+        "types": [
+          "Marketing agency",
+          "Event management company",
+          "Graphic designer",
+          "Advertising agency",
+          "Promotional products supplier",
+          "Sign shop"
+        ],
+        "dataId": "0x89c259a5ea07220f:0xacec85a894b9203b",
+        "rating": 4.6,
+        "address": "34 W 27th St 6th floor, New York, NY 10001",
+        "placeId": "ChIJDyIH6qVZwokROyC5lKiF7Kw",
+        "reviews": 10,
+        "website": "http://www.massivemediainc.com/",
+        "position": 22,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmbAxKDaAsL6794SNz3XhBVkPdUmGcC2UMOtzuTBZSaK4xClABzFAos460nRaSDSKBEivFAH8XNes7mvG3AfbGaaMneAys4_upPs4lW6KfxQb14Bp1sq3dcReZ8YX4wAcWWaQh-=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.744819,
+          "longitude": -73.990133
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:35.436+00:00",
+      "updatedAt": "2026-09-23T10:20:35.436+00:00",
+      "dataId": "ChIJDyIH6qVZwokROyC5lKiF7Kw"
+    },
+    {
+      "id": 529312429,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11df25rhcx",
+        "phone": "(877) 522-7738",
+        "title": "DiscoverMyBusiness Digital Marketing Agency",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "Internet marketing service",
+          "Marketing consultant"
+        ],
+        "dataId": "0x880e2cb08ce25f31:0x1a4a977ac525891a",
+        "rating": 5,
+        "address": "261 Madison Ave #958, New York, NY 10016",
+        "placeId": "ChIJMV_ijLAsDogRGoklxXqXSho",
+        "reviews": 97,
+        "website": "https://discovermybusiness.co/",
+        "position": 21,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnqyo1R2D6bJoYc3gkDFoP6-3aNH2R4DKynWeC0di34OkE1Qmb9Ysj6Ob5O9keQLBrC8Z5S5rqEAndbajCfvNrUks2d5ekk6iFhVL3Vg8exFjve1kJvcUZtc5GFNOClzr6feTzK=s1024-v1",
+        "extensions": {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ],
+          "planning": [
+            "Appointment required"
+          ],
+          "accessibility": [
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ],
+          "serviceOptions": [
+            "Online appointments"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7505033,
+          "longitude": -73.9806452
+        },
+        "serviceOptions": [
+          "Online appointments"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:35.434+00:00",
+      "updatedAt": "2026-09-23T10:20:35.434+00:00",
+      "dataId": "ChIJMV_ijLAsDogRGoklxXqXSho"
+    },
+    {
+      "id": 529312357,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11zcsr4r11",
+        "phone": "(914) 609-5569",
+        "title": "SAMUDIO STUDIOS",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "Commercial photographer",
+          "Business development service",
+          "Internet marketing service",
+          "Marketing consultant",
+          "Photographer",
+          "Photography service",
+          "Web hosting company",
+          "Website designer"
+        ],
+        "dataId": "0x89c259f987194fb7:0x12dbe6858eed7125",
+        "rating": 5,
+        "address": "1330 6th Ave #23A, New York, NY 10019",
+        "placeId": "ChIJt08Zh_lZwokRJXHtjoXm2xI",
+        "reviews": 57,
+        "website": "http://samudiostudios.com/",
+        "position": 22,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkUoaPt5juTNf5wSQOyKr0tDx5MP6TQXaQXaKij3momZ_rgLMRrOa5qIfe4ksJaqDpFMNQ1UWWuuFInE8CYAPPLYi374kImzRxNbwL0jNMXAz325RxUxKTVPov00QKLbB9NbhE6pBCz7SCM=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Assisted listening devices",
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.761845799999996,
+          "longitude": -73.97862599999999
+        },
+        "serviceOptions": [
+          "Assisted listening devices",
+          "Assistive hearing loop",
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:34.217+00:00",
+      "updatedAt": "2026-09-23T10:20:34.217+00:00",
+      "dataId": "ChIJt08Zh_lZwokRJXHtjoXm2xI"
+    },
+    {
+      "id": 529312355,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Advertising agency",
+        "kgmid": "/g/1ptwpvt6w",
+        "phone": "(347) 273-1984",
+        "title": "VMGROUPE",
+        "types": [
+          "Advertising agency",
+          "Design agency"
+        ],
+        "dataId": "0x89c25941d8e192fb:0x1af39e4c239ab91",
+        "rating": 4.2,
+        "address": "50 W 17th St 3rd Floor, New York, NY 10011",
+        "placeId": "ChIJ-5Lh2EFZwokRkas5wuQ5rwE",
+        "reviews": 21,
+        "website": "https://vmgroupe.com/",
+        "position": 20,
+        "openState": "Closed · Opens 10 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmVBZDuoPTUrSNWvgSxMAAS89qtuU85JuCrX2SHrsKqpKSUW4rtpL8csn6HtE07flZYmkXk9VZteJAOpb4g51RVy_eqTkpq37T-wHv017hxy0BqQ78T9FaF9MX9mRIS0NUCSmj_=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "10 AM–6 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "10 AM–6 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "10 AM–6 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "10 AM–6 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "10 AM–6 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7387496,
+          "longitude": -73.9947456
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:34.216+00:00",
+      "updatedAt": "2026-09-23T10:20:34.216+00:00",
+      "dataId": "ChIJ-5Lh2EFZwokRkas5wuQ5rwE"
+    },
+    {
+      "id": 529312356,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11dfwydkvs",
+        "phone": "(201) 800-4692",
+        "title": "Golden Web Media",
+        "types": [
+          "Marketing agency",
+          "Internet marketing service",
+          "Website designer"
+        ],
+        "dataId": "0x89c2f622e4158a23:0x76d6cb1cc172c68e",
+        "rating": 5,
+        "address": "430 Park Ave, New York, NY 10022",
+        "placeId": "ChIJI4oV5CL2wokRjsZywRzL1nY",
+        "reviews": 45,
+        "website": "https://goldenwebmedia.com/",
+        "position": 21,
+        "openState": "Closed · Opens 9 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmPzqgN96f-Ayy-m8kgBdV3to6TVERcwe6EvgXVEYh-GY4f0WxSJH2COLAoD4Eite5-yG8aVyV5aYiHYv7rqZIatwEJkfc_TU1iyQScRkgq0YNEgs6g59HclrOQckkkKxB0htk=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Closed"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9 AM–5 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7607986,
+          "longitude": -73.9717622
+        }
+      },
+      "createdAt": "2026-09-23T10:20:34.216+00:00",
+      "updatedAt": "2026-09-23T10:20:34.216+00:00",
+      "dataId": "ChIJI4oV5CL2wokRjsZywRzL1nY"
+    },
+    {
+      "id": 529312354,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Internet marketing service",
+        "kgmid": "/g/11t13swrwj",
+        "phone": "(818) 538-4805",
+        "title": "Digital Marketing 1on1 SEO New York",
+        "types": [
+          "Internet marketing service",
+          "Marketing agency",
+          "Marketing consultant",
+          "Web hosting company",
+          "Website designer"
+        ],
+        "dataId": "0x89c259635be0ddaf:0x49a85dcc3f9bf967",
+        "rating": 5,
+        "address": "1325 Ave of the Americas, New York, NY 10019",
+        "placeId": "ChIJr93gW2NZwokRZ_mbP8xdqEk",
+        "reviews": 24,
+        "website": "https://www.marketing1on1.com/digital-marketing-seo-new-york/",
+        "position": 19,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkZl9Nvh_CnpOESn6de93Fr1DgDruveapr7Moexqn-z-b1PK9bWzSxUcmWATzrdyi3r3yoJfqbE0rXUOCucDGg8d1AVNY_Tw9CCZ9YosZIM6eE4cKjdAUUISRE_dmfwTAZC7AH6NQ=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–8 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7622973,
+          "longitude": -73.9797344
+        }
+      },
+      "createdAt": "2026-09-23T10:20:34.215+00:00",
+      "updatedAt": "2026-09-23T10:20:34.215+00:00",
+      "dataId": "ChIJr93gW2NZwokRZ_mbP8xdqEk"
+    },
+    {
+      "id": 529312353,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Internet marketing service",
+        "kgmid": "/g/11t4lvvnmb",
+        "phone": "(571) 303-9090",
+        "title": "Verbsz Marketing",
+        "types": [
+          "Internet marketing service",
+          "Advertising agency",
+          "Graphic designer",
+          "Marketing agency",
+          "Marketing consultant",
+          "Website designer"
+        ],
+        "dataId": "0x89c25986a80e79eb:0x453ada55acbe770d",
+        "rating": 5,
+        "address": "287 Park Ave S Ste 700, New York, NY 10010",
+        "placeId": "ChIJ63kOqIZZwokRDXe-rFXaOkU",
+        "reviews": 27,
+        "website": "https://www.verbszmarketing.com/new-york-digital-marketing-agency/",
+        "position": 18,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm28OwFccFclKlWQNqiNyN88w1P1G9-hbMLN1qC34CKJ_rLawBR4NH27S3K3cJ-FbEta-JpW5xIL2FCk-swxPXbdFnRzxo5_Qr_qVCmbwMVT15vuL362R7gbM_M7owrxg2xcPvw3YtJQUA=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7396867,
+          "longitude": -73.98654189999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:34.214+00:00",
+      "updatedAt": "2026-09-23T10:20:34.214+00:00",
+      "dataId": "ChIJ63kOqIZZwokRDXe-rFXaOkU"
+    },
+    {
+      "id": 529312352,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11h5vz78my",
+        "phone": "(212) 776-1414",
+        "title": "Aumcore",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "E-commerce service",
+          "Internet marketing service",
+          "Website designer"
+        ],
+        "dataId": "0x89c259cdd583d39f:0xbb6b0028c2ab8586",
+        "rating": 4.9,
+        "address": "33 Irving Pl, New York, NY 10003",
+        "placeId": "ChIJn9OD1c1ZwokRhoWrwigAa7s",
+        "reviews": 20,
+        "website": "https://www.aumcore.com/?utm_source=google&utm_medium=organic&utm_campaign=GMB",
+        "position": 17,
+        "openState": "Closed · Opens 9 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkWADcrhR-6QSYguLsAOOwdxhHcNXoQJGs_hwseEHnoF7JDMJnixOi0S394JahtQjOvt1xqaTBbQwLSLcufVmUgaEr_nastXdZI7TaV17_AMiNUrQCJ6HAosuoRDhdfbE8uwrvk=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9 AM–6 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.735082999999996,
+          "longitude": -73.9881983
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:34.213+00:00",
+      "updatedAt": "2026-09-23T10:20:34.213+00:00",
+      "dataId": "ChIJn9OD1c1ZwokRhoWrwigAa7s"
+    },
+    {
+      "id": 529312351,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Advertising agency",
+        "kgmid": "/g/11rf9mb0xx",
+        "phone": "(212) 810-4100",
+        "title": "FIRST Global Brand Experience Agency",
+        "types": [
+          "Advertising agency"
+        ],
+        "dataId": "0x89c2597b595fd741:0x93668d7c4e54cde7",
+        "rating": 4.9,
+        "address": "630 9th Ave #310, New York, NY 10036",
+        "placeId": "ChIJQddfWXtZwokR581UTnyNZpM",
+        "reviews": 14,
+        "website": "https://firstagency.com/?utm_source=GBP&utm_medium=organic",
+        "position": 16,
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlYcb87_Xw8-rruZzZVbt7BBlt5BbxzwazPJRuAZdeQaklwfmqD8LJkIuY7qXkCZvHOK6oNVMn-tHpDapnrZPC_TLIwxgr2GqlErHLPRPzUUqVYc7Y0cmQAEtnuSyeOGkO4izBpgtWZQZs=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7599514,
+          "longitude": -73.9911887
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:34.213+00:00",
+      "updatedAt": "2026-09-23T10:20:34.213+00:00",
+      "dataId": "ChIJQddfWXtZwokR581UTnyNZpM"
+    },
+    {
+      "id": 529312350,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11c2n_d2_l",
+        "phone": "(646) 355-3158",
+        "title": "Creative House",
+        "types": [
+          "Marketing agency"
+        ],
+        "dataId": "0x89c25900daf1a741:0x590d11d4f86a1304",
+        "rating": 5,
+        "address": "79 Madison Ave, New York, NY 10016",
+        "placeId": "ChIJQafx2gBZwokRBBNq-NQRDVk",
+        "reviews": 16,
+        "website": "https://creativehouse.marketing/",
+        "position": 15,
+        "openState": "Closed · Opens 9 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmXKJz2opx9oriatI397Suc6Fa3d5yFUlrW81Wph0Rlf4xwCvENufN3dsNuyG0LFlCkJO9SebS8D1sFUIfKeoidBP1qjf6xMKBuoMZS6Ke7vCb5_snWuPfawOR9VBH5nYVnP-k=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9 AM–5 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7440798,
+          "longitude": -73.98534
+        }
+      },
+      "createdAt": "2026-09-23T10:20:34.212+00:00",
+      "updatedAt": "2026-09-23T10:20:34.212+00:00",
+      "dataId": "ChIJQafx2gBZwokRBBNq-NQRDVk"
+    },
+    {
+      "id": 529312348,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11hcdvzwxm",
+        "phone": "(718) 736-2880",
+        "title": "Chatter Buzz - Advertising Agency",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "Internet marketing service",
+          "Website designer"
+        ],
+        "dataId": "0x89c259a61359c9b1:0x37fa32b5cc91b57",
+        "rating": 4.8,
+        "address": "246 5th Ave 3rd floor, New York, NY 10001",
+        "placeId": "ChIJsclZE6ZZwokRVxvJXCujfwM",
+        "reviews": 26,
+        "website": "http://www.chatterbuzzmedia.com/new-york-city-digital-marketing-advertising-agency/",
+        "position": 13,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnIVLTquXoSEfXhYABrb_74DZomMx9cboRNmkfwpy6-yWfqS1P8RfEBvc8s7iMgTT0Zp7v5cZAtmbSzLNWeSY_WDYmNPY3qSd2V3bTrt2BaNhWDEslFxRoctNz0D3FoBPkK6ZYyXaVb3x0O=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–6 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.744765099999995,
+          "longitude": -73.9878047
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:34.211+00:00",
+      "updatedAt": "2026-09-23T10:20:34.211+00:00",
+      "dataId": "ChIJsclZE6ZZwokRVxvJXCujfwM"
+    },
+    {
+      "id": 529312349,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11qg99ywzn",
+        "phone": "(646) 340-0889",
+        "title": "Branding New York City",
+        "types": [
+          "Marketing agency"
+        ],
+        "dataId": "0x89c2596289995447:0x91e3323bbc8c9bed",
+        "rating": 5,
+        "address": "580 5th Ave #2908, New York, NY 10036",
+        "placeId": "ChIJR1SZiWJZwokR7ZuMvDsy45E",
+        "reviews": 25,
+        "website": "https://www.brandingnycity.com/",
+        "position": 14,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn2rG-EIfKg1CD6TlLhezkuXUsNgYYjTZ43qSdmor_b1Y6bd-UVwhPV-2i-FVIMGxIzj0Q-qRJUZv7GQND8FVpuQYjpkE-dmXWgOtMnINJi3N77ROWp3mAPQWEWQu7Ek79Hf_9-=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.756935,
+          "longitude": -73.978799
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:34.211+00:00",
+      "updatedAt": "2026-09-23T10:20:34.211+00:00",
+      "dataId": "ChIJR1SZiWJZwokR7ZuMvDsy45E"
+    },
+    {
+      "id": 529312347,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11mynf8ymm",
+        "title": "The Foundry",
+        "types": [
+          "Marketing agency"
+        ],
+        "dataId": "0x89c25994724cbd91:0xd541cbcb1e96bcc0",
+        "rating": 5,
+        "address": "43 W 46th St Fl 4, New York, NY 10036",
+        "placeId": "ChIJkb1McpRZwokRwLyWHsvLQdU",
+        "reviews": 145,
+        "website": "http://www.thefoundrywork.com/",
+        "position": 12,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmyyGTgA02t-xIWgIKj_KNZFJksX55Q2w6nucdFb8-YZ99ATNFbokA5vBcPpGdFkK1_6XqjvKDv6FX5VI2w0Fb10vPlGsQmpKbDW8DiDt2kWF4wrleiWHHCgWVAcqMh8TCo2YWJF96bMoA=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–7 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–7 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.756948,
+          "longitude": -73.9806443
+        }
+      },
+      "createdAt": "2026-09-23T10:20:34.210+00:00",
+      "updatedAt": "2026-09-23T10:20:34.210+00:00",
+      "dataId": "ChIJkb1McpRZwokRwLyWHsvLQdU"
+    },
+    {
+      "id": 529312346,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/1td4l13m",
+        "phone": "(212) 202-1431",
+        "title": "Hunter Digital Marketing Agency - Social Media & Search Marketing Agency in New York",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "Internet marketing service",
+          "Marketing consultant"
+        ],
+        "dataId": "0x89c288c707ca5129:0xb4c46c0ddce1cc86",
+        "rating": 4.9,
+        "address": "137 W 25th St 11th floor, New York, NY 10001",
+        "placeId": "ChIJKVHKB8eIwokRhszh3A1sxLQ",
+        "reviews": 9,
+        "website": "https://hunterdigitalmarketing.com/",
+        "position": 11,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlQuvVxwu0Vwc-O3UzwFdFXDaRIc7JiJygroDtgD_5ik86_bkUu9p4eZJF4K413tEllkfV9_RZ35iSO34tt96a1snBQz2jBjvjZ7tQwwGd3Ngan8ZQQeAR46hOXC14au9qMbKU=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–11 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.745069199999996,
+          "longitude": -73.9934267
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:34.209+00:00",
+      "updatedAt": "2026-09-23T10:20:34.209+00:00",
+      "dataId": "ChIJKVHKB8eIwokRhszh3A1sxLQ"
+    },
+    {
+      "id": 529312345,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Advertising agency",
+        "kgmid": "/g/11f24vg3gh",
+        "phone": "(917) 513-0533",
+        "title": "Digital Drew SEM",
+        "types": [
+          "Advertising agency",
+          "Internet marketing service",
+          "Marketing consultant"
+        ],
+        "dataId": "0x89c258c741910ab1:0x7b88198b45022808",
+        "rating": 4.9,
+        "address": "110 E 28th St 10th Floor, New York, NY 10016",
+        "placeId": "ChIJsQqRQcdYwokRCCgCRYsZiHs",
+        "reviews": 82,
+        "website": "https://www.digitaldrewsem.com/",
+        "position": 10,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmuLhx5p1rZWxCYcl2ca1JJuGZN1H4k5CTxfK5EqpAmHXPRsYirl1Mp15zf_jQSk8Jbu-BqGxdEUcHIDBCAS9ngVPlOh1Xs66gU0C3ynJdRE8dtZuyF6-bQS1-7tv6m0zTVBJ8S=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.742924599999995,
+          "longitude": -73.98347509999999
+        }
+      },
+      "createdAt": "2026-09-23T10:20:34.209+00:00",
+      "updatedAt": "2026-09-23T10:20:34.209+00:00",
+      "dataId": "ChIJsQqRQcdYwokRCCgCRYsZiHs"
+    },
+    {
+      "id": 529312344,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Advertising agency",
+        "kgmid": "/g/1wj_6yv5",
+        "phone": "(646) 865-2000",
+        "title": "McCann New York",
+        "types": [
+          "Advertising agency"
+        ],
+        "dataId": "0x89c25903ec565b8b:0xa0a0348213ef99f0",
+        "rating": 4.6,
+        "address": "622 3rd Ave, New York, NY 10017",
+        "placeId": "ChIJi1tW7ANZwokR8JnvE4I0oKA",
+        "reviews": 38,
+        "website": "http://www.mccannny.com/",
+        "position": 9,
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl4kE1R2LCfOghAPJD1u2YNVkv1tNPJLr1tlDHkOntDEpdbOGUvWwaxBia5L6VW_QcfzoRKO7ulrg6mghB-6KWIVTg7nYdrphVA7QVzRV-1YN1rdOAZ_ml_q6m1yy-1dW8Lq4Do=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7497798,
+          "longitude": -73.9757003
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:34.208+00:00",
+      "updatedAt": "2026-09-23T10:20:34.208+00:00",
+      "dataId": "ChIJi1tW7ANZwokR8JnvE4I0oKA"
+    },
+    {
+      "id": 529312343,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Internet marketing service",
+        "kgmid": "/g/11k__7f41m",
+        "phone": "(838) 444-5161",
+        "title": "BusySeed",
+        "types": [
+          "Internet marketing service",
+          "Advertising agency",
+          "Marketing agency",
+          "Marketing consultant"
+        ],
+        "dataId": "0x89c2f716ec1978ed:0x7d1ea29a8aa1d80c",
+        "rating": 5,
+        "address": "1178 Broadway #508, New York, NY 10001",
+        "placeId": "ChIJ7XgZ7Bb3wokRDNihipqiHn0",
+        "reviews": 60,
+        "website": "https://www.busyseed.com/",
+        "position": 8,
+        "openState": "Closed · Opens 9 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkmVKNoKNN7quWtQ27sY0q7toj99HAGOYakgDYQ1jBVsvgIvpYZLfDGTB-6CkGM7bPUqzKPew7t_ag1QIpxom1-SRvCDE_IAPFc4Pu0I8z90Ec3H69RBd9A9pHpgqQ8dWdZxXBbyg=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "9 AM–4 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9 AM–4 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "9 AM–4 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9 AM–4 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9 AM–4 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7452353,
+          "longitude": -73.9881912
+        }
+      },
+      "createdAt": "2026-09-23T10:20:34.207+00:00",
+      "updatedAt": "2026-09-23T10:20:34.207+00:00",
+      "dataId": "ChIJ7XgZ7Bb3wokRDNihipqiHn0"
+    },
+    {
+      "id": 529312342,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11gn1x5_g4",
+        "title": "Voy Media",
+        "types": [
+          "Marketing agency",
+          "Internet marketing service",
+          "Advertising agency",
+          "Marketing consultant"
+        ],
+        "dataId": "0x89c2598b44e52311:0x5da7727fbff0259b",
+        "rating": 4.7,
+        "address": "143 W 29th St Ste 204, New York, NY 10001",
+        "placeId": "ChIJESPlRItZwokRmyXwv39yp10",
+        "reviews": 33,
+        "website": "https://voymedia.com/advertising-agency-new-york/",
+        "position": 7,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkT4Vum3ShHmHWHsKLgoS_ygQKL3SFmUgbbKgBOAVRiRLGcqc_-kPMs1M8YPoylnAvPwl86P0yCAqK_QrB4j6XGAinwlW3GRxr9HbJYEQNuo4JVrwRlRaBrNKetBiyD6FniNbST=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.747541399999996,
+          "longitude": -73.99161389999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:34.206+00:00",
+      "updatedAt": "2026-09-23T10:20:34.206+00:00",
+      "dataId": "ChIJESPlRItZwokRmyXwv39yp10"
+    },
+    {
+      "id": 529312341,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11spmcg4_6",
+        "phone": "(888) 722-1998",
+        "title": "DS&P Digital Marketing & PR Agency",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "Graphic designer",
+          "Internet marketing service",
+          "Public relations firm",
+          "Video editing service",
+          "Website designer"
+        ],
+        "dataId": "0x89c2599a9eb4b881:0xa23129af8e50424f",
+        "rating": 4.9,
+        "address": "590 Madison Ave 21st floor, New York, NY 10022",
+        "placeId": "ChIJgbi0nppZwokRT0JQjq8pMaI",
+        "reviews": 35,
+        "website": "https://www.dial911fordesign.com/",
+        "position": 6,
+        "openState": "Closed · Opens 9 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl1JjmkvO6LLJqir2vR28lNQADYfW7nOzV1iXmTAWZgcIrB9ir6mZUMMnthYLPR-RUUlDvg30dUpDP4gMKOa-e3uwRFrJDL11Yju8OOyGRoKLzi6qJwOfaOzVui1wHfVrb3mbE=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9 AM–6 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.762169799999995,
+          "longitude": -73.9728933
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:34.205+00:00",
+      "updatedAt": "2026-09-23T10:20:34.205+00:00",
+      "dataId": "ChIJgbi0nppZwokRT0JQjq8pMaI"
+    },
+    {
+      "id": 529312340,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/12lkcfsch",
+        "phone": "(646) 303-7851",
+        "title": "Leadige Media Group",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "Design agency",
+          "E commerce agency",
+          "Graphic designer",
+          "Marketing consultant",
+          "Media company",
+          "Website designer"
+        ],
+        "dataId": "0x89c25854e6aa136f:0x20cf9222f820b1e6",
+        "rating": 4.9,
+        "address": "1501 Broadway 12th floor, New York, NY 10036",
+        "placeId": "ChIJbxOq5lRYwokR5rEg-CKSzyA",
+        "reviews": 43,
+        "website": "https://leadige.agency/",
+        "position": 5,
+        "openState": "Closed · Opens 9 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmpC-TGxiIRquhUxt0O3mpzmFyXb2UPocWAGhL1v-cWmSKndL9L_0nggXh9odE1GfmhnQRIG1c9G5Di4nPIsv8g9ieVqMZCDt995GyBTGIhFySzqVUdw5Q-lSCqKE2rJ6NGGYK7MglQG_w=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9 AM–6 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7572283,
+          "longitude": -73.9866322
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:34.203+00:00",
+      "updatedAt": "2026-09-23T10:20:34.203+00:00",
+      "dataId": "ChIJbxOq5lRYwokR5rEg-CKSzyA"
+    },
+    {
+      "id": 529312339,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Internet marketing service",
+        "kgmid": "/g/11w43n2yct",
+        "phone": "(917) 444-3666",
+        "title": "Clickmen™ Digital Marketing Agency",
+        "types": [
+          "Internet marketing service",
+          "Advertising agency",
+          "Design agency",
+          "Graphic designer",
+          "Marketing agency",
+          "Marketing consultant",
+          "Media company",
+          "Public relations firm",
+          "Web hosting company",
+          "Website designer"
+        ],
+        "dataId": "0x2565cd107814b3cd:0x7fb95772890dcdd7",
+        "rating": 5,
+        "address": "45 Rockefeller Plaza, New York, NY 10111",
+        "placeId": "ChIJzbMUeBDNZSUR180NiXJXuX8",
+        "reviews": 33,
+        "website": "https://clickmen.us/en/digital-marketing-agency-in-nyc-new-york-ny/",
+        "position": 4,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkBysmr72HUuYt9umEbsi-x_ktTB2kX1gFPiYSm9KlgcdbmggfSO8ZI40K0VNWvT4jIgUJFjgfjaUvK5eBpjrF_s_MUTJTqVSbQKG_aOTRm1hgwcTEdmTZkERk0yHNGcpUjlaBL=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–11 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7591523,
+          "longitude": -73.9777136
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:34.202+00:00",
+      "updatedAt": "2026-09-23T10:20:34.202+00:00",
+      "dataId": "ChIJzbMUeBDNZSUR180NiXJXuX8"
+    },
+    {
+      "id": 529312338,
+      "jobId": "515783",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11jtxfx3x2",
+        "phone": "(929) 265-5595",
+        "title": "Jives Media",
+        "types": [
+          "Marketing agency",
+          "Internet marketing service",
+          "Marketing consultant",
+          "Website designer"
+        ],
+        "dataId": "0x89c259869319e7af:0x54953953a5ede7bb",
+        "rating": 4.9,
+        "address": "800 6th Ave Ste 36C, New York, NY 10001",
+        "placeId": "ChIJr-cZk4ZZwokRu-ftpVM5lVQ",
+        "reviews": 199,
+        "website": "https://www.jivesmedia.com/digital-marketing-agency-in-manhattan-ny/",
+        "position": 3,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnU3RXtEaUpEdw4ULfzaf0qLdS3ESE1fOJjxCR4DVJ1EjlK_Ao0Lv8wHEGMWLXAumFWKUzmHkFBY-urHJyeo6A4-EXy9a2tC6-gQb8YmHRjSZHXj7jGw5UZnTfwW1mLbnQJSJZ91Q=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Wednesday",
+              "date": "2026-9-23",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Manhattan, New York",
+        "gpsCoordinates": {
+          "latitude": 40.7453911,
+          "longitude": -73.9904866
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-23T10:20:34.200+00:00",
+      "updatedAt": "2026-09-23T10:20:34.200+00:00",
+      "dataId": "ChIJr-cZk4ZZwokRu-ftpVM5lVQ"
+    }
+  ]
+}

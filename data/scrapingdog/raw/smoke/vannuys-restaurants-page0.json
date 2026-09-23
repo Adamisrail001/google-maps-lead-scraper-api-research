@@ -1,0 +1,1064 @@
+{
+  "search_results": [
+    {
+      "title": "Garcia Bros Cafe",
+      "place_id": "ChIJlYQ81Y-XwoAR-TBZfUrubPg",
+      "data_id": "0x80c2978fd53c8495:0xf86cee4a7d5930f9",
+      "data_cid": "-545799451120684807",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c2978fd53c8495:0xf86cee4a7d5930f9",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c2978fd53c8495:0xf86cee4a7d5930f9",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c2978fd53c8495:0xf86cee4a7d5930f9",
+      "gps_coordinates": {
+        "latitude": 34.1864463,
+        "longitude": -118.44470589999999
+      },
+      "rating": 4.8,
+      "reviews": 1944,
+      "type": "Breakfast restaurant",
+      "types": [
+        "Breakfast restaurant"
+      ],
+      "type_ids": [
+        "breakfast_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "14308 Victory Blvd, Van Nuys, CA 91401",
+      "open_state": "Closed · Opens 8 AM",
+      "hours": "Closed · Opens 8 AM",
+      "operating_hours": {
+        "wednesday": "8 AM–2 PM",
+        "thursday": "8 AM–2 PM",
+        "friday": "8 AM–2 PM",
+        "saturday": "8 AM–3 PM",
+        "sunday": "8 AM–3 PM",
+        "monday": "8 AM–2 PM",
+        "tuesday": "8 AM–2 PM"
+      },
+      "phone": "+18188551748",
+      "website": "https://www.garciabroscafe.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl_U1goDPSd-e_0klZ8yFcM5yNGH2hA3aaH8LyckOVWVhYRLpKGS4-l2deC9K7--qzBToNYpxCFojEZna-IRhuhxdwvqPRWQQeJaPxcgl3TDk5QNiqnM99cgHBppbbt7xTJqWpSFw=w86-h107-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl_U1goDPSd-e_0klZ8yFcM5yNGH2hA3aaH8LyckOVWVhYRLpKGS4-l2deC9K7--qzBToNYpxCFojEZna-IRhuhxdwvqPRWQQeJaPxcgl3TDk5QNiqnM99cgHBppbbt7xTJqWpSFw=w4480-h5600-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Garcia+Bros+Cafe/@34.1864463,-118.44470589999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c2978fd53c8495:0xf86cee4a7d5930f9!8m2!3d34.1864463!4d-118.44470589999999!16s",
+      "rank": 1
+    },
+    {
+      "title": "Bangkok Ladle - Thai Noodles & Cuisine",
+      "place_id": "ChIJl0l1LACXwoARBeRJpV33rOk",
+      "data_id": "0x80c297002c754997:0xe9acf75da549e405",
+      "data_cid": "-1608638985301007355",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c297002c754997:0xe9acf75da549e405",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c297002c754997:0xe9acf75da549e405",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c297002c754997:0xe9acf75da549e405",
+      "gps_coordinates": {
+        "latitude": 34.2014607,
+        "longitude": -118.4674701
+      },
+      "rating": 4.8,
+      "reviews": 21,
+      "type": "Thai restaurant",
+      "types": [
+        "Thai restaurant",
+        "Noodle shop",
+        "Restaurant",
+        "Rice restaurant",
+        "Southeast Asian restaurant"
+      ],
+      "type_ids": [
+        "thai_restaurant",
+        "noodle_shop",
+        "restaurant",
+        "rice_restaurant",
+        "southeast_asian_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "address": "15333 Sherman Way Ste B, Van Nuys, CA 91406",
+      "open_state": "Closed · Opens 11:30 AM Thu",
+      "hours": "Closed · Opens 11:30 AM Thu",
+      "operating_hours": {
+        "wednesday": "Closed",
+        "thursday": "11:30 AM–9 PM",
+        "friday": "11:30 AM–9 PM",
+        "saturday": "11:30 AM–9 PM",
+        "sunday": "11:30 AM–9 PM",
+        "monday": "11:30 AM–9 PM",
+        "tuesday": "11:30 AM–9 PM"
+      },
+      "phone": "+18182723260",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmHN_XArwQnCBDQUA5UcSVrUKxLZzXFAT0W2IlZ6pZbvUR2ZNfwggEIvR7baPBa0Bt5I9-jpGKWnGL2OoVNlU3jmIaUe4N6WRlh4ZdCJ07xEjlVQuGg4gaF1_kEK5rB7OBs_Xs6SQceZLgU=w86-h123-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmHN_XArwQnCBDQUA5UcSVrUKxLZzXFAT0W2IlZ6pZbvUR2ZNfwggEIvR7baPBa0Bt5I9-jpGKWnGL2OoVNlU3jmIaUe4N6WRlh4ZdCJ07xEjlVQuGg4gaF1_kEK5rB7OBs_Xs6SQceZLgU=w3552-h5093-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Bangkok+Ladle+-+Thai+Noodles+&+Cuisine/@34.2014607,-118.4674701,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c297002c754997:0xe9acf75da549e405!8m2!3d34.2014607!4d-118.4674701!16s",
+      "rank": 2
+    },
+    {
+      "title": "Lulu's Restaurant and Sports Bar",
+      "place_id": "ChIJT-kzEE-bwoARqcDgse5zq74",
+      "data_id": "0x80c29b4f1033e94f:0xbeab73eeb1e0c0a9",
+      "data_cid": "-4707541516462014295",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c29b4f1033e94f:0xbeab73eeb1e0c0a9",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c29b4f1033e94f:0xbeab73eeb1e0c0a9",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c29b4f1033e94f:0xbeab73eeb1e0c0a9",
+      "gps_coordinates": {
+        "latitude": 34.2209836,
+        "longitude": -118.50145359999999
+      },
+      "rating": 4.4,
+      "reviews": 1339,
+      "type": "Californian restaurant",
+      "types": [
+        "Californian restaurant"
+      ],
+      "type_ids": [
+        "californian_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "16900 Roscoe Blvd, Van Nuys, CA 91406",
+      "open_state": "Closed · Opens 7:30 AM",
+      "hours": "Closed · Opens 7:30 AM",
+      "operating_hours": {
+        "wednesday": "7:30 AM–9 PM",
+        "thursday": "7:30 AM–9 PM",
+        "friday": "7:30 AM–10 PM",
+        "saturday": "7:30 AM–10 PM",
+        "sunday": "7:30 AM–9 PM",
+        "monday": "7:30 AM–9 PM",
+        "tuesday": "7:30 AM–9 PM"
+      },
+      "phone": "+18189880707",
+      "website": "https://www.lulusrestaurant.com/",
+      "description": "Local comfort-food stalwart with a bar. Low-key, veteran option for classic American comfort food in basic digs & a bar with TVs & karaoke.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm1jAV92x-5svKjAWl0fAhdt7hF7bfImPWrrm8vJPlzcrY9FOdlaIGK6KB_kQm9sUMKIBn8PM2gT8BqmV1-34gOrqAEmnXPK1D_jmkXZ_B134fKWFoyIp9AS9tkyE_2sIgc_-I=w152-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm1jAV92x-5svKjAWl0fAhdt7hF7bfImPWrrm8vJPlzcrY9FOdlaIGK6KB_kQm9sUMKIBn8PM2gT8BqmV1-34gOrqAEmnXPK1D_jmkXZ_B134fKWFoyIp9AS9tkyE_2sIgc_-I=w1920-h1080-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Lulu's+Restaurant+and+Sports+Bar/@34.2209836,-118.50145359999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c29b4f1033e94f:0xbeab73eeb1e0c0a9!8m2!3d34.2209836!4d-118.50145359999999!16s",
+      "rank": 3
+    },
+    {
+      "title": "Kaiyu Sushi",
+      "place_id": "ChIJh9wLmfeXwoARzhjw62rO0FA",
+      "data_id": "0x80c297f7990bdc87:0x50d0ce6aebf018ce",
+      "data_cid": "5823381276810287310",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c297f7990bdc87:0x50d0ce6aebf018ce",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c297f7990bdc87:0x50d0ce6aebf018ce",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c297f7990bdc87:0x50d0ce6aebf018ce",
+      "gps_coordinates": {
+        "latitude": 34.201388099999996,
+        "longitude": -118.46725819999999
+      },
+      "rating": 4.9,
+      "reviews": 176,
+      "type": "Japanese restaurant",
+      "types": [
+        "Japanese restaurant"
+      ],
+      "type_ids": [
+        "japanese_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "address": "15333 Sherman Way Unit J, Van Nuys, CA 91406",
+      "open_state": "Closed · Opens 11:30 AM",
+      "hours": "Closed · Opens 11:30 AM",
+      "operating_hours": {
+        "wednesday": "11:30 AM–9:30 PM",
+        "thursday": "11:30 AM–9:30 PM",
+        "friday": "11:30 AM–10:30 PM",
+        "saturday": "11:30 AM–10:30 PM",
+        "sunday": "11:30 AM–9:30 PM",
+        "monday": "11:30 AM–9:30 PM",
+        "tuesday": "11:30 AM–9:30 PM"
+      },
+      "phone": "+18189083368",
+      "website": "http://www.kaiyusushi.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk85_hgkVCUEJG4eAi044aUreyJLKm_R1TdLOqmgMNiFOemhJup8WZ-2TFl49P1JAjjTBruXtmh4_Nr-X1rIaPAFERwRNcNRJXw2VwBTDfmDAgkW9kKFR5BDxc7h1oBzP7rP2iujXh7qQw=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk85_hgkVCUEJG4eAi044aUreyJLKm_R1TdLOqmgMNiFOemhJup8WZ-2TFl49P1JAjjTBruXtmh4_Nr-X1rIaPAFERwRNcNRJXw2VwBTDfmDAgkW9kKFR5BDxc7h1oBzP7rP2iujXh7qQw=w4032-h3024-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Kaiyu+Sushi/@34.201388099999996,-118.46725819999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c297f7990bdc87:0x50d0ce6aebf018ce!8m2!3d34.201388099999996!4d-118.46725819999999!16s",
+      "rank": 4
+    },
+    {
+      "title": "NORMS Restaurant",
+      "place_id": "ChIJBWAFgCiWwoARH_pQm3RIKeg",
+      "data_id": "0x80c2962880056005:0xe82948749b50fa1f",
+      "data_cid": "-1717762117205951969",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c2962880056005:0xe82948749b50fa1f",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c2962880056005:0xe82948749b50fa1f",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c2962880056005:0xe82948749b50fa1f",
+      "gps_coordinates": {
+        "latitude": 34.2009478,
+        "longitude": -118.4304141
+      },
+      "rating": 4.2,
+      "reviews": 7842,
+      "type": "Family restaurant",
+      "types": [
+        "Family restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Diner",
+        "Restaurant"
+      ],
+      "type_ids": [
+        "family_restaurant",
+        "american_restaurant",
+        "breakfast_restaurant",
+        "diner",
+        "restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "13636 Sherman Way, Van Nuys, CA 91405",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "12 AM–11 PM",
+        "tuesday": "7 AM–12 AM"
+      },
+      "phone": "+18187805060",
+      "website": "https://norms.com/",
+      "description": "Coffee shop serving American fare 24/7. 24/7 chain coffee shop offering generous portions of classic American food in a no-frills setting.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlh9WvuXCQXP2-9T-NlJR7m1pZE1Dirypx169UuBgtY1rF9sMYX9nwx6hWSzvIlfdPAK4BD3kY3d0ypU_-mFJ_DjivgdRZXx0d2t-vbI5qAmBDOKfFJ1fuuQ67KNTx6kZtbsv70=w152-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlh9WvuXCQXP2-9T-NlJR7m1pZE1Dirypx169UuBgtY1rF9sMYX9nwx6hWSzvIlfdPAK4BD3kY3d0ypU_-mFJ_DjivgdRZXx0d2t-vbI5qAmBDOKfFJ1fuuQ67KNTx6kZtbsv70=w5312-h2988-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/NORMS+Restaurant/@34.2009478,-118.4304141,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c2962880056005:0xe82948749b50fa1f!8m2!3d34.2009478!4d-118.4304141!16s",
+      "rank": 5
+    },
+    {
+      "title": "Mercado Buenos Aires",
+      "place_id": "ChIJO6kvi0iXwoARFDFP6vwuwUI",
+      "data_id": "0x80c297488b2fa93b:0x42c12efcea4f3114",
+      "data_cid": "4810177540806095124",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c297488b2fa93b:0x42c12efcea4f3114",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c297488b2fa93b:0x42c12efcea4f3114",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c297488b2fa93b:0x42c12efcea4f3114",
+      "gps_coordinates": {
+        "latitude": 34.20792,
+        "longitude": -118.46581259999999
+      },
+      "rating": 4.5,
+      "reviews": 2886,
+      "type": "Argentinian restaurant",
+      "types": [
+        "Argentinian restaurant",
+        "Deli",
+        "Restaurant",
+        "Steak house"
+      ],
+      "type_ids": [
+        "argentinian_restaurant",
+        "deli",
+        "restaurant",
+        "steak_house"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "7540 Sepulveda Blvd, Van Nuys, CA 91405",
+      "open_state": "Closed · Opens 7:30 AM",
+      "hours": "Closed · Opens 7:30 AM",
+      "operating_hours": {
+        "wednesday": "7:30 AM–9 PM",
+        "thursday": "7:30 AM–9 PM",
+        "friday": "7:30 AM–10 PM",
+        "saturday": "7:30 AM–10 PM",
+        "sunday": "7:30 AM–9 PM",
+        "monday": "7:30 AM–9 PM",
+        "tuesday": "7:30 AM–9 PM"
+      },
+      "phone": "+18187860522",
+      "unclaimed_business": true,
+      "website": "https://www.mercadobuenosairesusa.com/",
+      "description": "Argentine baked goods, pizza & empanadas. Long-running cafe chain for empanadas, pizza & Argentine baked treats along with wine & beer.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlKa5Gru2tofX9vCDrWsXZwnzaBQUTph47n5X4QySTRvEfECR2tUHVDO9gIy0zNBGKEAQIpSY-EepGeqVb0QA1DRdX3VjsyG1M87Fzmt7XfHBBMtvgiTMhkIiX0nBTQgb02fAc=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlKa5Gru2tofX9vCDrWsXZwnzaBQUTph47n5X4QySTRvEfECR2tUHVDO9gIy0zNBGKEAQIpSY-EepGeqVb0QA1DRdX3VjsyG1M87Fzmt7XfHBBMtvgiTMhkIiX0nBTQgb02fAc=w1280-h960-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Mercado+Buenos+Aires/@34.20792,-118.46581259999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c297488b2fa93b:0x42c12efcea4f3114!8m2!3d34.20792!4d-118.46581259999999!16s",
+      "rank": 6
+    },
+    {
+      "title": "Everytable",
+      "place_id": "ChIJh1lSUAOXwoARPTh3R9DQWkU",
+      "data_id": "0x80c2970350525987:0x455ad0d04777383d",
+      "data_cid": "4997536329491757117",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c2970350525987:0x455ad0d04777383d",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c2970350525987:0x455ad0d04777383d",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c2970350525987:0x455ad0d04777383d",
+      "gps_coordinates": {
+        "latitude": 34.1989166,
+        "longitude": -118.4651021
+      },
+      "rating": 4.6,
+      "reviews": 83,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant"
+      ],
+      "type_ids": [
+        "restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "address": "7048 Sepulveda Blvd, Van Nuys, CA 91405",
+      "open_state": "Closed · Opens 8 AM",
+      "hours": "Closed · Opens 8 AM",
+      "operating_hours": {
+        "wednesday": "8 AM–8 PM",
+        "thursday": "8 AM–8 PM",
+        "friday": "8 AM–8 PM",
+        "saturday": "Closed",
+        "sunday": "8 AM–8 PM",
+        "monday": "8 AM–8 PM",
+        "tuesday": "8 AM–8 PM"
+      },
+      "phone": "+12133151095",
+      "website": "https://everytable.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl-iieUE55re5f2xW_PhG-erCCjVqCqVPLTStbnJSgb1ShSpcEtFUQh-1tPyWdC65XymYJmoFpsV_Aj1aO-Df-5hSSKVGaIxr8dF2LrUuq_vXKTWx__Kq26iNJd18qhmy4ydkw64b2zyawg=w86-h114-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl-iieUE55re5f2xW_PhG-erCCjVqCqVPLTStbnJSgb1ShSpcEtFUQh-1tPyWdC65XymYJmoFpsV_Aj1aO-Df-5hSSKVGaIxr8dF2LrUuq_vXKTWx__Kq26iNJd18qhmy4ydkw64b2zyawg=w3000-h4000-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Everytable/@34.1989166,-118.4651021,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c2970350525987:0x455ad0d04777383d!8m2!3d34.1989166!4d-118.4651021!16s",
+      "rank": 7
+    },
+    {
+      "title": "The Great White Hut",
+      "place_id": "ChIJzW4DuxiXwoARKblDbf6cpas",
+      "data_id": "0x80c29718bb036ecd:0xaba59cfe6d43b929",
+      "data_cid": "-6078279505497835223",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c29718bb036ecd:0xaba59cfe6d43b929",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c29718bb036ecd:0xaba59cfe6d43b929",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c29718bb036ecd:0xaba59cfe6d43b929",
+      "gps_coordinates": {
+        "latitude": 34.1835276,
+        "longitude": -118.4489656
+      },
+      "rating": 4.9,
+      "reviews": 60,
+      "type": "Hamburger restaurant",
+      "types": [
+        "Hamburger restaurant",
+        "Breakfast restaurant",
+        "Mexican restaurant",
+        "Taco restaurant"
+      ],
+      "type_ids": [
+        "hamburger_restaurant",
+        "breakfast_restaurant",
+        "mexican_restaurant",
+        "taco_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "6235 Van Nuys Blvd, Van Nuys, CA 91401",
+      "open_state": "Closed · Opens 7:30 AM",
+      "hours": "Closed · Opens 7:30 AM",
+      "operating_hours": {
+        "wednesday": "7:30 AM–10 PM",
+        "thursday": "7:30 AM–10 PM",
+        "friday": "7:30 AM–12 AM",
+        "saturday": "7:30 AM–12 AM",
+        "sunday": "10 AM–9 PM",
+        "monday": "7:30 AM–10 PM",
+        "tuesday": "7:30 AM–12 AM"
+      },
+      "phone": "+17348083532",
+      "website": "https://greatwhitehut.com/van-nuys?utm_source=google",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm5Abtvoh_5CRiQdlRWr5RBJ2Rba5h5UbJfsCu0Y93w6jVYOiO1URG2ATDnkkQiTSNX4MxcuNVvo-1h3Gc4yc606t5pDleMa_Y4FmtwLhQtZxj8CzMO8PZwJl3HkK7dQfvKzSI1ccS9S4UK=w86-h114-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm5Abtvoh_5CRiQdlRWr5RBJ2Rba5h5UbJfsCu0Y93w6jVYOiO1URG2ATDnkkQiTSNX4MxcuNVvo-1h3Gc4yc606t5pDleMa_Y4FmtwLhQtZxj8CzMO8PZwJl3HkK7dQfvKzSI1ccS9S4UK=w3000-h4000-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/The+Great+White+Hut/@34.1835276,-118.4489656,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c29718bb036ecd:0xaba59cfe6d43b929!8m2!3d34.1835276!4d-118.4489656!16s",
+      "rank": 8
+    },
+    {
+      "title": "Chef M",
+      "place_id": "ChIJFbp-NZyXwoARDz9NDQelRIU",
+      "data_id": "0x80c2979c357eba15:0x8544a5070d4d3f0f",
+      "data_cid": "-8843762318542291185",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c2979c357eba15:0x8544a5070d4d3f0f",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c2979c357eba15:0x8544a5070d4d3f0f",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c2979c357eba15:0x8544a5070d4d3f0f",
+      "gps_coordinates": {
+        "latitude": 34.201399599999995,
+        "longitude": -118.4293543
+      },
+      "rating": 4.8,
+      "reviews": 175,
+      "type": "Pizza restaurant",
+      "types": [
+        "Pizza restaurant",
+        "Catering food and drink supplier",
+        "Hamburger restaurant",
+        "Delivery Restaurant",
+        "Shawarma restaurant"
+      ],
+      "type_ids": [
+        "pizza_restaurant",
+        "catering_food_and_drink_supplier",
+        "hamburger_restaurant",
+        "delivery_restaurant",
+        "shawarma_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "13611 Sherman Way, Van Nuys, CA 91405",
+      "open_state": "Closed · Opens 10 AM",
+      "hours": "Closed · Opens 10 AM",
+      "operating_hours": {
+        "wednesday": "10 AM–8 PM",
+        "thursday": "10 AM–8 PM",
+        "friday": "10 AM–8 PM",
+        "saturday": "10 AM–8 PM",
+        "sunday": "10 AM–8 PM",
+        "monday": "10 AM–8 PM",
+        "tuesday": "10 AM–8 PM"
+      },
+      "phone": "+18186164746",
+      "website": "https://www.doordash.com/store/chef-m-los-angeles-614747/1879573/?preview=1",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmF-rndjIXNSVg0JEiDyQKW3B7HSS3VlRMo3XCDHBfg7SiiioTx2liEQa_v-mewU0A3guSKo5uGobKjAGZGNX1ec2FJRH9X3kTeBYet67sdoSrX63fkqxY82UQjos5ZWezm6jnx=w186-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmF-rndjIXNSVg0JEiDyQKW3B7HSS3VlRMo3XCDHBfg7SiiioTx2liEQa_v-mewU0A3guSKo5uGobKjAGZGNX1ec2FJRH9X3kTeBYet67sdoSrX63fkqxY82UQjos5ZWezm6jnx=w4000-h1848-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Chef+M/@34.201399599999995,-118.4293543,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c2979c357eba15:0x8544a5070d4d3f0f!8m2!3d34.201399599999995!4d-118.4293543!16s",
+      "rank": 9
+    },
+    {
+      "title": "AYCE GOGI Van Nuys",
+      "place_id": "ChIJxYldYxiXwoARbzmD8xpQwho",
+      "data_id": "0x80c29718635d89c5:0x1ac2501af383396f",
+      "data_cid": "1928191667152828783",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c29718635d89c5:0x1ac2501af383396f",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c29718635d89c5:0x1ac2501af383396f",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c29718635d89c5:0x1ac2501af383396f",
+      "gps_coordinates": {
+        "latitude": 34.2000514,
+        "longitude": -118.44791
+      },
+      "rating": 4.4,
+      "reviews": 1854,
+      "type": "Korean restaurant",
+      "types": [
+        "Korean restaurant",
+        "Korean barbecue restaurant",
+        "Restaurant"
+      ],
+      "type_ids": [
+        "korean_restaurant",
+        "korean_barbecue_restaurant",
+        "restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "7128 Van Nuys Blvd, Van Nuys, CA 91405",
+      "open_state": "Closed · Opens 11 AM",
+      "hours": "Closed · Opens 11 AM",
+      "operating_hours": {
+        "wednesday": "11 AM–10 PM",
+        "thursday": "11 AM–10 PM",
+        "friday": "11 AM–10 PM",
+        "saturday": "11 AM–10 PM",
+        "sunday": "11 AM–10 PM",
+        "monday": "11 AM–10 PM",
+        "tuesday": "11 AM–10 PM"
+      },
+      "phone": "+18184653050",
+      "website": "http://www.aycegogi.com/",
+      "description": "All-you-can-eat Korean BBQ eatery. Korean BBQ & other traditional dishes served in a casual, dimly lit space with in-table grills.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn0O4tYvqeFl_y2RACKmTYBDX3iCGkUTtvRRDjQjZSztcNesTUNAztdUBDtpe-VGtwYTOIo6DAQGtzxH3mPCDWyoxRZkRanbiuoHquaK8B0Rrsp9O9Djk6Ug48bwz9FLaUTw6ZkHA=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn0O4tYvqeFl_y2RACKmTYBDX3iCGkUTtvRRDjQjZSztcNesTUNAztdUBDtpe-VGtwYTOIo6DAQGtzxH3mPCDWyoxRZkRanbiuoHquaK8B0Rrsp9O9Djk6Ug48bwz9FLaUTw6ZkHA=w4032-h3024-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/AYCE+GOGI+Van+Nuys/@34.2000514,-118.44791,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c29718635d89c5:0x1ac2501af383396f!8m2!3d34.2000514!4d-118.44791!16s",
+      "rank": 10
+    },
+    {
+      "title": "Kobee Factory",
+      "place_id": "ChIJoSR5L6uXwoARwDfDF3SYmSc",
+      "data_id": "0x80c297ab2f7924a1:0x2799987417c337c0",
+      "data_cid": "2853479463298217920",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c297ab2f7924a1:0x2799987417c337c0",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c297ab2f7924a1:0x2799987417c337c0",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c297ab2f7924a1:0x2799987417c337c0",
+      "gps_coordinates": {
+        "latitude": 34.1792276,
+        "longitude": -118.440461
+      },
+      "rating": 4.8,
+      "reviews": 357,
+      "type": "Syrian restaurant",
+      "types": [
+        "Syrian restaurant"
+      ],
+      "type_ids": [
+        "syrian_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "14110 Oxnard St, Sherman Oaks, CA 91401",
+      "open_state": "Closed · Opens 10 AM",
+      "hours": "Closed · Opens 10 AM",
+      "operating_hours": {
+        "wednesday": "10 AM–8 PM",
+        "thursday": "10 AM–8 PM",
+        "friday": "10 AM–8 PM",
+        "saturday": "10 AM–8 PM",
+        "sunday": "10 AM–8 PM",
+        "monday": "10 AM–8 PM",
+        "tuesday": "10 AM–8 PM"
+      },
+      "phone": "+18189092593",
+      "website": "http://kobeefactoryla.com/",
+      "description": "Snug cafe for homestyle Syrian fare. Unpretentious counter-serve offering classic Middle Eastern cuisine in a colorful, compact space.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk4ca9HGWBuQhZC6UPHmS_i0PsDnntkkYykCKHFUgyNNLqWRfwTVbHfIaaB0pjt7PwudFA1xsu7En2WsdXLaobm7oDukwUz7p7uuvJ1fj8f9O4LbVajvC5n8L2-3d1pwRkMsJQX=w86-h88-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk4ca9HGWBuQhZC6UPHmS_i0PsDnntkkYykCKHFUgyNNLqWRfwTVbHfIaaB0pjt7PwudFA1xsu7En2WsdXLaobm7oDukwUz7p7uuvJ1fj8f9O4LbVajvC5n8L2-3d1pwRkMsJQX=w3023-h3111-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Kobee+Factory/@34.1792276,-118.440461,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c297ab2f7924a1:0x2799987417c337c0!8m2!3d34.1792276!4d-118.440461!16s",
+      "rank": 11
+    },
+    {
+      "title": "El Cocinero Restaurant",
+      "place_id": "ChIJ1U5OrY-XwoARZTJ13C_2TG0",
+      "data_id": "0x80c2978fad4e4ed5:0x6d4cf62fdc753265",
+      "data_cid": "7875940533786718821",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c2978fad4e4ed5:0x6d4cf62fdc753265",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c2978fad4e4ed5:0x6d4cf62fdc753265",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c2978fad4e4ed5:0x6d4cf62fdc753265",
+      "gps_coordinates": {
+        "latitude": 34.184457699999996,
+        "longitude": -118.46663509999999
+      },
+      "rating": 4.7,
+      "reviews": 917,
+      "type": "Vegan restaurant",
+      "types": [
+        "Vegan restaurant"
+      ],
+      "type_ids": [
+        "vegan_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "6265 Sepulveda Blvd Unit 12, Van Nuys, CA 91411",
+      "open_state": "Closed · Opens 11 AM",
+      "hours": "Closed · Opens 11 AM",
+      "operating_hours": {
+        "wednesday": "11 AM–8 PM",
+        "thursday": "11 AM–8 PM",
+        "friday": "11 AM–8 PM",
+        "saturday": "11 AM–8 PM",
+        "sunday": "11 AM–8 PM",
+        "monday": "Closed",
+        "tuesday": "11 AM–8 PM"
+      },
+      "phone": "+18183175654",
+      "website": "https://www.elcocinerorestaurant.com/",
+      "description": "Vegan Mexican food in a modest setting. Vegan burritos, tacos & quesadillas whipped up in an unpretentious strip-mall outlet.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmNhobuS0MK-ch3qQn1IRLH3x5AH0whLz26ccVUiX-88Y2pQVyj-PfO_cO8NSXdnwSl9uF_IWNWSebep9PSnBaRqFhnJz7Ug__3lud2_nxM5-1JDUbxmY1QEUSNhqwpEM5jZzFjeA=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmNhobuS0MK-ch3qQn1IRLH3x5AH0whLz26ccVUiX-88Y2pQVyj-PfO_cO8NSXdnwSl9uF_IWNWSebep9PSnBaRqFhnJz7Ug__3lud2_nxM5-1JDUbxmY1QEUSNhqwpEM5jZzFjeA=w4032-h3024-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/El+Cocinero+Restaurant/@34.184457699999996,-118.46663509999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c2978fad4e4ed5:0x6d4cf62fdc753265!8m2!3d34.184457699999996!4d-118.46663509999999!16s",
+      "rank": 12
+    },
+    {
+      "title": "Gev's Kitchen",
+      "place_id": "ChIJI52nkTGXwoAR9TXsLl9iGKA",
+      "data_id": "0x80c2973191a79d23:0xa018625f2eec35f5",
+      "data_cid": "-6910665467251378699",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c2973191a79d23:0xa018625f2eec35f5",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c2973191a79d23:0xa018625f2eec35f5",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c2973191a79d23:0xa018625f2eec35f5",
+      "gps_coordinates": {
+        "latitude": 34.203834799999996,
+        "longitude": -118.44937139999999
+      },
+      "rating": 4.5,
+      "reviews": 156,
+      "type": "Armenian restaurant",
+      "types": [
+        "Armenian restaurant",
+        "Georgian restaurant",
+        "Mediterranean restaurant",
+        "Restaurant"
+      ],
+      "type_ids": [
+        "armenian_restaurant",
+        "georgian_restaurant",
+        "mediterranean_restaurant",
+        "restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "7335 Van Nuys Blvd #110, Van Nuys, CA 91405",
+      "open_state": "Closed · Opens 11 AM",
+      "hours": "Closed · Opens 11 AM",
+      "operating_hours": {
+        "wednesday": "11 AM–7 PM",
+        "thursday": "11 AM–7 PM",
+        "friday": "11 AM–7 PM",
+        "saturday": "11 AM–7 PM",
+        "sunday": "11 AM–7 PM",
+        "monday": "11 AM–7 PM",
+        "tuesday": "11 AM–7 PM"
+      },
+      "phone": "+18186538709",
+      "website": "http://gevskitchen.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl0cDXar9vTWAIQP5HFy5NN70sABlAhn_HU3vuImk3lR0NwiAqTn0Q3kJ52Uq82yrjiFTjuratM-vq9ud3EhGB6Z1xuqcN2phc-v6nQqbG2iemEVzZcJ0dHOA2aTen6-33GifGriQ=w86-h184-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl0cDXar9vTWAIQP5HFy5NN70sABlAhn_HU3vuImk3lR0NwiAqTn0Q3kJ52Uq82yrjiFTjuratM-vq9ud3EhGB6Z1xuqcN2phc-v6nQqbG2iemEVzZcJ0dHOA2aTen6-33GifGriQ=w1868-h4000-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Gev's+Kitchen/@34.203834799999996,-118.44937139999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c2973191a79d23:0xa018625f2eec35f5!8m2!3d34.203834799999996!4d-118.44937139999999!16s",
+      "rank": 13
+    },
+    {
+      "title": "Lido Pizza",
+      "place_id": "ChIJrTCUgnKXwoARTMIfBLOGYQM",
+      "data_id": "0x80c29772829430ad:0x36186b3041fc24c",
+      "data_cid": "243623958281175628",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c29772829430ad:0x36186b3041fc24c",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c29772829430ad:0x36186b3041fc24c",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c29772829430ad:0x36186b3041fc24c",
+      "gps_coordinates": {
+        "latitude": 34.186374,
+        "longitude": -118.4651933
+      },
+      "rating": 4.6,
+      "reviews": 1523,
+      "type": "Italian restaurant",
+      "types": [
+        "Italian restaurant",
+        "Restaurant"
+      ],
+      "type_ids": [
+        "italian_restaurant",
+        "restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "15232 Victory Blvd, Van Nuys, CA 91411",
+      "open_state": "Closed · Opens 11 AM",
+      "hours": "Closed · Opens 11 AM",
+      "operating_hours": {
+        "wednesday": "11 AM–9 PM",
+        "thursday": "11 AM–9 PM",
+        "friday": "11 AM–10 PM",
+        "saturday": "11 AM–10 PM",
+        "sunday": "11 AM–9 PM",
+        "monday": "11 AM–9 PM",
+        "tuesday": "11 AM–9 PM"
+      },
+      "phone": "+18187812551",
+      "unclaimed_business": true,
+      "website": "http://chichispizza.com/",
+      "description": "Italian mainstay for egg pasta & pies. Veteran no-frills Italian joint turning out fresh egg pastas & traditional pies, plus beer & wine.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkE1sPg0WAF6LVwjB1j52jZOTfAZoa2kPQ8_4rNMfVBfxTnM0h5eeGA8zb4od9t_9xHRwnOBVK6rN5h20xp2GJllbYMIkDqZ9xh1cubSwq4EyO8plej0gQm4lXN8qFvqnP3lyu5Iw=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkE1sPg0WAF6LVwjB1j52jZOTfAZoa2kPQ8_4rNMfVBfxTnM0h5eeGA8zb4od9t_9xHRwnOBVK6rN5h20xp2GJllbYMIkDqZ9xh1cubSwq4EyO8plej0gQm4lXN8qFvqnP3lyu5Iw=w4032-h3024-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Lido+Pizza/@34.186374,-118.4651933,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c29772829430ad:0x36186b3041fc24c!8m2!3d34.186374!4d-118.4651933!16s",
+      "rank": 14
+    },
+    {
+      "title": "Wanna Smash",
+      "place_id": "ChIJ9TWwx9iXwoAR9wbuHaqqHh0",
+      "data_id": "0x80c297d8c7b035f5:0x1d1eaaaa1dee06f7",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c297d8c7b035f5:0x1d1eaaaa1dee06f7",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c297d8c7b035f5:0x1d1eaaaa1dee06f7",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c297d8c7b035f5:0x1d1eaaaa1dee06f7",
+      "gps_coordinates": {
+        "latitude": 34.185826,
+        "longitude": -118.448528
+      },
+      "rating": 4.4,
+      "reviews": 208,
+      "type": "Hamburger restaurant",
+      "types": [
+        "Hamburger restaurant"
+      ],
+      "type_ids": [
+        "hamburger_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "address": "6350 Van Nuys Blvd, Van Nuys, CA 91401",
+      "open_state": "Closed · Opens 11 AM",
+      "hours": "Closed · Opens 11 AM",
+      "operating_hours": {
+        "wednesday": "11 AM–9 PM",
+        "thursday": "11 AM–9 PM",
+        "friday": "11 AM–9 PM",
+        "saturday": "12–9 PM",
+        "sunday": "12–8 PM",
+        "monday": "11 AM–9 PM",
+        "tuesday": "11 AM–9 PM"
+      },
+      "phone": "+18185823428",
+      "google_maps_url": "https://www.google.com/maps/place/Wanna+Smash/@34.185826,-118.448528,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c297d8c7b035f5:0x1d1eaaaa1dee06f7!8m2!3d34.185826!4d-118.448528!16s",
+      "rank": 15
+    },
+    {
+      "title": "Ay Papa Que Rico - Van Nuys, CA",
+      "place_id": "ChIJjSe6CSOXwoARbcA8ipgmqP0",
+      "data_id": "0x80c2972309ba278d:0xfda826988a3cc06d",
+      "data_cid": "-168842549430271891",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c2972309ba278d:0xfda826988a3cc06d",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c2972309ba278d:0xfda826988a3cc06d",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c2972309ba278d:0xfda826988a3cc06d",
+      "gps_coordinates": {
+        "latitude": 34.206339,
+        "longitude": -118.44850749999999
+      },
+      "rating": 4.4,
+      "reviews": 1353,
+      "type": "Latin American restaurant",
+      "types": [
+        "Latin American restaurant",
+        "Barbecue restaurant",
+        "Chicken restaurant"
+      ],
+      "type_ids": [
+        "latin_american_restaurant",
+        "barbecue_restaurant",
+        "chicken_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "7456 Van Nuys Blvd, Van Nuys, CA 91405",
+      "open_state": "Closed · Opens 10 AM",
+      "hours": "Closed · Opens 10 AM",
+      "operating_hours": {
+        "wednesday": "10 AM–8 PM",
+        "thursday": "10 AM–8 PM",
+        "friday": "10 AM–8 PM",
+        "saturday": "10 AM–8 PM",
+        "sunday": "10 AM–8 PM",
+        "monday": "10 AM–8 PM",
+        "tuesday": "10 AM–8 PM"
+      },
+      "phone": "+18189888367",
+      "website": "https://fromtherestaurant.com/ay-papa-que-rico-arleta/g",
+      "description": "Cuban classics in laid-back surrounds. Neighborhood nook providing Cuban & Central American specialties in a casual, counter-serve setting.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkXOqh8yGfqCCNem_5ce2LYOzSgax2O7jmDnE1L1M2lCNviFenKJtLSTKlyX17KAVZUDL8eMQVXzp4pOCdKvlhn35VnwCYr8N4VI7Es59-NHgi2ge4wsbwLrVkyzNMWS-wEcfuJ=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkXOqh8yGfqCCNem_5ce2LYOzSgax2O7jmDnE1L1M2lCNviFenKJtLSTKlyX17KAVZUDL8eMQVXzp4pOCdKvlhn35VnwCYr8N4VI7Es59-NHgi2ge4wsbwLrVkyzNMWS-wEcfuJ=w4032-h3024-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Ay+Papa+Que+Rico+-+Van+Nuys,+CA/@34.206339,-118.44850749999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c2972309ba278d:0xfda826988a3cc06d!8m2!3d34.206339!4d-118.44850749999999!16s",
+      "rank": 16
+    },
+    {
+      "title": "Costa Grande",
+      "place_id": "ChIJuyg5IUGXwoARMD6rzKWsSl4",
+      "data_id": "0x80c29741213928bb:0x5e4aaca5ccab3e30",
+      "data_cid": "6794432815945170480",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c29741213928bb:0x5e4aaca5ccab3e30",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c29741213928bb:0x5e4aaca5ccab3e30",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c29741213928bb:0x5e4aaca5ccab3e30",
+      "gps_coordinates": {
+        "latitude": 34.200283,
+        "longitude": -118.467119
+      },
+      "rating": 4.6,
+      "reviews": 738,
+      "type": "Mexican restaurant",
+      "types": [
+        "Mexican restaurant"
+      ],
+      "type_ids": [
+        "mexican_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "7139 Sepulveda Blvd, Van Nuys, CA 91405",
+      "open_state": "Closed · Opens 10 AM",
+      "hours": "Closed · Opens 10 AM",
+      "operating_hours": {
+        "wednesday": "10 AM–9 PM",
+        "thursday": "10 AM–9 PM",
+        "friday": "10 AM–9 PM",
+        "saturday": "10 AM–9 PM",
+        "sunday": "10 AM–9 PM",
+        "monday": "10 AM–9 PM",
+        "tuesday": "10 AM–9 PM"
+      },
+      "phone": "+18187790131",
+      "website": "http://lacostagrande.com/",
+      "description": "Typical Mexican eats in a humble setup. Simple eatery for familiar Mexican fare such as nachos, carne asada, tacos & breakfast burritos.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5dGzOAO4crbPMvrRJLIe-k7U4R-bnlLdjHZsp-IBLGpXudOB_APBigtEkrBoFpTOwQ4vlsS9UZuaUKSNzf7qC5Wo4EhW0syq_lrn06-e7ktTM-sh22i9R_E5GRICLK3DpAIfzyg=w86-h114-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5dGzOAO4crbPMvrRJLIe-k7U4R-bnlLdjHZsp-IBLGpXudOB_APBigtEkrBoFpTOwQ4vlsS9UZuaUKSNzf7qC5Wo4EhW0syq_lrn06-e7ktTM-sh22i9R_E5GRICLK3DpAIfzyg=w2448-h3264-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Costa+Grande/@34.200283,-118.467119,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c29741213928bb:0x5e4aaca5ccab3e30!8m2!3d34.200283!4d-118.467119!16s",
+      "rank": 17
+    },
+    {
+      "title": "Little Ocha of the Valley",
+      "place_id": "ChIJAQAAAPmWwoARNRZY1GEZJpc",
+      "data_id": "0x80c296f900000001:0x97261961d4581635",
+      "data_cid": "-7555323416902363595",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c296f900000001:0x97261961d4581635",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c296f900000001:0x97261961d4581635",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c296f900000001:0x97261961d4581635",
+      "gps_coordinates": {
+        "latitude": 34.2010095,
+        "longitude": -118.4322753
+      },
+      "rating": 4.4,
+      "reviews": 862,
+      "type": "Thai restaurant",
+      "types": [
+        "Thai restaurant",
+        "Asian restaurant",
+        "Chinese restaurant",
+        "Restaurant",
+        "Southeast Asian restaurant"
+      ],
+      "type_ids": [
+        "thai_restaurant",
+        "asian_restaurant",
+        "chinese_restaurant",
+        "restaurant",
+        "southeast_asian_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "13724 Sherman Way, Van Nuys, CA 91405",
+      "open_state": "Closed · Opens 11 AM",
+      "hours": "Closed · Opens 11 AM",
+      "operating_hours": {
+        "wednesday": "11 AM–10 PM",
+        "thursday": "11 AM–10 PM",
+        "friday": "11 AM–10 PM",
+        "saturday": "11 AM–10 PM",
+        "sunday": "11 AM–10 PM",
+        "monday": "11 AM–10 PM",
+        "tuesday": "11 AM–10 PM"
+      },
+      "phone": "+18186508434",
+      "unclaimed_business": true,
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnLuT9_i3J0uw2viNO7_a5F4luqZGeSTxuBBU6jibACor-Cz9T_5m9tpaRx72Vbnr5eFwJ1Xook7ZQVHHbFv8-tyiNC9-4B0pcpmhSP7ERiNYW2godd_N0kwW34l2G0mfTq8BMK=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnLuT9_i3J0uw2viNO7_a5F4luqZGeSTxuBBU6jibACor-Cz9T_5m9tpaRx72Vbnr5eFwJ1Xook7ZQVHHbFv8-tyiNC9-4B0pcpmhSP7ERiNYW2godd_N0kwW34l2G0mfTq8BMK=w4032-h3024-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Little+Ocha+of+the+Valley/@34.2010095,-118.4322753,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c296f900000001:0x97261961d4581635!8m2!3d34.2010095!4d-118.4322753!16s",
+      "rank": 18
+    },
+    {
+      "title": "Cea-Lo L.A",
+      "place_id": "ChIJuQ3tTwOXwoARqj8iUXcFkY8",
+      "data_id": "0x80c297034fed0db9:0x8f91057751223faa",
+      "data_cid": "-8101688244642365526",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c297034fed0db9:0x8f91057751223faa",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c297034fed0db9:0x8f91057751223faa",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c297034fed0db9:0x8f91057751223faa",
+      "gps_coordinates": {
+        "latitude": 34.1642048,
+        "longitude": -118.4658312
+      },
+      "rating": 4.8,
+      "reviews": 263,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant"
+      ],
+      "type_ids": [
+        "restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "address": "5150 Sepulveda Blvd, Sherman Oaks, CA 91403",
+      "open_state": "Closed · Opens 4 PM",
+      "hours": "Closed · Opens 4 PM",
+      "operating_hours": {
+        "wednesday": "4–10 PM",
+        "thursday": "12–10 PM",
+        "friday": "12–10 PM",
+        "saturday": "12–10 PM",
+        "sunday": "12–8 PM",
+        "monday": "Closed",
+        "tuesday": "Closed"
+      },
+      "phone": "+18182903448",
+      "website": "http://cealo-la.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkeYK7QFlQp9Y6TSpvOe1kg0-xwmcT-2aC6pe8uAQ4nGNLsw-G5JG0MAQU27cP2Hik4x8RX-mwaxJ_NOYqnugs2MX0mna4Zq2iDU9LYp6Rc4TF8ub37_wv1vJc41VCn8iNbKpWb=w86-h114-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkeYK7QFlQp9Y6TSpvOe1kg0-xwmcT-2aC6pe8uAQ4nGNLsw-G5JG0MAQU27cP2Hik4x8RX-mwaxJ_NOYqnugs2MX0mna4Zq2iDU9LYp6Rc4TF8ub37_wv1vJc41VCn8iNbKpWb=w3024-h4032-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Cea-Lo+L.A/@34.1642048,-118.4658312,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c297034fed0db9:0x8f91057751223faa!8m2!3d34.1642048!4d-118.4658312!16s",
+      "rank": 19
+    },
+    {
+      "title": "Best Ball | Food Drinks Sports",
+      "place_id": "ChIJlRohAZ2ZwoARos6jZUNw4AI",
+      "data_id": "0x80c2999d01211a95:0x2e0704365a3cea2",
+      "data_cid": "207289017629396642",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x80c2999d01211a95:0x2e0704365a3cea2",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x80c2999d01211a95:0x2e0704365a3cea2",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x80c2999d01211a95:0x2e0704365a3cea2",
+      "gps_coordinates": {
+        "latitude": 34.183196099999996,
+        "longitude": -118.49218979999999
+      },
+      "rating": 4.7,
+      "reviews": 144,
+      "type": "Sports bar",
+      "types": [
+        "Sports bar",
+        "Breakfast restaurant",
+        "Chicken wings restaurant",
+        "Event venue",
+        "Hamburger restaurant"
+      ],
+      "type_ids": [
+        "sports_bar",
+        "breakfast_restaurant",
+        "chicken_wings_restaurant",
+        "event_venue",
+        "hamburger_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "6331 Woodley Ave, Van Nuys, CA 91406",
+      "open_state": "Closed · Opens 7:30 AM",
+      "hours": "Closed · Opens 7:30 AM",
+      "operating_hours": {
+        "wednesday": "7:30 AM–9 PM",
+        "thursday": "7:30 AM–9 PM",
+        "friday": "7:30 AM–9 PM",
+        "saturday": "7:30 AM–9 PM",
+        "sunday": "7:30 AM–9 PM",
+        "monday": "7:30 AM–9 PM",
+        "tuesday": "7:30 AM–9 PM"
+      },
+      "phone": "+18188538871",
+      "website": "http://bestball.bar/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlFGRmSU4827b9htPyUsEoFwKbkM8x0pfTm4G0HUU0xsl0x9gmedHMDXOJ_eKX6L9F84YH0sn9-sEfeSQZDdbDhyvyy5IyKQ1GGz7CdI69_OLXaupm9AEXUB7yNyU84O_T20FI=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlFGRmSU4827b9htPyUsEoFwKbkM8x0pfTm4G0HUU0xsl0x9gmedHMDXOJ_eKX6L9F84YH0sn9-sEfeSQZDdbDhyvyy5IyKQ1GGz7CdI69_OLXaupm9AEXUB7yNyU84O_T20FI=w4000-h3000-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Best+Ball+|+Food+Drinks+Sports/@34.183196099999996,-118.49218979999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x80c2999d01211a95:0x2e0704365a3cea2!8m2!3d34.183196099999996!4d-118.49218979999999!16s",
+      "rank": 20
+    }
+  ]
+}

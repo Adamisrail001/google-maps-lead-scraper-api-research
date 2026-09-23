@@ -1,0 +1,4655 @@
+{
+  "search_results": [
+    {
+      "title": "Manhatta",
+      "place_id": "ChIJoTXWl8dbwokRpKA2BJFVsGA",
+      "data_id": "0x89c25bc797d635a1:0x60b055910436a0a4",
+      "data_cid": "6967162704871465124",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c25bc797d635a1:0x60b055910436a0a4",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c25bc797d635a1:0x60b055910436a0a4",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c25bc797d635a1:0x60b055910436a0a4",
+      "gps_coordinates": {
+        "latitude": 40.707997399999996,
+        "longitude": -74.00888259999999
+      },
+      "provider_id": "/g/11gh9qhb9q",
+      "rating": 4.7,
+      "reviews": 4061,
+      "price": "$100+",
+      "type": "New American restaurant",
+      "types": [
+        "New American restaurant",
+        "Fine dining restaurant",
+        "Lounge bar"
+      ],
+      "type_ids": [
+        "new_american_restaurant",
+        "fine_dining_restaurant",
+        "lounge_bar"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Dine-in",
+            "Delivery"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great cocktails",
+            "Great coffee",
+            "Great dessert",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Coffee",
+            "Organic dishes",
+            "Private dining room",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Lunch reservations recommended",
+            "Reservations required",
+            "Dinner reservations recommended",
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Credit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid street parking"
+          ]
+        },
+        {
+          "from_the_business": [
+            "Identifies as Asian-owned",
+            "Identifies as Black-owned",
+            "Identifies as Latino-owned",
+            "Identifies as LGBTQ+ owned",
+            "Identifies as veteran-owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "No-contact delivery",
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Private events",
+            "Fireplace",
+            "Live music",
+            "Rooftop seating",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible elevator"
+          ]
+        },
+        {
+          "offerings": [
+            "Coat check",
+            "Craft beer",
+            "Gluten-free options",
+            "Happy hour",
+            "Hard cider",
+            "Hot tea",
+            "Local ingredients",
+            "OK to order just drinks",
+            "Tasting menu",
+            "All you can eat",
+            "Beer",
+            "Braille menu",
+            "Cocktails",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Late-night food",
+            "Quick bite",
+            "Salad bar",
+            "Spicy food",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Counter seating",
+            "Breakfast",
+            "Brunch",
+            "Catering",
+            "Counter service",
+            "Order ahead"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions",
+            "Casual",
+            "Historic"
+          ]
+        },
+        {
+          "crowd": [
+            "Business dinner",
+            "Business lunch",
+            "College students"
+          ]
+        },
+        {
+          "payments": [
+            "Price level",
+            "Cash-only",
+            "Checks"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids birthday",
+            "Kids' menu"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "address": "28 Liberty St 60th floor, New York, NY 10005",
+      "open_state": "Closed · Opens 11:30 AM",
+      "hours": "Closed · Opens 11:30 AM",
+      "operating_hours": {
+        "wednesday": "11:30 AM–2 PM",
+        "thursday": "11:30 AM–2 PM",
+        "friday": "11:30 AM–2 PM",
+        "saturday": "11:30 AM–2 PM",
+        "sunday": "11:30 AM–2 PM",
+        "monday": "11:30 AM–2 PM",
+        "tuesday": "11:30 AM–2 PM"
+      },
+      "phone": "+12122305788",
+      "website": "https://www.manhattarestaurant.com/restaurant-menu/",
+      "description": "High-end New American meals on 60th floor. Set on the 60th floor, this ritzy, high-end restaurant features New American cuisine and city views.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlrLhCtUa09Qc1HmBV8i1tcujXUIjQi4gnvKLhwQCUvRm4-wBGDsqif9_ducPzB4v-5YOZIL1ATlYl1-4IA_M7YCj2dsUTbHJxEcQXqByBGJ3pdTdtmjMVLLX8XfRH2-w_CSbWvww=w128-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlrLhCtUa09Qc1HmBV8i1tcujXUIjQi4gnvKLhwQCUvRm4-wBGDsqif9_ducPzB4v-5YOZIL1ATlYl1-4IA_M7YCj2dsUTbHJxEcQXqByBGJ3pdTdtmjMVLLX8XfRH2-w_CSbWvww=w1974-h1318-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Manhatta/@40.707997399999996,-74.00888259999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c25bc797d635a1:0x60b055910436a0a4!8m2!3d40.707997399999996!4d-74.00888259999999!16s",
+      "rank": 1
+    },
+    {
+      "title": "Marea",
+      "place_id": "ChIJvWSDS_ZYwokRiG9D395loxo",
+      "data_id": "0x89c258f64b8364bd:0x1aa365dedf436f88",
+      "data_cid": "1919489874092846984",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c258f64b8364bd:0x1aa365dedf436f88",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c258f64b8364bd:0x1aa365dedf436f88",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c258f64b8364bd:0x1aa365dedf436f88",
+      "gps_coordinates": {
+        "latitude": 40.7674251,
+        "longitude": -73.9811137
+      },
+      "provider_id": "/m/0g9tbbd",
+      "rating": 4.5,
+      "reviews": 3161,
+      "price": "$100+",
+      "type": "Italian restaurant",
+      "types": [
+        "Italian restaurant",
+        "Cocktail bar",
+        "Fine dining restaurant",
+        "Lunch restaurant",
+        "Takeout Restaurant",
+        "Restaurant",
+        "Seafood restaurant",
+        "Wine bar"
+      ],
+      "type_ids": [
+        "italian_restaurant",
+        "cocktail_bar",
+        "fine_dining_restaurant",
+        "lunch_restaurant",
+        "takeout_restaurant",
+        "restaurant",
+        "seafood_restaurant",
+        "wine_bar"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great cocktails",
+            "Great coffee",
+            "Great dessert",
+            "Great wine list",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Hard liquor",
+            "Private dining room",
+            "Small plates",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Lunch reservations recommended",
+            "Reservations required",
+            "Dinner reservations recommended",
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "Credit cards"
+          ]
+        },
+        {
+          "children": [
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Parking"
+          ]
+        },
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Private events",
+            "Fireplace",
+            "Live music",
+            "Rooftop seating",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible elevator"
+          ]
+        },
+        {
+          "offerings": [
+            "Event space",
+            "Gluten-free options",
+            "Hard cider",
+            "OK to order just drinks",
+            "Tasting menu",
+            "All you can eat",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Late-night food",
+            "Quick bite",
+            "Salad bar",
+            "Vegan options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Catering",
+            "Counter service",
+            "Order ahead"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions",
+            "Casual",
+            "Historic"
+          ]
+        },
+        {
+          "crowd": [
+            "Business dinner",
+            "Business lunch",
+            "College students"
+          ]
+        },
+        {
+          "payments": [
+            "Price level",
+            "Cash-only",
+            "Checks",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Good for kids birthday",
+            "Kids' menu"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed",
+            "Dogs allowed inside",
+            "Dogs allowed outside"
+          ]
+        },
+        {
+          "not_for_display": [
+            "Mask required",
+            "Staff get temperature checks",
+            "Staff required to disinfect surfaces between visits",
+            "Staff wear masks",
+            "Temperature check required"
+          ]
+        }
+      ],
+      "address": "240 Central Park S, New York, NY 10019",
+      "open_state": "Closed · Opens 12 PM",
+      "hours": "Closed · Opens 12 PM",
+      "operating_hours": {
+        "wednesday": "12–10 PM",
+        "thursday": "12–10 PM",
+        "friday": "12–11 PM",
+        "saturday": "12–11 PM",
+        "sunday": "12–10 PM",
+        "monday": "12–10 PM",
+        "tuesday": "12–10 PM"
+      },
+      "phone": "+12125825100",
+      "website": "https://www.marearestaurant.com/new-york?utm_source=GoogleBusinessProfile&utm_medium=organic&utm_campaign=google826",
+      "description": "Fine Italian seafood in a modern setting. High-end Italian seafood & housemade pastas in a chic Central Park South setting.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnq6gtewWE8WZRzAjC9y028MEd--fDEGD9s82XoaW101Ig1YsnwsgDrFFrneuVYcvfXnqSSG9e1WHLQdhQA5UhcUy2lI34gufU007zRVc2v3-ZbzhxSqEdVh3Vy3E9oy5V1mG_XPQ=w180-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnq6gtewWE8WZRzAjC9y028MEd--fDEGD9s82XoaW101Ig1YsnwsgDrFFrneuVYcvfXnqSSG9e1WHLQdhQA5UhcUy2lI34gufU007zRVc2v3-ZbzhxSqEdVh3Vy3E9oy5V1mG_XPQ=w803-h382-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Marea/@40.7674251,-73.9811137,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c258f64b8364bd:0x1aa365dedf436f88!8m2!3d40.7674251!4d-73.9811137!16s",
+      "rank": 2
+    },
+    {
+      "title": "La Grande Boucherie",
+      "place_id": "ChIJ58OtM8pZwokRbd6DT6gcVys",
+      "data_id": "0x89c259ca33adc3e7:0x2b571ca84f83de6d",
+      "data_cid": "3122996375818853997",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c259ca33adc3e7:0x2b571ca84f83de6d",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c259ca33adc3e7:0x2b571ca84f83de6d",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c259ca33adc3e7:0x2b571ca84f83de6d",
+      "gps_coordinates": {
+        "latitude": 40.7626274,
+        "longitude": -73.98084109999999
+      },
+      "provider_id": "/g/11j30c9wgd",
+      "rating": 4.6,
+      "reviews": 11176,
+      "price": "$50–100",
+      "type": "French restaurant",
+      "types": [
+        "French restaurant",
+        "Restaurant"
+      ],
+      "type_ids": [
+        "french_restaurant",
+        "restaurant"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great cocktails",
+            "Great coffee",
+            "Great dessert",
+            "Great wine list"
+          ]
+        },
+        {
+          "popular_for": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Hard liquor",
+            "Healthy options",
+            "Late-night food",
+            "Private dining room",
+            "Small plates",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Lunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        },
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Private events",
+            "Fireplace",
+            "Live music",
+            "Rooftop seating",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "offerings": [
+            "Gluten-free options",
+            "Happy hour",
+            "Hard cider",
+            "Hot tea",
+            "All you can eat",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Order ahead",
+            "Counter seating"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "Business dinner",
+            "Business lunch"
+          ]
+        },
+        {
+          "payments": [
+            "Price level",
+            "Cash-only"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids birthday",
+            "Kids' menu"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        },
+        {
+          "not_for_display": [
+            "Mask required"
+          ]
+        }
+      ],
+      "address": "145 W 53rd St, New York, NY 10019",
+      "open_state": "Closed · Opens 8 AM",
+      "hours": "Closed · Opens 8 AM",
+      "operating_hours": {
+        "wednesday": "8 AM–12 AM",
+        "thursday": "8 AM–12 AM",
+        "friday": "8 AM–12 AM",
+        "saturday": "9 AM–12 AM",
+        "sunday": "9 AM–12 AM",
+        "monday": "8 AM–12 AM",
+        "tuesday": "8 AM–12 AM"
+      },
+      "phone": "+12125107714",
+      "website": "https://www.boucherieus.com/",
+      "description": "Chic French bistro with a heated atrium. Polished French restaurant in an expansive art nouveau-style space with an elegant, heated atrium.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkvAhmE_zRZNbKIiqe1z019sW1y4Ctc8uzB9WJVjcWuufXdYKBB8LGyI57n1A2c8SgTreZneRv5TMPUkfl5LB-fNA5Kh_kM_Px2xo36bsvmZnGbzkoXk7F-ZcSIm9M-b4H_t2gh=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkvAhmE_zRZNbKIiqe1z019sW1y4Ctc8uzB9WJVjcWuufXdYKBB8LGyI57n1A2c8SgTreZneRv5TMPUkfl5LB-fNA5Kh_kM_Px2xo36bsvmZnGbzkoXk7F-ZcSIm9M-b4H_t2gh=w4032-h3024-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/La+Grande+Boucherie/@40.7626274,-73.98084109999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c259ca33adc3e7:0x2b571ca84f83de6d!8m2!3d40.7626274!4d-73.98084109999999!16s",
+      "rank": 3
+    },
+    {
+      "title": "The Modern",
+      "place_id": "ChIJMW-gxPtYwokRzDlnsRgq9rA",
+      "data_id": "0x89c258fbc4a06f31:0xb0f62a18b16739cc",
+      "data_cid": "-5695318393219499572",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c258fbc4a06f31:0xb0f62a18b16739cc",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c258fbc4a06f31:0xb0f62a18b16739cc",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c258fbc4a06f31:0xb0f62a18b16739cc",
+      "gps_coordinates": {
+        "latitude": 40.761081,
+        "longitude": -73.976753
+      },
+      "provider_id": "/m/05yj_8q",
+      "rating": 4.6,
+      "reviews": 2806,
+      "price": "$100+",
+      "type": "Fine dining restaurant",
+      "types": [
+        "Fine dining restaurant",
+        "Restaurant"
+      ],
+      "type_ids": [
+        "fine_dining_restaurant",
+        "restaurant"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Dine-in",
+            "Delivery",
+            "Takeout"
+          ]
+        },
+        {
+          "highlights": [
+            "Great cocktails",
+            "Great coffee",
+            "Great dessert",
+            "Great tea selection"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Coffee",
+            "Organic dishes",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Quiet",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Lunch reservations recommended",
+            "Reservations required",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Credit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid street parking",
+            "Parking"
+          ]
+        },
+        {
+          "from_the_business": [
+            "Identifies as Asian-owned",
+            "Identifies as Black-owned",
+            "Identifies as Latino-owned",
+            "Identifies as LGBTQ+ owned",
+            "Identifies as veteran-owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "No-contact delivery",
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Two MICHELIN stars",
+            "Fireplace",
+            "Live music",
+            "Rooftop seating",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "offerings": [
+            "Event space",
+            "Gluten-free options",
+            "Happy hour",
+            "Hard cider",
+            "Hot tea",
+            "Local ingredients",
+            "Tasting menu",
+            "All you can eat",
+            "Beer",
+            "Braille menu",
+            "Cocktails",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Late-night food",
+            "Quick bite",
+            "Salad bar",
+            "Spicy food",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Catering"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions"
+          ]
+        },
+        {
+          "crowd": [
+            "Business dinner",
+            "Business lunch",
+            "College students"
+          ]
+        },
+        {
+          "payments": [
+            "Price level",
+            "Cash-only",
+            "Checks"
+          ]
+        },
+        {
+          "children": [
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "address": "9 W 53rd St, New York, NY 10019",
+      "open_state": "Closed · Opens 12 PM",
+      "hours": "Closed · Opens 12 PM",
+      "operating_hours": {
+        "wednesday": "12–2:30 PM",
+        "thursday": "12–2:30 PM",
+        "friday": "12–2:30 PM",
+        "saturday": "12–2:30 PM",
+        "sunday": "12–2:30 PM",
+        "monday": "12–2:30 PM",
+        "tuesday": "12–2:30 PM"
+      },
+      "phone": "+12123331220",
+      "website": "https://www.themodernnyc.com/the-modern/",
+      "description": "Fine dining at the Museum of Modern Art. French/New American fare in a modernist space with garden views at the Museum of Modern Art.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlYbt50t7toCQeTq-wnHHbB5zNlFSQSQHrVmbvj8WRgAG-rpi970CwwPh_90C99-jHw8vLEkeQEYcJVouBTvjrXU2zaaeSKieUMpF_m1a29Hgap1Ui8rHxp0GJLrvFcOu_8toHMKA=w129-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlYbt50t7toCQeTq-wnHHbB5zNlFSQSQHrVmbvj8WRgAG-rpi970CwwPh_90C99-jHw8vLEkeQEYcJVouBTvjrXU2zaaeSKieUMpF_m1a29Hgap1Ui8rHxp0GJLrvFcOu_8toHMKA=w5616-h3744-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/The+Modern/@40.761081,-73.976753,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c258fbc4a06f31:0xb0f62a18b16739cc!8m2!3d40.761081!4d-73.976753!16s",
+      "rank": 4
+    },
+    {
+      "title": "Osteria La Baia",
+      "place_id": "ChIJo9FTvDBZwokRFAZ0i4jbLuk",
+      "data_id": "0x89c25930bc53d1a3:0xe92edb888b740614",
+      "data_cid": "-1644135434441980396",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c25930bc53d1a3:0xe92edb888b740614",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c25930bc53d1a3:0xe92edb888b740614",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c25930bc53d1a3:0xe92edb888b740614",
+      "gps_coordinates": {
+        "latitude": 40.7618881,
+        "longitude": -73.9809702
+      },
+      "provider_id": "/g/11j8zn86lk",
+      "rating": 4.9,
+      "reviews": 8064,
+      "price": "$100+",
+      "type": "Italian restaurant",
+      "types": [
+        "Italian restaurant",
+        "Cocktail bar",
+        "Event venue",
+        "Restaurant"
+      ],
+      "type_ids": [
+        "italian_restaurant",
+        "cocktail_bar",
+        "event_venue",
+        "restaurant"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great cocktails",
+            "Great coffee",
+            "Great dessert",
+            "Great wine list"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Hard liquor",
+            "Private dining room",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Lunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Credit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Has changing table(s)",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Private events",
+            "Fireplace",
+            "Live music",
+            "Rooftop seating",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "accessibility": [
+            "Assisted listening devices",
+            "Wheelchair accessible elevator"
+          ]
+        },
+        {
+          "offerings": [
+            "Gluten-free options",
+            "OK to order just drinks",
+            "All you can eat",
+            "Braille menu",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Late-night food",
+            "Quick bite",
+            "Salad bar",
+            "Small plates",
+            "Vegan options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Order ahead",
+            "Breakfast",
+            "Brunch",
+            "Counter service"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions",
+            "Historic"
+          ]
+        },
+        {
+          "crowd": [
+            "Business dinner",
+            "Business lunch",
+            "College students"
+          ]
+        },
+        {
+          "payments": [
+            "Price level",
+            "Cash-only"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids birthday",
+            "Kids' menu"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed",
+            "Dogs allowed inside"
+          ]
+        },
+        {
+          "not_for_display": [
+            "Staff required to disinfect surfaces between visits"
+          ]
+        }
+      ],
+      "address": "129 W 52nd St, New York, NY 10019",
+      "open_state": "Closed · Opens 8 AM",
+      "hours": "Closed · Opens 8 AM",
+      "operating_hours": {
+        "wednesday": "8–11 AM",
+        "thursday": "8–11 AM",
+        "friday": "8–11 AM",
+        "saturday": "11:30 AM–12 AM",
+        "sunday": "11:30 AM–10 PM",
+        "monday": "8–11 AM",
+        "tuesday": "8–11 AM"
+      },
+      "phone": "+19176719898",
+      "website": "https://www.labaianyc.com/?y_source=1_MTAwNTA2Mjg0My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "description": "Italian fare in a roomy, classy setup. Traditional and creative Italian cuisine plus cocktails in a spacious venue with chic, polished decor.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmXwhW2ZkBCRl3KbFlTZkZiBB1nA0SZjwS9o3jTaWN0kx6YbuSpKbfb7dJAHDZ0-NvABdmbxAv--R7n3l7i-sCnRiqqy0iQHI7fOGFLfDwB6xWfSukjIth7eH1XKELQI8FKv-7g=w128-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmXwhW2ZkBCRl3KbFlTZkZiBB1nA0SZjwS9o3jTaWN0kx6YbuSpKbfb7dJAHDZ0-NvABdmbxAv--R7n3l7i-sCnRiqqy0iQHI7fOGFLfDwB6xWfSukjIth7eH1XKELQI8FKv-7g=w2500-h1667-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Osteria+La+Baia/@40.7618881,-73.9809702,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c25930bc53d1a3:0xe92edb888b740614!8m2!3d40.7618881!4d-73.9809702!16s",
+      "rank": 5
+    },
+    {
+      "title": "Felice 56",
+      "place_id": "ChIJw1vpXEFZwokRmCe1i6mUtSI",
+      "data_id": "0x89c259415ce95bc3:0x22b594a98bb52798",
+      "data_cid": "2501068623988467608",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c259415ce95bc3:0x22b594a98bb52798",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c259415ce95bc3:0x22b594a98bb52798",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c259415ce95bc3:0x22b594a98bb52798",
+      "gps_coordinates": {
+        "latitude": 40.7628591,
+        "longitude": -73.97538999999999
+      },
+      "provider_id": "/g/11h5l8dr9t",
+      "rating": 4.6,
+      "reviews": 960,
+      "type": "Italian restaurant",
+      "types": [
+        "Italian restaurant",
+        "Bar",
+        "Brunch restaurant",
+        "Caterer",
+        "Cocktail bar",
+        "Event venue",
+        "Fine dining restaurant",
+        "Lunch restaurant",
+        "Takeout Restaurant",
+        "Wine bar"
+      ],
+      "type_ids": [
+        "italian_restaurant",
+        "bar",
+        "brunch_restaurant",
+        "caterer",
+        "cocktail_bar",
+        "event_venue",
+        "fine_dining_restaurant",
+        "lunch_restaurant",
+        "takeout_restaurant",
+        "wine_bar"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great coffee",
+            "Great dessert",
+            "Great wine list"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Hard liquor",
+            "Late-night food",
+            "Small plates",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed",
+            "Dogs allowed inside",
+            "Dogs allowed outside"
+          ]
+        },
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Private events",
+            "Fireplace",
+            "Live music",
+            "Rooftop seating",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "offerings": [
+            "Coat check",
+            "Gluten-free options",
+            "OK to order just drinks",
+            "All you can eat",
+            "Braille menu",
+            "Vegan options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Order ahead",
+            "Counter service"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions",
+            "Historic"
+          ]
+        },
+        {
+          "crowd": [
+            "Business lunch",
+            "College students"
+          ]
+        },
+        {
+          "payments": [
+            "Price level",
+            "Cash-only",
+            "Checks",
+            "Credit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids birthday",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking garage",
+            "Free parking lot",
+            "Free street parking"
+          ]
+        }
+      ],
+      "address": "15 W 56th St, New York, NY 10019",
+      "open_state": "Closed · Opens 7 AM",
+      "hours": "Closed · Opens 7 AM",
+      "operating_hours": {
+        "wednesday": "7 AM–10 PM",
+        "thursday": "7 AM–10 PM",
+        "friday": "7 AM–10 PM",
+        "saturday": "8 AM–10 PM",
+        "sunday": "8 AM–10 PM",
+        "monday": "7 AM–10 PM",
+        "tuesday": "7 AM–10 PM"
+      },
+      "phone": "+16464377272",
+      "website": "https://www.felicerestaurants.com/felice-56/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmyykJlrHq1iFAWJqzSO8kV9wC6dLJL8YGw_gVgBIZdAXfEDhagGcFclM16Qf1MQ8efn05KaJDz65nCVxZ0n4i6SMKCm23ZfU3v96Jh4Kcnvxy4ADAhd5QyCMUUQf6h0KA9eP6BRw=w129-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmyykJlrHq1iFAWJqzSO8kV9wC6dLJL8YGw_gVgBIZdAXfEDhagGcFclM16Qf1MQ8efn05KaJDz65nCVxZ0n4i6SMKCm23ZfU3v96Jh4Kcnvxy4ADAhd5QyCMUUQf6h0KA9eP6BRw=w3000-h2000-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Felice+56/@40.7628591,-73.97538999999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c259415ce95bc3:0x22b594a98bb52798!8m2!3d40.7628591!4d-73.97538999999999!16s",
+      "rank": 6
+    },
+    {
+      "title": "MOE EATS NYC",
+      "place_id": "ChIJqUTQkGdZwokR9RosCA4orHE",
+      "data_id": "0x89c2596790d044a9:0x71ac280e082c1af5",
+      "data_cid": "8190965863011850997",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c2596790d044a9:0x71ac280e082c1af5",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c2596790d044a9:0x71ac280e082c1af5",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c2596790d044a9:0x71ac280e082c1af5",
+      "gps_coordinates": {
+        "latitude": 40.7597437,
+        "longitude": -73.982321
+      },
+      "provider_id": "/g/11tmfv4ktv",
+      "rating": 5,
+      "reviews": 555,
+      "price": "$10–20",
+      "type": "Restaurant",
+      "types": [
+        "Restaurant"
+      ],
+      "type_ids": [
+        "restaurant"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Comfort food",
+            "Halal food",
+            "Healthy options",
+            "Quick bite",
+            "Small plates",
+            "Vegetarian options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Table service"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Parking"
+          ]
+        },
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Fireplace",
+            "Live music",
+            "Private events",
+            "Rooftop seating",
+            "Sports"
+          ]
+        },
+        {
+          "offerings": [
+            "Marketplace",
+            "Alcohol",
+            "All you can eat",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Happy hour food",
+            "Hard liquor",
+            "Private dining room",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Order ahead"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Historic",
+            "Romantic",
+            "Upscale"
+          ]
+        },
+        {
+          "planning": [
+            "Reservations required"
+          ]
+        },
+        {
+          "payments": [
+            "Price level",
+            "Cash-only"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids birthday",
+            "Has changing table(s)",
+            "High chairs",
+            "Kids' menu"
+          ]
+        }
+      ],
+      "address": "120 W 49th St, New York, NY 10020",
+      "open_state": "Closed · Opens 10 AM",
+      "hours": "Closed · Opens 10 AM",
+      "operating_hours": {
+        "wednesday": "10 AM–5 PM",
+        "thursday": "10 AM–5 PM",
+        "friday": "10 AM–1 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "10 AM–5 PM",
+        "tuesday": "10 AM–5 PM"
+      },
+      "phone": "+16465476759",
+      "website": "https://www.moeeatsnyc.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5Klmvyz83iynXm4FmoKKRpKLxw2HIZpZEoRv-1k7obc0s2xtfz5xkMGYQxB6Ha4lAZ6tNXzf_Y1DLuokqzm6nRCaQs2oVXEMrX-7HWLvxWQR8tGJ_aGTrlT_vTzbW-nJFKJQF7MRK6XCg=w86-h114-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5Klmvyz83iynXm4FmoKKRpKLxw2HIZpZEoRv-1k7obc0s2xtfz5xkMGYQxB6Ha4lAZ6tNXzf_Y1DLuokqzm6nRCaQs2oVXEMrX-7HWLvxWQR8tGJ_aGTrlT_vTzbW-nJFKJQF7MRK6XCg=w3024-h4032-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/MOE+EATS+NYC/@40.7597437,-73.982321,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c2596790d044a9:0x71ac280e082c1af5!8m2!3d40.7597437!4d-73.982321!16s",
+      "rank": 7
+    },
+    {
+      "title": "Le Bernardin",
+      "place_id": "ChIJV7QQ6kdZwokRax4615zpSGU",
+      "data_id": "0x89c25947ea10b457:0x6548e99cd73a1e6b",
+      "data_cid": "7298340055988969067",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c25947ea10b457:0x6548e99cd73a1e6b",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c25947ea10b457:0x6548e99cd73a1e6b",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c25947ea10b457:0x6548e99cd73a1e6b",
+      "gps_coordinates": {
+        "latitude": 40.7614218,
+        "longitude": -73.9817558
+      },
+      "provider_id": "/m/02qsq9d",
+      "rating": 4.6,
+      "reviews": 4651,
+      "price": "$100+",
+      "type": "French restaurant",
+      "types": [
+        "French restaurant",
+        "Fine dining restaurant",
+        "Restaurant"
+      ],
+      "type_ids": [
+        "french_restaurant",
+        "fine_dining_restaurant",
+        "restaurant"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great cocktails",
+            "Great coffee",
+            "Great dessert",
+            "Great wine list"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Hard liquor",
+            "Private dining room",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Quiet",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Lunch reservations recommended",
+            "Reservations required",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Credit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Valet parking"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "No-contact delivery",
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Private events",
+            "Three MICHELIN stars",
+            "Fireplace",
+            "Live music",
+            "Rooftop seating",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "offerings": [
+            "Hard cider",
+            "Hot tea",
+            "Tasting menu",
+            "All you can eat",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Order ahead"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions",
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Business dinner",
+            "Business lunch",
+            "College students"
+          ]
+        },
+        {
+          "payments": [
+            "Price level",
+            "Cash-only"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Good for kids birthday",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "address": "155 W 51st St, New York, NY 10019",
+      "open_state": "Closed · Opens 12 PM",
+      "hours": "Closed · Opens 12 PM",
+      "operating_hours": {
+        "wednesday": "12–2:30 PM",
+        "thursday": "12–2:30 PM",
+        "friday": "12–2:30 PM",
+        "saturday": "5–11 PM",
+        "sunday": "Closed",
+        "monday": "12–2:30 PM",
+        "tuesday": "12–2:30 PM"
+      },
+      "phone": "+12125541515",
+      "unclaimed_business": true,
+      "website": "https://www.le-bernardin.com/home",
+      "description": "Celebrated French seafood restaurant. Elite French restaurant offers chef Eric Ripert's refined seafood, expert service & luxurious decor.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlO5SIPmP91071KhcntgW3UJz1tQUs7cP3hX2mD54cn6UcOWfwitiiJXjF2nwfi3fgrpreEaJZXGAk94wIy35nhHRJkAgvOVf7Wh35Yo9djBz44qlSEoUzAH2PvRZ_2zguq7dMSZA=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlO5SIPmP91071KhcntgW3UJz1tQUs7cP3hX2mD54cn6UcOWfwitiiJXjF2nwfi3fgrpreEaJZXGAk94wIy35nhHRJkAgvOVf7Wh35Yo9djBz44qlSEoUzAH2PvRZ_2zguq7dMSZA=w4032-h3024-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Le+Bernardin/@40.7614218,-73.9817558,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c25947ea10b457:0x6548e99cd73a1e6b!8m2!3d40.7614218!4d-73.9817558!16s",
+      "rank": 8
+    },
+    {
+      "title": "Monkey Bar",
+      "place_id": "ChIJm9ZmFPtYwokR4GjMlk_y7Fg",
+      "data_id": "0x89c258fb1466d69b:0x58ecf24f96cc68e0",
+      "data_cid": "6407762793487689952",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c258fb1466d69b:0x58ecf24f96cc68e0",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c258fb1466d69b:0x58ecf24f96cc68e0",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c258fb1466d69b:0x58ecf24f96cc68e0",
+      "gps_coordinates": {
+        "latitude": 40.759898199999995,
+        "longitude": -73.9732046
+      },
+      "provider_id": "/m/020f67c",
+      "rating": 4.5,
+      "reviews": 1947,
+      "price": "$100+",
+      "type": "American restaurant",
+      "types": [
+        "American restaurant"
+      ],
+      "type_ids": [
+        "american_restaurant"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great cocktails",
+            "Great dessert",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Hard liquor",
+            "Private dining room",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Historic",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Lunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards",
+            "Credit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid street parking",
+            "Parking"
+          ]
+        },
+        {
+          "from_the_business": [
+            "Identifies as Asian-owned",
+            "Identifies as Black-owned",
+            "Identifies as Latino-owned",
+            "Identifies as LGBTQ+ owned",
+            "Identifies as veteran-owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Private events",
+            "Fireplace",
+            "Live music",
+            "Rooftop seating",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "offerings": [
+            "All you can eat",
+            "Braille menu",
+            "Comfort food",
+            "Happy hour food",
+            "Organic dishes",
+            "Salad bar",
+            "Vegan options"
+          ]
+        },
+        {
+          "dining_options": [
+            "Order ahead",
+            "Counter seating",
+            "Breakfast",
+            "Catering",
+            "Counter service"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "Business dinner",
+            "Business lunch",
+            "College students",
+            "Family-friendly"
+          ]
+        },
+        {
+          "payments": [
+            "Price level",
+            "Cash-only",
+            "Checks",
+            "Credit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Good for kids birthday",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Valet parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "address": "60 E 54th St, New York, NY 10022",
+      "open_state": "Closed · Opens 11:45 AM",
+      "hours": "Closed · Opens 11:45 AM",
+      "operating_hours": {
+        "wednesday": "11:45 AM–11 PM",
+        "thursday": "11:45 AM–11 PM",
+        "friday": "11:45 AM–11 PM",
+        "saturday": "11:45 AM–11 PM",
+        "sunday": "11:45 AM–10:30 PM",
+        "monday": "11:45 AM–10:30 PM",
+        "tuesday": "11:45 AM–11 PM"
+      },
+      "phone": "+12124040365",
+      "website": "https://nycmonkeybar.com/",
+      "description": "Clubby American power restaurant. Retro murals & swanky furnishings fill this exclusive American eatery with a powerful clientele.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmrTLWOkNptBbIkY3Qa8llhirqUeEzVWo9reufIHOpa7y80pOC-DssY1FnJhmqX_I1UW5ch6FCIIYjdNZiiXqe0X2eySazEKK7No3Om0Hvxr-47CJZMxlCxFJaTcvNn14v-LDeTFA=w129-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmrTLWOkNptBbIkY3Qa8llhirqUeEzVWo9reufIHOpa7y80pOC-DssY1FnJhmqX_I1UW5ch6FCIIYjdNZiiXqe0X2eySazEKK7No3Om0Hvxr-47CJZMxlCxFJaTcvNn14v-LDeTFA=w5760-h3840-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Monkey+Bar/@40.759898199999995,-73.9732046,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c258fb1466d69b:0x58ecf24f96cc68e0!8m2!3d40.759898199999995!4d-73.9732046!16s",
+      "rank": 9
+    },
+    {
+      "title": "Chambers",
+      "place_id": "ChIJ43KaxzxbwokRVjbWT05nZ_M",
+      "data_id": "0x89c25b3cc79a72e3:0xf367674e4fd63656",
+      "data_cid": "-907643213847316906",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c25b3cc79a72e3:0xf367674e4fd63656",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c25b3cc79a72e3:0xf367674e4fd63656",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c25b3cc79a72e3:0xf367674e4fd63656",
+      "gps_coordinates": {
+        "latitude": 40.7145903,
+        "longitude": -74.0075468
+      },
+      "provider_id": "/g/11s38mxssn",
+      "rating": 4.7,
+      "reviews": 408,
+      "price": "$100+",
+      "type": "New American restaurant",
+      "types": [
+        "New American restaurant",
+        "American restaurant",
+        "Wine bar"
+      ],
+      "type_ids": [
+        "new_american_restaurant",
+        "american_restaurant",
+        "wine_bar"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Dine-in",
+            "Delivery"
+          ]
+        },
+        {
+          "highlights": [
+            "Great cocktails",
+            "Great dessert",
+            "Great wine list"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Hard liquor",
+            "Organic dishes",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "NFC mobile payments",
+            "Credit cards"
+          ]
+        },
+        {
+          "children": [
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        },
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "No-contact delivery",
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Fireplace",
+            "Live music",
+            "Rooftop seating",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "offerings": [
+            "Hard cider",
+            "OK to order just drinks",
+            "All you can eat",
+            "Braille menu",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Late-night food",
+            "Prepared foods",
+            "Private dining room",
+            "Salad bar",
+            "Small plates"
+          ]
+        },
+        {
+          "dining_options": [
+            "Counter seating",
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Catering",
+            "Counter service"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions",
+            "Historic"
+          ]
+        },
+        {
+          "crowd": [
+            "Business dinner",
+            "College students"
+          ]
+        },
+        {
+          "planning": [
+            "Reservations required"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only",
+            "Checks",
+            "Debit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Good for kids birthday",
+            "Has changing table(s)",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "On-site parking",
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking",
+            "Valet parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "address": "94 Chambers St #1, New York, NY 10007",
+      "open_state": "Closed · Opens 5:30 PM",
+      "hours": "Closed · Opens 5:30 PM",
+      "operating_hours": {
+        "wednesday": "5:30–9:30 PM",
+        "thursday": "5:30–9:30 PM",
+        "friday": "5:30–9:30 PM",
+        "saturday": "5:30–9:30 PM",
+        "sunday": "5:30–9:30 PM",
+        "monday": "5:30–9:30 PM",
+        "tuesday": "5:30–9:30 PM"
+      },
+      "phone": "+12125803572",
+      "website": "http://chambers.nyc/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnSqkLddiLy3b4yALjEGKXTvJGlmHD-9y04YD_PmCKZEOr43h9qF396g_0u5t_oUsSXtbBaOfak8IyybgCsSKFHEQD7rF7eCXUkSRCdQGjT2ZBI1uHhr25qw1kGSGdaxbkOOdfx=w128-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnSqkLddiLy3b4yALjEGKXTvJGlmHD-9y04YD_PmCKZEOr43h9qF396g_0u5t_oUsSXtbBaOfak8IyybgCsSKFHEQD7rF7eCXUkSRCdQGjT2ZBI1uHhr25qw1kGSGdaxbkOOdfx=w2200-h1467-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Chambers/@40.7145903,-74.0075468,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c25b3cc79a72e3:0xf367674e4fd63656!8m2!3d40.7145903!4d-74.0075468!16s",
+      "rank": 10
+    },
+    {
+      "title": "Empellon",
+      "place_id": "ChIJ8b70m_tYwokRqGwQgnijLEc",
+      "data_id": "0x89c258fb9bf4bef1:0x472ca37882106ca8",
+      "data_cid": "5128653813641669800",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c258fb9bf4bef1:0x472ca37882106ca8",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c258fb9bf4bef1:0x472ca37882106ca8",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c258fb9bf4bef1:0x472ca37882106ca8",
+      "gps_coordinates": {
+        "latitude": 40.7597022,
+        "longitude": -73.9746995
+      },
+      "provider_id": "/g/11dxd3zskm",
+      "rating": 4.4,
+      "reviews": 1176,
+      "price": "$50–100",
+      "type": "Mexican restaurant",
+      "types": [
+        "Mexican restaurant"
+      ],
+      "type_ids": [
+        "mexican_restaurant"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Dine-in",
+            "Delivery"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great cocktails",
+            "Great wine list"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Private dining room",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Lunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Credit cards"
+          ]
+        },
+        {
+          "children": [
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        },
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Fireplace",
+            "Live music",
+            "Rooftop seating",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "offerings": [
+            "Coat check",
+            "Gluten-free friendly",
+            "Gluten-free options",
+            "Hard cider",
+            "Hot tea",
+            "Local ingredients",
+            "Spicy food",
+            "Tasting menu",
+            "All you can eat"
+          ]
+        },
+        {
+          "dining_options": [
+            "Order ahead",
+            "Breakfast"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions",
+            "Historic",
+            "Quiet"
+          ]
+        },
+        {
+          "crowd": [
+            "Business dinner",
+            "Business lunch",
+            "College students"
+          ]
+        },
+        {
+          "payments": [
+            "Price level",
+            "Cash-only"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Good for kids birthday",
+            "Kids' menu"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "address": "510 Madison Ave, New York, NY 10022",
+      "open_state": "Closed · Opens 11:30 AM",
+      "hours": "Closed · Opens 11:30 AM",
+      "operating_hours": {
+        "wednesday": "11:30 AM–9 PM",
+        "thursday": "11:30 AM–9 PM",
+        "friday": "11:30 AM–10 PM",
+        "saturday": "4:30–10 PM",
+        "sunday": "Closed",
+        "monday": "11:30 AM–9 PM",
+        "tuesday": "11:30 AM–9 PM"
+      },
+      "phone": "+12123801215",
+      "website": "https://www.empellon.com/restaurants/empellon/",
+      "description": "Hip outpost for tacos & cocktails. Contemporary Mexican hot spot turning out innovative tacos & creative cocktails.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnXF8wSUEJz5kHGcXuy7RgxveiKIUtKXxbzAqXB2Hv0s8K5cFkA8agqFhnwVS0IuRTUWcRIXPQQ0UmWshvdmFSm19ZNCA4EjuBl2UYZwBmvvSXvhSUvAztLhtRpithNCGoxdNguOQ=w152-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnXF8wSUEJz5kHGcXuy7RgxveiKIUtKXxbzAqXB2Hv0s8K5cFkA8agqFhnwVS0IuRTUWcRIXPQQ0UmWshvdmFSm19ZNCA4EjuBl2UYZwBmvvSXvhSUvAztLhtRpithNCGoxdNguOQ=w4032-h2268-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Empellon/@40.7597022,-73.9746995,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c258fb9bf4bef1:0x472ca37882106ca8!8m2!3d40.7597022!4d-73.9746995!16s",
+      "rank": 11
+    },
+    {
+      "title": "Carla",
+      "place_id": "ChIJKa4wSktZwokRlEZUE1h08Fw",
+      "data_id": "0x89c2594b4a30ae29:0x5cf0745813544694",
+      "data_cid": "6696980567530161812",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c2594b4a30ae29:0x5cf0745813544694",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c2594b4a30ae29:0x5cf0745813544694",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c2594b4a30ae29:0x5cf0745813544694",
+      "gps_coordinates": {
+        "latitude": 40.763627,
+        "longitude": -73.98686099999999
+      },
+      "provider_id": "/g/11s53zwf0j",
+      "rating": 4.7,
+      "reviews": 792,
+      "price": "$20–60",
+      "type": "Mexican restaurant",
+      "types": [
+        "Mexican restaurant",
+        "Cocktail bar"
+      ],
+      "type_ids": [
+        "mexican_restaurant",
+        "cocktail_bar"
+      ],
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great cocktails"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Late-night food",
+            "Salad bar",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Trendy"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Credit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid street parking",
+            "Parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        },
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Fireplace",
+            "Live music",
+            "Rooftop seating",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "offerings": [
+            "Gluten-free options",
+            "Happy hour",
+            "OK to order just drinks",
+            "All you can eat",
+            "Private dining room"
+          ]
+        },
+        {
+          "dining_options": [
+            "Order ahead"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions",
+            "Historic",
+            "Quiet",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Business dinner",
+            "Business lunch"
+          ]
+        },
+        {
+          "planning": [
+            "Reservations required",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids birthday"
+          ]
+        },
+        {
+          "not_for_display": [
+            "Staff get temperature checks",
+            "Staff required to disinfect surfaces between visits",
+            "Mask required",
+            "Staff wear masks",
+            "Temperature check required"
+          ]
+        }
+      ],
+      "address": "331 W 51st St, New York, NY 10019",
+      "open_state": "Closed · Opens 4:30 PM",
+      "hours": "Closed · Opens 4:30 PM",
+      "operating_hours": {
+        "wednesday": "4:30–9:30 PM",
+        "thursday": "4:30–9:30 PM",
+        "friday": "12–10 PM",
+        "saturday": "11 AM–10 PM",
+        "sunday": "11 AM–9 PM",
+        "monday": "4:30–9:30 PM",
+        "tuesday": "4:30–9:30 PM"
+      },
+      "phone": "+19294044082",
+      "website": "https://www.carlanyc.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkxwSsYWq1s_szv0VDHac_9CGu8D2rIU6ZNvAxPyyZIfOgTCBRFHZBIqH20iU4NwbSNsEUjB9y8Ykkq0R-dnJ5nikt-NPfQWvB9btEBNC_g-j93SQx0eVGDYwXC1GRlsqvHdUfG8g=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkxwSsYWq1s_szv0VDHac_9CGu8D2rIU6ZNvAxPyyZIfOgTCBRFHZBIqH20iU4NwbSNsEUjB9y8Ykkq0R-dnJ5nikt-NPfQWvB9btEBNC_g-j93SQx0eVGDYwXC1GRlsqvHdUfG8g=w4032-h3024-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Carla/@40.763627,-73.98686099999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c2594b4a30ae29:0x5cf0745813544694!8m2!3d40.763627!4d-73.98686099999999!16s",
+      "rank": 12
+    },
+    {
+      "title": "OLIO E PIÙ",
+      "place_id": "ChIJ_RUJvZZZwokRNUEv3K4nSik",
+      "data_id": "0x89c25996bd0915fd:0x294a27aedc2f4135",
+      "data_cid": "2975234135803511093",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c25996bd0915fd:0x294a27aedc2f4135",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c25996bd0915fd:0x294a27aedc2f4135",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c25996bd0915fd:0x294a27aedc2f4135",
+      "gps_coordinates": {
+        "latitude": 40.7338208,
+        "longitude": -73.99979309999999
+      },
+      "provider_id": "/g/1tjyvj49",
+      "rating": 4.7,
+      "reviews": 12580,
+      "price": "$30–70",
+      "type": "Italian restaurant",
+      "types": [
+        "Italian restaurant",
+        "Restaurant"
+      ],
+      "type_ids": [
+        "italian_restaurant",
+        "restaurant"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great cocktails",
+            "Great coffee",
+            "Great wine list",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Hard liquor",
+            "Healthy options",
+            "Late-night food",
+            "Organic dishes",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Lunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations",
+            "Usually a wait"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Credit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking",
+            "Parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed outside"
+          ]
+        },
+        {
+          "service_options": [
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Private events",
+            "Fireplace",
+            "Live music",
+            "Rooftop seating",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "offerings": [
+            "Gluten-free options",
+            "Happy hour",
+            "Hot tea",
+            "All you can eat",
+            "Private dining room"
+          ]
+        },
+        {
+          "dining_options": [
+            "Order ahead",
+            "Counter seating",
+            "Breakfast"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions",
+            "Historic"
+          ]
+        },
+        {
+          "crowd": [
+            "Business dinner",
+            "Business lunch"
+          ]
+        },
+        {
+          "planning": [
+            "Reservations required"
+          ]
+        },
+        {
+          "payments": [
+            "Price level",
+            "Cash-only"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids birthday",
+            "Kids' menu"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        },
+        {
+          "not_for_display": [
+            "Mask required"
+          ]
+        }
+      ],
+      "address": "3 Greenwich Ave, New York, NY 10014",
+      "open_state": "Closed · Opens 11 AM",
+      "hours": "Closed · Opens 11 AM",
+      "operating_hours": {
+        "wednesday": "11 AM–12 AM",
+        "thursday": "11 AM–12 AM",
+        "friday": "11 AM–12 AM",
+        "saturday": "10 AM–12 AM",
+        "sunday": "10 AM–12 AM",
+        "monday": "11 AM–12 AM",
+        "tuesday": "11 AM–12 AM"
+      },
+      "phone": "+12122436546",
+      "website": "https://www.olioepiu.com/",
+      "description": "Neapolitan pizza & pasta. Naples meets NYC at this trattoria with thin-crust pizza, Italian wines & ample sidewalk seating.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlnW-rj9824IMB2guXbmJxQSukyNN6BImQ4rtic0r3vKNSrDnQqK0uT5hrvflzhFDlwdoA2PKHGAHoYDF3rw7aWwC3aFkdHcEbxqc9HsPFYRFyDkoSqqLAl8sTB3lHi5Xho3kjdtg=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlnW-rj9824IMB2guXbmJxQSukyNN6BImQ4rtic0r3vKNSrDnQqK0uT5hrvflzhFDlwdoA2PKHGAHoYDF3rw7aWwC3aFkdHcEbxqc9HsPFYRFyDkoSqqLAl8sTB3lHi5Xho3kjdtg=w2048-h1536-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/OLIO+E+PIÙ/@40.7338208,-73.99979309999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c25996bd0915fd:0x294a27aedc2f4135!8m2!3d40.7338208!4d-73.99979309999999!16s",
+      "rank": 13
+    },
+    {
+      "title": "Kochi - Korean Fine Dining",
+      "place_id": "ChIJN8SzjFRZwokR-b5lqNXcg44",
+      "data_id": "0x89c259548cb3c437:0x8e83dcd5a865bef9",
+      "data_cid": "-8177449688163303687",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c259548cb3c437:0x8e83dcd5a865bef9",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c259548cb3c437:0x8e83dcd5a865bef9",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c259548cb3c437:0x8e83dcd5a865bef9",
+      "gps_coordinates": {
+        "latitude": 40.7619926,
+        "longitude": -73.99346919999999
+      },
+      "provider_id": "/g/11fp1fvkj7",
+      "rating": 4.6,
+      "reviews": 1033,
+      "price": "$100+",
+      "type": "Fine dining restaurant",
+      "types": [
+        "Fine dining restaurant",
+        "Korean restaurant",
+        "Restaurant",
+        "Seafood restaurant"
+      ],
+      "type_ids": [
+        "fine_dining_restaurant",
+        "korean_restaurant",
+        "restaurant",
+        "seafood_restaurant"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Dine-in",
+            "Delivery"
+          ]
+        },
+        {
+          "highlights": [
+            "Great cocktails"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dinner"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Hard liquor",
+            "Small plates",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dinner",
+            "Dessert",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Checks",
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking garage",
+            "Paid street parking",
+            "Parking"
+          ]
+        },
+        {
+          "from_the_business": [
+            "Identifies as Black-owned",
+            "Identifies as veteran-owned",
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "One MICHELIN star",
+            "Fireplace",
+            "Live music",
+            "Rooftop seating",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "offerings": [
+            "Hot tea",
+            "Tasting menu",
+            "All you can eat",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Private dining room",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Catering"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions",
+            "Historic"
+          ]
+        },
+        {
+          "crowd": [
+            "Business dinner",
+            "Family-friendly"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Good for kids birthday",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "not_for_display": [
+            "Staff wear masks",
+            "Mask required",
+            "Staff get temperature checks",
+            "Staff required to disinfect surfaces between visits",
+            "Temperature check required"
+          ]
+        }
+      ],
+      "address": "652 10th Ave, New York, NY 10036",
+      "open_state": "Closed · Opens 5 PM",
+      "hours": "Closed · Opens 5 PM",
+      "operating_hours": {
+        "wednesday": "5–9:30 PM",
+        "thursday": "5–9:30 PM",
+        "friday": "5–10 PM",
+        "saturday": "5–10 PM",
+        "sunday": "5–9:30 PM",
+        "monday": "5–9:30 PM",
+        "tuesday": "5–9:30 PM"
+      },
+      "phone": "+16464787308",
+      "website": "http://kochinyc.com/",
+      "description": "Michelin-starred Korean fine-dining restaurant. Sleek space serving multi course Korean tasting menu made from seasonal  ingredients",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkDRmteYeClCpxjSWE0f04-73jEpbvyir1VP38vr31ZZlH6J5t280xbPMpuBsdBgTwAsl8yfCbUlvxzdAWXrGd0VJE2PpvrMOTMjJsUB1SBD9YTCu3DUlrnrZf7poL-o8g1bfnfug=w129-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkDRmteYeClCpxjSWE0f04-73jEpbvyir1VP38vr31ZZlH6J5t280xbPMpuBsdBgTwAsl8yfCbUlvxzdAWXrGd0VJE2PpvrMOTMjJsUB1SBD9YTCu3DUlrnrZf7poL-o8g1bfnfug=w3600-h2389-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Kochi+-+Korean+Fine+Dining/@40.7619926,-73.99346919999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c259548cb3c437:0x8e83dcd5a865bef9!8m2!3d40.7619926!4d-73.99346919999999!16s",
+      "rank": 14
+    },
+    {
+      "title": "Duomo51",
+      "place_id": "ChIJKRPD1K5ZwokRmyDXkfJPfqk",
+      "data_id": "0x89c259aed4c31329:0xa97e4ff291d7209b",
+      "data_cid": "-6233456930986712933",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c259aed4c31329:0xa97e4ff291d7209b",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c259aed4c31329:0xa97e4ff291d7209b",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c259aed4c31329:0xa97e4ff291d7209b",
+      "gps_coordinates": {
+        "latitude": 40.7600348,
+        "longitude": -73.9782136
+      },
+      "provider_id": "/g/11tfxm82xn",
+      "rating": 4.6,
+      "reviews": 1794,
+      "price": "$50–100",
+      "type": "Italian restaurant",
+      "types": [
+        "Italian restaurant",
+        "Bar",
+        "Lounge bar"
+      ],
+      "type_ids": [
+        "italian_restaurant",
+        "bar",
+        "lounge_bar"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Fireplace",
+            "Great cocktails",
+            "Great coffee",
+            "Great dessert",
+            "Great wine list",
+            "Rooftop seating",
+            "Serves local specialty",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Braille menu",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Hard liquor",
+            "Late-night food",
+            "Organic dishes",
+            "Private dining room",
+            "Salad bar",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Breakfast",
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Family-friendly",
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Credit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking",
+            "Valet parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Private events",
+            "Live music"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "offerings": [
+            "Happy hour",
+            "Hot tea",
+            "OK to order just drinks",
+            "Happy hour food"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions",
+            "Historic"
+          ]
+        },
+        {
+          "crowd": [
+            "Business dinner",
+            "Business lunch",
+            "College students"
+          ]
+        },
+        {
+          "payments": [
+            "Cash-only",
+            "Checks"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids birthday"
+          ]
+        }
+      ],
+      "address": "25 W 51st St 7th floor, New York, NY 10019",
+      "open_state": "Closed · Opens 6:30 AM",
+      "hours": "Closed · Opens 6:30 AM",
+      "operating_hours": {
+        "wednesday": "6:30 AM–10:30 PM",
+        "thursday": "6:30 AM–10:30 PM",
+        "friday": "6:30 AM–10:30 PM",
+        "saturday": "6:30 AM–10:30 PM",
+        "sunday": "6:30 AM–10:30 PM",
+        "monday": "6:30 AM–10:30 PM",
+        "tuesday": "6:30 AM–10:30 PM"
+      },
+      "phone": "+16463988098",
+      "website": "http://www.duomo51.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkaI49YipyUYmO7JM--WbXoZ0E8GefZdZo1Ru091iRcVoMl0dE10LoshMZtIALUaQxduKDw0Vf0mFduDvT9_ZnncEr-Z7Apo5Xjd2j8rk41g0RKUE43gLzH3A6HOC8SppaKWwwtiQ=w129-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkaI49YipyUYmO7JM--WbXoZ0E8GefZdZo1Ru091iRcVoMl0dE10LoshMZtIALUaQxduKDw0Vf0mFduDvT9_ZnncEr-Z7Apo5Xjd2j8rk41g0RKUE43gLzH3A6HOC8SppaKWwwtiQ=w5472-h3648-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Duomo51/@40.7600348,-73.9782136,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c259aed4c31329:0xa97e4ff291d7209b!8m2!3d40.7600348!4d-73.9782136!16s",
+      "rank": 15
+    },
+    {
+      "title": "Per Se",
+      "place_id": "ChIJp3PsL_ZYwokRZYqs_40RJF4",
+      "data_id": "0x89c258f62fec73a7:0x5e24118dffac8a65",
+      "data_cid": "6783566240304368229",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c258f62fec73a7:0x5e24118dffac8a65",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c258f62fec73a7:0x5e24118dffac8a65",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c258f62fec73a7:0x5e24118dffac8a65",
+      "gps_coordinates": {
+        "latitude": 40.768217799999995,
+        "longitude": -73.9828988
+      },
+      "provider_id": "/m/0cqv8y",
+      "rating": 4.5,
+      "reviews": 2149,
+      "price": "$100+",
+      "type": "Fine dining restaurant",
+      "types": [
+        "Fine dining restaurant",
+        "French restaurant"
+      ],
+      "type_ids": [
+        "fine_dining_restaurant",
+        "french_restaurant"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Dine-in",
+            "Delivery"
+          ]
+        },
+        {
+          "highlights": [
+            "Fireplace",
+            "Great cocktails",
+            "Great coffee",
+            "Great tea selection",
+            "Great wine list",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Hard liquor",
+            "Organic dishes",
+            "Private dining room",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dinner",
+            "Dessert",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Quiet",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Reservations required",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Credit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking",
+            "Parking"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Private events",
+            "Three MICHELIN stars",
+            "Live music",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "offerings": [
+            "Gluten-free options",
+            "Hot tea",
+            "Tasting menu",
+            "All you can eat",
+            "Comfort food",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Late-night food",
+            "Salad bar"
+          ]
+        },
+        {
+          "dining_options": [
+            "Counter seating",
+            "Breakfast",
+            "Brunch",
+            "Catering"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions"
+          ]
+        },
+        {
+          "crowd": [
+            "Business dinner",
+            "Business lunch",
+            "College students"
+          ]
+        },
+        {
+          "payments": [
+            "Price level",
+            "Cash-only"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Kids' menu"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking garage",
+            "Free parking lot",
+            "Free street parking"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "address": "10 Columbus Cir, New York, NY 10019",
+      "open_state": "Closed · Opens 4:30 PM",
+      "hours": "Closed · Opens 4:30 PM",
+      "operating_hours": {
+        "wednesday": "4:30–9 PM",
+        "thursday": "4:30–9 PM",
+        "friday": "4:30–9 PM",
+        "saturday": "4:30–9 PM",
+        "sunday": "4:30–9 PM",
+        "monday": "4:30–9 PM",
+        "tuesday": "4:30–9 PM"
+      },
+      "phone": "+12128239335",
+      "website": "https://www.thomaskeller.com/perseny",
+      "description": "Thomas Keller's New American fine dining. Chef Thomas Keller's New American restaurant offers luxe fixed-price menus, with Central Park views.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkL9cJ-sIi_IjFh9MeWw5L-AeBpQOgz7TE_SNYz7j54G6AGoTl8P0zQgaNKGqRIDtpa-aS0rUMKLtgfoRNrk3ckzgyhvdlVHHofcLoXG373DIRpdoUDaKfhzJVPnwsvGtpkMys=w129-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkL9cJ-sIi_IjFh9MeWw5L-AeBpQOgz7TE_SNYz7j54G6AGoTl8P0zQgaNKGqRIDtpa-aS0rUMKLtgfoRNrk3ckzgyhvdlVHHofcLoXG373DIRpdoUDaKfhzJVPnwsvGtpkMys=w678-h452-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Per+Se/@40.768217799999995,-73.9828988,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c258f62fec73a7:0x5e24118dffac8a65!8m2!3d40.768217799999995!4d-73.9828988!16s",
+      "rank": 16
+    },
+    {
+      "title": "Trattoria Dell'Arte",
+      "place_id": "ChIJNaoHnvdYwokRFxwsSD4urZg",
+      "data_id": "0x89c258f79e07aa35:0x98ad2e3e482c1c17",
+      "data_cid": "-7445243763939861481",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c258f79e07aa35:0x98ad2e3e482c1c17",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c258f79e07aa35:0x98ad2e3e482c1c17",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c258f79e07aa35:0x98ad2e3e482c1c17",
+      "gps_coordinates": {
+        "latitude": 40.7653677,
+        "longitude": -73.9803759
+      },
+      "provider_id": "/g/11b7lmdhgj",
+      "rating": 4.4,
+      "reviews": 2670,
+      "price": "$50–100",
+      "type": "Italian restaurant",
+      "types": [
+        "Italian restaurant",
+        "Bar"
+      ],
+      "type_ids": [
+        "italian_restaurant",
+        "bar"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great cocktails",
+            "Great coffee",
+            "Great dessert",
+            "Great wine list",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible seating",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Hard liquor",
+            "Healthy options",
+            "Late-night food",
+            "Private dining room",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Catering",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Lunch reservations recommended",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Credit cards"
+          ]
+        },
+        {
+          "children": [
+            "High chairs"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        },
+        {
+          "service_options": [
+            "Curbside pickup",
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Good value",
+            "Private events",
+            "Fireplace",
+            "Live music",
+            "Rooftop seating",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "offerings": [
+            "Gluten-free options",
+            "Hard cider",
+            "OK to order just drinks",
+            "All you can eat",
+            "Happy hour food"
+          ]
+        },
+        {
+          "dining_options": [
+            "Order ahead",
+            "Breakfast"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions",
+            "Vintage"
+          ]
+        },
+        {
+          "crowd": [
+            "Business dinner",
+            "Business lunch",
+            "College students"
+          ]
+        },
+        {
+          "payments": [
+            "Price level",
+            "Cash-only"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids birthday",
+            "Kids' menu"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        },
+        {
+          "not_for_display": [
+            "Staff required to disinfect surfaces between visits",
+            "Staff wear masks"
+          ]
+        }
+      ],
+      "address": "900 7th Ave, New York, NY 10106",
+      "open_state": "Closed · Opens 12 PM",
+      "hours": "Closed · Opens 12 PM",
+      "operating_hours": {
+        "wednesday": "12–11 PM",
+        "thursday": "12–11 PM",
+        "friday": "12–11 PM",
+        "saturday": "11 AM–11 PM",
+        "sunday": "11 AM–10 PM",
+        "monday": "12–10 PM",
+        "tuesday": "12–11 PM"
+      },
+      "phone": "+12122459800",
+      "website": "http://www.trattoriadellarte.com/",
+      "description": "Lively classic Tuscan trattoria. Tuscan trattoria with a bustling scene, Italian art on the walls & an antipasto bar.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnBuRLVHZ1cW7bpBXScdHOxP7htDzQlVF3kuUyZrnnKEYuPG8Wg74JKVajK2_ftzaMaD04Zp9lZB_ZRgtpi3NBrkdTtYxyz3FuD7yhj0bbG5VnjMo1nPCVy50Niag_rPoQcIg-3n0Pq6Rw=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnBuRLVHZ1cW7bpBXScdHOxP7htDzQlVF3kuUyZrnnKEYuPG8Wg74JKVajK2_ftzaMaD04Zp9lZB_ZRgtpi3NBrkdTtYxyz3FuD7yhj0bbG5VnjMo1nPCVy50Niag_rPoQcIg-3n0Pq6Rw=w4618-h3464-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Trattoria+Dell'Arte/@40.7653677,-73.9803759,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c258f79e07aa35:0x98ad2e3e482c1c17!8m2!3d40.7653677!4d-73.9803759!16s",
+      "rank": 17
+    },
+    {
+      "title": "Rampoldi",
+      "place_id": "ChIJ5zTwDLZZwokROfyxbqLtu2I",
+      "data_id": "0x89c259b60cf034e7:0x62bbeda26eb1fc39",
+      "data_cid": "7114541318259473465",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c259b60cf034e7:0x62bbeda26eb1fc39",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c259b60cf034e7:0x62bbeda26eb1fc39",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c259b60cf034e7:0x62bbeda26eb1fc39",
+      "gps_coordinates": {
+        "latitude": 40.7720947,
+        "longitude": -73.9813502
+      },
+      "provider_id": "/g/11kbjvl3ss",
+      "rating": 4.7,
+      "reviews": 485,
+      "price": "$100+",
+      "type": "Restaurant",
+      "types": [
+        "Restaurant",
+        "French restaurant",
+        "Italian restaurant",
+        "Mediterranean restaurant"
+      ],
+      "type_ids": [
+        "restaurant",
+        "french_restaurant",
+        "italian_restaurant",
+        "mediterranean_restaurant"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Curbside pickup",
+            "No-contact delivery",
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great cocktails",
+            "Great coffee",
+            "Great dessert",
+            "Great wine list",
+            "Live music",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Hard liquor",
+            "Late-night food",
+            "Private dining room",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Dinner",
+            "Catering",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Gender-neutral restroom",
+            "Restroom",
+            "Wi-Fi",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "planning": [
+            "Reservations required",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Credit cards"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Private events",
+            "Fireplace",
+            "Rooftop seating"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "offerings": [
+            "Event space",
+            "All you can eat",
+            "Happy hour food"
+          ]
+        },
+        {
+          "dining_options": [
+            "Order ahead",
+            "Breakfast",
+            "Brunch",
+            "Counter service"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions",
+            "Casual"
+          ]
+        },
+        {
+          "crowd": [
+            "Business dinner",
+            "Business lunch",
+            "College students"
+          ]
+        },
+        {
+          "payments": [
+            "Price level",
+            "Cash-only",
+            "Checks"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids birthday",
+            "Has changing table(s)",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "address": "49 W 64th St, New York, NY 10023",
+      "open_state": "Closed · Opens 5 PM",
+      "hours": "Closed · Opens 5 PM",
+      "operating_hours": {
+        "wednesday": "5–10 PM",
+        "thursday": "4–10 PM",
+        "friday": "3–10 PM",
+        "saturday": "3–10 PM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "5–10 PM"
+      },
+      "phone": "+12127991000",
+      "website": "https://rampoldinyc.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlu-oHYwIZZM36BYjcbxplOPPmQrVeQ_z-FCUMD--PGxjo6cPeTZ4dZgQDvKvaOl4x0vN81Xaqjvpvb9jenHDIYDjBbrlVC2OZLWWRRM5Es9fvnWJQKoUF-3-9zzkqPZRWtn2qA=w133-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlu-oHYwIZZM36BYjcbxplOPPmQrVeQ_z-FCUMD--PGxjo6cPeTZ4dZgQDvKvaOl4x0vN81Xaqjvpvb9jenHDIYDjBbrlVC2OZLWWRRM5Es9fvnWJQKoUF-3-9zzkqPZRWtn2qA=w1024-h662-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Rampoldi/@40.7720947,-73.9813502,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c259b60cf034e7:0x62bbeda26eb1fc39!8m2!3d40.7720947!4d-73.9813502!16s",
+      "rank": 18
+    },
+    {
+      "title": "ROBERT",
+      "place_id": "ChIJbxudM_ZYwokRNZbwXK-_GzE",
+      "data_id": "0x89c258f6339d1b6f:0x311bbfaf5cf09635",
+      "data_cid": "3538632692129109557",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c258f6339d1b6f:0x311bbfaf5cf09635",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c258f6339d1b6f:0x311bbfaf5cf09635",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c258f6339d1b6f:0x311bbfaf5cf09635",
+      "gps_coordinates": {
+        "latitude": 40.767438,
+        "longitude": -73.9819871
+      },
+      "provider_id": "/m/0zfz543",
+      "rating": 4.5,
+      "reviews": 2020,
+      "type": "American restaurant",
+      "types": [
+        "American restaurant"
+      ],
+      "type_ids": [
+        "american_restaurant"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services",
+            "Takeout",
+            "Dine-in",
+            "Delivery"
+          ]
+        },
+        {
+          "highlights": [
+            "Fast service",
+            "Great cocktails",
+            "Great coffee",
+            "Great dessert",
+            "Great wine list",
+            "Live music",
+            "Serves local specialty"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Hard liquor",
+            "Healthy options",
+            "Late-night food",
+            "Small plates",
+            "Vegan options",
+            "Vegetarian options",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups",
+            "LGBTQ+ friendly",
+            "Tourists"
+          ]
+        },
+        {
+          "planning": [
+            "Brunch reservations recommended",
+            "Lunch reservations recommended",
+            "Reservations required",
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Credit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking",
+            "Parking"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "No-contact delivery",
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Private events",
+            "Fireplace",
+            "Rooftop seating",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "offerings": [
+            "Gluten-free options",
+            "Hot tea",
+            "All you can eat",
+            "Happy hour drinks",
+            "Happy hour food",
+            "Quick bite"
+          ]
+        },
+        {
+          "dining_options": [
+            "Catering",
+            "Order ahead"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions",
+            "Casual",
+            "Historic"
+          ]
+        },
+        {
+          "crowd": [
+            "Business dinner",
+            "Business lunch",
+            "College students"
+          ]
+        },
+        {
+          "payments": [
+            "Price level",
+            "Cash-only"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Good for kids birthday",
+            "High chairs",
+            "Kids' menu"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        },
+        {
+          "not_for_display": [
+            "Staff get temperature checks",
+            "Staff wear masks"
+          ]
+        }
+      ],
+      "address": "2 Columbus Cir, New York, NY 10019",
+      "open_state": "Closed · Opens 12 PM",
+      "hours": "Closed · Opens 12 PM",
+      "operating_hours": {
+        "wednesday": "12–10 PM",
+        "thursday": "12–10 PM",
+        "friday": "12–11 PM",
+        "saturday": "11 AM–11 PM",
+        "sunday": "11 AM–11 PM",
+        "monday": "12–10 PM",
+        "tuesday": "12–10 PM"
+      },
+      "phone": "+12122997730",
+      "website": "https://robertnyc.com/?utm_source=googlemybusiness",
+      "description": "Arty museum eatery with sweeping views. New American fare & city views in an arty space on the top-floor of the Museum of Arts & Design.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlfbRh3FOJWr9DrfNpVpLpak-_1zd3HjxhZq3fiNwi6hmplNtlKC-cfMFw3R42euL110vUKw1KVUnbUADQIk53m35t-A_PTZW3EAp4q2fBPWMLcTFDQO6ZU93q9ImgUdfQjZyIw_A=w129-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlfbRh3FOJWr9DrfNpVpLpak-_1zd3HjxhZq3fiNwi6hmplNtlKC-cfMFw3R42euL110vUKw1KVUnbUADQIk53m35t-A_PTZW3EAp4q2fBPWMLcTFDQO6ZU93q9ImgUdfQjZyIw_A=w960-h638-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/ROBERT/@40.767438,-73.9819871,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c258f6339d1b6f:0x311bbfaf5cf09635!8m2!3d40.767438!4d-73.9819871!16s",
+      "rank": 19
+    },
+    {
+      "title": "Wolf at Nordstrom NYC",
+      "place_id": "ChIJDSC7nUFZwokRtEwIc8WdF_Q",
+      "data_id": "0x89c259419dbb200d:0xf4179dc573084cb4",
+      "data_cid": "-858043732626748236",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c259419dbb200d:0xf4179dc573084cb4",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c259419dbb200d:0xf4179dc573084cb4",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c259419dbb200d:0xf4179dc573084cb4",
+      "gps_coordinates": {
+        "latitude": 40.7662427,
+        "longitude": -73.98124349999999
+      },
+      "provider_id": "/g/11hdw658yg",
+      "rating": 4.6,
+      "reviews": 269,
+      "type": "Italian restaurant",
+      "types": [
+        "Italian restaurant",
+        "American restaurant"
+      ],
+      "type_ids": [
+        "italian_restaurant",
+        "american_restaurant"
+      ],
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "highlights": [
+            "Great cocktails",
+            "Great coffee",
+            "Great dessert",
+            "Great wine list"
+          ]
+        },
+        {
+          "popular_for": [
+            "Lunch",
+            "Dinner",
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "offerings": [
+            "Alcohol",
+            "Beer",
+            "Cocktails",
+            "Coffee",
+            "Comfort food",
+            "Happy hour drinks",
+            "Hard liquor",
+            "Private dining room",
+            "Small plates",
+            "Wine"
+          ]
+        },
+        {
+          "dining_options": [
+            "Brunch",
+            "Lunch",
+            "Dinner",
+            "Counter service",
+            "Dessert",
+            "Seating",
+            "Table service"
+          ]
+        },
+        {
+          "amenities": [
+            "Bar onsite",
+            "Restroom",
+            "Wi-Fi",
+            "Wi-Fi"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Cozy",
+            "Romantic",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "planning": [
+            "Dinner reservations recommended",
+            "Accepts reservations"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments",
+            "Credit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Parking"
+          ]
+        },
+        {
+          "service_options": [
+            "Outdoor seating",
+            "Curbside pickup",
+            "Drive-through"
+          ]
+        },
+        {
+          "highlights": [
+            "Fireplace",
+            "Live music",
+            "Sports"
+          ]
+        },
+        {
+          "popular_for": [
+            "Dates"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible elevator"
+          ]
+        },
+        {
+          "offerings": [
+            "Happy hour",
+            "All you can eat"
+          ]
+        },
+        {
+          "dining_options": [
+            "Order ahead",
+            "Counter seating",
+            "Breakfast"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Contemporary",
+            "Special occasions",
+            "Historic"
+          ]
+        },
+        {
+          "crowd": [
+            "Business dinner",
+            "Business lunch",
+            "College students"
+          ]
+        },
+        {
+          "planning": [
+            "Reservations required"
+          ]
+        },
+        {
+          "payments": [
+            "Price level",
+            "Cash-only"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids",
+            "Good for kids birthday",
+            "Kids' menu"
+          ]
+        },
+        {
+          "pets": [
+            "Dogs allowed"
+          ]
+        }
+      ],
+      "address": "225 W 57th St, New York, NY 10019",
+      "open_state": "Closed · Opens 11 AM",
+      "hours": "Closed · Opens 11 AM",
+      "operating_hours": {
+        "wednesday": "11 AM–9 PM",
+        "thursday": "11 AM–9 PM",
+        "friday": "11 AM–10 PM",
+        "saturday": "11 AM–10 PM",
+        "sunday": "12–8 PM",
+        "monday": "11 AM–9 PM",
+        "tuesday": "11 AM–9 PM"
+      },
+      "phone": "+12122952184",
+      "website": "https://www.nordstrom.com/c/nyc-restaurants?utm_source=google&utm_medium=organic&utm_campaign=food&utm_content=24210&utm_channel=low_nd_seo_local&sp_source=google&sp_campaign=food",
+      "description": "Italian eatery at Nordstrom flagship. Contemporary restaurant serving Italian-inspired fare with influences from the Pacific Northwest.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnR3tN4yl_U8mG6j7KcztH-1C_rScMRvZWX32OBdiolzkmygYFrgBQwQeOak9EdMA7hvfzFlrs_I6CuCpetMvZ3tuwQJ9aqe8PWifCkZNv-2oooigCO-hCD9e7uRJ1k2tkTTK31=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnR3tN4yl_U8mG6j7KcztH-1C_rScMRvZWX32OBdiolzkmygYFrgBQwQeOak9EdMA7hvfzFlrs_I6CuCpetMvZ3tuwQJ9aqe8PWifCkZNv-2oooigCO-hCD9e7uRJ1k2tkTTK31=w4032-h3024-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Wolf+at+Nordstrom+NYC/@40.7662427,-73.98124349999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c259419dbb200d:0xf4179dc573084cb4!8m2!3d40.7662427!4d-73.98124349999999!16s",
+      "rank": 20
+    }
+  ]
+}

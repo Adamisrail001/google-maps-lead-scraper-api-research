@@ -1,0 +1,1090 @@
+{
+  "search_results": [
+    {
+      "title": "Marea",
+      "place_id": "ChIJvWSDS_ZYwokRiG9D395loxo",
+      "data_id": "0x89c258f64b8364bd:0x1aa365dedf436f88",
+      "data_cid": "1919489874092846984",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c258f64b8364bd:0x1aa365dedf436f88",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c258f64b8364bd:0x1aa365dedf436f88",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c258f64b8364bd:0x1aa365dedf436f88",
+      "gps_coordinates": {
+        "latitude": 40.7674251,
+        "longitude": -73.9811137
+      },
+      "rating": 4.5,
+      "reviews": 3161,
+      "type": "Italian restaurant",
+      "types": [
+        "Italian restaurant",
+        "Cocktail bar",
+        "Fine dining restaurant",
+        "Lunch restaurant",
+        "Takeout Restaurant",
+        "Restaurant",
+        "Seafood restaurant",
+        "Wine bar"
+      ],
+      "type_ids": [
+        "italian_restaurant",
+        "cocktail_bar",
+        "fine_dining_restaurant",
+        "lunch_restaurant",
+        "takeout_restaurant",
+        "restaurant",
+        "seafood_restaurant",
+        "wine_bar"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "240 Central Park S, New York, NY 10019",
+      "open_state": "Closed · Opens 12 PM",
+      "hours": "Closed · Opens 12 PM",
+      "operating_hours": {
+        "wednesday": "12–10 PM",
+        "thursday": "12–10 PM",
+        "friday": "12–11 PM",
+        "saturday": "12–11 PM",
+        "sunday": "12–10 PM",
+        "monday": "12–10 PM",
+        "tuesday": "12–10 PM"
+      },
+      "phone": "+12125825100",
+      "website": "https://www.marearestaurant.com/new-york?utm_source=GoogleBusinessProfile&utm_medium=organic&utm_campaign=google826",
+      "description": "Fine Italian seafood in a modern setting. High-end Italian seafood & housemade pastas in a chic Central Park South setting.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnq6gtewWE8WZRzAjC9y028MEd--fDEGD9s82XoaW101Ig1YsnwsgDrFFrneuVYcvfXnqSSG9e1WHLQdhQA5UhcUy2lI34gufU007zRVc2v3-ZbzhxSqEdVh3Vy3E9oy5V1mG_XPQ=w180-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnq6gtewWE8WZRzAjC9y028MEd--fDEGD9s82XoaW101Ig1YsnwsgDrFFrneuVYcvfXnqSSG9e1WHLQdhQA5UhcUy2lI34gufU007zRVc2v3-ZbzhxSqEdVh3Vy3E9oy5V1mG_XPQ=w803-h382-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Marea/@40.7674251,-73.9811137,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c258f64b8364bd:0x1aa365dedf436f88!8m2!3d40.7674251!4d-73.9811137!16s",
+      "rank": 1
+    },
+    {
+      "title": "Manhatta",
+      "place_id": "ChIJoTXWl8dbwokRpKA2BJFVsGA",
+      "data_id": "0x89c25bc797d635a1:0x60b055910436a0a4",
+      "data_cid": "6967162704871465124",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c25bc797d635a1:0x60b055910436a0a4",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c25bc797d635a1:0x60b055910436a0a4",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c25bc797d635a1:0x60b055910436a0a4",
+      "gps_coordinates": {
+        "latitude": 40.707997399999996,
+        "longitude": -74.00888259999999
+      },
+      "rating": 4.7,
+      "reviews": 4061,
+      "type": "New American restaurant",
+      "types": [
+        "New American restaurant",
+        "Fine dining restaurant",
+        "Lounge bar"
+      ],
+      "type_ids": [
+        "new_american_restaurant",
+        "fine_dining_restaurant",
+        "lounge_bar"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "address": "28 Liberty St 60th floor, New York, NY 10005",
+      "open_state": "Closed · Opens 11:30 AM",
+      "hours": "Closed · Opens 11:30 AM",
+      "operating_hours": {
+        "wednesday": "11:30 AM–2 PM",
+        "thursday": "11:30 AM–2 PM",
+        "friday": "11:30 AM–2 PM",
+        "saturday": "11:30 AM–2 PM",
+        "sunday": "11:30 AM–2 PM",
+        "monday": "11:30 AM–2 PM",
+        "tuesday": "11:30 AM–2 PM"
+      },
+      "phone": "+12122305788",
+      "website": "https://www.manhattarestaurant.com/restaurant-menu/",
+      "description": "High-end New American meals on 60th floor. Set on the 60th floor, this ritzy, high-end restaurant features New American cuisine and city views.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlrLhCtUa09Qc1HmBV8i1tcujXUIjQi4gnvKLhwQCUvRm4-wBGDsqif9_ducPzB4v-5YOZIL1ATlYl1-4IA_M7YCj2dsUTbHJxEcQXqByBGJ3pdTdtmjMVLLX8XfRH2-w_CSbWvww=w128-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlrLhCtUa09Qc1HmBV8i1tcujXUIjQi4gnvKLhwQCUvRm4-wBGDsqif9_ducPzB4v-5YOZIL1ATlYl1-4IA_M7YCj2dsUTbHJxEcQXqByBGJ3pdTdtmjMVLLX8XfRH2-w_CSbWvww=w1974-h1318-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Manhatta/@40.707997399999996,-74.00888259999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c25bc797d635a1:0x60b055910436a0a4!8m2!3d40.707997399999996!4d-74.00888259999999!16s",
+      "rank": 2
+    },
+    {
+      "title": "Osteria La Baia",
+      "place_id": "ChIJo9FTvDBZwokRFAZ0i4jbLuk",
+      "data_id": "0x89c25930bc53d1a3:0xe92edb888b740614",
+      "data_cid": "-1644135434441980396",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c25930bc53d1a3:0xe92edb888b740614",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c25930bc53d1a3:0xe92edb888b740614",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c25930bc53d1a3:0xe92edb888b740614",
+      "gps_coordinates": {
+        "latitude": 40.7618881,
+        "longitude": -73.9809702
+      },
+      "rating": 4.9,
+      "reviews": 8064,
+      "type": "Italian restaurant",
+      "types": [
+        "Italian restaurant",
+        "Cocktail bar",
+        "Event venue",
+        "Restaurant"
+      ],
+      "type_ids": [
+        "italian_restaurant",
+        "cocktail_bar",
+        "event_venue",
+        "restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "address": "129 W 52nd St, New York, NY 10019",
+      "open_state": "Closed · Opens 8 AM",
+      "hours": "Closed · Opens 8 AM",
+      "operating_hours": {
+        "wednesday": "8–11 AM",
+        "thursday": "8–11 AM",
+        "friday": "8–11 AM",
+        "saturday": "11:30 AM–12 AM",
+        "sunday": "11:30 AM–10 PM",
+        "monday": "8–11 AM",
+        "tuesday": "8–11 AM"
+      },
+      "phone": "+19176719898",
+      "website": "https://www.labaianyc.com/?y_source=1_MTAwNTA2Mjg0My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "description": "Italian fare in a roomy, classy setup. Traditional and creative Italian cuisine plus cocktails in a spacious venue with chic, polished decor.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmXwhW2ZkBCRl3KbFlTZkZiBB1nA0SZjwS9o3jTaWN0kx6YbuSpKbfb7dJAHDZ0-NvABdmbxAv--R7n3l7i-sCnRiqqy0iQHI7fOGFLfDwB6xWfSukjIth7eH1XKELQI8FKv-7g=w128-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmXwhW2ZkBCRl3KbFlTZkZiBB1nA0SZjwS9o3jTaWN0kx6YbuSpKbfb7dJAHDZ0-NvABdmbxAv--R7n3l7i-sCnRiqqy0iQHI7fOGFLfDwB6xWfSukjIth7eH1XKELQI8FKv-7g=w2500-h1667-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Osteria+La+Baia/@40.7618881,-73.9809702,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c25930bc53d1a3:0xe92edb888b740614!8m2!3d40.7618881!4d-73.9809702!16s",
+      "rank": 3
+    },
+    {
+      "title": "The Modern",
+      "place_id": "ChIJMW-gxPtYwokRzDlnsRgq9rA",
+      "data_id": "0x89c258fbc4a06f31:0xb0f62a18b16739cc",
+      "data_cid": "-5695318393219499572",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c258fbc4a06f31:0xb0f62a18b16739cc",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c258fbc4a06f31:0xb0f62a18b16739cc",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c258fbc4a06f31:0xb0f62a18b16739cc",
+      "gps_coordinates": {
+        "latitude": 40.761081,
+        "longitude": -73.976753
+      },
+      "rating": 4.6,
+      "reviews": 2806,
+      "type": "Fine dining restaurant",
+      "types": [
+        "Fine dining restaurant",
+        "Restaurant"
+      ],
+      "type_ids": [
+        "fine_dining_restaurant",
+        "restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "address": "9 W 53rd St, New York, NY 10019",
+      "open_state": "Closed · Opens 12 PM",
+      "hours": "Closed · Opens 12 PM",
+      "operating_hours": {
+        "wednesday": "12–2:30 PM",
+        "thursday": "12–2:30 PM",
+        "friday": "12–2:30 PM",
+        "saturday": "12–2:30 PM",
+        "sunday": "12–2:30 PM",
+        "monday": "12–2:30 PM",
+        "tuesday": "12–2:30 PM"
+      },
+      "phone": "+12123331220",
+      "website": "https://www.themodernnyc.com/the-modern/",
+      "description": "Fine dining at the Museum of Modern Art. French/New American fare in a modernist space with garden views at the Museum of Modern Art.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlYbt50t7toCQeTq-wnHHbB5zNlFSQSQHrVmbvj8WRgAG-rpi970CwwPh_90C99-jHw8vLEkeQEYcJVouBTvjrXU2zaaeSKieUMpF_m1a29Hgap1Ui8rHxp0GJLrvFcOu_8toHMKA=w129-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlYbt50t7toCQeTq-wnHHbB5zNlFSQSQHrVmbvj8WRgAG-rpi970CwwPh_90C99-jHw8vLEkeQEYcJVouBTvjrXU2zaaeSKieUMpF_m1a29Hgap1Ui8rHxp0GJLrvFcOu_8toHMKA=w5616-h3744-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/The+Modern/@40.761081,-73.976753,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c258fbc4a06f31:0xb0f62a18b16739cc!8m2!3d40.761081!4d-73.976753!16s",
+      "rank": 4
+    },
+    {
+      "title": "Felice 56",
+      "place_id": "ChIJw1vpXEFZwokRmCe1i6mUtSI",
+      "data_id": "0x89c259415ce95bc3:0x22b594a98bb52798",
+      "data_cid": "2501068623988467608",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c259415ce95bc3:0x22b594a98bb52798",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c259415ce95bc3:0x22b594a98bb52798",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c259415ce95bc3:0x22b594a98bb52798",
+      "gps_coordinates": {
+        "latitude": 40.7628591,
+        "longitude": -73.97538999999999
+      },
+      "rating": 4.6,
+      "reviews": 960,
+      "type": "Italian restaurant",
+      "types": [
+        "Italian restaurant",
+        "Bar",
+        "Brunch restaurant",
+        "Caterer",
+        "Cocktail bar",
+        "Event venue",
+        "Fine dining restaurant",
+        "Lunch restaurant",
+        "Takeout Restaurant",
+        "Wine bar"
+      ],
+      "type_ids": [
+        "italian_restaurant",
+        "bar",
+        "brunch_restaurant",
+        "caterer",
+        "cocktail_bar",
+        "event_venue",
+        "fine_dining_restaurant",
+        "lunch_restaurant",
+        "takeout_restaurant",
+        "wine_bar"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "address": "15 W 56th St, New York, NY 10019",
+      "open_state": "Closed · Opens 7 AM",
+      "hours": "Closed · Opens 7 AM",
+      "operating_hours": {
+        "wednesday": "7 AM–10 PM",
+        "thursday": "7 AM–10 PM",
+        "friday": "7 AM–10 PM",
+        "saturday": "8 AM–10 PM",
+        "sunday": "8 AM–10 PM",
+        "monday": "7 AM–10 PM",
+        "tuesday": "7 AM–10 PM"
+      },
+      "phone": "+16464377272",
+      "website": "https://www.felicerestaurants.com/felice-56/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmyykJlrHq1iFAWJqzSO8kV9wC6dLJL8YGw_gVgBIZdAXfEDhagGcFclM16Qf1MQ8efn05KaJDz65nCVxZ0n4i6SMKCm23ZfU3v96Jh4Kcnvxy4ADAhd5QyCMUUQf6h0KA9eP6BRw=w129-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmyykJlrHq1iFAWJqzSO8kV9wC6dLJL8YGw_gVgBIZdAXfEDhagGcFclM16Qf1MQ8efn05KaJDz65nCVxZ0n4i6SMKCm23ZfU3v96Jh4Kcnvxy4ADAhd5QyCMUUQf6h0KA9eP6BRw=w3000-h2000-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Felice+56/@40.7628591,-73.97538999999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c259415ce95bc3:0x22b594a98bb52798!8m2!3d40.7628591!4d-73.97538999999999!16s",
+      "rank": 5
+    },
+    {
+      "title": "MOE EATS NYC",
+      "place_id": "ChIJqUTQkGdZwokR9RosCA4orHE",
+      "data_id": "0x89c2596790d044a9:0x71ac280e082c1af5",
+      "data_cid": "8190965863011850997",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c2596790d044a9:0x71ac280e082c1af5",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c2596790d044a9:0x71ac280e082c1af5",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c2596790d044a9:0x71ac280e082c1af5",
+      "gps_coordinates": {
+        "latitude": 40.7597437,
+        "longitude": -73.982321
+      },
+      "rating": 5,
+      "reviews": 555,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant"
+      ],
+      "type_ids": [
+        "restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "address": "120 W 49th St, New York, NY 10020",
+      "open_state": "Closed · Opens 10 AM",
+      "hours": "Closed · Opens 10 AM",
+      "operating_hours": {
+        "wednesday": "10 AM–5 PM",
+        "thursday": "10 AM–5 PM",
+        "friday": "10 AM–1 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "10 AM–5 PM",
+        "tuesday": "10 AM–5 PM"
+      },
+      "phone": "+16465476759",
+      "website": "https://www.moeeatsnyc.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5Klmvyz83iynXm4FmoKKRpKLxw2HIZpZEoRv-1k7obc0s2xtfz5xkMGYQxB6Ha4lAZ6tNXzf_Y1DLuokqzm6nRCaQs2oVXEMrX-7HWLvxWQR8tGJ_aGTrlT_vTzbW-nJFKJQF7MRK6XCg=w86-h114-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5Klmvyz83iynXm4FmoKKRpKLxw2HIZpZEoRv-1k7obc0s2xtfz5xkMGYQxB6Ha4lAZ6tNXzf_Y1DLuokqzm6nRCaQs2oVXEMrX-7HWLvxWQR8tGJ_aGTrlT_vTzbW-nJFKJQF7MRK6XCg=w3024-h4032-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/MOE+EATS+NYC/@40.7597437,-73.982321,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c2596790d044a9:0x71ac280e082c1af5!8m2!3d40.7597437!4d-73.982321!16s",
+      "rank": 6
+    },
+    {
+      "title": "Sicily Osteria",
+      "place_id": "ChIJ03krMjJZwokRYRF15upaCHw",
+      "data_id": "0x89c25932322b79d3:0x7c085aeae6751161",
+      "data_cid": "8937493425452028257",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c25932322b79d3:0x7c085aeae6751161",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c25932322b79d3:0x7c085aeae6751161",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c25932322b79d3:0x7c085aeae6751161",
+      "gps_coordinates": {
+        "latitude": 40.7601601,
+        "longitude": -73.9891863
+      },
+      "rating": 4.6,
+      "reviews": 3522,
+      "type": "Sicilian restaurant",
+      "types": [
+        "Sicilian restaurant",
+        "Italian restaurant"
+      ],
+      "type_ids": [
+        "sicilian_restaurant",
+        "italian_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "address": "328-330 W 46th St, New York, NY 10036",
+      "open_state": "Closed · Opens 12 PM",
+      "hours": "Closed · Opens 12 PM",
+      "operating_hours": {
+        "wednesday": "12–11 PM",
+        "thursday": "12–11 PM",
+        "friday": "12 AM–11 PM",
+        "saturday": "12–11 PM",
+        "sunday": "12–10 PM",
+        "monday": "12–10 PM",
+        "tuesday": "12–10 PM"
+      },
+      "phone": "+16466093417",
+      "website": "http://sicilynyc.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmFSmzkXq5LPLAGYRBwoUs7s3I8zu43r_5ANdxoIyPobiM3X1hDqPSubSAzFW1q_74H4xvQIgJwigUv027qZLezvT0egwJvkrKyqyBFTejQL19K7WqzcMhw8PWwoADvcqCUvpyP=w128-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmFSmzkXq5LPLAGYRBwoUs7s3I8zu43r_5ANdxoIyPobiM3X1hDqPSubSAzFW1q_74H4xvQIgJwigUv027qZLezvT0egwJvkrKyqyBFTejQL19K7WqzcMhw8PWwoADvcqCUvpyP=w1999-h1333-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Sicily+Osteria/@40.7601601,-73.9891863,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c25932322b79d3:0x7c085aeae6751161!8m2!3d40.7601601!4d-73.9891863!16s",
+      "rank": 7
+    },
+    {
+      "title": "Le Bernardin",
+      "place_id": "ChIJV7QQ6kdZwokRax4615zpSGU",
+      "data_id": "0x89c25947ea10b457:0x6548e99cd73a1e6b",
+      "data_cid": "7298340055988969067",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c25947ea10b457:0x6548e99cd73a1e6b",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c25947ea10b457:0x6548e99cd73a1e6b",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c25947ea10b457:0x6548e99cd73a1e6b",
+      "gps_coordinates": {
+        "latitude": 40.7614218,
+        "longitude": -73.9817558
+      },
+      "rating": 4.6,
+      "reviews": 4651,
+      "type": "French restaurant",
+      "types": [
+        "French restaurant",
+        "Fine dining restaurant",
+        "Restaurant"
+      ],
+      "type_ids": [
+        "french_restaurant",
+        "fine_dining_restaurant",
+        "restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "155 W 51st St, New York, NY 10019",
+      "open_state": "Closed · Opens 12 PM",
+      "hours": "Closed · Opens 12 PM",
+      "operating_hours": {
+        "wednesday": "12–2:30 PM",
+        "thursday": "12–2:30 PM",
+        "friday": "12–2:30 PM",
+        "saturday": "5–11 PM",
+        "sunday": "Closed",
+        "monday": "12–2:30 PM",
+        "tuesday": "12–2:30 PM"
+      },
+      "phone": "+12125541515",
+      "unclaimed_business": true,
+      "website": "https://www.le-bernardin.com/home",
+      "description": "Celebrated French seafood restaurant. Elite French restaurant offers chef Eric Ripert's refined seafood, expert service & luxurious decor.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlO5SIPmP91071KhcntgW3UJz1tQUs7cP3hX2mD54cn6UcOWfwitiiJXjF2nwfi3fgrpreEaJZXGAk94wIy35nhHRJkAgvOVf7Wh35Yo9djBz44qlSEoUzAH2PvRZ_2zguq7dMSZA=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlO5SIPmP91071KhcntgW3UJz1tQUs7cP3hX2mD54cn6UcOWfwitiiJXjF2nwfi3fgrpreEaJZXGAk94wIy35nhHRJkAgvOVf7Wh35Yo9djBz44qlSEoUzAH2PvRZ_2zguq7dMSZA=w4032-h3024-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Le+Bernardin/@40.7614218,-73.9817558,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c25947ea10b457:0x6548e99cd73a1e6b!8m2!3d40.7614218!4d-73.9817558!16s",
+      "rank": 8
+    },
+    {
+      "title": "Monkey Bar",
+      "place_id": "ChIJm9ZmFPtYwokR4GjMlk_y7Fg",
+      "data_id": "0x89c258fb1466d69b:0x58ecf24f96cc68e0",
+      "data_cid": "6407762793487689952",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c258fb1466d69b:0x58ecf24f96cc68e0",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c258fb1466d69b:0x58ecf24f96cc68e0",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c258fb1466d69b:0x58ecf24f96cc68e0",
+      "gps_coordinates": {
+        "latitude": 40.759898199999995,
+        "longitude": -73.9732046
+      },
+      "rating": 4.5,
+      "reviews": 1947,
+      "type": "American restaurant",
+      "types": [
+        "American restaurant"
+      ],
+      "type_ids": [
+        "american_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "address": "60 E 54th St, New York, NY 10022",
+      "open_state": "Closed · Opens 11:45 AM",
+      "hours": "Closed · Opens 11:45 AM",
+      "operating_hours": {
+        "wednesday": "11:45 AM–11 PM",
+        "thursday": "11:45 AM–11 PM",
+        "friday": "11:45 AM–11 PM",
+        "saturday": "11:45 AM–11 PM",
+        "sunday": "11:45 AM–10:30 PM",
+        "monday": "11:45 AM–10:30 PM",
+        "tuesday": "11:45 AM–11 PM"
+      },
+      "phone": "+12124040365",
+      "website": "https://nycmonkeybar.com/",
+      "description": "Clubby American power restaurant. Retro murals & swanky furnishings fill this exclusive American eatery with a powerful clientele.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmrTLWOkNptBbIkY3Qa8llhirqUeEzVWo9reufIHOpa7y80pOC-DssY1FnJhmqX_I1UW5ch6FCIIYjdNZiiXqe0X2eySazEKK7No3Om0Hvxr-47CJZMxlCxFJaTcvNn14v-LDeTFA=w129-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmrTLWOkNptBbIkY3Qa8llhirqUeEzVWo9reufIHOpa7y80pOC-DssY1FnJhmqX_I1UW5ch6FCIIYjdNZiiXqe0X2eySazEKK7No3Om0Hvxr-47CJZMxlCxFJaTcvNn14v-LDeTFA=w5760-h3840-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Monkey+Bar/@40.759898199999995,-73.9732046,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c258fb1466d69b:0x58ecf24f96cc68e0!8m2!3d40.759898199999995!4d-73.9732046!16s",
+      "rank": 9
+    },
+    {
+      "title": "Carla",
+      "place_id": "ChIJKa4wSktZwokRlEZUE1h08Fw",
+      "data_id": "0x89c2594b4a30ae29:0x5cf0745813544694",
+      "data_cid": "6696980567530161812",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c2594b4a30ae29:0x5cf0745813544694",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c2594b4a30ae29:0x5cf0745813544694",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c2594b4a30ae29:0x5cf0745813544694",
+      "gps_coordinates": {
+        "latitude": 40.763627,
+        "longitude": -73.98686099999999
+      },
+      "rating": 4.7,
+      "reviews": 792,
+      "type": "Mexican restaurant",
+      "types": [
+        "Mexican restaurant",
+        "Cocktail bar"
+      ],
+      "type_ids": [
+        "mexican_restaurant",
+        "cocktail_bar"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "address": "331 W 51st St, New York, NY 10019",
+      "open_state": "Closed · Opens 4:30 PM",
+      "hours": "Closed · Opens 4:30 PM",
+      "operating_hours": {
+        "wednesday": "4:30–9:30 PM",
+        "thursday": "4:30–9:30 PM",
+        "friday": "12–10 PM",
+        "saturday": "11 AM–10 PM",
+        "sunday": "11 AM–9 PM",
+        "monday": "4:30–9:30 PM",
+        "tuesday": "4:30–9:30 PM"
+      },
+      "phone": "+19294044082",
+      "website": "https://www.carlanyc.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkxwSsYWq1s_szv0VDHac_9CGu8D2rIU6ZNvAxPyyZIfOgTCBRFHZBIqH20iU4NwbSNsEUjB9y8Ykkq0R-dnJ5nikt-NPfQWvB9btEBNC_g-j93SQx0eVGDYwXC1GRlsqvHdUfG8g=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkxwSsYWq1s_szv0VDHac_9CGu8D2rIU6ZNvAxPyyZIfOgTCBRFHZBIqH20iU4NwbSNsEUjB9y8Ykkq0R-dnJ5nikt-NPfQWvB9btEBNC_g-j93SQx0eVGDYwXC1GRlsqvHdUfG8g=w4032-h3024-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Carla/@40.763627,-73.98686099999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c2594b4a30ae29:0x5cf0745813544694!8m2!3d40.763627!4d-73.98686099999999!16s",
+      "rank": 10
+    },
+    {
+      "title": "Amor Loco",
+      "place_id": "ChIJ3ej3nFVYwokRzAPIjwtNjg4",
+      "data_id": "0x89c258559cf7e8dd:0xe8e4d0b8fc803cc",
+      "data_cid": "1048860475276133324",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c258559cf7e8dd:0xe8e4d0b8fc803cc",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c258559cf7e8dd:0xe8e4d0b8fc803cc",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c258559cf7e8dd:0xe8e4d0b8fc803cc",
+      "gps_coordinates": {
+        "latitude": 40.757894199999996,
+        "longitude": -73.98391769999999
+      },
+      "rating": 4.7,
+      "reviews": 6537,
+      "type": "Mexican restaurant",
+      "types": [
+        "Mexican restaurant"
+      ],
+      "type_ids": [
+        "mexican_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "address": "134 W 46th St, New York, NY 10036",
+      "open_state": "Closed · Opens 11:30 AM",
+      "hours": "Closed · Opens 11:30 AM",
+      "operating_hours": {
+        "wednesday": "11:30 AM–12 AM",
+        "thursday": "11:30 AM–12 AM",
+        "friday": "11:30 AM–12 AM",
+        "saturday": "11:30 AM–12 AM",
+        "sunday": "11:30 AM–11 PM",
+        "monday": "11:30 AM–11 PM",
+        "tuesday": "11:30 AM–11 PM"
+      },
+      "phone": "+19172615650",
+      "website": "http://amorloconyc.com/",
+      "description": "Mexican meals in a vibrant eatery. Lively restaurant with colorful decor, offering typical Mexican dishes, cocktails, and brunch.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmBQZM-CodwR1_cgNYbsdNRxFWxA3D0IcX1ajegWvdy0AjA0ZVZFX2vj-ONaFZS8DfdThA5oNwwlbf2zDZEz5b10wFFmmixHWk586Rfa6Cm4t0Fu-lPGU6Xu2Pfi7sH7bG2u3uJ=w125-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmBQZM-CodwR1_cgNYbsdNRxFWxA3D0IcX1ajegWvdy0AjA0ZVZFX2vj-ONaFZS8DfdThA5oNwwlbf2zDZEz5b10wFFmmixHWk586Rfa6Cm4t0Fu-lPGU6Xu2Pfi7sH7bG2u3uJ=w1440-h987-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Amor+Loco/@40.757894199999996,-73.98391769999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c258559cf7e8dd:0xe8e4d0b8fc803cc!8m2!3d40.757894199999996!4d-73.98391769999999!16s",
+      "rank": 11
+    },
+    {
+      "title": "Empellon",
+      "place_id": "ChIJ8b70m_tYwokRqGwQgnijLEc",
+      "data_id": "0x89c258fb9bf4bef1:0x472ca37882106ca8",
+      "data_cid": "5128653813641669800",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c258fb9bf4bef1:0x472ca37882106ca8",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c258fb9bf4bef1:0x472ca37882106ca8",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c258fb9bf4bef1:0x472ca37882106ca8",
+      "gps_coordinates": {
+        "latitude": 40.7597022,
+        "longitude": -73.9746995
+      },
+      "rating": 4.4,
+      "reviews": 1176,
+      "type": "Mexican restaurant",
+      "types": [
+        "Mexican restaurant"
+      ],
+      "type_ids": [
+        "mexican_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "510 Madison Ave, New York, NY 10022",
+      "open_state": "Closed · Opens 11:30 AM",
+      "hours": "Closed · Opens 11:30 AM",
+      "operating_hours": {
+        "wednesday": "11:30 AM–9 PM",
+        "thursday": "11:30 AM–9 PM",
+        "friday": "11:30 AM–10 PM",
+        "saturday": "4:30–10 PM",
+        "sunday": "Closed",
+        "monday": "11:30 AM–9 PM",
+        "tuesday": "11:30 AM–9 PM"
+      },
+      "phone": "+12123801215",
+      "website": "https://www.empellon.com/restaurants/empellon/",
+      "description": "Hip outpost for tacos & cocktails. Contemporary Mexican hot spot turning out innovative tacos & creative cocktails.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnXF8wSUEJz5kHGcXuy7RgxveiKIUtKXxbzAqXB2Hv0s8K5cFkA8agqFhnwVS0IuRTUWcRIXPQQ0UmWshvdmFSm19ZNCA4EjuBl2UYZwBmvvSXvhSUvAztLhtRpithNCGoxdNguOQ=w152-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnXF8wSUEJz5kHGcXuy7RgxveiKIUtKXxbzAqXB2Hv0s8K5cFkA8agqFhnwVS0IuRTUWcRIXPQQ0UmWshvdmFSm19ZNCA4EjuBl2UYZwBmvvSXvhSUvAztLhtRpithNCGoxdNguOQ=w4032-h2268-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Empellon/@40.7597022,-73.9746995,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c258fb9bf4bef1:0x472ca37882106ca8!8m2!3d40.7597022!4d-73.9746995!16s",
+      "rank": 12
+    },
+    {
+      "title": "OLIO E PIÙ",
+      "place_id": "ChIJ_RUJvZZZwokRNUEv3K4nSik",
+      "data_id": "0x89c25996bd0915fd:0x294a27aedc2f4135",
+      "data_cid": "2975234135803511093",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c25996bd0915fd:0x294a27aedc2f4135",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c25996bd0915fd:0x294a27aedc2f4135",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c25996bd0915fd:0x294a27aedc2f4135",
+      "gps_coordinates": {
+        "latitude": 40.7338208,
+        "longitude": -73.99979309999999
+      },
+      "rating": 4.7,
+      "reviews": 12580,
+      "type": "Italian restaurant",
+      "types": [
+        "Italian restaurant",
+        "Restaurant"
+      ],
+      "type_ids": [
+        "italian_restaurant",
+        "restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "address": "3 Greenwich Ave, New York, NY 10014",
+      "open_state": "Closed · Opens 11 AM",
+      "hours": "Closed · Opens 11 AM",
+      "operating_hours": {
+        "wednesday": "11 AM–12 AM",
+        "thursday": "11 AM–12 AM",
+        "friday": "11 AM–12 AM",
+        "saturday": "10 AM–12 AM",
+        "sunday": "10 AM–12 AM",
+        "monday": "11 AM–12 AM",
+        "tuesday": "11 AM–12 AM"
+      },
+      "phone": "+12122436546",
+      "website": "https://www.olioepiu.com/",
+      "description": "Neapolitan pizza & pasta. Naples meets NYC at this trattoria with thin-crust pizza, Italian wines & ample sidewalk seating.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlnW-rj9824IMB2guXbmJxQSukyNN6BImQ4rtic0r3vKNSrDnQqK0uT5hrvflzhFDlwdoA2PKHGAHoYDF3rw7aWwC3aFkdHcEbxqc9HsPFYRFyDkoSqqLAl8sTB3lHi5Xho3kjdtg=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlnW-rj9824IMB2guXbmJxQSukyNN6BImQ4rtic0r3vKNSrDnQqK0uT5hrvflzhFDlwdoA2PKHGAHoYDF3rw7aWwC3aFkdHcEbxqc9HsPFYRFyDkoSqqLAl8sTB3lHi5Xho3kjdtg=w2048-h1536-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/OLIO+E+PIÙ/@40.7338208,-73.99979309999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c25996bd0915fd:0x294a27aedc2f4135!8m2!3d40.7338208!4d-73.99979309999999!16s",
+      "rank": 13
+    },
+    {
+      "title": "Chambers",
+      "place_id": "ChIJ43KaxzxbwokRVjbWT05nZ_M",
+      "data_id": "0x89c25b3cc79a72e3:0xf367674e4fd63656",
+      "data_cid": "-907643213847316906",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c25b3cc79a72e3:0xf367674e4fd63656",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c25b3cc79a72e3:0xf367674e4fd63656",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c25b3cc79a72e3:0xf367674e4fd63656",
+      "gps_coordinates": {
+        "latitude": 40.7145903,
+        "longitude": -74.0075468
+      },
+      "rating": 4.7,
+      "reviews": 408,
+      "type": "New American restaurant",
+      "types": [
+        "New American restaurant",
+        "American restaurant",
+        "Wine bar"
+      ],
+      "type_ids": [
+        "new_american_restaurant",
+        "american_restaurant",
+        "wine_bar"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "address": "94 Chambers St #1, New York, NY 10007",
+      "open_state": "Closed · Opens 5:30 PM",
+      "hours": "Closed · Opens 5:30 PM",
+      "operating_hours": {
+        "wednesday": "5:30–9:30 PM",
+        "thursday": "5:30–9:30 PM",
+        "friday": "5:30–9:30 PM",
+        "saturday": "5:30–9:30 PM",
+        "sunday": "5:30–9:30 PM",
+        "monday": "5:30–9:30 PM",
+        "tuesday": "5:30–9:30 PM"
+      },
+      "phone": "+12125803572",
+      "website": "http://chambers.nyc/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnSqkLddiLy3b4yALjEGKXTvJGlmHD-9y04YD_PmCKZEOr43h9qF396g_0u5t_oUsSXtbBaOfak8IyybgCsSKFHEQD7rF7eCXUkSRCdQGjT2ZBI1uHhr25qw1kGSGdaxbkOOdfx=w128-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnSqkLddiLy3b4yALjEGKXTvJGlmHD-9y04YD_PmCKZEOr43h9qF396g_0u5t_oUsSXtbBaOfak8IyybgCsSKFHEQD7rF7eCXUkSRCdQGjT2ZBI1uHhr25qw1kGSGdaxbkOOdfx=w2200-h1467-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Chambers/@40.7145903,-74.0075468,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c25b3cc79a72e3:0xf367674e4fd63656!8m2!3d40.7145903!4d-74.0075468!16s",
+      "rank": 14
+    },
+    {
+      "title": "Kochi - Korean Fine Dining",
+      "place_id": "ChIJN8SzjFRZwokR-b5lqNXcg44",
+      "data_id": "0x89c259548cb3c437:0x8e83dcd5a865bef9",
+      "data_cid": "-8177449688163303687",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c259548cb3c437:0x8e83dcd5a865bef9",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c259548cb3c437:0x8e83dcd5a865bef9",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c259548cb3c437:0x8e83dcd5a865bef9",
+      "gps_coordinates": {
+        "latitude": 40.7619926,
+        "longitude": -73.99346919999999
+      },
+      "rating": 4.6,
+      "reviews": 1033,
+      "type": "Fine dining restaurant",
+      "types": [
+        "Fine dining restaurant",
+        "Korean restaurant",
+        "Restaurant",
+        "Seafood restaurant"
+      ],
+      "type_ids": [
+        "fine_dining_restaurant",
+        "korean_restaurant",
+        "restaurant",
+        "seafood_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "652 10th Ave, New York, NY 10036",
+      "open_state": "Closed · Opens 5 PM",
+      "hours": "Closed · Opens 5 PM",
+      "operating_hours": {
+        "wednesday": "5–9:30 PM",
+        "thursday": "5–9:30 PM",
+        "friday": "5–10 PM",
+        "saturday": "5–10 PM",
+        "sunday": "5–9:30 PM",
+        "monday": "5–9:30 PM",
+        "tuesday": "5–9:30 PM"
+      },
+      "phone": "+16464787308",
+      "website": "http://kochinyc.com/",
+      "description": "Michelin-starred Korean fine-dining restaurant. Sleek space serving multi course Korean tasting menu made from seasonal  ingredients",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkDRmteYeClCpxjSWE0f04-73jEpbvyir1VP38vr31ZZlH6J5t280xbPMpuBsdBgTwAsl8yfCbUlvxzdAWXrGd0VJE2PpvrMOTMjJsUB1SBD9YTCu3DUlrnrZf7poL-o8g1bfnfug=w129-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkDRmteYeClCpxjSWE0f04-73jEpbvyir1VP38vr31ZZlH6J5t280xbPMpuBsdBgTwAsl8yfCbUlvxzdAWXrGd0VJE2PpvrMOTMjJsUB1SBD9YTCu3DUlrnrZf7poL-o8g1bfnfug=w3600-h2389-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Kochi+-+Korean+Fine+Dining/@40.7619926,-73.99346919999999,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c259548cb3c437:0x8e83dcd5a865bef9!8m2!3d40.7619926!4d-73.99346919999999!16s",
+      "rank": 15
+    },
+    {
+      "title": "Il Corso",
+      "place_id": "ChIJsa1cSPpYwokR2s2zkcnDtSY",
+      "data_id": "0x89c258fa485cadb1:0x26b5c3c991b3cdda",
+      "data_cid": "2789350814726213082",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c258fa485cadb1:0x26b5c3c991b3cdda",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c258fa485cadb1:0x26b5c3c991b3cdda",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c258fa485cadb1:0x26b5c3c991b3cdda",
+      "gps_coordinates": {
+        "latitude": 40.7624381,
+        "longitude": -73.9772014
+      },
+      "rating": 4.6,
+      "reviews": 1112,
+      "type": "Italian restaurant",
+      "types": [
+        "Italian restaurant"
+      ],
+      "type_ids": [
+        "italian_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "address": "54 W 55th St, New York, NY 10019",
+      "open_state": "Closed · Opens 11:30 AM",
+      "hours": "Closed · Opens 11:30 AM",
+      "operating_hours": {
+        "wednesday": "11:30 AM–9:30 PM",
+        "thursday": "11:30 AM–9:30 PM",
+        "friday": "11:30 AM–10:30 PM",
+        "saturday": "11:30 AM–10:30 PM",
+        "sunday": "11:30 AM–9:30 PM",
+        "monday": "11:30 AM–9:30 PM",
+        "tuesday": "11:30 AM–9:30 PM"
+      },
+      "phone": "+12129571500",
+      "website": "http://www.ilcorsorestaurant.com/",
+      "description": "White-tablecloth Italian dining. Fresh pastas dominate a traditional Italian menu in a modern setting with a neighborhood feel.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlsDVimk7fkK2Bl7EwIeOWmkati9Iri_Tl90V_WIa1q6W1OiTmDpWU7PqpNxULQyjiPHBjUVkHnNhwYs5nrE5Noed3uNaJ7Xwf579HoG8R59DhwkN-8pqdBOexUhEcZpl8nNNg=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlsDVimk7fkK2Bl7EwIeOWmkati9Iri_Tl90V_WIa1q6W1OiTmDpWU7PqpNxULQyjiPHBjUVkHnNhwYs5nrE5Noed3uNaJ7Xwf579HoG8R59DhwkN-8pqdBOexUhEcZpl8nNNg=w4032-h3024-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Il+Corso/@40.7624381,-73.9772014,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c258fa485cadb1:0x26b5c3c991b3cdda!8m2!3d40.7624381!4d-73.9772014!16s",
+      "rank": 16
+    },
+    {
+      "title": "Duomo51",
+      "place_id": "ChIJKRPD1K5ZwokRmyDXkfJPfqk",
+      "data_id": "0x89c259aed4c31329:0xa97e4ff291d7209b",
+      "data_cid": "-6233456930986712933",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c259aed4c31329:0xa97e4ff291d7209b",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c259aed4c31329:0xa97e4ff291d7209b",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c259aed4c31329:0xa97e4ff291d7209b",
+      "gps_coordinates": {
+        "latitude": 40.7600348,
+        "longitude": -73.9782136
+      },
+      "rating": 4.6,
+      "reviews": 1794,
+      "type": "Italian restaurant",
+      "types": [
+        "Italian restaurant",
+        "Bar",
+        "Lounge bar"
+      ],
+      "type_ids": [
+        "italian_restaurant",
+        "bar",
+        "lounge_bar"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "25 W 51st St 7th floor, New York, NY 10019",
+      "open_state": "Closed · Opens 6:30 AM",
+      "hours": "Closed · Opens 6:30 AM",
+      "operating_hours": {
+        "wednesday": "6:30 AM–10:30 PM",
+        "thursday": "6:30 AM–10:30 PM",
+        "friday": "6:30 AM–10:30 PM",
+        "saturday": "6:30 AM–10:30 PM",
+        "sunday": "6:30 AM–10:30 PM",
+        "monday": "6:30 AM–10:30 PM",
+        "tuesday": "6:30 AM–10:30 PM"
+      },
+      "phone": "+16463988098",
+      "website": "http://www.duomo51.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkaI49YipyUYmO7JM--WbXoZ0E8GefZdZo1Ru091iRcVoMl0dE10LoshMZtIALUaQxduKDw0Vf0mFduDvT9_ZnncEr-Z7Apo5Xjd2j8rk41g0RKUE43gLzH3A6HOC8SppaKWwwtiQ=w129-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkaI49YipyUYmO7JM--WbXoZ0E8GefZdZo1Ru091iRcVoMl0dE10LoshMZtIALUaQxduKDw0Vf0mFduDvT9_ZnncEr-Z7Apo5Xjd2j8rk41g0RKUE43gLzH3A6HOC8SppaKWwwtiQ=w5472-h3648-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Duomo51/@40.7600348,-73.9782136,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c259aed4c31329:0xa97e4ff291d7209b!8m2!3d40.7600348!4d-73.9782136!16s",
+      "rank": 17
+    },
+    {
+      "title": "Trattoria Dell'Arte",
+      "place_id": "ChIJNaoHnvdYwokRFxwsSD4urZg",
+      "data_id": "0x89c258f79e07aa35:0x98ad2e3e482c1c17",
+      "data_cid": "-7445243763939861481",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c258f79e07aa35:0x98ad2e3e482c1c17",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c258f79e07aa35:0x98ad2e3e482c1c17",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c258f79e07aa35:0x98ad2e3e482c1c17",
+      "gps_coordinates": {
+        "latitude": 40.7653677,
+        "longitude": -73.9803759
+      },
+      "rating": 4.4,
+      "reviews": 2670,
+      "type": "Italian restaurant",
+      "types": [
+        "Italian restaurant",
+        "Bar"
+      ],
+      "type_ids": [
+        "italian_restaurant",
+        "bar"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible seating",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "address": "900 7th Ave, New York, NY 10106",
+      "open_state": "Closed · Opens 12 PM",
+      "hours": "Closed · Opens 12 PM",
+      "operating_hours": {
+        "wednesday": "12–11 PM",
+        "thursday": "12–11 PM",
+        "friday": "12–11 PM",
+        "saturday": "11 AM–11 PM",
+        "sunday": "11 AM–10 PM",
+        "monday": "12–10 PM",
+        "tuesday": "12–11 PM"
+      },
+      "phone": "+12122459800",
+      "website": "http://www.trattoriadellarte.com/",
+      "description": "Lively classic Tuscan trattoria. Tuscan trattoria with a bustling scene, Italian art on the walls & an antipasto bar.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnBuRLVHZ1cW7bpBXScdHOxP7htDzQlVF3kuUyZrnnKEYuPG8Wg74JKVajK2_ftzaMaD04Zp9lZB_ZRgtpi3NBrkdTtYxyz3FuD7yhj0bbG5VnjMo1nPCVy50Niag_rPoQcIg-3n0Pq6Rw=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnBuRLVHZ1cW7bpBXScdHOxP7htDzQlVF3kuUyZrnnKEYuPG8Wg74JKVajK2_ftzaMaD04Zp9lZB_ZRgtpi3NBrkdTtYxyz3FuD7yhj0bbG5VnjMo1nPCVy50Niag_rPoQcIg-3n0Pq6Rw=w4618-h3464-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Trattoria+Dell'Arte/@40.7653677,-73.9803759,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c258f79e07aa35:0x98ad2e3e482c1c17!8m2!3d40.7653677!4d-73.9803759!16s",
+      "rank": 18
+    },
+    {
+      "title": "Per Se",
+      "place_id": "ChIJp3PsL_ZYwokRZYqs_40RJF4",
+      "data_id": "0x89c258f62fec73a7:0x5e24118dffac8a65",
+      "data_cid": "6783566240304368229",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c258f62fec73a7:0x5e24118dffac8a65",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c258f62fec73a7:0x5e24118dffac8a65",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c258f62fec73a7:0x5e24118dffac8a65",
+      "gps_coordinates": {
+        "latitude": 40.768217799999995,
+        "longitude": -73.9828988
+      },
+      "rating": 4.5,
+      "reviews": 2149,
+      "type": "Fine dining restaurant",
+      "types": [
+        "Fine dining restaurant",
+        "French restaurant"
+      ],
+      "type_ids": [
+        "fine_dining_restaurant",
+        "french_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "10 Columbus Cir, New York, NY 10019",
+      "open_state": "Closed · Opens 4:30 PM",
+      "hours": "Closed · Opens 4:30 PM",
+      "operating_hours": {
+        "wednesday": "4:30–9 PM",
+        "thursday": "4:30–9 PM",
+        "friday": "4:30–9 PM",
+        "saturday": "4:30–9 PM",
+        "sunday": "4:30–9 PM",
+        "monday": "4:30–9 PM",
+        "tuesday": "4:30–9 PM"
+      },
+      "phone": "+12128239335",
+      "website": "https://www.thomaskeller.com/perseny",
+      "description": "Thomas Keller's New American fine dining. Chef Thomas Keller's New American restaurant offers luxe fixed-price menus, with Central Park views.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkL9cJ-sIi_IjFh9MeWw5L-AeBpQOgz7TE_SNYz7j54G6AGoTl8P0zQgaNKGqRIDtpa-aS0rUMKLtgfoRNrk3ckzgyhvdlVHHofcLoXG373DIRpdoUDaKfhzJVPnwsvGtpkMys=w129-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkL9cJ-sIi_IjFh9MeWw5L-AeBpQOgz7TE_SNYz7j54G6AGoTl8P0zQgaNKGqRIDtpa-aS0rUMKLtgfoRNrk3ckzgyhvdlVHHofcLoXG373DIRpdoUDaKfhzJVPnwsvGtpkMys=w678-h452-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Per+Se/@40.768217799999995,-73.9828988,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c258f62fec73a7:0x5e24118dffac8a65!8m2!3d40.768217799999995!4d-73.9828988!16s",
+      "rank": 19
+    },
+    {
+      "title": "Rampoldi",
+      "place_id": "ChIJ5zTwDLZZwokROfyxbqLtu2I",
+      "data_id": "0x89c259b60cf034e7:0x62bbeda26eb1fc39",
+      "data_cid": "7114541318259473465",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=REDACTED_API_KEY&data_id=0x89c259b60cf034e7:0x62bbeda26eb1fc39",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=REDACTED_API_KEY&data_id=0x89c259b60cf034e7:0x62bbeda26eb1fc39",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=REDACTED_API_KEY&data_id=0x89c259b60cf034e7:0x62bbeda26eb1fc39",
+      "gps_coordinates": {
+        "latitude": 40.7720947,
+        "longitude": -73.9813502
+      },
+      "rating": 4.7,
+      "reviews": 485,
+      "type": "Restaurant",
+      "types": [
+        "Restaurant",
+        "French restaurant",
+        "Italian restaurant",
+        "Mediterranean restaurant"
+      ],
+      "type_ids": [
+        "restaurant",
+        "french_restaurant",
+        "italian_restaurant",
+        "mediterranean_restaurant"
+      ],
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "address": "49 W 64th St, New York, NY 10023",
+      "open_state": "Closed · Opens 5 PM",
+      "hours": "Closed · Opens 5 PM",
+      "operating_hours": {
+        "wednesday": "5–10 PM",
+        "thursday": "4–10 PM",
+        "friday": "3–10 PM",
+        "saturday": "3–10 PM",
+        "sunday": "Closed",
+        "monday": "Closed",
+        "tuesday": "5–10 PM"
+      },
+      "phone": "+12127991000",
+      "website": "https://rampoldinyc.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlu-oHYwIZZM36BYjcbxplOPPmQrVeQ_z-FCUMD--PGxjo6cPeTZ4dZgQDvKvaOl4x0vN81Xaqjvpvb9jenHDIYDjBbrlVC2OZLWWRRM5Es9fvnWJQKoUF-3-9zzkqPZRWtn2qA=w133-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlu-oHYwIZZM36BYjcbxplOPPmQrVeQ_z-FCUMD--PGxjo6cPeTZ4dZgQDvKvaOl4x0vN81Xaqjvpvb9jenHDIYDjBbrlVC2OZLWWRRM5Es9fvnWJQKoUF-3-9zzkqPZRWtn2qA=w1024-h662-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Rampoldi/@40.7720947,-73.9813502,undefined/data=!3m1!1e3!4m6!3m5!1s0x89c259b60cf034e7:0x62bbeda26eb1fc39!8m2!3d40.7720947!4d-73.9813502!16s",
+      "rank": 20
+    }
+  ]
+}

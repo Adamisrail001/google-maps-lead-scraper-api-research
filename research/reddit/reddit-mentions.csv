@@ -1,0 +1,79 @@
+thread_url,subreddit,provider,mentions,sentiment_flag
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,Apify,9,recommendation (2 comments are self-promo by an Apify actor author)
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,Outscraper,8,mixed (recommendations plus repeated slowness complaints)
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,HasData,4,self-promo (3 comments from vendor account hasdata_com; 1 neutral user mention)
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,Google Places API (official),3,complaint (cost at scale)
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,Local Prospects,3,suspected-self-promo (single account repeatedly advocating)
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,Octoparse,3,recommendation
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,ScraperCity,2,suspected-self-promo
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,Leads Sniper,2,suspected-self-promo
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,LeadStal,2,self-promo (vendor account LeadStal_com)
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,MapsHunt,2,self-promo
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,BrianGuadalupe/google_scraper (GitHub),2,self-promo
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,Clay,1,complaint (overpriced)
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,PhantomBuster,1,neutral (listed as tried)
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,ScrapingBee,1,recommendation
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,D7 Lead Finder,1,recommendation
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,gosom/google-maps-scraper (GitHub),1,recommendation
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,omkarcloud/google-maps-scraper (GitHub),1,recommendation
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,GMaps Extractor (browser extension),1,recommendation
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,Botsol,1,recommendation
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,Oxylabs,1,neutral (called decent in passing)
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,G-Business Extractor,1,suspected-self-promo
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,CoreClaw,1,suspected-self-promo
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,Data-Sniper (Maps Scraper Pro),1,self-promo (vendor account dataSniperLlc)
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,dnleads.co,1,suspected-self-promo
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,gmapsscout.com,1,self-promo (builder)
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,mapsleadextractor.com,1,self-promo (builder)
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,themapgopher.com,1,suspected-self-promo
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,Qoest,1,suspected-self-promo
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,Proxyon (proxies),1,suspected-self-promo
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,Ritchy,1,self-promo (builder)
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,Scrap.io,1,self-promo (referral link)
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,Lead Scrape,1,self-promo (vendor account)
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,BrowserAct,1,suspected-self-promo
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,PandaExtract,1,self-promo (builder)
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,gfastscraper,1,suspected-self-promo
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,mpower Google Maps Data Scraper (CodeCanyon),1,suspected-self-promo
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,WebLeads (webleads.site),1,self-promo (builder)
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,Scrapingdog,1,suspected-self-promo
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,Super Web Scraper (extension),1,suspected-self-promo
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,maps-leads,1,suspected-self-promo
+https://www.reddit.com/r/Entrepreneur/comments/1air9h9/best_google_maps_scraping_tool/,Entrepreneur,Decodo,1,suspected-self-promo
+https://www.reddit.com/r/webscraping/comments/13ew520/google_maps_data_extraction/,webscraping,SmythOS,2,suspected-self-promo
+https://www.reddit.com/r/webscraping/comments/13ew520/google_maps_data_extraction/,webscraping,BlueAcquire,1,self-promo (author admits bias)
+https://www.reddit.com/r/webscraping/comments/13ew520/google_maps_data_extraction/,webscraping,Leads-Extractor.com,1,suspected-self-promo (same account promotes it in other threads)
+https://www.reddit.com/r/webscraping/comments/13ew520/google_maps_data_extraction/,webscraping,G-Business Extractor,1,suspected-self-promo (same account promotes it across threads)
+https://www.reddit.com/r/webscraping/comments/13ew520/google_maps_data_extraction/,webscraping,Octoparse,1,neutral (OP tried it)
+https://www.reddit.com/r/webscraping/comments/13ew520/google_maps_data_extraction/,webscraping,Google Places API (official),1,neutral (OP tried it)
+https://www.reddit.com/r/webscraping/comments/184sdaf/scraping_google_maps_data/,webscraping,SerpApi,3,recommendation (1 of 3 comments is from SerpApi founder account hartator)
+https://www.reddit.com/r/webscraping/comments/184sdaf/scraping_google_maps_data/,webscraping,Apify,2,recommendation
+https://www.reddit.com/r/webscraping/comments/184sdaf/scraping_google_maps_data/,webscraping,Bright Data (datasets),2,suspected-self-promo (posted with affiliate link)
+https://www.reddit.com/r/webscraping/comments/184sdaf/scraping_google_maps_data/,webscraping,Clay,1,recommendation (includes referral-credit offer)
+https://www.reddit.com/r/webscraping/comments/184sdaf/scraping_google_maps_data/,webscraping,Leads-Extractor.com,1,suspected-self-promo (repeat promoter account)
+https://www.reddit.com/r/webscraping/comments/184sdaf/scraping_google_maps_data/,webscraping,webautomation.io,1,suspected-self-promo
+https://www.reddit.com/r/webscraping/comments/184sdaf/scraping_google_maps_data/,webscraping,LetsScrapeData,1,self-promo (vendor account)
+https://www.reddit.com/r/webscraping/comments/184sdaf/scraping_google_maps_data/,webscraping,Google Places/Geocoding API (official),1,recommendation (grid + geocoding DIY approach)
+https://www.reddit.com/r/webscraping/comments/l226nm/scraping_google_maps/,webscraping,SerpApi,1,self-promo (SerpApi employee ilyazub; also gave free DIY method)
+https://www.reddit.com/r/webscraping/comments/l226nm/scraping_google_maps/,webscraping,Octoparse,1,suspected-self-promo (account linking Octoparse blog)
+https://www.reddit.com/r/webscraping/comments/l226nm/scraping_google_maps/,webscraping,QuickScraper.co,1,self-promo (vendor account)
+https://www.reddit.com/r/webscraping/comments/l226nm/scraping_google_maps/,webscraping,G-Business Extractor,1,suspected-self-promo (repeat promoter account)
+https://www.reddit.com/r/webscraping/comments/l226nm/scraping_google_maps/,webscraping,ig-leads.com,1,self-promo (spam-style)
+https://www.reddit.com/r/webscraping/comments/l226nm/scraping_google_maps/,webscraping,Kuwala google-poi (open source),1,self-promo (project account; open-source ETL pipeline)
+https://www.reddit.com/r/webscraping/comments/l226nm/scraping_google_maps/,webscraping,Google Maps/Places API (official),2,recommendation (with free-quota caveat)
+https://www.reddit.com/r/webscraping/comments/rafda5/scraping_an_entire_town_with_google_maps_api/,webscraping,Outscraper,5,recommendation (OP tested: USD 50 for 20000 listings; positive follow-ups)
+https://www.reddit.com/r/webscraping/comments/rafda5/scraping_an_entire_town_with_google_maps_api/,webscraping,Apify (crawler-google-places),2,mixed (1 recommendation; 1 cost complaint)
+https://www.reddit.com/r/webscraping/comments/rafda5/scraping_an_entire_town_with_google_maps_api/,webscraping,SerpApi,1,self-promo (disclosed SerpApi employee)
+https://www.reddit.com/r/webscraping/comments/rafda5/scraping_an_entire_town_with_google_maps_api/,webscraping,TexAu,1,recommendation
+https://www.reddit.com/r/webscraping/comments/rafda5/scraping_an_entire_town_with_google_maps_api/,webscraping,Google Maps/Places API (official),2,neutral (DIY prototype; cost concerns noted)
+https://www.reddit.com/r/webscraping/comments/rafda5/scraping_an_entire_town_with_google_maps_api/,webscraping,Yelp / Yellow Pages (alternative source),1,recommendation (as free alternative)
+https://www.reddit.com/r/webscraping/comments/18p0bug/google_maps_data_scraping/,webscraping,G-Business Extractor,1,suspected-self-promo (repeat promoter account)
+https://www.reddit.com/r/webscraping/comments/18p0bug/google_maps_data_scraping/,webscraping,Google Places API (official),1,recommendation (USD 200 monthly credit)
+https://www.reddit.com/r/webscraping/comments/18p0bug/google_maps_data_scraping/,webscraping,Scrapy / Beautiful Soup (DIY),1,neutral
+https://www.reddit.com/r/webscraping/comments/18p0bug/google_maps_data_scraping/,webscraping,hifivestar,1,self-promo (off-topic review tool)
+https://www.reddit.com/r/webscraping/comments/12apa56/best_tool_for_scrapping_google_maps_and_obtaining/,webscraping,TexAu,1,recommendation
+https://www.reddit.com/r/webscraping/comments/12apa56/best_tool_for_scrapping_google_maps_and_obtaining/,webscraping,Google Places API (official),2,recommendation
+https://www.reddit.com/r/webscraping/comments/1ct8s6g/looking_for_a_scraper_to_check_if_local/,webscraping,Google Places API (official),1,recommendation (cross-reference with business license data)
+https://www.reddit.com/r/webscraping/comments/1ct8s6g/looking_for_a_scraper_to_check_if_local/,webscraping,Yelp (alternative source),1,recommendation
+https://www.reddit.com/r/webscraping/comments/1ct8s6g/looking_for_a_scraper_to_check_if_local/,webscraping,forage.ai,1,self-promo
+https://www.reddit.com/r/webscraping/comments/1ct8s6g/looking_for_a_scraper_to_check_if_local/,webscraping,Titans (dev agency),1,self-promo

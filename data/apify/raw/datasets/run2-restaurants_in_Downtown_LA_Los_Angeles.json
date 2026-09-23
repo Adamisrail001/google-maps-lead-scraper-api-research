@@ -1,0 +1,4496 @@
+[
+  {
+    "place_id": "0x80c2c7b44ee125ff:0x189e483154a17e53",
+    "name": "Bottega Louie",
+    "category": "Italian restaurant",
+    "address": "700 S Grand Ave, Los Angeles, CA 90017",
+    "phone": "(213) 802-1470",
+    "website": "http://www.bottegalouie.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "7 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0470524,
+      "lng": -118.2565439
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1773934679941021267",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:19.438Z"
+  },
+  {
+    "place_id": "0x80c2c78465f106f1:0xaead9539720313f5",
+    "name": "JOEY DTLA",
+    "category": "Restaurant",
+    "address": "700 W 7th St Ste S430, Los Angeles, CA 90017",
+    "phone": "(213) 372-5335",
+    "website": "https://joeyrestaurants.com/location/joey-dtla",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "11 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.048017,
+      "lng": -118.25805059999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12586880607528883189",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "accessibility@joeyrestaurants.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "accessibility@joeyrestaurants.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:19.537Z"
+  },
+  {
+    "place_id": "0x80c2c64b17a7b2a9:0x35a90616562b4544",
+    "name": "Perch",
+    "category": "French restaurant",
+    "address": "448 S Hill St, Los Angeles, CA 90013",
+    "phone": "(213) 802-1770",
+    "website": "http://perchla.com/",
+    "rating": 4.4,
+    "hours": {
+      "Monday": "12:30–1 AM, 4 PM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.0489961,
+      "lng": -118.2514107
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3866628448079004996",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "info@perchla.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@perchla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:19.643Z"
+  },
+  {
+    "place_id": "0x80c2c7b4901ce7c7:0x2ad996c9a82b097c",
+    "name": "Water Grill",
+    "category": "Seafood restaurant",
+    "address": "544 S Grand Ave, Los Angeles, CA 90071",
+    "phone": "(213) 891-0900",
+    "website": "https://www.watergrill.com/la",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0490403,
+      "lng": -118.25470659999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3087664812393171324",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:19.699Z"
+  },
+  {
+    "place_id": "0x80c2c64bbde85bbd:0x94aeb79d4a8cb362",
+    "name": "Maccheroni Republic",
+    "category": "Italian restaurant",
+    "address": "332 S Broadway, Los Angeles, CA 90013",
+    "phone": "(213) 346-9725",
+    "website": "https://maccheronirepublic.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–2 PM, 5–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0500306,
+      "lng": -118.2485361
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10713702449749472098",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "maccheronirepublicdtla@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "maccheronirepublicdtla@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:19.732Z"
+  },
+  {
+    "place_id": "0x80c2c7cd595aa073:0x74030cd853b6818e",
+    "name": "Rossoblu",
+    "category": "Italian restaurant",
+    "address": "1124 San Julian St, Los Angeles, CA 90015",
+    "phone": "(213) 749-1099",
+    "website": "https://www.rossoblula.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.034925,
+      "lng": -118.25335829999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8359539456586711438",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "hello@rossoblula.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@rossoblula.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:19.809Z"
+  },
+  {
+    "place_id": "0x80c2c7f8aead6e93:0xc0ed45bd83ccef8e",
+    "name": "Vaca DTLA",
+    "category": "Steak house",
+    "address": "960 W 7th St, Los Angeles, CA 90017",
+    "phone": "(213) 451-5600",
+    "website": "https://www.vacarestaurant.com/contact-vaca-dtla/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0495482,
+      "lng": -118.26184459999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13901844305024970638",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "la.info@vacarestaurant.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "la.info@vacarestaurant.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@vacarestaurant.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:19.934Z"
+  },
+  {
+    "place_id": "0x80c2c799ced7453f:0xa68a9ddee652bcde",
+    "name": "DAMA Fashion District - Downtown LA Restaurant & Bar",
+    "category": "Restaurant",
+    "address": "612 E 11th St, Los Angeles, CA 90015",
+    "phone": "(213) 741-0612",
+    "website": "https://damafashiondistrict.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.035268699999996,
+      "lng": -118.2531717
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12000577737754590430",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "events@damafashiondistrict.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "events@damafashiondistrict.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "events@happytoserveyou.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "marketing@happytoserveyou.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@damafashiondistrict.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:20.065Z"
+  },
+  {
+    "place_id": "0x80c2c63ec988cfd5:0x7927f2642b088721",
+    "name": "Manuela",
+    "category": "American restaurant",
+    "address": "907 E 3rd St, Los Angeles, CA 90013",
+    "phone": "(323) 849-0480",
+    "website": "https://manuela-la.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–2:30 PM, 5:30–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.046459899999995,
+      "lng": -118.2348337
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8730212914713626401",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:24.129Z"
+  },
+  {
+    "place_id": "0x80c2c63ce6f00001:0x408b2a5b25d4727",
+    "name": "Bavel",
+    "category": "Restaurant",
+    "address": "500 Mateo St #102, Los Angeles, CA 90013",
+    "phone": "(213) 232-4966",
+    "website": "https://baveldtla.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "5–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.041487,
+      "lng": -118.23293129999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=290678600697202471",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "events@baveldtla.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "events@baveldtla.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@baveldtla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "press@baveldtla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:24.165Z"
+  },
+  {
+    "place_id": "0x80c2c757501d5a5d:0x7652aeb4ecd9ad7b",
+    "name": "Girl & the Goat Los Angeles",
+    "category": "New American restaurant",
+    "address": "555-3 Mateo St, Los Angeles, CA 90013",
+    "phone": "(213) 799-4628",
+    "website": "http://girlandthegoat.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "5–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0402258,
+      "lng": -118.2331693
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8526069136656805243",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:24.242Z"
+  },
+  {
+    "place_id": "0x80c2c70c7b0742ab:0x56164f85adb8c160",
+    "name": "BADMAASH Downtown LA",
+    "category": "Indian restaurant",
+    "address": "108 W 2nd St APT 104, Los Angeles, CA 90012",
+    "phone": "(213) 221-7466",
+    "website": "http://www.badmaashla.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "11:30 AM–3 PM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0511033,
+      "lng": -118.24485709999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6203232972313248096",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:24.316Z"
+  },
+  {
+    "place_id": "0x80c2c621d7d91b49:0x5e3e80cfbddfba70",
+    "name": "Bestia",
+    "category": "Italian restaurant",
+    "address": "2121 E 7th Pl, Los Angeles, CA 90021",
+    "phone": "(213) 514-5724",
+    "website": "http://www.bestiala.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "5–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0338338,
+      "lng": -118.2293287
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6791006917853428336",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "events@bestiala.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "events@bestiala.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@bestiala.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "press@bestiala.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:24.341Z"
+  },
+  {
+    "place_id": "0x80c2c7b36bea8483:0x317c184cda3e60ad",
+    "name": "71Above",
+    "category": "Restaurant",
+    "address": "633 W 5th St 71st floor, Los Angeles, CA 90071",
+    "phone": "(213) 712-2683",
+    "website": "https://www.71above.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "5–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.051029199999995,
+      "lng": -118.2544174
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3565751723328692397",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:24.471Z"
+  },
+  {
+    "place_id": "0x80c2c789fef210cf:0xc7571e28f23c86a4",
+    "name": "Casa Ipanema",
+    "category": "Restaurant",
+    "address": "501 S Olive St, Los Angeles, CA 90013",
+    "phone": "(424) 443-4345",
+    "website": "https://www.casaipanema.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.049396099999996,
+      "lng": -118.2531006
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14363982697733064356",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:24.540Z"
+  },
+  {
+    "place_id": "0x80c2c624b2cedb29:0x51a6ea7b406bd139",
+    "name": "The Factory Kitchen",
+    "category": "Italian restaurant",
+    "address": "1300 Factory Pl, Los Angeles, CA 90013",
+    "phone": "(213) 996-6000",
+    "website": "https://thefactorykitchen.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–2:30 PM, 5–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.038983099999996,
+      "lng": -118.2358783
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5883647778288816441",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "info@thefactorykitchen.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@thefactorykitchen.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:24.633Z"
+  },
+  {
+    "place_id": "0x80c2c7b41faab199:0xe9099c5bced647d5",
+    "name": "District",
+    "category": "New American restaurant",
+    "address": "Plaza Level in The Bloc, 700 W 7th St, Los Angeles, CA 90017",
+    "phone": "(213) 612-3185",
+    "website": "https://www.marriott.com/en-us/hotels/laxgr-sheraton-grand-los-angeles/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "6:30–10:30 AM"
+    },
+    "coordinates": {
+      "lat": 34.0480155,
+      "lng": -118.2583847
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16792124603753711573",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:27.116Z"
+  },
+  {
+    "place_id": "0x80c2c6491a958cbf:0x9353f32dc373fe0b",
+    "name": "Redbird",
+    "category": "Restaurant",
+    "address": "114 E 2nd St, Los Angeles, CA 90012",
+    "phone": "(213) 788-1191",
+    "website": "https://redbird.la/?utm_source=google&utm_medium=organic&utm_campaign=gbp_website",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.050562,
+      "lng": -118.24407479999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10616096124520627723",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "events@redbird.la",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "events@redbird.la",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@redbird.la",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "press@redbird.la",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:27.164Z"
+  },
+  {
+    "place_id": "0x80c2c7b3cf51593d:0x33dbbf8578eb16fa",
+    "name": "Drago Centro",
+    "category": "Italian restaurant",
+    "address": "525 Flower St, Los Angeles, CA 90071",
+    "phone": "(213) 228-8998",
+    "website": "https://dragocentro.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.051234,
+      "lng": -118.25732699999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3736790895814186746",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:27.236Z"
+  },
+  {
+    "place_id": "0x80c2c75841e0900d:0x77bd6d8b36a8a58d",
+    "name": "Moonlark’s Dinette",
+    "category": "Restaurant",
+    "address": "1060 S Broadway, Los Angeles, CA 90015",
+    "phone": "(213) 725-5858",
+    "website": "https://www.moonlarksla.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "7:30 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 34.039722,
+      "lng": -118.25852499999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8628172905796642189",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "info@moonlarksla.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@moonlarksla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:27.316Z"
+  },
+  {
+    "place_id": "0x80c2c7b782019c1b:0x24f5d5a36b75f58f",
+    "name": "Yard House",
+    "category": "New American restaurant",
+    "address": "800 W Olympic Blvd A-115, Los Angeles, CA 90015",
+    "phone": "(213) 745-9273",
+    "website": "https://www.yardhouse.com/locations/ca/los-angeles/los-angeles-la-live/8321?cmpid=br:yh_ag:ie_ch:loc_ca:YHGMB_sn:gmb_gt:los-angeles-ca-8321_pl:locurl_rd:1019",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–12:30 AM"
+    },
+    "coordinates": {
+      "lat": 34.0451306,
+      "lng": -118.26568049999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2663269652518794639",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:33.826Z"
+  },
+  {
+    "place_id": "0x80c2c7b58e08cd13:0xcb923faf90b55488",
+    "name": "The Exchange Restaurant",
+    "category": "Californian restaurant",
+    "address": "416 W 8th St, Los Angeles, CA 90014",
+    "phone": "(213) 395-9531",
+    "website": "https://www.theexchangela.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "7 AM–12 PM"
+    },
+    "coordinates": {
+      "lat": 34.044755099999996,
+      "lng": -118.2564556
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14668856959578756232",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:33.846Z"
+  },
+  {
+    "place_id": "0x80c2c64a36bed587:0x1876e4b5418a7d9a",
+    "name": "Orsa & Winston",
+    "category": "Asian fusion restaurant",
+    "address": "122 4th St FARMERS AND MERCHANTS BANK BUILDING, Los Angeles, CA 90013",
+    "phone": "(213) 687-0300",
+    "website": "http://orsaandwinston.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0484248,
+      "lng": -118.2480162
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1762847771301936538",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "info@orsaandwinston.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@orsaandwinston.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:33.916Z"
+  },
+  {
+    "place_id": "0x80c2c64a9166f355:0xa79202ab9195883e",
+    "name": "Guisados",
+    "category": "Mexican restaurant",
+    "address": "BROADWAY ARCADE BUILDING, 541 S Spring St Unit 101, Los Angeles, CA 90013",
+    "phone": "(213) 627-7656",
+    "website": "https://www.guisados.la/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0465944,
+      "lng": -118.2506528
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12074716486838880318",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "guisadostacos@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "guisadostacos@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:34.016Z"
+  },
+  {
+    "place_id": "0x80c2c757666c5533:0xbbc54446c133bd24",
+    "name": "Zinqué DTLA",
+    "category": "Restaurant",
+    "address": "939 S Broadway, Los Angeles, CA 90015",
+    "phone": "(213) 395-0946",
+    "website": "https://lezinque.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "7 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0415551,
+      "lng": -118.257114
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13530295726184316196",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:34.072Z"
+  },
+  {
+    "place_id": "0x80c2c64b8f5b0eb9:0x846e0084319313f3",
+    "name": "Eggslut",
+    "category": "Breakfast restaurant",
+    "address": "317 S Broadway, Los Angeles, CA 90013",
+    "phone": "(213) 625-0292",
+    "website": "https://grandcentralmarket.com/vendors/eggslut/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "8 AM–2 PM"
+    },
+    "coordinates": {
+      "lat": 34.050588499999996,
+      "lng": -118.2486089
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9542565228212065267",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:34.117Z"
+  },
+  {
+    "place_id": "0x80c2c63850150b9d:0x96cdcf9a38a24170",
+    "name": "Sushi Gen",
+    "category": "Sushi restaurant",
+    "address": "422 E 2nd St, Los Angeles, CA 90012",
+    "phone": "(213) 617-0552",
+    "website": "http://www.sushigen-dtla.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–2 PM, 5–8:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0467107,
+      "lng": -118.23861699999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10866569737196945776",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:34.149Z"
+  },
+  {
+    "place_id": "0x80c2c77e24ecd36d:0x2d40ec0b65458811",
+    "name": "Lazy Dog Restaurant & Bar",
+    "category": "Restaurant",
+    "address": "800 W Olympic Blvd A-180, Los Angeles, CA 90015",
+    "phone": "(213) 502-0227",
+    "website": "https://lazydogrestaurants.com/pages/los-angeles-ca-la-live",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0447954,
+      "lng": -118.2652703
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3260865663904090129",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:34.215Z"
+  },
+  {
+    "place_id": "0x80c2c7b71cc1fd5b:0x49d0d4dd6a3e7c43",
+    "name": "Baar Baar - LA",
+    "category": "Indian restaurant",
+    "address": "705 W 9th St, Los Angeles, CA 90015",
+    "phone": "(213) 266-8989",
+    "website": "https://www.baarbaarla.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "5–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.046040399999995,
+      "lng": -118.26150729999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5318985207359896643",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "events@baarbaarla.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "events@baarbaarla.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@baarbaarla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:37.876Z"
+  },
+  {
+    "place_id": "0x80c2c7b8abbb67e3:0x9be0075987387ab6",
+    "name": "Settecento DTLA",
+    "category": "Italian restaurant",
+    "address": "700 W 5th St, Los Angeles, CA 90071",
+    "phone": "(213) 757-7765",
+    "website": "https://www.settecentodtla.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0510388,
+      "lng": -118.2557575
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11231985551764126390",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:37.913Z"
+  },
+  {
+    "place_id": "0x80c2c73dcc0265bf:0x4250f858266d36da",
+    "name": "Massilia - DTLA",
+    "category": "Restaurant",
+    "address": "100 S Grand Ave, Los Angeles, CA 90012",
+    "phone": "(213) 221-7231",
+    "website": "https://www.massilia.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "7 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.055156,
+      "lng": -118.24876309999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4778592262125598426",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:37.941Z"
+  },
+  {
+    "place_id": "0x80c2c70048812d49:0x63d84037aeae67ca",
+    "name": "SORA Craft Kitchen",
+    "category": "Mediterranean restaurant",
+    "address": "1109 E 12th St, Los Angeles, CA 90021",
+    "phone": "(213) 537-0654",
+    "website": "https://soracraftkitchen.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.031228999999996,
+      "lng": -118.24741039999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7194571012622411722",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:37.996Z"
+  },
+  {
+    "place_id": "0x80c2c64a30bef53d:0xfab8c3b719a965a5",
+    "name": "le dräQ by Bar Amá & Bäco Mercat",
+    "category": "Tex-Mex restaurant",
+    "address": "118 4th St, Los Angeles, CA 90013",
+    "phone": "(213) 687-8002",
+    "website": "http://bar-ama.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.048414799999996,
+      "lng": -118.2479281
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18066405096373708197",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "info@bar-ama.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@bar-ama.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:38.033Z"
+  },
+  {
+    "place_id": "0x80c2c63b819c5a17:0x560b879100a3bb9f",
+    "name": "Urth Caffe",
+    "category": "Coffee shop",
+    "address": "459 S Hewitt St, Los Angeles, CA 90013",
+    "phone": "(213) 797-4534",
+    "website": "https://www.urthcaffe.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "7 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.041989199999996,
+      "lng": -118.23546089999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6200198368856357791",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:38.096Z"
+  },
+  {
+    "place_id": "0x80c2c7cb50cbde27:0x657b5b84be1a31ec",
+    "name": "BROKEN MOUTH | Lee's Homestyle",
+    "category": "Asian fusion restaurant",
+    "address": "718 S Los Angeles St, Los Angeles, CA 90014",
+    "phone": "(213) 418-9588",
+    "website": "http://eatbrokenmouth.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "12–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0426801,
+      "lng": -118.2506806
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7312539045649330668",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "hello@eatbrokenmouth.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@eatbrokenmouth.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:38.136Z"
+  },
+  {
+    "place_id": "0x80c2c7b52be23721:0x321152099303a21b",
+    "name": "Mrs. Fish",
+    "category": "Japanese restaurant",
+    "address": "448 S Hill St, Los Angeles, CA 90013",
+    "phone": "(213) 873-4444",
+    "website": "http://www.mrsfish.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.048884,
+      "lng": -118.25145889999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3607754977575150107",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "info@mrsfish.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@mrsfish.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:38.230Z"
+  },
+  {
+    "place_id": "0x80c2c7a9ecccab1b:0xf04e981b14f4e80b",
+    "name": "NIKU X",
+    "category": "Fine dining restaurant",
+    "address": "900 Wilshire Blvd Ste 212, Los Angeles, CA 90017",
+    "phone": "(323) 894-3638",
+    "website": "http://nikux.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "5–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0500335,
+      "lng": -118.2604064
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17315944859369269259",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "newyork@nikux.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "newyork@nikux.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "press@nikux.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:41.786Z"
+  },
+  {
+    "place_id": "0x80c2c700687cf0e9:0x45a30bdcf79870c5",
+    "name": "Restaurant Ki",
+    "category": "Korean restaurant",
+    "address": "111 San Pedro St, Los Angeles, CA 90012",
+    "phone": "(213) 786-3154",
+    "website": "https://restaurantki.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0500968,
+      "lng": -118.2413802
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5017867453495537861",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "info@restaurantki.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@restaurantki.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:41.834Z"
+  },
+  {
+    "place_id": "0x80c2c7b2d549c8b5:0xb1248293d0cf8a93",
+    "name": "Nick + Stef's Steakhouse",
+    "category": "Steak house",
+    "address": "330 S Hope St, Los Angeles, CA 90071",
+    "phone": "(213) 680-0330",
+    "website": "https://www.nickandstefs.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0527655,
+      "lng": -118.2524964
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12764470815249894035",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:41.928Z"
+  },
+  {
+    "place_id": "0x80c2c7cbc7fede2d:0x94a55550c5f76d0c",
+    "name": "Dune Downtown",
+    "category": "Falafel restaurant",
+    "address": "199 W Olympic Blvd, Los Angeles, CA 90015",
+    "phone": "(213) 628-3586",
+    "website": "https://www.dunekitchen.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.040909,
+      "lng": -118.2570592
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10711061094177664268",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "atwater@dunekitchen.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "atwater@dunekitchen.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "downtown@dunekitchen.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:41.954Z"
+  },
+  {
+    "place_id": "0x80c2c63809621ab5:0x23a6909b2d69e3ff",
+    "name": "Spitz Mediterranean Street Food",
+    "category": "Mediterranean restaurant",
+    "address": "371 E 2nd St, Los Angeles, CA 90012",
+    "phone": "(213) 613-0101",
+    "website": "https://spitz-restaurant.com/mediterranean-food-little-tokyo-restaurant-bar/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0482456,
+      "lng": -118.2398173
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2568899633617691647",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:50.532Z"
+  },
+  {
+    "place_id": "0x80c2c65adf56b007:0x3029097586d1a8f8",
+    "name": "The Little Jewel of New Orleans",
+    "category": "Cajun restaurant",
+    "address": "207 Ord St, Los Angeles, CA 90012",
+    "phone": "(213) 620-0461",
+    "website": "https://littlejewel.net/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10:30 AM–3:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0600891,
+      "lng": -118.2382038
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3470315388243388664",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:50.648Z"
+  },
+  {
+    "place_id": "0x80c2c7e543b47ca7:0x270a829ce570599d",
+    "name": "Bossa Nova Brazilian Cuisine",
+    "category": "Brazilian restaurant",
+    "address": "321 W Olympic Blvd Ste B, Los Angeles, CA 90015",
+    "phone": "(213) 377-9440",
+    "website": "https://www.bossafood.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–1 AM",
+      "Monday": "11 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.0423792,
+      "lng": -118.25925339999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2813204527622150557",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:50.726Z"
+  },
+  {
+    "place_id": "0x80c2c65a5fa77793:0x528753c7437c1001",
+    "name": "Lasita",
+    "category": "Filipino restaurant",
+    "address": "727 N Broadway #120, Los Angeles, CA 90012",
+    "phone": "(213) 443-6163",
+    "website": "http://www.lasita-la.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "5:30–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.061472,
+      "lng": -118.2394817
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5946813948261830657",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "hello@lasita-la.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@lasita-la.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:50.746Z"
+  },
+  {
+    "place_id": "0x80c2c7f9cc8ed8ff:0x5a4ba45cbe7271df",
+    "name": "Ristorante Per L’Ora",
+    "category": "Italian restaurant",
+    "address": "649 S Olive St, Los Angeles, CA 90014",
+    "phone": "(213) 358-0000",
+    "website": "https://www.hotelperla.com/dine/#perlora",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "7–11 AM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0469978,
+      "lng": -118.2553544
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6506474804905931231",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:50.827Z"
+  },
+  {
+    "place_id": "0x80c2c64a6dbfd737:0x857cce870521b7b0",
+    "name": "Yuko Kitchen DTLA",
+    "category": "Japanese restaurant",
+    "address": "101 W 5th St, Los Angeles, CA 90013",
+    "phone": "(213) 266-0046",
+    "website": "http://yukokitchen.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0469661,
+      "lng": -118.2485418
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9618789983458539440",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "yukokitchenla@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "yukokitchenla@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:50.852Z"
+  },
+  {
+    "place_id": "0x80c2c7b77ca40001:0xeef9c8c4617f99c5",
+    "name": "Florence By the Water",
+    "category": "Restaurant",
+    "address": "939 S Figueroa St, Los Angeles, CA 90015",
+    "phone": "(213) 627-8971",
+    "website": "http://florencebythewater.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.045529,
+      "lng": -118.2640141
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17220015396002699717",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:50.974Z"
+  },
+  {
+    "place_id": "0x80c2c733a95502ad:0xf4b9403ec8914b81",
+    "name": "Cabrillo",
+    "category": "Portuguese restaurant",
+    "address": "Proper Hotel, 1100 S Broadway, Los Angeles, CA 90015",
+    "phone": "(213) 806-1023",
+    "website": "http://properhotel.com/downtown-la/restaurants-bars/cabrillo",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "7 AM–12 PM, 4–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0393757,
+      "lng": -118.2589819
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17634196454343003009",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:51.017Z"
+  },
+  {
+    "place_id": "0x80c2c644e146059b:0x967541a59d8ee780",
+    "name": "La Noche Buena Restaurant",
+    "category": "Mexican restaurant",
+    "address": "12 Olvera St E8, Los Angeles, CA 90012",
+    "phone": "(213) 628-2078",
+    "website": "https://lanochebuena.top/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 34.0571741,
+      "lng": -118.2381755
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10841643857533134720",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:59.107Z"
+  },
+  {
+    "place_id": "0x80c2c72f23a89bf3:0x1c56ba2d40aac55",
+    "name": "Sandcouch Cafe",
+    "category": "Restaurant",
+    "address": "555 W 7th St, Los Angeles, CA 90014",
+    "phone": "(213) 721-0800",
+    "website": "https://www.sandcouchcafe.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "7 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0473317,
+      "lng": -118.256383
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=127626511536270421",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "jmpark@sandcouchcafe.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "jmpark@sandcouchcafe.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:59.141Z"
+  },
+  {
+    "place_id": "0x80c2c79efb3fa303:0x88745efc8a9760ed",
+    "name": "Broad Street Oyster Company",
+    "category": "Seafood restaurant",
+    "address": "317 S Broadway, Los Angeles, CA 90013",
+    "website": "http://www.broadstreetoyster.com/",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.051052,
+      "lng": -118.2493274
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9832588325206581485",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:59.183Z"
+  },
+  {
+    "place_id": "0x80c2c652156b0c39:0x45d2bb106f54d971",
+    "name": "Abernethy's",
+    "category": "Fusion restaurant",
+    "address": "220 N Hope St, Los Angeles, CA 90012",
+    "phone": "(213) 962-4867",
+    "website": "https://abernethysla.com/",
+    "rating": 4.6,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0575599,
+      "lng": -118.2483252
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5031289412987967857",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:59.210Z"
+  },
+  {
+    "place_id": "0x80c2c7b1018539ef:0x862339de4099a7f7",
+    "name": "Harbor House",
+    "category": "New American restaurant",
+    "address": "1000 Wilshire Blvd, Los Angeles, CA 90017",
+    "website": "http://www.harborhousedtla.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "7:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0508488,
+      "lng": -118.2608247
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9665632851996551159",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:59.232Z"
+  },
+  {
+    "place_id": "0x80c2c648f44fead7:0x314cd244c088de27",
+    "name": "Justice Urban Tavern",
+    "category": "Gastropub",
+    "address": "120 S Los Angeles St, Los Angeles, CA 90012",
+    "phone": "(213) 253-9235",
+    "website": "https://justiceurbantaverngo.site/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "6–11 AM, 5–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.050996,
+      "lng": -118.24244589999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3552445398818283047",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:59.253Z"
+  },
+  {
+    "place_id": "0x80c2c7dd67531f79:0xcbfebb3870151ba1",
+    "name": "Patties N Tingz",
+    "category": "Jamaican restaurant",
+    "address": "312 W 5th St R105, Los Angeles, CA 90013",
+    "phone": "(213) 266-8971",
+    "website": "https://pattiesntingzdtla.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0480407,
+      "lng": -118.25129179999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14699392084856871841",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:59.272Z"
+  },
+  {
+    "place_id": "0x80c2bb684a20dd9d:0xa5a8ac9b5becd509",
+    "name": "Kato Restaurant",
+    "category": "Taiwanese restaurant",
+    "address": "777 S Alameda St Bldg 1, Suite 114, Los Angeles, CA 90021",
+    "phone": "(213) 797-5770",
+    "website": "http://katorestaurant.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0341749,
+      "lng": -118.2410628
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11936980595607655689",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:06.099Z"
+  },
+  {
+    "place_id": "0x80c2c64b8e4372e7:0x489d4efdeb06d3d8",
+    "name": "Grand Central Market",
+    "category": "Food court",
+    "address": "317 S Broadway, Los Angeles, CA 90013",
+    "phone": "(213) 359-6007",
+    "website": "https://grandcentralmarket.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.050872,
+      "lng": -118.2490552
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5232425194551170008",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:06.126Z"
+  },
+  {
+    "place_id": "0x80c2c7b25aecbc23:0x2998fa257ce25f20",
+    "name": "LA Prime Steakhouse",
+    "category": "Steak house",
+    "address": "404 S Figueroa St, Los Angeles, CA 90071",
+    "phone": "(213) 612-4743",
+    "website": "https://www.laprimesteakhouse.com/?utm_source=google&utm_medium=Yext",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.052348699999996,
+      "lng": -118.25569619999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2997420590931009312",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "duc.newtran@westinbonaventure.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "duc.newtran@westinbonaventure.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:06.166Z"
+  },
+  {
+    "place_id": "0x80c2c64d1b82e9d5:0xe033998e5bde0d47",
+    "name": "Vespaio",
+    "category": "Italian restaurant",
+    "address": "225 S Grand Ave #504, Los Angeles, CA 90012",
+    "phone": "(213) 971-4474",
+    "website": "https://www.vespaiodtla.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "11 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0538862,
+      "lng": -118.25080129999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16155425125013785927",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "vespaiodtla@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "vespaiodtla@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:06.215Z"
+  },
+  {
+    "place_id": "0x80c2c64a91668cab:0x3f4754c09078da6e",
+    "name": "Blu Jam Cafe",
+    "category": "New American restaurant",
+    "address": "541 S Spring St Unit 110, Los Angeles, CA 90013",
+    "phone": "(213) 600-7383",
+    "website": "http://www.blujamcafe.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "8:30 AM–2 PM"
+    },
+    "coordinates": {
+      "lat": 34.0468646,
+      "lng": -118.25120199999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4559706333770209902",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "info@blujamcafe.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@blujamcafe.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:06.254Z"
+  },
+  {
+    "place_id": "0x80c2c7b40e9d7011:0xa07b540312427245",
+    "name": "JINYA Ramen Bar - Downtown LA",
+    "category": "Restaurant",
+    "address": "700 Wilshire Blvd Ste B, Los Angeles, CA 90017",
+    "phone": "(213) 628-3736",
+    "website": "https://www.jinyaramenbar.com/locations/downtown-la/?utm_medium=soci&utm_source=gmb",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0486892,
+      "lng": -118.25741889999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11563928840371860037",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:06.370Z"
+  },
+  {
+    "place_id": "0x80c2c64c92c93821:0x2cb7f1001a273c5e",
+    "name": "Noe Restaurant & Bar",
+    "category": "Bar & grill",
+    "address": "251 S Olive St, Los Angeles, CA 90012",
+    "phone": "(213) 356-4100",
+    "website": "https://www.omnihotels.com/hotels/los-angeles-california-plaza/dining/noe-restaurant",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "5–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0526033,
+      "lng": -118.2505193
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3222309041147952222",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:06.390Z"
+  },
+  {
+    "place_id": "0x80c2c7b9fe504af9:0x11f0792d7b7c0475",
+    "name": "Metropole Bar + Kitchen",
+    "category": "Californian restaurant",
+    "address": "899 Francisco St, Los Angeles, CA 90017",
+    "phone": "(213) 232-8866",
+    "website": "https://www.ihg.com/hotelindigo/hotels/us/en/los-angeles/laxfs/hoteldetail/dining",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "6:30 AM–2 PM, 4–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0474708,
+      "lng": -118.26453219999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1292666329307546741",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:06.415Z"
+  },
+  {
+    "place_id": "0x80c2c7ec2c0d1e43:0xac1498474e50ffbf",
+    "name": "Denae’s Diner",
+    "category": "Diner",
+    "address": "The Delphi Downtown LA, 550 Flower St, Los Angeles, CA 90071",
+    "phone": "(213) 439-3002",
+    "website": "https://www.denaesdiner.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7 AM–2 PM"
+    },
+    "coordinates": {
+      "lat": 34.050205,
+      "lng": -118.2569793
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12399703106081849279",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "info@denaesdiner.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@denaesdiner.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:10.856Z"
+  },
+  {
+    "place_id": "0x80c2c7cadb8f1b35:0x3bb3e6bace4e54b1",
+    "name": "Peking Tavern",
+    "category": "Chinese restaurant",
+    "address": "236 S Los Angeles St Ste g, Los Angeles, CA 90012",
+    "phone": "(213) 393-7106",
+    "website": "https://www.pekingtavern.com/home",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "6 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.0494687,
+      "lng": -118.24374909999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4302035759068501169",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:10.911Z"
+  },
+  {
+    "place_id": "0x80c2c7c9e450aad7:0x55f6a7ac45bad129",
+    "name": "L'APPART by AIR FOOD",
+    "category": "French restaurant",
+    "address": "541 S Spring St Unit 112/113, Los Angeles, CA 90013",
+    "phone": "(213) 297-0633",
+    "website": "http://www.air-food.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.046655,
+      "lng": -118.250964
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6194322695840780585",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "culture@air-food.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "culture@air-food.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:10.937Z"
+  },
+  {
+    "place_id": "0x80c2c6480ea535e9:0xeb68d5c34e5896e9",
+    "name": "Kouraku Japanese Ramen & Grill",
+    "category": "Japanese restaurant",
+    "address": "314 E 2nd St, Los Angeles, CA 90012",
+    "phone": "(213) 687-4972",
+    "website": "https://kouraku.square.site/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "7–10:30 AM, 11:30 AM–1 AM",
+      "Monday": "7–10:30 AM, 11:30 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.0489306,
+      "lng": -118.2414182
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16963043031300740841",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:11.037Z"
+  },
+  {
+    "place_id": "0x80c2c64c17afd217:0x59ff5d48b6131823",
+    "name": "Cherry Pick Cafe",
+    "category": "Cafe",
+    "address": "208 S Hill St, Los Angeles, CA 90012",
+    "phone": "(213) 687-0700",
+    "website": "https://www.cherrypickcafe.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "7 AM–2:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0527569,
+      "lng": -118.24786359999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6485004555310536739",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:11.085Z"
+  },
+  {
+    "place_id": "0x80c2c794551690e7:0x2e626de3503078ac",
+    "name": "Zankou Chicken Downtown LA",
+    "category": "Mediterranean restaurant",
+    "address": "611 W 7th St, Los Angeles, CA 90017",
+    "phone": "(213) 550-3455",
+    "website": "https://zankouchicken.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0477337,
+      "lng": -118.256875
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3342354696532687020",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:11.119Z"
+  },
+  {
+    "place_id": "0x80c2c6529c0f4b7b:0xe486235160d450c4",
+    "name": "Âu Lạc",
+    "category": "Vegan restaurant",
+    "address": "710 W 1st St, Los Angeles, CA 90012",
+    "phone": "(213) 617-2533",
+    "website": "http://www.aulac.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12–3 PM, 5–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0562211,
+      "lng": -118.25074939999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16466887919950647492",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:11.215Z"
+  },
+  {
+    "place_id": "0x80c2c7d5279490eb:0x4374ad061c2c67de",
+    "name": "Danny Boy's Famous Original Pizza",
+    "category": "Pizza restaurant",
+    "address": "330 S Hope St Suite 205, Los Angeles, CA 90071",
+    "phone": "(213) 772-7664",
+    "website": "http://www.dannyboysfamousoriginalpizza.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9:30 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0528683,
+      "lng": -118.2524942
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4860700139593689054",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "info@dannyboysfamouspizza.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@dannyboysfamouspizza.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:11.263Z"
+  },
+  {
+    "place_id": "0x80c2c74dbdf2a0cd:0xacb36dde1e2306c9",
+    "name": "Guzzu Bento-ya",
+    "category": "Restaurant",
+    "address": "1102 Lawrence St, Los Angeles, CA 90021",
+    "phone": "(310) 858-0336",
+    "website": "http://www.guzzubentoya.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "10 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 34.0304643,
+      "lng": -118.2365717
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12444410996110591689",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:17.293Z"
+  },
+  {
+    "place_id": "0x80c2c7b49b13da53:0x4711c6fcf8cd32e2",
+    "name": "Checkers Downtown Restaurant",
+    "category": "Californian restaurant",
+    "address": "535 S Grand Ave, Los Angeles, CA 90071",
+    "phone": "(213) 624-0000",
+    "website": "https://www.hilton.com/en/hotels/laxchhf-hilton-checkers-los-angeles/dining/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "6–9:30 AM"
+    },
+    "coordinates": {
+      "lat": 34.0496001,
+      "lng": -118.2549767
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5121093041105220322",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:17.324Z"
+  },
+  {
+    "place_id": "0x80c2c7b6a0fb82ad:0x6eb98ee35b597093",
+    "name": "Alamo Drafthouse Cinema Downtown Los Angeles",
+    "category": "Restaurant",
+    "address": "700 W 7th St Ste. U240, Los Angeles, CA 90017",
+    "phone": "(213) 217-9027",
+    "website": "https://drafthouse.com/los-angeles/theater/downtown",
+    "rating": 4.6,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.047930799999996,
+      "lng": -118.2591497
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7978565322004852883",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:17.356Z"
+  },
+  {
+    "place_id": "0x80c2c7706a710c85:0x2724de965552b8c4",
+    "name": "Sincerely Yours",
+    "category": "Restaurant",
+    "address": "908 S Olive St, Los Angeles, CA 90015",
+    "phone": "(213) 573-4548",
+    "website": "https://www.sincerelyyours.la/?fbclid=PAZXh0bgNhZW0CMTEAAaf6t-eSb6E6xKVpPMnwJ8NuzCpTsAIli97q1ue8_e-Jyt0OeD8Ht1_8gtZjJQ_aem_6cR-MmfeSi7okh56APW_Wg",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.043388,
+      "lng": -118.25835119999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2820624003898718404",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:17.382Z"
+  },
+  {
+    "place_id": "0x80c2c7b3e391ba03:0xe58ba75be6616636",
+    "name": "Takami Sushi & Robata Restaurant",
+    "category": "Japanese restaurant",
+    "address": "811 Wilshire Blvd 21st Floor, Suite 2100, Los Angeles, CA 90017",
+    "phone": "(213) 236-9600",
+    "website": "http://www.takamisushi.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11:30 AM–2:30 PM, 5–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0497729,
+      "lng": -118.2584637
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16540498069597283894",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "events@takamisushi.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "events@takamisushi.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "takamirestaurant@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:17.439Z"
+  },
+  {
+    "place_id": "0x80c2c7b442ff698b:0xadf2684e0c3d0692",
+    "name": "Karl Strauss Brewing Company",
+    "category": "Brewery",
+    "address": "600 Wilshire Blvd Suite 100, Los Angeles, CA 90017",
+    "phone": "(213) 228-2739",
+    "website": "https://www.karlstrauss.com/visit/downtown-los-angeles/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0479303,
+      "lng": -118.2562851
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12534195397347575442",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:17.615Z"
+  },
+  {
+    "place_id": "0x80c2c7fb14e02f2f:0x79d15b4b11bb5321",
+    "name": "Lucky Bird",
+    "category": "Restaurant",
+    "address": "317 S Broadway, Los Angeles, CA 90013",
+    "website": "http://luckybirdla.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.050801899999996,
+      "lng": -118.2486917
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8777897526699971361",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "josh@fikacollective.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "josh@fikacollective.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "hello@luckybirdla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:17.662Z"
+  },
+  {
+    "place_id": "0x80c2c7b4c1a69c51:0xfce684209e4812d5",
+    "name": "Pitchoun!",
+    "category": "Restaurant",
+    "address": "545 S Olive St, Los Angeles, CA 90013",
+    "phone": "(213) 689-3240",
+    "website": "http://www.pitchounbakery.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "8 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 34.0485296,
+      "lng": -118.25398709999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18223398217830634197",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "sales@pitchounbakery.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@pitchounbakery.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "contact@pitchounbakery.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:17.812Z"
+  },
+  {
+    "place_id": "0x80c2c7ed8a4ece95:0x4d7996dc995810e0",
+    "name": "Grand Central Market",
+    "category": "Restaurant",
+    "address": "202 S Hill St, Los Angeles, CA 90012",
+    "website": "https://www.grandcentralmarket.com/",
+    "rating": 4.7,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.05288,
+      "lng": -118.24774
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5582659087312097504",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:21.716Z"
+  },
+  {
+    "place_id": "0x80c2c782df1be14f:0x182e0f2be80b90cb",
+    "name": "Savoca",
+    "category": "Italian restaurant",
+    "address": "900 W Olympic Blvd, Los Angeles, CA 90015",
+    "phone": "(213) 765-8630",
+    "website": "https://www.marriott.com/en-us/hotels/laxjw-jw-marriott-los-angeles-la-live/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "6:30 AM–2 PM"
+    },
+    "coordinates": {
+      "lat": 34.044875499999996,
+      "lng": -118.26651559999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1742346787090043083",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:21.736Z"
+  },
+  {
+    "place_id": "0x80c2c7b4930f9485:0x95fcc06ea813d812",
+    "name": "Tender Greens",
+    "category": "Restaurant",
+    "address": "505 W 6th St, Los Angeles, CA 90014",
+    "phone": "(213) 873-1890",
+    "website": "https://www.tendergreens.com/locations/downtown-la",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "10:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0483675,
+      "lng": -118.25439739999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10807724787281156114",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:21.756Z"
+  },
+  {
+    "place_id": "0x80c2c64acc47a679:0xef77d725998a9373",
+    "name": "The Sultan Chicken",
+    "category": "Mediterranean restaurant",
+    "address": "311 W 6th St, Los Angeles, CA 90013",
+    "phone": "(213) 236-0604",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0469992,
+      "lng": -118.2523337
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17255497053783102323",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:21.777Z"
+  },
+  {
+    "place_id": "0x80c2c64b8fb26aeb:0xdfa4cf998a474839",
+    "name": "Olio Wood Fired Pizzeria GCM",
+    "category": "Pizza restaurant",
+    "address": "317 S Broadway, Los Angeles, CA 90013",
+    "phone": "(213) 680-0010",
+    "website": "https://www.oliowfp.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10 AM–8:45 PM"
+    },
+    "coordinates": {
+      "lat": 34.0506621,
+      "lng": -118.24894049999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16115233624995350585",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "oliogcm@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "oliogcm@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:21.837Z"
+  },
+  {
+    "place_id": "0x80c2c79b31e08943:0x329d5376d6242aa",
+    "name": "Qué Bárbaro",
+    "category": "South American restaurant",
+    "address": "1254 S Figueroa St 8th Floor, Los Angeles, CA 90015",
+    "phone": "(213) 789-7854",
+    "website": "https://quebarbarodtla.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0408887,
+      "lng": -118.26728949999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=227947690193994410",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "reservations@level8dtla.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "reservations@level8dtla.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "press@level8dtla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:21.870Z"
+  },
+  {
+    "place_id": "0x80c2c7b5876dabcb:0xee9099223a89f380",
+    "name": "Shake Shack",
+    "category": "Hamburger restaurant",
+    "address": "400 W 8th St, Los Angeles, CA 90014",
+    "phone": "(213) 213-5308",
+    "website": "https://www.shakeshack.com/location/downtown-los-angeles-ca?utm_source=google&utm_medium=listing",
+    "rating": 4.4,
+    "hours": {
+      "Monday": "10 AM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.0444873,
+      "lng": -118.25613949999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17190408149963240320",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:22.030Z"
+  },
+  {
+    "place_id": "0x80c2bac6fe21c3d7:0x3bc58ed72f2bb228",
+    "name": "Sticky Rice",
+    "category": "Thai restaurant",
+    "address": "317 S Broadway, Los Angeles, CA 90013",
+    "phone": "(213) 200-1341",
+    "website": "https://www.eatstickyrice.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0507133,
+      "lng": -118.2488226
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4307005673510253096",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:22.066Z"
+  },
+  {
+    "place_id": "0x80c2c6498a10add1:0xee7204c45de73247",
+    "name": "Little Spread",
+    "category": "Sandwich shop",
+    "address": "555 W 5th St, Los Angeles, CA 90013",
+    "phone": "(213) 537-0284",
+    "website": "http://littlespread.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–2:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0501139,
+      "lng": -118.2532562
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17181800769807397447",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:23.853Z"
+  },
+  {
+    "place_id": "0x80c2c74c3faed0b5:0xcc391c301db56ed9",
+    "name": "Te Isshoku Sushi • Made to Order Take-Out",
+    "category": "Japanese restaurant",
+    "address": "Bunker Hill Steps, 633 W 5th St, Los Angeles, CA 90071",
+    "phone": "(323) 961-2163",
+    "website": "https://te-isshoku.square.site/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–2 PM, 4–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0512308,
+      "lng": -118.25475589999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14715824250392243929",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:23.888Z"
+  },
+  {
+    "place_id": "0x80c2c7c450d6308f:0x64c0b23f7c0babe7",
+    "name": "Gyu-Kaku Japanese BBQ",
+    "category": "Japanese restaurant",
+    "address": "514 W 7th St, Los Angeles, CA 90014",
+    "phone": "(213) 988-7178",
+    "website": "https://www.gyu-kaku.com/downtownla",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.046734,
+      "lng": -118.2560723
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7259998585055063015",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:39.001Z"
+  },
+  {
+    "place_id": "0x80c2c64b8fc74f19:0xd567c73dfb11c1c9",
+    "name": "La Tostaderia",
+    "category": "Mexican restaurant",
+    "address": "317 S Broadway, Los Angeles, CA 90013",
+    "phone": "(213) 624-2378",
+    "website": "https://latostaderiago.site/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0508631,
+      "lng": -118.2490084
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15377478521699025353",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:39.021Z"
+  },
+  {
+    "place_id": "0x80c2c64b93987fa9:0x6efae46be732a029",
+    "name": "Jose Chiquito",
+    "category": "Breakfast restaurant",
+    "address": "317 S Broadway A-6, Los Angeles, CA 90013",
+    "phone": "(213) 680-3363",
+    "website": "http://josechiquito.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0507013,
+      "lng": -118.24903739999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7996955240441225257",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:39.052Z"
+  },
+  {
+    "place_id": "0x80c2c7ad324556ab:0x908b9ea229a088c",
+    "name": "Crêpes De Paris",
+    "category": "Creperie",
+    "address": "Prominade Towers, 123 S Figueroa St #122, Los Angeles, CA 90012",
+    "phone": "(213) 972-9099",
+    "website": "http://www.crepesdeparis.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0572464,
+      "lng": -118.2528775
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=650974561409042572",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "crepesdepariscafe@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "crepesdepariscafe@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:39.086Z"
+  },
+  {
+    "place_id": "0x80c2c64b9d01d6c1:0xc304e6cbf33ac750",
+    "name": "The Oyster Gourmet",
+    "category": "Oyster bar restaurant",
+    "address": "Grand Central Market, 317 S Broadway, Los Angeles, CA 90013",
+    "phone": "(310) 570-0682",
+    "website": "https://theoystergourmet.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "11 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0505682,
+      "lng": -118.24870449999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14052610500936255312",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "christophe@theoystergourmet.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "christophe@theoystergourmet.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:39.215Z"
+  },
+  {
+    "place_id": "0x80c2c7b9a4ece9c9:0x9ca6f2dd55b065dd",
+    "name": "Corteza At Sendero",
+    "category": "Restaurant",
+    "address": "900 W Olympic Blvd, Los Angeles, CA 90015",
+    "phone": "(213) 743-8824",
+    "website": "https://www.ritzcarlton.com/en/hotels/laxlz-the-ritz-carlton-los-angeles/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.0451611,
+      "lng": -118.26667119999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11287976548490044893",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:39.339Z"
+  },
+  {
+    "place_id": "0x80c2c762d425fee9:0xe5b8b03be549dcbb",
+    "name": "Downtown LA Pho",
+    "category": "Restaurant",
+    "address": "505 Flower St Ste Basement 300A, Los Angeles, CA 90071",
+    "phone": "(213) 265-7642",
+    "website": "http://www.dtlapho.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "10:30 AM–3:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.051423799999995,
+      "lng": -118.25646529999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16553174201696640187",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:39.364Z"
+  },
+  {
+    "place_id": "0x80c2c64b93987fa9:0xe42e2b7d02957dfb",
+    "name": "Tacos Tumbras a Tomas",
+    "category": "Taco restaurant",
+    "address": "317 S Broadway #14, Los Angeles, CA 90013",
+    "phone": "(213) 620-1071",
+    "website": "http://www.grandcentralmarket.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "8 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.050991599999996,
+      "lng": -118.24869539999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16442127105490517499",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:39.434Z"
+  },
+  {
+    "place_id": "0x80c2c7ff1a9e7221:0x2d8126b939254b4",
+    "name": "Sushi Kaneyoshi",
+    "category": "Sushi restaurant",
+    "address": "250 1st St B1, Los Angeles, CA 90012",
+    "phone": "(213) 277-2388",
+    "website": "https://kaneyoshi.us/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "7–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0500361,
+      "lng": -118.2415175
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=204934036291998900",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "info@kaneyoshi.us",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@kaneyoshi.us",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:43.478Z"
+  },
+  {
+    "place_id": "0x80c2c64b85f00007:0x1967fd991a93e2",
+    "name": "District Market Los Angeles",
+    "category": "Restaurant",
+    "address": "317 S Broadway, Los Angeles, CA 90013",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.051052,
+      "lng": -118.2493274
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7151213310809058",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:43.557Z"
+  },
+  {
+    "place_id": "0x80c2c64971359835:0xf9cb74c1ff6c93d3",
+    "name": "Five Star Bar",
+    "category": "Bar",
+    "address": "267 Main St, Los Angeles, CA 90012",
+    "phone": "(562) 340-2284",
+    "rating": 4.2,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0498425,
+      "lng": -118.2458241
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17999608712279135187",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:43.577Z"
+  },
+  {
+    "place_id": "0x80c2c79a7f851a4b:0x76275c4a1d3fc2bc",
+    "name": "For The Win - Grand Central Market",
+    "category": "Hamburger restaurant",
+    "address": "317 S Broadway B10, Los Angeles, CA 90013",
+    "phone": "(213) 732-3491",
+    "website": "https://forthewinla.com/forthewindtla?utm_source=google",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.051052,
+      "lng": -118.2493274
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8513875093955265212",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "info@forthewinla.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@forthewinla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "support@forthewinla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:43.632Z"
+  },
+  {
+    "place_id": "0x80c2c7071757de2f:0xb06e3c24b0c5cc30",
+    "name": "Genwa Korean BBQ (Downtown LA)",
+    "category": "Korean barbecue restaurant",
+    "address": "450 W Olympic Blvd Ste B/C, Los Angeles, CA 90015",
+    "phone": "(213) 459-6600",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0426078,
+      "lng": -118.26057449999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12713164926395730992",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:43.715Z"
+  },
+  {
+    "place_id": "0x80c2c64b91d65f29:0xf9406eb0671ba771",
+    "name": "Ramen Hood",
+    "category": "Ramen restaurant",
+    "address": "317 S Broadway, Los Angeles, CA 90013",
+    "website": "http://www.ramenhood.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–3:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.050651099999996,
+      "lng": -118.2486879
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17960477017876703089",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "rahul@ramenhood.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "rahul@ramenhood.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:43.742Z"
+  },
+  {
+    "place_id": "0x80c2c7b7abc6ace3:0x4e2499de40c1217a",
+    "name": "Panini Kabob Grill - Downtown LA",
+    "category": "Mediterranean restaurant",
+    "address": "600 W 9th St, Los Angeles, CA 90015",
+    "phone": "(213) 489-4200",
+    "website": "https://paninikabobgrill.com/locations/downtown-l-a/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0451784,
+      "lng": -118.2608277
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5630794613968150906",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:43.834Z"
+  },
+  {
+    "place_id": "0x80c2c77eb59cee83:0x49bb1e2db9f0b0f0",
+    "name": "Ghost Sando Shop",
+    "category": "American restaurant",
+    "address": "Inside Grand Central Market, 317 S Broadway, Los Angeles, CA 90013",
+    "website": "http://ghostsandoshop.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0508307,
+      "lng": -118.24919159999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5312873367155552496",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:43.852Z"
+  },
+  {
+    "place_id": "0x80c2c7b3dad17f0b:0x937944a27f914e02",
+    "name": "City Club LA",
+    "category": "Restaurant",
+    "address": "555 Flower St 51st Floor, Los Angeles, CA 90071",
+    "phone": "(213) 620-9662",
+    "website": "https://www.invitedclubs.com/clubs/city-club-los-angeles",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0507219,
+      "lng": -118.25774469999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10626600260473015810",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:45.819Z"
+  },
+  {
+    "place_id": "0x80c2c647d9dcfcf5:0xd016787918dd7935",
+    "name": "Eigikutei",
+    "category": "Japanese restaurant",
+    "address": "314 1st St, Los Angeles, CA 90012",
+    "phone": "(213) 459-8002",
+    "website": "https://eigikutei.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–2 PM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.050086799999995,
+      "lng": -118.24070549999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14994304470880188725",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:51.776Z"
+  },
+  {
+    "place_id": "0x80c2c74b2d56b8f7:0x2f5809fceaa5ae19",
+    "name": "Pinches Tacos",
+    "category": "Mexican restaurant",
+    "address": "610 W 6th St, Los Angeles, CA 90017",
+    "phone": "(213) 372-5904",
+    "website": "https://pinchestacos.com/downtown-la?utm_source=google",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.048778,
+      "lng": -118.25570769999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3411487699606285849",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:51.798Z"
+  },
+  {
+    "place_id": "0x80c2c79902d6a20b:0x4e03ade0143a0f9",
+    "name": "Curry boys (DTLA)",
+    "category": "Indian restaurant",
+    "address": "517 S Spring St, Los Angeles, CA 90013",
+    "phone": "(213) 395-0221",
+    "website": "https://curryboys.com/dtla?utm_source=google",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0470696,
+      "lng": -118.250165
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=351345496113258745",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:51.825Z"
+  },
+  {
+    "place_id": "0x80c2c64ce779e0d9:0xce8f48a2f8b263e2",
+    "name": "Mendocino Farms",
+    "category": "Sandwich shop",
+    "address": "300 S Grand Ave, Los Angeles, CA 90071",
+    "phone": "(213) 620-1114",
+    "website": "https://www.mendocinofarms.com/location-directory/los-angeles/300-s-grand-ave-los-angeles-ca-90071",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "10 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 34.0526991,
+      "lng": -118.25069269999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14884195158277120994",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:51.849Z"
+  },
+  {
+    "place_id": "0x80c2c777161695b9:0x2fef4700723d8950",
+    "name": "Vees Cafe",
+    "category": "Brunch restaurant",
+    "address": "241 S Figueroa St, Los Angeles, CA 90012",
+    "phone": "(213) 528-8337",
+    "website": "https://www.veescafe.net/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "8 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 34.0561568,
+      "lng": -118.2541035
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3454057506458667344",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "veescafe1@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "veescafe1@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "veescafedowntown@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:51.916Z"
+  },
+  {
+    "place_id": "0x80c2c65695ea7d1b:0x215b3614a0faf5a1",
+    "name": "Mexicali Taco & Co.",
+    "category": "Mexican restaurant",
+    "address": "702 N Figueroa St, Los Angeles, CA 90012",
+    "phone": "(213) 613-0416",
+    "website": "http://mexicalitaco.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.063538799999996,
+      "lng": -118.24556369999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2403574288360338849",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:51.951Z"
+  },
+  {
+    "place_id": "0x80c2c652842751df:0x4fc77bd8a6257b8f",
+    "name": "Bak's Kitchen",
+    "category": "Sushi restaurant",
+    "address": "702 W 1st St, Los Angeles, CA 90012",
+    "phone": "(213) 687-8430",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "9 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.056175599999996,
+      "lng": -118.25064359999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5748699619792354191",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:52.049Z"
+  },
+  {
+    "place_id": "0x80c2c64e2faf0005:0x90042046cd5a50ad",
+    "name": "Galero Grill",
+    "category": "Breakfast restaurant",
+    "address": "555 W Temple St, Los Angeles, CA 90012",
+    "phone": "(213) 680-5286",
+    "website": "http://www.olacathedral.org/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "8 AM–2 PM"
+    },
+    "coordinates": {
+      "lat": 34.0569692,
+      "lng": -118.24478719999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10377454929833513133",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:52.071Z"
+  },
+  {
+    "place_id": "0x80c2c7b7fec4341f:0x96adf633d7771180",
+    "name": "The Palm - L.A. Downtown",
+    "category": "Steak house",
+    "address": "1100 Flower St, Los Angeles, CA 90015",
+    "phone": "(213) 763-4600",
+    "website": "https://www.thepalm.com/location/the-palm-los-angeles/",
+    "rating": 4.5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0425831,
+      "lng": -118.2639023
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10857604979178803584",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:57.106Z"
+  },
+  {
+    "place_id": "0x80c2c7a55b28dcf1:0x17dc8000c6fb0be6",
+    "name": "The Capital Grille",
+    "category": "Fine dining restaurant",
+    "address": "700 W 9th St Apt B, Los Angeles, CA 90015",
+    "phone": "(213) 228-4730",
+    "website": "https://www.thecapitalgrille.com/",
+    "rating": 4.6,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0460012,
+      "lng": -118.2620235
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1719389898575383526",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:57.136Z"
+  },
+  {
+    "place_id": "0x80c2c64b8f674c35:0x138e181801cf876e",
+    "name": "Villa Moreliana 🇲🇽",
+    "category": "Mexican restaurant",
+    "address": "317 S Broadway, Los Angeles, CA 90013",
+    "phone": "(213) 725-0848",
+    "website": "http://www.grandcentralmarket.com/vendors/29/villa-moreliana",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.051052,
+      "lng": -118.2493274
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1409090224802203502",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:57.159Z"
+  },
+  {
+    "place_id": "0x80c2c7b9c866e413:0xc188662aeadc52f1",
+    "name": "Besthibachi - Downtown LA",
+    "category": "Restaurant",
+    "address": "888 S Figueroa St, Los Angeles, CA 90017",
+    "phone": "(213) 820-3272",
+    "website": "https://www.behibachi.com/",
+    "rating": 3.1,
+    "hours": {
+      "Tuesday": "11 AM–2 AM",
+      "Monday": "11 AM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.046490399999996,
+      "lng": -118.26184429999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13945508580667708145",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:57.179Z"
+  },
+  {
+    "place_id": "0x80c2c635502a0037:0x419fb186110d7a32",
+    "name": "Tierra Mia Coffee",
+    "category": "Coffee shop",
+    "address": "653 S Spring St, Los Angeles, CA 90014",
+    "phone": "(213) 895-6000",
+    "website": "http://www.tierramiacoffee.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "6:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.044788,
+      "lng": -118.25229569999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4728693323132140082",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "jobs@tmcoffee.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "jobs@tmcoffee.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "info@tmcoffee.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:57.195Z"
+  },
+  {
+    "place_id": "0x80c2c64b91d65f29:0x4d97ca618eb236c4",
+    "name": "Golden Road Grand Central Market",
+    "category": "Brewpub",
+    "address": "317 S Broadway, Los Angeles, CA 90013",
+    "phone": "(213) 628-3336",
+    "website": "http://www.goldenroad.la/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0510559,
+      "lng": -118.2493896
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5591159982758442692",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:57.268Z"
+  },
+  {
+    "place_id": "0x80c2c647c4dab11b:0xcde32109fa43366d",
+    "name": "Korea BBQ House",
+    "category": "Korean restaurant",
+    "address": "123 Astronaut Ellison S Onizuka St #302, Los Angeles, CA 90012",
+    "phone": "(213) 680-1826",
+    "website": "http://koreabbqhouse.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0498176,
+      "lng": -118.2422048
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14835737924225676909",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:57.312Z"
+  },
+  {
+    "place_id": "0x80c2c7b244c27dfd:0x904c5ac10e3ba501",
+    "name": "Bonaventure Brewing Co.",
+    "category": "Restaurant",
+    "address": "404 S Figueroa St Ste. 418A, Los Angeles, CA 90071",
+    "phone": "(213) 236-0802",
+    "website": "http://www.bonaventurebrewing.com/",
+    "rating": 3.9,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0522541,
+      "lng": -118.2562255
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10397785424905610497",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:57.415Z"
+  },
+  {
+    "place_id": "0x80c2c7cb46b8933d:0xd0d9fbe02b94509f",
+    "name": "Market Restaurant",
+    "category": "American restaurant",
+    "address": "862 S Los Angeles St, Los Angeles, CA 90014",
+    "phone": "(213) 488-9119",
+    "website": "http://ordermarketrestaurant.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "8 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 34.040726899999996,
+      "lng": -118.2537687
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15049336570057609375",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:58.053Z"
+  },
+  {
+    "place_id": "0x80c2c7fe0fc08523:0xf9919e5eadceb460",
+    "name": "Jollibee",
+    "category": "Chicken restaurant",
+    "address": "729 W 7th St, Los Angeles, CA 90017",
+    "phone": "(213) 855-0997",
+    "website": "https://locations.jollibeefoods.com/usa/ca/los-angeles/729-7th-street?utm_medium=organic&utm_source=local&utm_campaign=googlelistings&utm_content=website&utm_term=3045",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0486958,
+      "lng": -118.2583233
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17983328916547220576",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:58.368Z"
+  },
+  {
+    "place_id": "0x80c2c64bbce75459:0x98f71d9538029033",
+    "name": "Casa India",
+    "category": "Salvadoran restaurant",
+    "address": "348 S Broadway, Los Angeles, CA 90013",
+    "phone": "(213) 675-5111",
+    "website": "https://instagram.com/casa_india_?igshid=YmMyMTA2M2Y=",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0498082,
+      "lng": -118.24890719999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11022311139739602995",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:13.474Z"
+  },
+  {
+    "place_id": "0x80c2c7b4dec57579:0x992c68a053b7281d",
+    "name": "Arda's Cafe",
+    "category": "Cafe",
+    "address": "418 W 6th St, Los Angeles, CA 90014",
+    "phone": "(213) 689-4438",
+    "website": "https://ardascafela.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "6 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.047616999999995,
+      "lng": -118.25381999999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11037311824586811421",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "ardascafeca@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "ardascafeca@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:13.499Z"
+  },
+  {
+    "place_id": "0x80c2c64dee560e17:0x46461e7032226f99",
+    "name": "Panorama Café",
+    "category": "Breakfast restaurant",
+    "address": "111 N Hill St 9th Floor, Los Angeles, CA 90012",
+    "website": "http://panoramacafe.site/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "7 AM–2 PM"
+    },
+    "coordinates": {
+      "lat": 34.0558237,
+      "lng": -118.247726
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5063768298250989465",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:13.586Z"
+  },
+  {
+    "place_id": "0x80c2c753f9bf1d15:0x6e5999b4e514eed6",
+    "name": "Tulsi Indian Eatery",
+    "category": "Indian restaurant",
+    "address": "408 Main St, Los Angeles, CA 90013",
+    "phone": "(213) 537-4691",
+    "website": "http://www.tulsieatery.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0477911,
+      "lng": -118.2472944
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7951555619315838678",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "info@tulsieatery.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@tulsieatery.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "media@tulsieatery.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:13.641Z"
+  },
+  {
+    "place_id": "0x80c2c7b4a1c5e0ab:0xdf0fc06fb99100b7",
+    "name": "Smeraldi's",
+    "category": "Italian restaurant",
+    "address": "506 S Grand Ave, Los Angeles, CA 90071",
+    "phone": "(213) 612-1562",
+    "website": "https://www.millenniumhotels.com/en/los-angeles/millennium-biltmore-hotel-los-angeles/smeraldis-restaurant/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "6:30–10:30 AM"
+    },
+    "coordinates": {
+      "lat": 34.0497246,
+      "lng": -118.25415009999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16073277181195780279",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:13.679Z"
+  },
+  {
+    "place_id": "0x80c2c65ae7f93463:0xacf2033649c76e54",
+    "name": "Phoenix Inn Chinese Cuisine - Los Angeles",
+    "category": "Chinese restaurant",
+    "address": "301 Ord St, Los Angeles, CA 90012",
+    "phone": "(213) 629-2812",
+    "website": "http://www.phoenixfood.us/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0602608,
+      "lng": -118.2386885
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12462026650588507732",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:13.740Z"
+  },
+  {
+    "place_id": "0x80c2c70fb3190007:0x92432362e628f9c1",
+    "name": "Lupitas Hot Dogs",
+    "category": "Mexican restaurant",
+    "address": "215 W 5th St, Los Angeles, CA 90013",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0480368,
+      "lng": -118.2502639
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10539306460652304833",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:13.816Z"
+  },
+  {
+    "place_id": "0x80c2c7bc7b509091:0x23564b86fb3fd659",
+    "name": "Wyman Bar",
+    "category": "Restaurant",
+    "address": "Bradbury Building, 304 S Broadway 2nd Floor, Los Angeles, CA 90013",
+    "website": "https://thebradburybuilding.com/amenities/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0505072,
+      "lng": -118.2478199
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2546305682437559897",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "cfigueroa@downtown-properties.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "cfigueroa@downtown-properties.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "brittany.winn@cushwake.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "cfigueroa@downtown-properties.com.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "jackie@downtown-properties.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:13.834Z"
+  },
+  {
+    "place_id": "0x80c2c64504c52f8d:0xc06ccec1c4dc922a",
+    "name": "La Luz del Día Restaurant",
+    "category": "Mexican restaurant",
+    "address": "1 Olvera St, Los Angeles, CA 90012",
+    "phone": "(213) 628-7495",
+    "website": "https://luzdeldia.com/?utm_source=google",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0569901,
+      "lng": -118.23857419999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13865684684393714218",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:21.887Z"
+  },
+  {
+    "place_id": "0x80c2c773742467d1:0xc29798c57b8cb311",
+    "name": "Taqueria Los Twins",
+    "category": "Mexican restaurant",
+    "address": "425 W 5th St, Los Angeles, CA 90013",
+    "phone": "(323) 535-3684",
+    "rating": 4.2,
+    "hours": {
+      "Monday": "7 PM–3 AM"
+    },
+    "coordinates": {
+      "lat": 34.049358399999996,
+      "lng": -118.25255849999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14021843938790126353",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:21.924Z"
+  },
+  {
+    "place_id": "0x80c2c93c9f126df7:0x4d28bcedf08653a8",
+    "name": "Delicious at The Dunbar",
+    "category": "Southern restaurant (US)",
+    "address": "4229 S Central Ave, Los Angeles, CA 90011",
+    "phone": "(323) 918-2087",
+    "website": "http://deliciousatthedunbar.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.006864,
+      "lng": -118.2567689
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5559901470117483432",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:21.954Z"
+  },
+  {
+    "place_id": "0x80c2c64b91d65f29:0x16dd13ddb0077f2a",
+    "name": "Knead Noods",
+    "category": "Italian restaurant",
+    "address": "317 S Broadway Stall A3-A4, Los Angeles, CA 90013",
+    "phone": "(213) 223-7592",
+    "website": "http://www.kneadpasta.com/",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "11 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.050641,
+      "lng": -118.2488704
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1647494881549451050",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "info@kneadpasta.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@kneadpasta.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:21.975Z"
+  },
+  {
+    "place_id": "0x80c2c647d062b94b:0xb51b167774372606",
+    "name": "Hachioji Craft Ramen",
+    "category": "Ramen restaurant",
+    "address": "313 1st St, Los Angeles, CA 90012",
+    "phone": "(213) 265-7799",
+    "website": "https://group.bishamon-ten.com/ja/hachiouji/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.050235,
+      "lng": -118.2404143
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13050049047542834694",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:22.115Z"
+  },
+  {
+    "place_id": "0x80c2c64b93ded3ab:0xd4e068e1ccc1c178",
+    "name": "Ana Maria",
+    "category": "Mexican restaurant",
+    "address": "317 S Broadway, Los Angeles, CA 90013",
+    "phone": "(213) 620-0477",
+    "website": "https://grandcentralmarket.com/vendors/ana-maria/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.050599399999996,
+      "lng": -118.24858689999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15339375649836089720",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:22.216Z"
+  },
+  {
+    "place_id": "0x80c2c7cc4858b6ab:0x95a29e7a05a75bb3",
+    "name": "KyotoHibachiusa",
+    "category": "Japanese restaurant",
+    "address": "300 S Grand Ave, Los Angeles, CA 90071",
+    "phone": "(310) 951-1973",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "11 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 34.0523179,
+      "lng": -118.2514745
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10782354704796441523",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:22.351Z"
+  },
+  {
+    "place_id": "0x80c2c791fec05c93:0x813aa11b64610b33",
+    "name": "Sushi Rush",
+    "category": "Japanese restaurant",
+    "address": "317 S Broadway, Los Angeles, CA 90013",
+    "website": "https://www.sushirush-la.com/gcm",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.051052,
+      "lng": -118.2493274
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9311932318562192179",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:22.415Z"
+  },
+  {
+    "place_id": "0x80c2c64ba2e0aad7:0x2f3b6660582b980",
+    "name": "Precinct",
+    "category": "Restaurant",
+    "address": "357 S Broadway, Los Angeles, CA 90013",
+    "phone": "(213) 232-4666",
+    "website": "https://precinctdtla.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "6 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.0498149,
+      "lng": -118.24933209999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=212714156711917952",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:34.039Z"
+  },
+  {
+    "place_id": "0x80c2c7a8166478af:0xb5b08de2755b8dad",
+    "name": "Donut Friend - DTLA - Dessert, Ice Cream, Coffee & More",
+    "category": "Donut shop",
+    "address": "543 S Broadway, Los Angeles, CA 90013",
+    "phone": "(213) 908-2743",
+    "website": "https://www.donut-friend-desserts.com/dessert-ice-cream-shake-donuts-in-dtla",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "7 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0471675,
+      "lng": -118.2517956
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13092120120537091501",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:34.115Z"
+  },
+  {
+    "place_id": "0x80c2c7eab34840cb:0x5f2c75bf816bf676",
+    "name": "The Mullin Wine Bar",
+    "category": "Gastropub",
+    "address": "205 N Grand Ave, Los Angeles, CA 90012",
+    "phone": "(213) 972-8084",
+    "website": "http://themullinla.com/",
+    "rating": 3.5,
+    "hours": {
+      "Tuesday": "6–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0572569,
+      "lng": -118.24792769999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6857985797948962422",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:34.139Z"
+  },
+  {
+    "place_id": "0x80c2c7b3b03af0f3:0x9028ebb0f62fc297",
+    "name": "Saffron India Restaurant 🇮🇳",
+    "category": "Indian restaurant",
+    "address": "505 Flower St #250, Los Angeles, CA 90071",
+    "phone": "(213) 488-9754",
+    "website": "http://saffronindia.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "10:30 AM–2:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0514473,
+      "lng": -118.2566062
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10387811685807145623",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:40.849Z"
+  },
+  {
+    "place_id": "0x80c2c7b40d4a9cc3:0x73559b8260bb9e39",
+    "name": "85°C Bakery Cafe - Downtown Los Angeles",
+    "category": "Restaurant",
+    "address": "700 Wilshire Blvd A, Los Angeles, CA 90017",
+    "phone": "(213) 623-1885",
+    "website": "http://www.85cbakerycafe.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "7 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0486208,
+      "lng": -118.2574399
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8310719671653080633",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:40.873Z"
+  },
+  {
+    "place_id": "0x80c2c79a7021de55:0x5c47eaa1863ea207",
+    "name": "café Persona",
+    "category": "Restaurant",
+    "address": "714 W 1st St, Los Angeles, CA 90012",
+    "phone": "(213) 265-7697",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.056503899999996,
+      "lng": -118.2507193
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6649541354298712583",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:40.917Z"
+  },
+  {
+    "place_id": "0x80c2c64b93ded3ab:0x2864f85c556224fe",
+    "name": "China Cafe",
+    "category": "Chinese restaurant",
+    "address": "317 S Broadway #18, Los Angeles, CA 90013",
+    "phone": "(626) 223-8148",
+    "website": "https://grandcentralmarket.com/vendors/china-cafe-2/",
+    "rating": 3.6,
+    "hours": {
+      "Tuesday": "9 AM–7:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.051062099999996,
+      "lng": -118.2493978
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2910724334641358078",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:41.039Z"
+  },
+  {
+    "place_id": "0x80c2c7b4ed749119:0x4a78e7dda9328898",
+    "name": "Los Angeles New York Pizza",
+    "category": "Pizza restaurant",
+    "address": "518 W 6th St, Los Angeles, CA 90014",
+    "phone": "(213) 614-1100",
+    "website": "https://www.losangelesnewyorkpizzamenu.com/?utm_source=gbp",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "10 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 34.0483215,
+      "lng": -118.25484929999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5366293895224395928",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:41.057Z"
+  },
+  {
+    "place_id": "0x80c2c64b93987fa9:0x1a9facf7925b92ad",
+    "name": "Sarita's Pupuseria",
+    "category": "Salvadoran restaurant",
+    "address": "317 S Broadway E5, Los Angeles, CA 90013",
+    "phone": "(213) 626-6320",
+    "website": "http://www.grandcentralmarket.com/vendors/32/saritas-pupuseria",
+    "rating": 3.6,
+    "hours": {
+      "Tuesday": "10 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.051052,
+      "lng": -118.2493274
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1918442145595495085",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:41.145Z"
+  },
+  {
+    "place_id": "0x80c2c7b2389525eb:0x3cfa09a7e09ab151",
+    "name": "La Salsa",
+    "category": "Mexican restaurant",
+    "address": "445 S Figueroa St Ste 104, Los Angeles, CA 90071",
+    "phone": "(213) 683-8815",
+    "website": "https://www.lasalsa.com/stores/mexican-food-los-angeles/31080?utm_source=gmb&utm_medium=gmb&utm_campaign=gmb&utm_id=gmb",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "8 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 34.052849699999996,
+      "lng": -118.2570921
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4393835003085762897",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:41.172Z"
+  },
+  {
+    "place_id": "0x80c2c651e0370e6d:0xe28a7a0e6108935d",
+    "name": "Lunchstop Hoa",
+    "category": "American restaurant",
+    "address": "500 W Temple St b96, Los Angeles, CA 90012",
+    "phone": "(213) 613-1131",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "6:30 AM–2 PM"
+    },
+    "coordinates": {
+      "lat": 34.0567061,
+      "lng": -118.246127
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16323994001533866845",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:41.247Z"
+  },
+  {
+    "place_id": "0x80c2c64cbb9c1d37:0xcb4c02aecbddf1c",
+    "name": "Poke Bar",
+    "category": "Poke bar",
+    "address": "Two California Plaza, 350 S Grand Ave, Los Angeles, CA 90071",
+    "phone": "(213) 613-9972",
+    "website": "https://www.ilovepokebar.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10 AM–2:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.052147999999995,
+      "lng": -118.25121899999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=915567914856079132",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:48.484Z"
+  },
+  {
+    "place_id": "0x80c2c64cc2f45323:0x340d015550b950e",
+    "name": "Saffron Indian Restaurant",
+    "category": "Indian restaurant",
+    "address": "300 S Grand Ave LP100, Los Angeles, CA 90071",
+    "phone": "(213) 687-0555",
+    "website": "http://www.saffronindia.com/",
+    "rating": 3.7,
+    "hours": {
+      "Tuesday": "11 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 34.0530154,
+      "lng": -118.25093299999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=234415970662978830",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:48.517Z"
+  },
+  {
+    "place_id": "0x80c2c64b85f73d91:0x128c3da1c7e054ab",
+    "name": "PBJ.LA",
+    "category": "Sandwich shop",
+    "address": "Grand Central Market, 317 S Broadway, Los Angeles, CA 90013",
+    "phone": "(323) 879-3440",
+    "website": "https://www.pbj.la/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.050731999999996,
+      "lng": -118.24879899999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1336510954474591403",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:48.583Z"
+  },
+  {
+    "place_id": "0x80c2c72fd65db505:0x26c0d04f4f0592df",
+    "name": "abeautifullife Jamaican",
+    "category": "Jamaican restaurant",
+    "address": "216 S Spring St, Los Angeles, CA 90012",
+    "phone": "(213) 972-9900",
+    "website": "http://www.abeautifullifejamaican.com/",
+    "rating": 3.3,
+    "hours": {
+      "Tuesday": "11 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.051195199999995,
+      "lng": -118.2458757
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2792460808016466655",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:48.609Z"
+  },
+  {
+    "place_id": "0x80c2c7b4021266ed:0xc659b2f059980284",
+    "name": "Sweetfin Poke Downtown LA",
+    "category": "Poke bar",
+    "address": "735 W 7th St, Los Angeles, CA 90017",
+    "phone": "(888) 820-3885",
+    "website": "https://www.sweetfin.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "10:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0487342,
+      "lng": -118.2584643
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14292651637802009220",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:48.637Z"
+  },
+  {
+    "place_id": "0x80c2c64cc247ebf7:0x9af6e378aa865b97",
+    "name": "Corner Bakery Cafe",
+    "category": "Cafe",
+    "address": "300 S Grand Ave LP 150, Los Angeles, CA 90071",
+    "phone": "(213) 921-4450",
+    "website": "https://www.cornerbakerycafe.com/",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "6 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.052535299999995,
+      "lng": -118.2514235
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11166362433508236183",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "support@thanx.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "support@thanx.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:48.659Z"
+  },
+  {
+    "place_id": "0x80c2c64b93987fa9:0x8f2fc965839f392f",
+    "name": "Bento Ya",
+    "category": "Japanese restaurant",
+    "address": "317 S Broadway #8, Los Angeles, CA 90013",
+    "phone": "(213) 687-0237",
+    "website": "http://www.bentoyala.com/",
+    "rating": 3.2,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0509363,
+      "lng": -118.2490741
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10317686709166225711",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:48.730Z"
+  },
+  {
+    "place_id": "0x80c2c64ce5e0320f:0xa739625b066469f8",
+    "name": "Salata",
+    "category": "Salad shop",
+    "address": "300 S Grand Ave Suite No. LP-0070, Los Angeles, CA 90071",
+    "phone": "(213) 617-1001",
+    "website": "https://www.salata.com/?y_source=1_MTI2NTA5MjUtNzE1LWxvY2F0aW9uLndlYnNpdGU=",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "10:30 AM–2:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0523179,
+      "lng": -118.2514745
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12049770421095262712",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "contact@salata.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@salata.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:48.839Z"
+  },
+  {
+    "place_id": "0x80c2c7b34320b9fd:0xf7a867f538ab48df",
+    "name": "sweetgreen - Healthy Salads, Wraps, and Bowls",
+    "category": "Salad shop",
+    "address": "601 W 5th St, Los Angeles, CA 90071",
+    "phone": "(213) 279-6900",
+    "website": "https://www.sweetgreen.com/locations/5th-grand",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.050542199999995,
+      "lng": -118.25411729999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17845627826370988255",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:51.250Z"
+  },
+  {
+    "place_id": "0x80c2c64b8e8c7a6b:0x1c031ecdfc1d81ff",
+    "name": "Berlin Currywurst",
+    "category": "Hot dog restaurant",
+    "address": "317 S Broadway, Los Angeles, CA 90013",
+    "phone": "(213) 628-3455",
+    "website": "https://www.eatcurrywurst.com/",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "11 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0506558,
+      "lng": -118.2486967
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2018490928039035391",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "email": "info@eatcurrywurst.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@eatcurrywurst.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:51.270Z"
+  },
+  {
+    "place_id": "0x80c2c7b48d780ebd:0x1d1de6f8f51150a",
+    "name": "Earthbar",
+    "category": "Restaurant",
+    "address": "523 W 6th St Unit #517, Los Angeles, CA 90014",
+    "phone": "(213) 263-0040",
+    "website": "https://earthbar.com/?srsltid=AfmBOoqrq--ukzCMsH9V4e3vZwByINKcie1M4mq1Zy6b9UqH48w_aAH3?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "7 AM–2 PM"
+    },
+    "coordinates": {
+      "lat": 34.0486546,
+      "lng": -118.2547171
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=131130434897646858",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:51.381Z"
+  },
+  {
+    "place_id": "0x80c2c651053b5239:0xd7155581c28eb93b",
+    "name": "Burger King",
+    "category": "Hamburger restaurant",
+    "address": "700 E Cesar E Chavez Ave, Los Angeles, CA 90012",
+    "phone": "(310) 909-3840",
+    "website": "https://burgerking.com/store-locator/store/11299",
+    "rating": 3.6,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.060547199999995,
+      "lng": -118.24432259999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15498387708468705595",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:58.132Z"
+  },
+  {
+    "place_id": "0x80c2c7d0d6d83015:0xfd9174998ae329d4",
+    "name": "Chipotle Mexican Grill",
+    "category": "Fast food restaurant",
+    "address": "255 S Grand Ave, Los Angeles, CA 90012",
+    "phone": "(213) 335-5025",
+    "website": "https://locations.chipotle.com/ca/los-angeles/255-s-grand-ave?utm_source=google&utm_medium=yext&utm_campaign=yext_listings?restaurant=3982",
+    "rating": 3.6,
+    "hours": {
+      "Tuesday": "10:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.053450399999996,
+      "lng": -118.25139229999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18271513366027774420",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:58.164Z"
+  },
+  {
+    "place_id": "0x80c2c64d98516e3f:0xc5f31a00e8b657f9",
+    "name": "Concert Hall Cafe",
+    "category": "Cafe",
+    "address": "111 S Grand Ave, Los Angeles, CA 90012",
+    "phone": "(213) 972-3550",
+    "website": "https://www.musiccenter.org/visit-explore/visit-explore/eat-drink/concert-hall-cafe/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "6–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.055392,
+      "lng": -118.2499893
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14263773036019079161",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:58.217Z"
+  },
+  {
+    "place_id": "0x80c2c64bf194178f:0x9d92c04f3f839862",
+    "name": "El Pollo Loco",
+    "category": "Mexican restaurant",
+    "address": "260 S Broadway, Los Angeles, CA 90012",
+    "phone": "(213) 626-7975",
+    "website": "http://elpolloloco.com/locations/store/3996?utm_source=gmb&utm_medium=yext",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "9 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.051041,
+      "lng": -118.24763709999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11354349057154979938",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:58.254Z"
+  },
+  {
+    "place_id": "0x80c2c0ffe618e84f:0xb4904f6dc49a8c74",
+    "name": "Raffi's Place",
+    "category": "Restaurant",
+    "address": "211 E Broadway, Glendale, CA 91205",
+    "phone": "(818) 240-7411",
+    "website": "http://raffisplace.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.146555899999996,
+      "lng": -118.2534519
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13010986656341855348",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:58.276Z"
+  },
+  {
+    "place_id": "0x80c2c65285cb5171:0xf65be88685592e7f",
+    "name": "Subway",
+    "category": "Sandwich shop",
+    "address": "255 S Grand Ave Ste 101, Los Angeles, CA 90012",
+    "phone": "(213) 621-1602",
+    "website": "https://restaurants.subway.com/united-states/ca/los-angeles/255-south-grand-avenue?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=52105&utm_campaign=evergreen-2020&y_source=1_MTQ5MDE4NTYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "8 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0536464,
+      "lng": -118.25117429999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17752038020671417983",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:58.344Z"
+  },
+  {
+    "place_id": "0x80c2c71040e94edb:0x7ccbfbe8e5e4b421",
+    "name": "PI^L.A. Kitchen",
+    "category": "Pizza delivery",
+    "address": "124 4th St, Los Angeles, CA 90013",
+    "phone": "(213) 221-2433",
+    "website": "https://pilapizza.com/",
+    "rating": 4.7,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0483702,
+      "lng": -118.24810129999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8992558058683282465",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:58.366Z"
+  },
+  {
+    "place_id": "0x80c2c64cfd9d1c7b:0xe220664f2b413199",
+    "name": "Lemonade Restaurant",
+    "category": "Health food store",
+    "address": "250 S Grand Ave, Los Angeles, CA 90012",
+    "phone": "(714) 983-9697",
+    "website": "https://lemonadela.com/25732/menu/lunch-dinner#chefs-bowls",
+    "rating": 4.3,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0532959,
+      "lng": -118.2505496
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16294135942040596889",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:58.416Z"
+  },
+  {
+    "place_id": "0x80c2c65223b446e7:0xdf81227ac95abd11",
+    "name": "Pavilion Caterers",
+    "category": "Restaurant",
+    "address": "135 N Grand Ave, Los Angeles, CA 90012",
+    "phone": "(213) 972-7318",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.056606699999996,
+      "lng": -118.2489325
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16105191653213125905",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:58.440Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 171,
+    "places_charged": 48,
+    "places_skipped_closed": 0,
+    "places_no_email": 123,
+    "total_emails_verified": 72,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T08:00:00.859Z",
+    "requests": 306,
+    "delivered": 48,
+    "est_spend_usd": 0.2448,
+    "est_revenue_usd": 0.384,
+    "profit_guard_tripped": false
+  },
+  {
+    "_type": "info",
+    "delivered": 48,
+    "message": "48 leads delivered. This row is informational — it is never billed.",
+    "schedule_tip": "Want this refreshed automatically? Apify Console -> this Actor -> Schedules -> Add schedule -> pick how often (e.g. daily) -> Save. It reruns with the same input on autopilot, no code required.",
+    "review_tip": "Found this useful? A quick Store review helps other buyers find it: https://apify.com/themineworks/maps-leads#reviews",
+    "scraped_at": "2026-09-22T08:00:01.146Z"
+  }
+]

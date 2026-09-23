@@ -1,0 +1,4846 @@
+[
+  {
+    "place_id": "0x80c2bf205ed6e6e5:0x5285c70d4d007a32",
+    "name": "Kobe Digital",
+    "category": "Internet marketing service",
+    "address": "7083 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(310) 734-4030",
+    "website": "http://www.kobedigital.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "6 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.1018384,
+      "lng": -118.34440079999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5946377742952987186",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:48.597Z"
+  },
+  {
+    "place_id": "0x80c2bf46bb62f14f:0xd6d0f2f9e64bfa90",
+    "name": "TOP Agency Los Angeles - Marketing Agency",
+    "category": "Marketing agency",
+    "address": "7083 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(213) 465-4616",
+    "website": "https://topagency.com/los-angeles-marketing/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.101426,
+      "lng": -118.34476799999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15479139074396912272",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:48.668Z"
+  },
+  {
+    "place_id": "0x89b657944a50d531:0x9459953391a8eb0f",
+    "name": "The True Marketing Agency",
+    "category": "Marketing agency",
+    "address": "6677 Santa Monica Blvd, Los Angeles, CA 90038",
+    "phone": "(866) 970-3567",
+    "website": "http://thetruemarketingagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.091073,
+      "lng": -118.33595729999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10689739239260220175",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "contact@thetruemarketingagency.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@thetruemarketingagency.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:48.691Z"
+  },
+  {
+    "place_id": "0x80c2becdcf02e6f3:0x3117338b67772189",
+    "name": "LikeSocialBiz",
+    "category": "Internet marketing service",
+    "address": "7950 Sunset Blvd, Los Angeles, CA 90046",
+    "phone": "(310) 272-9734",
+    "website": "https://likesocialbiz.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "7 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0975158,
+      "lng": -118.36332499999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3537352706152145289",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:48.735Z"
+  },
+  {
+    "place_id": "0x80c2bb7776779e8b:0xb13c3f156c0e1527",
+    "name": "Branding Los Angeles",
+    "category": "Marketing agency",
+    "address": "2462 Overland Ave, Los Angeles, CA 90064",
+    "phone": "(310) 479-6444",
+    "website": "https://brandinglosangeles.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0408843,
+      "lng": -118.42386139999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12771152004555609383",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:48.758Z"
+  },
+  {
+    "place_id": "0x80c2be54d9319bb7:0x2a2f6a6f259af2ad",
+    "name": "Go Big LA",
+    "category": "Internet marketing service",
+    "address": "7190 Sunset Blvd #28, Los Angeles, CA 90046",
+    "phone": "(415) 488-6127",
+    "website": "https://converze.media/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0977844,
+      "lng": -118.3293006
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3039765299103199917",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@simplicitymedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@simplicitymedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:48.829Z"
+  },
+  {
+    "place_id": "0x80c2bebeda9e9a33:0x6c01a0e35aef98e7",
+    "name": "Intensify - eCommerce Advertising Agency In Los Angeles",
+    "category": "Marketing agency",
+    "address": "1235 Kings Rd #204, West Hollywood, CA 90069",
+    "phone": "(310) 916-9876",
+    "website": "https://www.intensifynow.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.092636999999996,
+      "lng": -118.373111
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7782678529416599783",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:48.875Z"
+  },
+  {
+    "place_id": "0x80dd313d6c75308d:0x77954a902ebab85a",
+    "name": "Palm & Ocean Hospitality Marketing",
+    "category": "Marketing agency",
+    "address": "6121 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(949) 874-5904",
+    "website": "http://www.palmandocean.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.098471499999995,
+      "lng": -118.3233011
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8616875445163047002",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:48.916Z"
+  },
+  {
+    "place_id": "0x80c2bf2ee75f47ab:0x667425285a6fc496",
+    "name": "BOND",
+    "category": "Marketing agency",
+    "address": "1157 Highland Ave, Los Angeles, CA 90038",
+    "phone": "(323) 300-5150",
+    "website": "https://www.wearebond.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0924267,
+      "lng": -118.3388844
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7382566544413279382",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "hello@wearebond.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@wearebond.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:54.474Z"
+  },
+  {
+    "place_id": "0x80c2bf26cd1aaaab:0xaf317dc07f2c3761",
+    "name": "X Design Solutions",
+    "category": "Marketing agency",
+    "address": "7080 Hollywood Blvd Ste 1100, Los Angeles, CA 90028",
+    "phone": "(213) 340-7546",
+    "website": "https://xdesignsolutions.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.1012553,
+      "lng": -118.34459679999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12624009496217007969",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:54.590Z"
+  },
+  {
+    "place_id": "0x80c2bf2058efec9f:0x4a768b9eebadfef2",
+    "name": "Just Digital Inc.",
+    "category": "Marketing agency",
+    "address": "10250 Constellation Blvd #2300, Los Angeles, CA 90067",
+    "phone": "(424) 210-7128",
+    "website": "http://justdigitalinc.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0571801,
+      "lng": -118.4175088
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5365629520733667058",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@justdigitalinc.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@justdigitalinc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:54.718Z"
+  },
+  {
+    "place_id": "0x80c2bf205f2a7bab:0x478b2df6232d06c2",
+    "name": "Supercool Creative Agency & Video Production Company",
+    "category": "Marketing agency",
+    "address": "7083 Hollywood Blvd First Floor, Los Angeles, CA 90028",
+    "phone": "(323) 609-3715",
+    "website": "https://supercoolcreative.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.101827,
+      "lng": -118.344382
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5155264733631022786",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "supercool@supercoolcreative.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "supercool@supercoolcreative.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:54.766Z"
+  },
+  {
+    "place_id": "0x80c2bb7e045263b1:0xcb1385261dbe98e5",
+    "name": "HawkSEM",
+    "category": "Marketing agency",
+    "address": "10940 Wilshire Blvd, Los Angeles, CA 90024",
+    "phone": "(800) 316-2220",
+    "website": "https://hawksem.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0581719,
+      "lng": -118.44507809999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14633186013011155173",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:54.880Z"
+  },
+  {
+    "place_id": "0x80c2bf3ab94c3e2f:0xc21ec20a5ce460c8",
+    "name": "RUNWAY INFLUENCE",
+    "category": "Marketing agency",
+    "address": "6600 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(800) 510-4564",
+    "website": "http://runwayinfluence.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.097727299999995,
+      "lng": -118.33345589999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13987830842423271624",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "rwi@runwayinfluence.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "rwi@runwayinfluence.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:54.961Z"
+  },
+  {
+    "place_id": "0xc999024f9f64a19:0x4a79c3837300aff7",
+    "name": "MRLA Media",
+    "category": "Internet marketing service",
+    "address": "3223 W 6th St Ste 101, Los Angeles, CA 90020",
+    "phone": "(424) 256-6075",
+    "website": "https://www.mrla-media.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0638444,
+      "lng": -118.2927246
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5366535400326213623",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "johnnyla@mrla-media.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "johnnyla@mrla-media.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:55.009Z"
+  },
+  {
+    "place_id": "0x80c2b9231f45b00f:0xb9e78115bc8eff5d",
+    "name": "Obrofy | Best Digital Marketing agency in Los Angeles",
+    "category": "Marketing agency",
+    "address": "137 N St Andrews Pl, Los Angeles, CA 90004",
+    "phone": "(754) 231-0282",
+    "website": "https://obrofy.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.074135,
+      "lng": -118.31171859999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13395817546994614109",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "sales@obrofy.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@obrofy.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "support@obrofy.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:55.161Z"
+  },
+  {
+    "place_id": "0x80c2b9ceab0c8d57:0x12b053514f30f92f",
+    "name": "OutStanding.Agency",
+    "category": "Marketing agency",
+    "address": "5407 Sierra Vista Ave #301, Los Angeles, CA 90038",
+    "phone": "(669) 272-4905",
+    "website": "http://www.outstanding.agency/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.089751199999995,
+      "lng": -118.3097105
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1346667897269844271",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@outstanding.agency",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@outstanding.agency",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:07.208Z"
+  },
+  {
+    "place_id": "0x80c2bfbacb6ef799:0x9391bdad34bbc28d",
+    "name": "Fabrika | Marketing Agency in Los Angeles, CA",
+    "category": "Marketing agency",
+    "address": "1522 Gordon St, Los Angeles, CA 90028",
+    "phone": "(323) 897-1129",
+    "website": "https://fabrika.agency/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0985949,
+      "lng": -118.31953229999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10633488746810163853",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:07.308Z"
+  },
+  {
+    "place_id": "0xa767c7ac38662793:0xcb9e51ccd3875f0c",
+    "name": "Great Marketing AI",
+    "category": "Marketing agency",
+    "address": "8605 Santa Monica Blvd #779486, West Hollywood, CA 90069",
+    "phone": "(562) 592-8281",
+    "website": "https://www.greatmarketing.ai/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0880523,
+      "lng": -118.379549
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14672254576183697164",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:07.358Z"
+  },
+  {
+    "place_id": "0x80c2beb61b276057:0x9b7ee044e8aed058",
+    "name": "Wilshire Marketing Group",
+    "category": "Marketing agency",
+    "address": "7111 Santa Monica Blvd, West Hollywood, CA 90046",
+    "phone": "(323) 702-5700",
+    "website": "http://www.brandmob.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0908821,
+      "lng": -118.3445694
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11204639509510541400",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:07.386Z"
+  },
+  {
+    "place_id": "0x80c2c77bddb01e1f:0x1a33d7ccfe1452e8",
+    "name": "Student Marketing Agency",
+    "category": "Internet marketing service",
+    "phone": "(323) 553-4452",
+    "website": "https://studentmarketing.agency/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "7 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1888089944234414824",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:18.646Z"
+  },
+  {
+    "place_id": "0x80c2bf2160284081:0xc30f8f3892a2c286",
+    "name": "Allied Global Marketing - Los Angeles",
+    "category": "Marketing agency",
+    "address": "6908 Hollywood Blvd #300, Los Angeles, CA 90028",
+    "phone": "(323) 954-7644",
+    "website": "https://alliedglobalmarketing.com/",
+    "rating": 3,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.1012376,
+      "lng": -118.3405676
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14055610435187688070",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:18.679Z"
+  },
+  {
+    "place_id": "0x80c2bf3a7cc63c3b:0x1ccf3d0d283a1945",
+    "name": "blend",
+    "category": "Marketing agency",
+    "address": "750 N San Vicente Blvd suite 800 w, West Hollywood, CA 90069",
+    "phone": "(310) 862-9242",
+    "website": "https://weareblend.la/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0838561,
+      "lng": -118.3827869
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2075945079959853381",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:18.705Z"
+  },
+  {
+    "place_id": "0x80c2ba9698d795e7:0x83b1912b83f43d56",
+    "name": "Something Massive",
+    "category": "Advertising agency",
+    "address": "6159 Santa Monica Blvd, Los Angeles, CA 90038",
+    "phone": "(310) 302-8900",
+    "website": "http://somethingmassive.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.090921099999996,
+      "lng": -118.32351539999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9489525505929788758",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:18.719Z"
+  },
+  {
+    "place_id": "0x80c2bf3465d7ddd5:0x93edd9ac8e190eaf",
+    "name": "Planetary Group",
+    "category": "Marketing consultant",
+    "address": "6161 Santa Monica Blvd Suite 202, Los Angeles, CA 90038",
+    "phone": "(323) 952-5050",
+    "website": "https://www.planetarygroup.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0910951,
+      "lng": -118.3238677
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10659415228197441199",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:18.761Z"
+  },
+  {
+    "place_id": "0x80c2bf3be4f277d3:0xc5f9436ffb654a3f",
+    "name": "Say OK",
+    "category": "Marketing agency",
+    "address": "6381 Hollywood Blvd #570, Los Angeles, CA 90028",
+    "phone": "(646) 801-5518",
+    "website": "http://thesayok.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.1018942,
+      "lng": -118.32927
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14265507442910906943",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@thesayok.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@thesayok.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:18.779Z"
+  },
+  {
+    "place_id": "0x80c2bfb01992a8db:0x2aad5aad14ed94c8",
+    "name": "My Online Billboard Advertising - Los Angeles Hollywood",
+    "category": "Marketing agency",
+    "address": "1523 N McCadden Pl Ste 100, Los Angeles, CA 90028",
+    "phone": "(800) 687-8589",
+    "website": "https://myonlinebillboard.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.1014798,
+      "lng": -118.3340423
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3075213819990873288",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:18.975Z"
+  },
+  {
+    "place_id": "0x80c29c3f433a8d6f:0x7f7024dc52649eec",
+    "name": "COLAB | Digital Marketing Agency Los Angeles",
+    "category": "Internet marketing service",
+    "address": "21300 Victory Blvd #830, Woodland Hills, CA 91367",
+    "phone": "(855) 265-2252",
+    "website": "https://colablosangeles.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.1878263,
+      "lng": -118.5957718
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9182880168902172396",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:18.998Z"
+  },
+  {
+    "place_id": "0x80c2bd8e0f36a833:0x59b8f7f0d67db5ad",
+    "name": "Digital Marketing 1on1 SEO Los Angeles",
+    "category": "Internet marketing service",
+    "address": "1100 Glendon Ave Fl 17, Los Angeles, CA 90024",
+    "phone": "(818) 538-4805",
+    "website": "https://www.marketing1on1.com/digital-marketing-seo-los-angeles/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0605878,
+      "lng": -118.4437986
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6465189878853121453",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:31.163Z"
+  },
+  {
+    "place_id": "0x80c2bb8edca20fe7:0xc35d347931b4c80",
+    "name": "Promotion LA Inc Digital Marketing Agency",
+    "category": "Internet marketing service",
+    "phone": "(310) 405-7598",
+    "website": "https://promotionla.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 35.83745,
+      "lng": -119.95766449999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=879841606584978560",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:31.285Z"
+  },
+  {
+    "place_id": "0x827d9d5d0ec9d085:0xb0ce0f204271a2e9",
+    "name": "IDEAL MARKETING",
+    "category": "Marketing agency",
+    "phone": "(323) 633-8203",
+    "website": "https://idlgroupmarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12740137027105825513",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:31.367Z"
+  },
+  {
+    "place_id": "0x80c2bf3bbaabb02f:0x823252385799dd7a",
+    "name": "Hollywood SEO",
+    "category": "Internet marketing service",
+    "address": "1626 Wilcox Ave #289, Los Angeles, CA 90028",
+    "phone": "(323) 591-4736",
+    "website": "https://hollywoodseo.org/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.100593599999996,
+      "lng": -118.3308388
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9381651375707512186",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:47.864Z"
+  },
+  {
+    "place_id": "0x80c2bfb32576b769:0xa8a863b8bc7f84b4",
+    "name": "RAPSN Digital Marketing Services California",
+    "category": "Marketing agency",
+    "address": "7083 Hollywood Blvd, Los Angeles, CA 90028",
+    "website": "https://rapsndigitalmarketing.com/",
+    "hours": {
+      "Tuesday": "9:30 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.1018232,
+      "lng": -118.3443526
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12153073239546889396",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:47.891Z"
+  },
+  {
+    "place_id": "0x80c2bf0699acf90f:0x61e92690b1592420",
+    "name": "Diseño de página Web, e-Commerce y Marketing en Redes Sociales en Los Ángeles | Hollywood Web Solutions",
+    "category": "Website designer",
+    "address": "1756 N Gramercy Pl suite 2, Hollywood, CA 90028",
+    "phone": "(424) 204-3923",
+    "website": "http://www.hollywoodwebsolutions.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.103369,
+      "lng": -118.31200899999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7055212694145147936",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:47.935Z"
+  },
+  {
+    "place_id": "0x80c2b99c37976077:0x48bfc0e27c457fdc",
+    "name": "Create",
+    "category": "Marketing agency",
+    "address": "4201 Wilshire Blvd 6th Floor, Los Angeles, CA 90010",
+    "phone": "(310) 280-2999",
+    "website": "https://www.createadvertising.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0620338,
+      "lng": -118.31962
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5242120570262618076",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@createadvertising.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@createadvertising.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "jobs@createadvertising.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:48.042Z"
+  },
+  {
+    "place_id": "0x80c2bf390ceb2157:0x5d4c93597cad4908",
+    "name": "Coded Agency",
+    "category": "Marketing agency",
+    "address": "1645 Vine St, Los Angeles, CA 90028",
+    "phone": "(424) 333-2993",
+    "website": "https://www.codedagency.com/contact/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.101132899999996,
+      "lng": -118.32695249999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6722910356310411528",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "nbdev@codedagency.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "nbdev@codedagency.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "showroom@codedagency.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@codedagency.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:48.660Z"
+  },
+  {
+    "place_id": "0x80c2ba5ea177361d:0xec786e3be5914fab",
+    "name": "Ignite Marketing",
+    "category": "Marketing agency",
+    "address": "6060 Manchester Ave Ste 310, Los Angeles, CA 90045",
+    "phone": "(424) 328-1077",
+    "website": "https://findignite.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 33.9596106,
+      "lng": -118.39070509999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17039490393689903019",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:48.760Z"
+  },
+  {
+    "place_id": "0x80c2bf2a3c267467:0x7a5494db054c676e",
+    "name": "BroBex Marketing",
+    "category": "Internet marketing service",
+    "address": "925 N La Brea Ave Fl 4, Los Angeles, CA 90038",
+    "phone": "(310) 486-1154",
+    "website": "https://brobex.org/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.087928999999995,
+      "lng": -118.34464299999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8814834039078545262",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:48.787Z"
+  },
+  {
+    "place_id": "0x80c2bf5115f3ac3b:0xbbe748e568c47e4c",
+    "name": "Mostly Sunny",
+    "category": "Marketing agency",
+    "address": "6121 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(888) 786-6978",
+    "website": "http://www.mostlysunny.co/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "7 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.098465399999995,
+      "lng": -118.3233284
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13539870954855104076",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:48.813Z"
+  },
+  {
+    "place_id": "0x80c2c0ac4cacf9a9:0xf206a35070c3fae7",
+    "name": "TREND: Music PR, Playlisting & Social Media",
+    "category": "Marketing agency",
+    "address": "4889 Melrose Ave, Los Angeles, CA 90029",
+    "phone": "(323) 668-9383",
+    "website": "https://trendpr.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0837019,
+      "lng": -118.3070006
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17439806172923427559",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:00.871Z"
+  },
+  {
+    "place_id": "0x80c2bf20f2356815:0x6bf22d6123ad023c",
+    "name": "Exverus by Brainlabs",
+    "category": "Advertising agency",
+    "address": "7080 Hollywood Blvd 7th floor, Los Angeles, CA 90028",
+    "phone": "(323) 285-0076",
+    "website": "http://exverus.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.101165,
+      "lng": -118.34445699999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7778329401655886396",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:00.906Z"
+  },
+  {
+    "place_id": "0x80dcde8d1f2bdb53:0x306e5a0bb22b6dc",
+    "name": "ELA Advertising",
+    "category": "Advertising agency",
+    "address": "1040 N Sycamore Ave, Los Angeles, CA 90038",
+    "phone": "(310) 849-5100",
+    "website": "http://www.ela1.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.090118,
+      "lng": -118.34270169999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=218114110471190236",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:01.003Z"
+  },
+  {
+    "place_id": "0xaae8f87aa3c0cdbd:0xe7d397b7af5f1f7c",
+    "name": "Viral Fox Digital Marketing Agency",
+    "category": "Marketing agency",
+    "phone": "(323) 772-5354",
+    "website": "http://viralfoxagency.com/",
+    "rating": 5,
+    "hours": {
+      "Monday": "9 AM–5 AM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16704862258024357756",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:01.027Z"
+  },
+  {
+    "place_id": "0x80c2b934f4d55039:0x1fa01b28661c202f",
+    "name": "Inhance",
+    "category": "Marketing agency",
+    "address": "925 N La Brea Ave Ste 500, West Hollywood, CA 90038",
+    "phone": "(323) 297-7700",
+    "website": "http://www.inhance.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0878802,
+      "lng": -118.34467029999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2278851271775232047",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:01.061Z"
+  },
+  {
+    "place_id": "0x80c2bfac3004ca81:0xc53d14795bbe1678",
+    "name": "Secret Weapon Digital",
+    "category": "Internet marketing service",
+    "address": "7080 Hollywood Blvd Ste 700, Los Angeles, CA 90028",
+    "phone": "(323) 364-2007",
+    "website": "https://secretweapondigital.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.1012553,
+      "lng": -118.34459679999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14212538510513935992",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:01.160Z"
+  },
+  {
+    "place_id": "0x80c2b94abe078837:0xeda73a77ec6388c3",
+    "name": "MKG",
+    "category": "Marketing agency",
+    "address": "933 N La Brea Ave, West Hollywood, CA 90038",
+    "phone": "(323) 656-7770",
+    "website": "http://www.thisismkg.com/",
+    "rating": 3.3,
+    "hours": {
+      "Tuesday": "9:30 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.088180699999995,
+      "lng": -118.34436
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17124720394841065667",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:01.190Z"
+  },
+  {
+    "place_id": "0x80c2bfafe96dadd7:0x8d46dbd393e7802b",
+    "name": "DZI Media Group",
+    "category": "Marketing agency",
+    "address": "1480 Vine St #203, Los Angeles, CA 90028",
+    "phone": "(844) 755-4285",
+    "website": "http://www.dzigroup.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.097603299999996,
+      "lng": -118.3264572
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10180065709483589675",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:01.208Z"
+  },
+  {
+    "place_id": "0x80c2b6f0aa400001:0xf10c2eade1f759cb",
+    "name": "dopweb",
+    "category": "Website designer",
+    "address": "6555 Barton Ave, Los Angeles, CA 90038",
+    "phone": "(213) 550-3317",
+    "website": "https://dopweb.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "10 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.088076,
+      "lng": -118.334361
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17369309187216464331",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@dopweb.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@dopweb.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:13.285Z"
+  },
+  {
+    "place_id": "0x80c2c73518b7bd9b:0xe58d666890563a0c",
+    "name": "Social Media Relations",
+    "category": "Marketing agency",
+    "address": "120 E 8th St Ste 607, Los Angeles, CA 90014",
+    "phone": "(747) 291-6899",
+    "website": "http://www.smrelations.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0419637,
+      "lng": -118.252708
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16540989605685901836",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:13.328Z"
+  },
+  {
+    "place_id": "0x80c2bf171a81026d:0x5b1aa32f149b855c",
+    "name": "All Star Digital | AI SEO Agency",
+    "category": "Internet marketing service",
+    "address": "2225 N Cahuenga Blvd, Los Angeles, CA 90068",
+    "phone": "(323) 898-8920",
+    "website": "https://allstardigital.pro/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.110603499999996,
+      "lng": -118.33230619999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6564738829450446172",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:13.406Z"
+  },
+  {
+    "place_id": "0x80c2bf2f8228dc3d:0xaf74807d4b19430e",
+    "name": "Intensify - eCommerce Advertising Agency in Hollywood, CA",
+    "category": "Advertising agency",
+    "address": "6121 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(310) 916-9876",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.098471499999995,
+      "lng": -118.3233011
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12642871329555038990",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:13.461Z"
+  },
+  {
+    "place_id": "0x80c2bff833922be5:0x9a34584148c73f40",
+    "name": "Coolwebdesigns2go - Los Angeles WordPress Developers",
+    "category": "Website designer",
+    "address": "5963 Lexington Ave, Los Angeles, CA 90038",
+    "phone": "(323) 389-7009",
+    "website": "https://coolwebdesigns2go.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0927144,
+      "lng": -118.3195774
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11111603218046992192",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:20.831Z"
+  },
+  {
+    "place_id": "0x80c2bf859599be0f:0xf8be32820e7d5d48",
+    "name": "Contemporary Media Group",
+    "category": "Marketing agency",
+    "address": "7083 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(424) 666-8502",
+    "website": "http://www.contemporarymediagroup.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.1018384,
+      "lng": -118.3444009
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17923819101151386952",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:20.894Z"
+  },
+  {
+    "place_id": "0x80c2bf391076d517:0x6c74645d4d8db092",
+    "name": "Vivid Concept, Inc.",
+    "category": "Marketing agency",
+    "address": "6253 Hollywood Blvd APT 202, Los Angeles, CA 90028",
+    "phone": "(323) 540-4370",
+    "website": "https://www.vividconcept.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "6 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.1017744,
+      "lng": -118.32651279999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7814981605290520722",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:20.916Z"
+  },
+  {
+    "place_id": "0x80c2bea67777a641:0xa9afc650a1b87157",
+    "name": "Lobeline Communications LLC",
+    "category": "Marketing agency",
+    "address": "6464 Sunset Blvd Suite 670, Los Angeles, CA 90028",
+    "phone": "(310) 271-1551",
+    "website": "https://lobeline.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0976388,
+      "lng": -118.33135279999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12227209562947088727",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:20.934Z"
+  },
+  {
+    "place_id": "0x80c2bf45596e0727:0xe01d3622eb3f66aa",
+    "name": "Clear As Day",
+    "category": "Marketing agency",
+    "address": "6121 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(310) 985-9277",
+    "website": "https://www.clearasday.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.098471499999995,
+      "lng": -118.3233011
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16149123362424055466",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:21.003Z"
+  },
+  {
+    "place_id": "0x80c2bfdadf826b51:0xd982b8fcdab677e5",
+    "name": "The Unmarketing Agency",
+    "category": "Advertising agency",
+    "address": "7190 Sunset Blvd Unit 30C, Los Angeles, CA 90046",
+    "phone": "(213) 554-1717",
+    "website": "https://www.theunmarketing.agency/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0977929,
+      "lng": -118.3468436
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15673293049343408101",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "usa@theunmarketing.agency",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "usa@theunmarketing.agency",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "singapore@theunmarketing.agency",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "india@theunmarketing.agency",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:21.027Z"
+  },
+  {
+    "place_id": "0x80c2b921f45f6639:0xc093029ab35dbbc3",
+    "name": "Evoke Inc.",
+    "category": "Marketing agency",
+    "address": "6121 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 933-9773",
+    "website": "http://www.evokeinc.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0984863,
+      "lng": -118.32334689999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13876437740316113859",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:21.078Z"
+  },
+  {
+    "place_id": "0x80c2bf205f4ae43f:0x9ccdd1914f7a9aaa",
+    "name": "Advertising Partners",
+    "category": "Advertising agency",
+    "address": "7083 Hollywood Blvd 5th floor, Hollywood, CA 90028",
+    "phone": "(323) 791-3722",
+    "website": "http://advertising-partners.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.101742,
+      "lng": -118.344376
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11298917462176340650",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@advertising-partners.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@advertising-partners.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:21.106Z"
+  },
+  {
+    "place_id": "0x85f130ac8fe5c2d:0x5aa0617a258ec3e6",
+    "name": "Golden Fleece Marketing",
+    "category": "Marketing agency",
+    "phone": "(888) 546-8002",
+    "website": "http://goldenfleecemarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6530326636931236838",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:33.184Z"
+  },
+  {
+    "place_id": "0x80c2bb07cd3f0e41:0x55ddabe2db84be16",
+    "name": "Top Growth Marketing INC",
+    "category": "Marketing agency",
+    "website": "http://topgrowthmarketing.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6187290453910797846",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:33.219Z"
+  },
+  {
+    "place_id": "0x80c2bed8a5220167:0x5033a08e308262dd",
+    "name": "Sparkle Marketing Agency",
+    "category": "Marketing agency",
+    "address": "7190 Sunset Blvd, Los Angeles, CA 90046",
+    "phone": "(213) 314-1290",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0977929,
+      "lng": -118.3468436
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5779139279406129885",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:33.279Z"
+  },
+  {
+    "place_id": "0x80c2bf64c243595b:0x87649d6bd10e979d",
+    "name": "SocialFansGeeK",
+    "category": "Marketing agency",
+    "address": "1600 Vine St, Los Angeles, CA 90028",
+    "website": "https://www.socialfansgeek.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.1003784,
+      "lng": -118.3260586
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9756095779185792925",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "support@socialfansgeek.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "support@socialfansgeek.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:33.304Z"
+  },
+  {
+    "place_id": "0x80c2b90f1a34242d:0xc5fee7dd50bf7b74",
+    "name": "Beverly Hills Agency",
+    "category": "Internet marketing service",
+    "address": "8601 Wilshire Blvd Unit 1002, Beverly Hills, CA 90211",
+    "phone": "(619) 663-0000",
+    "website": "https://bhseoagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.066175,
+      "lng": -118.37866229999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14267095607284824948",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:33.360Z"
+  },
+  {
+    "place_id": "0x80c2b94646c5cb95:0x91af9842df9ed669",
+    "name": "FIDGET Branding",
+    "category": "Marketing agency",
+    "address": "6255 Sunset Blvd #1040, Los Angeles, CA 90028",
+    "phone": "(323) 658-8000",
+    "website": "http://www.fidgetbranding.com/",
+    "rating": 3.7,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.098279999999995,
+      "lng": -118.325451
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10497776669410907753",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:33.384Z"
+  },
+  {
+    "place_id": "0x80c2b951102b0835:0xacb229e7b440fd9a",
+    "name": "Persona PR",
+    "category": "Public relations firm",
+    "address": "6255 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(310) 601-2734",
+    "website": "http://persona-pr.com/",
+    "rating": 4.8,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0984499,
+      "lng": -118.3257003
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12444054795516444058",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:33.421Z"
+  },
+  {
+    "place_id": "0x80c2bf205e58fa39:0x2ca4458727b17a42",
+    "name": "80Twenty",
+    "category": "Talent agency",
+    "address": "7083 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(213) 246-2011",
+    "website": "http://www.80twenty.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.1018292,
+      "lng": -118.34438929999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3216772480638220866",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@80twenty.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@80twenty.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:33.490Z"
+  },
+  {
+    "place_id": "0x80c2bf339a9f9583:0x4e491501157e1455",
+    "name": "Black Box Creative Group",
+    "category": "Marketing agency",
+    "address": "1020 Cole Ave #4375, Los Angeles, CA 90038",
+    "phone": "(323) 467-6000",
+    "website": "http://www.blkbxcg.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0896934,
+      "lng": -118.329641
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5641063102657991765",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@blkbxcg.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@blkbxcg.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "jobs@blkbxcg.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:35.125Z"
+  },
+  {
+    "place_id": "0x80c2bf407b049043:0xb59372ec6cc0f0f1",
+    "name": "Visualab Design",
+    "category": "Marketing agency",
+    "phone": "(323) 744-0684",
+    "website": "https://visualabdesign.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13083927702203855089",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "team@visualabdesign.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "team@visualabdesign.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:35.184Z"
+  },
+  {
+    "place_id": "0xe6b215327638c87:0x4479866f396374e1",
+    "name": "Socially Intrigued Digital Marketing Agency",
+    "category": "Marketing agency",
+    "phone": "(888) 306-8688",
+    "website": "https://sociallyintrigued.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 36.238198,
+      "lng": -96.94080819999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4934122679023400161",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:35.412Z"
+  },
+  {
+    "place_id": "0x80c2bfde28399687:0x2760d09330c932fc",
+    "name": "Apex Marketing",
+    "category": "Marketing agency",
+    "address": "7080 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(802) 393-8398",
+    "website": "https://apexmarketing.co/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.1012553,
+      "lng": -118.34459679999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2837497095840674556",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:35.433Z"
+  },
+  {
+    "place_id": "0x80c2bec010b1292d:0xfd250b8d64039455",
+    "name": "RUNWAY WAITERS",
+    "category": "Event planner",
+    "address": "6600 Sunset Blvd #219, Hollywood, CA 90028",
+    "phone": "(800) 959-2961",
+    "website": "http://www.runwaywaiters.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.097646,
+      "lng": -118.33340799999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18240998567630312533",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@runwaywaiters.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@runwaywaiters.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:40.556Z"
+  },
+  {
+    "place_id": "0x80c2b135c434fadb:0xf917f48768a8ffb8",
+    "name": "Wpromote",
+    "category": "Marketing agency",
+    "address": "101 Continental Blvd Ste 150, El Segundo, CA 90245",
+    "phone": "(310) 321-4437",
+    "website": "https://www.wpromote.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 33.916989799999996,
+      "lng": -118.3914368
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17949083702322069432",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:40.626Z"
+  },
+  {
+    "place_id": "0x4870f35614fbb383:0xc6165be0555e1ab5",
+    "name": "EstateLuxShoot",
+    "category": "Marketing agency",
+    "phone": "(213) 379-5472",
+    "website": "https://www.estateluxshoot.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 33.619620499999996,
+      "lng": -105.554546
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14273697088060398261",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "contact@estateluxshoot.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@estateluxshoot.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:40.653Z"
+  },
+  {
+    "place_id": "0x80c2b9dd74852905:0x1fd0f786781b7ab2",
+    "name": "Sam Lovi Media",
+    "category": "Marketing agency",
+    "address": "6555 Barton Ave, Los Angeles, CA 90038",
+    "phone": "(650) 313-3293",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0879474,
+      "lng": -118.3348257
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2292604367244327602",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:40.693Z"
+  },
+  {
+    "place_id": "0x80c2b975a3bb142b:0x7374bc0a9bf97ef1",
+    "name": "Paradox Media Group",
+    "category": "Internet marketing service",
+    "address": "5957 Barton Ave #204, Los Angeles, CA 90038",
+    "phone": "(818) 480-8445",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.088253099999996,
+      "lng": -118.3242549
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8319481165412663025",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:40.760Z"
+  },
+  {
+    "place_id": "0x80c2bf3bdae9e9fd:0x41debdd79452cc94",
+    "name": "V+CO",
+    "category": "Advertising agency",
+    "phone": "(855) 824-2464",
+    "website": "http://vcomedia.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4746439790899154068",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@vcomedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@vcomedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:40.788Z"
+  },
+  {
+    "place_id": "0x80c2bf3a0a649cb7:0x74d4673ad47ecd4f",
+    "name": "BLT Communications",
+    "category": "Graphic designer",
+    "address": "6430 Sunset Blvd #900, Los Angeles, CA 90028",
+    "phone": "(323) 860-4000",
+    "website": "http://www.bltomato.com/",
+    "rating": 4.4,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0976934,
+      "lng": -118.3300769
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8418467105833143631",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:40.879Z"
+  },
+  {
+    "place_id": "0x80c2bf5348bb890d:0xade23054ff41481e",
+    "name": "King, Edward, First",
+    "category": "Marketing agency",
+    "address": "6464 Sunset Blvd #880, Los Angeles, CA 90028",
+    "phone": "(888) 787-7668",
+    "website": "https://www.king-edward.com/",
+    "rating": 3,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.097639,
+      "lng": -118.3313326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12529630254915995678",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:40.916Z"
+  },
+  {
+    "place_id": "0x80c2bf2a15574f6f:0x8a6d4490dd9bcdf9",
+    "name": "Prowess - Marketing Muscle for Fitness Companies",
+    "category": "Marketing agency",
+    "address": "915 N La Brea Ave #409, West Hollywood, CA 90038",
+    "phone": "(917) 567-8839",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "8 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.087541,
+      "lng": -118.3447545
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9974704138679471609",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:47.103Z"
+  },
+  {
+    "place_id": "0xa02a1250e8a6d69:0x4dd0ed9271589ad4",
+    "name": "CWBY Studio",
+    "category": "Marketing agency",
+    "phone": "(727) 221-6851",
+    "website": "https://www.cwbystudio.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5607242749298907860",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:47.447Z"
+  },
+  {
+    "place_id": "0x80c2bf147c0dd345:0xb67c633e92af5244",
+    "name": "CMMAD | Digital Marketing Hollywood",
+    "category": "Advertising agency",
+    "address": "7095 Hollywood Blvd, Hollywood, CA 90028",
+    "phone": "(213) 512-4200",
+    "website": "https://www.cmmad.com/hollywood",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.1019383,
+      "lng": -118.344999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13149494132415091268",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:47.524Z"
+  },
+  {
+    "place_id": "0x80c2bf3562f8859f:0xb8f76ffef625474d",
+    "name": "Wiser Post",
+    "category": "Advertising agency",
+    "address": "6121 Santa Monica Blvd #101, Los Angeles, CA 90038",
+    "phone": "(323) 871-0355",
+    "website": "http://www.wiserpost.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0910839,
+      "lng": -118.32309049999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13328244763068286797",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:47.553Z"
+  },
+  {
+    "place_id": "0x80c2bf401311f01b:0x8b378cbbce8d1a4",
+    "name": "Westbound Creative Inc.",
+    "category": "Marketing agency",
+    "address": "6855 Santa Monica Blvd, Los Angeles, CA 90038",
+    "phone": "(323) 426-6440",
+    "website": "http://www.wearewestbound.com/",
+    "hours": {
+      "Tuesday": "9:30 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0909917,
+      "lng": -118.34007659999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=626977589577699748",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:47.586Z"
+  },
+  {
+    "place_id": "0x80c2bebc55a01233:0x3ca6b871f5b216d9",
+    "name": "Maxi Wade Agency, LLC",
+    "category": "Marketing agency",
+    "address": "1601 Vine St, Los Angeles, CA 90028",
+    "phone": "(213) 878-0508",
+    "website": "http://www.maxiwadeagency.com/",
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0998975,
+      "lng": -118.326906
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4370383288002549465",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:47.622Z"
+  },
+  {
+    "place_id": "0x89c2592ec34d52b7:0xe0d9d30d1ac9bb40",
+    "name": "NoGood - Growth Marketing Agency",
+    "category": "Marketing agency",
+    "address": "491 Broadway, New York, NY 10012",
+    "website": "https://nogood.io/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "6 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.7220902,
+      "lng": -74.000013
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16202213187679533888",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:47.670Z"
+  },
+  {
+    "place_id": "0x80c2b8c919055555:0x7cbcc0aedabe93f7",
+    "name": "Inconnection - Digital Marketing Agency for PyMEDigital Marketing Agency for PyME",
+    "category": "Marketing agency",
+    "address": "570 N Rossmore Ave, Los Angeles, CA 90004",
+    "phone": "(305) 721-3023",
+    "website": "https://inconnection.us/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0808746,
+      "lng": -118.32697189999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8988270813551432695",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:47.698Z"
+  },
+  {
+    "place_id": "0x80c2bf482ded870b:0xa34c1018445ac799",
+    "name": "Bookmark Content and Communications",
+    "category": "Marketing agency",
+    "address": "Sunset Gower Studios, 1438 N Gower St #50, Hollywood, CA 90028",
+    "phone": "(888) 350-2425",
+    "website": "https://bookmarkcontent.com/los-angeles/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.097254,
+      "lng": -118.322132
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11766797622824322969",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:50.546Z"
+  },
+  {
+    "place_id": "0x80c2bed376ac6893:0xccc3f3ec2735dd86",
+    "name": "Think Tank Creative Design",
+    "category": "Marketing agency",
+    "address": "6515 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 393-3377",
+    "website": "https://www.thinktankcreative.us/?utm_source=google&utm_medium=local&utm_campaign=gmb",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 34.0982713,
+      "lng": -118.33166159999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14754904999791549830",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@thinktankcreative.us",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@thinktankcreative.us",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:50.591Z"
+  },
+  {
+    "place_id": "0x80c2beb13379a493:0x377347f9706d66ff",
+    "name": "RQ",
+    "category": "Marketing agency",
+    "address": "1020 N Sycamore Ave, Los Angeles, CA 90038",
+    "phone": "(323) 659-0000",
+    "website": "http://www.rqagency.com/",
+    "hours": {
+      "Tuesday": "8:30 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.089531799999996,
+      "lng": -118.3424678
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3995616431066408703",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "hello@rqagency.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@rqagency.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:50.635Z"
+  },
+  {
+    "place_id": "0x80c2bf2058efec9f:0xcfa96703b67a2ca5",
+    "name": "Vrrb",
+    "category": "Website designer",
+    "address": "1601 Vine St, Los Angeles, CA 90028",
+    "website": "https://www.vrrb.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0998975,
+      "lng": -118.326906
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14963604502559206565",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:50.676Z"
+  },
+  {
+    "place_id": "0x80c2bfe6a74483b5:0x4455e6e8c7b39bf2",
+    "name": "Work Of Art Digital Marketing",
+    "category": "Marketing agency",
+    "address": "1601 Vine St Ste 6113, Los Angeles, CA 90028",
+    "phone": "(760) 419-2898",
+    "website": "https://woadigital.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0999067,
+      "lng": -118.32690059999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4924095655056743410",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:56.364Z"
+  },
+  {
+    "place_id": "0x80c2ba5623983e69:0x2d0883a5dd4f9f02",
+    "name": "12SM Agency",
+    "category": "Internet marketing service",
+    "address": "Hollywood Blvd, Hollywood, CA 90028",
+    "phone": "(626) 227-6469",
+    "website": "https://www.12sm.agency/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.1016233,
+      "lng": -118.32818639999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3244988279926267650",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:56.461Z"
+  },
+  {
+    "place_id": "0x80c2bf049eb07ec7:0x53321bfec49dfdf",
+    "name": "The Limitless Company",
+    "category": "Marketing agency",
+    "address": "6600 Sunset Blvd, Los Angeles, CA 90028",
+    "website": "https://limitless.inc/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.097727299999995,
+      "lng": -118.33345589999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=374680302188617695",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:56.500Z"
+  },
+  {
+    "place_id": "0x80c2bf3a76de72bd:0x58e95ef28d872c4c",
+    "name": "Staples Print & Marketing Services",
+    "category": "Print shop",
+    "address": "6450 Sunset Blvd, Hollywood, CA 90028",
+    "phone": "(323) 467-2155",
+    "website": "https://stores.staples.com/ca/hollywood/6450-sunset-blvd/print-and-marketing-services?cmpid=st_ll_goo&cid=LS:RETAIL:G&utm_source=google&utm_medium=organic&utm_campaign=Google_Business_Listing",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.097672599999996,
+      "lng": -118.3306557
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6406756340760783948",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:56.579Z"
+  },
+  {
+    "place_id": "0x80c2bf21679c61c9:0xc15767602427879b",
+    "name": "Trailer Park Group",
+    "category": "Marketing agency",
+    "address": "6922 Hollywood Blvd 10th Floor, Hollywood, CA 90028",
+    "phone": "(310) 845-3000",
+    "website": "http://trailerparkgroup.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.1010528,
+      "lng": -118.3409535
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13931717634915010459",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "bizdev@trailerparkgroup.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "bizdev@trailerparkgroup.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "london@trailerparkgroup.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:56.606Z"
+  },
+  {
+    "place_id": "0x80c2bfc7f681dd29:0xea26ab341f6927f0",
+    "name": "Nightshade Marketing Group, LLC",
+    "category": "Marketing agency",
+    "address": "8605 Santa Monica Blvd, West Hollywood, CA 90069",
+    "phone": "(657) 449-7408",
+    "website": "https://www.nightshadegroup.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0880898,
+      "lng": -118.3794525
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16872361294343776240",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:56.728Z"
+  },
+  {
+    "place_id": "0x80c2bf37e4f9f7af:0x6f40e00c9d7fded8",
+    "name": "Cornerstone Agency",
+    "category": "Marketing consultant",
+    "address": "6121 Sunset Boulevard, c/o Neuehouse, Los Angeles, CA 90028",
+    "phone": "(212) 741-7100",
+    "website": "http://www.cornerstoneagency.com/",
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.098483,
+      "lng": -118.32332199999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8016653681506115288",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:56.750Z"
+  },
+  {
+    "place_id": "0x80c2bec32c78f3f3:0x493d8505620643bc",
+    "name": "CARO Marketing",
+    "category": "Marketing agency",
+    "address": "1550 N El Centro Ave, Hollywood, CA 90028",
+    "phone": "(323) 781-2276",
+    "website": "http://www.caromarketing.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0996336,
+      "lng": -118.32344769999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5277520596513997756",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:56.771Z"
+  },
+  {
+    "place_id": "0x80c2c1d18cf0eb7b:0x9b50f11019651dd6",
+    "name": "American Marketing Experts",
+    "category": "Marketing agency",
+    "address": "1550 Hillhurst Ave #1, Los Angeles, CA 90027",
+    "phone": "(866) 709-2349",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0996974,
+      "lng": -118.2871471
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11191710125463510486",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:03.061Z"
+  },
+  {
+    "place_id": "0x895d55ee031a0f1:0x58b3660a57e153f7",
+    "name": "pocketwhale los angeles",
+    "category": "Marketing agency",
+    "website": "http://www.pocketwhale.com/",
+    "rating": 3,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0826065,
+      "lng": -118.3995339
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6391564490778956791",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "la@pocketwhale.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "la@pocketwhale.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "paris@pocketwhale.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "tokyo@pocketwhale.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "contact@pocketwhale.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:03.085Z"
+  },
+  {
+    "place_id": "0x80c2c64a6fbcf467:0xb1422bb4d2e6610c",
+    "name": "Hawthorne Advertising",
+    "category": "Advertising agency",
+    "address": "1201 W 5th St t230, Los Angeles, CA 90017",
+    "phone": "(310) 844-0606",
+    "website": "https://www.hawthorneadvertising.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0547362,
+      "lng": -118.2604944
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12772819548808569100",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:03.187Z"
+  },
+  {
+    "place_id": "0x80c2bf3d22f943f3:0x537d74c0dd0b94fd",
+    "name": "Los Angeles Advertising",
+    "category": "Advertising agency",
+    "address": "1850 Whitley Ave, Los Angeles, CA 90028",
+    "phone": "(323) 345-9962",
+    "hours": {
+      "Tuesday": "6 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.104960399999996,
+      "lng": -118.3330008
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6016093048927917309",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:03.267Z"
+  },
+  {
+    "place_id": "0x80c2bf3bd4a2a20d:0xcb5fefb626467923",
+    "name": "GEN ART",
+    "category": "Marketing agency",
+    "address": "1617 Cosmo St #412, Los Angeles, CA 90028",
+    "phone": "(323) 818-7000",
+    "website": "http://genart.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.10048,
+      "lng": -118.3289913
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14654695278092122403",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:03.461Z"
+  },
+  {
+    "place_id": "0x80c2bf9b92590961:0x418825211ce19879",
+    "name": "Prokop Digital Marketing",
+    "category": "Marketing agency",
+    "address": "1750 Vine St, Hollywood, CA 90028",
+    "phone": "(424) 281-9415",
+    "website": "http://www.prokopdigitalmarketing.com/",
+    "hours": {
+      "Tuesday": "10 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.1031283,
+      "lng": -118.3263875
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4722065033446660217",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:03.527Z"
+  },
+  {
+    "place_id": "0x80c2bffceb719e6b:0x199d2dcc27a12686",
+    "name": "Inoa Marketing, LLC",
+    "category": "Marketing agency",
+    "address": "6600 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(424) 388-0112",
+    "website": "http://inoamarketing.com/",
+    "hours": {
+      "Tuesday": "10 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 34.097727299999995,
+      "lng": -118.33345589999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1845681777153222278",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:03.570Z"
+  },
+  {
+    "place_id": "0x80c2bf39c3708aeb:0xe6532d70383fa063",
+    "name": "CMPTL",
+    "category": "Marketing agency",
+    "address": "1555 Vine St #550v, Los Angeles, CA 90028",
+    "phone": "(347) 304-9060",
+    "website": "http://www.cmptl.com/",
+    "hours": {
+      "Tuesday": "9:30 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0991421,
+      "lng": -118.3268859
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16596659011793690723",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@cmptl.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@cmptl.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:03.594Z"
+  },
+  {
+    "place_id": "0x80c2bf4ecb45ec0b:0x6653dd8a347b960",
+    "name": "World's Greatest Media Training",
+    "category": "Marketing consultant",
+    "address": "5800 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(310) 415-0450",
+    "website": "http://www.guaranteedcelebrity.com/",
+    "hours": {
+      "Tuesday": "10 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.09729,
+      "lng": -118.31692149999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=460842537536960864",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:10.336Z"
+  },
+  {
+    "place_id": "0x80c2bfed8e4d1f85:0xb85794747e9444aa",
+    "name": "Infinity Marketing",
+    "category": "Marketing consultant",
+    "address": "6525 Sunset Blvd #G2, Los Angeles, CA 90028",
+    "phone": "(323) 962-4784",
+    "website": "http://www.infinitymarketing.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0983988,
+      "lng": -118.33220039999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13283248854013330602",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:10.481Z"
+  },
+  {
+    "place_id": "0x80c2bf2e24400069:0x4723ac67785b44de",
+    "name": "Studio Winterz - Creative Consultancy & Agency",
+    "category": "Marketing agency",
+    "address": "1210 N Cherokee Ave Unit 308, Los Angeles, CA 90038",
+    "phone": "+91 99990 28385",
+    "website": "http://www.studiowinterz.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.092912,
+      "lng": -118.33496299999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5126130361278612702",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:10.508Z"
+  },
+  {
+    "place_id": "0x80c2bb1b8f4b52f9:0xeb1ee74346a8f3cc",
+    "name": "Index Promotions Inc",
+    "category": "Marketing agency",
+    "address": "1800 Vine St, Los Angeles, CA 90028",
+    "phone": "(310) 306-6626",
+    "website": "http://indexpromotions.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.104151,
+      "lng": -118.32632799999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16942233124348687308",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "8c4075d5481d476e945486754f783364@sentry.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@indexpromotions.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:10.561Z"
+  },
+  {
+    "place_id": "0x80c2bb2e7f0ea701:0x3b991c36e9748984",
+    "name": "Marketing Revive",
+    "category": "Marketing agency",
+    "address": "1901 Ave of the Stars 2nd Floor, Los Angeles, CA 90067",
+    "phone": "(415) 500-5333",
+    "website": "https://marketingrevive.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.059570799999996,
+      "lng": -118.4177211
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4294494741845019012",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "hello@marketingrevive.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@marketingrevive.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:19.682Z"
+  },
+  {
+    "place_id": "0x80c2bf16128d128f:0x893c8155e2e09242",
+    "name": "BLAIRCOMM",
+    "category": "Marketing agency",
+    "address": "6600 Sunset Blvd, Hollywood, CA 90028",
+    "phone": "(805) 522-5061",
+    "website": "https://blaircomm.us/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.097646,
+      "lng": -118.33340799999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9888921087677338178",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:19.777Z"
+  },
+  {
+    "place_id": "0x80c2bf40b30b3b43:0xbc59e3aacf7cb62e",
+    "name": "Dreamer Management",
+    "category": "Talent agency",
+    "address": "1626 North Wilcox Ave #625, Hollywood, CA 90028",
+    "phone": "(628) 400-3933",
+    "website": "http://dreamermanagement.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.1005989,
+      "lng": -118.33082929999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13572129274822702638",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:19.799Z"
+  },
+  {
+    "place_id": "0x80c2bf3a3509a583:0xa541bec3b4f671ac",
+    "name": "Miles High Productions Group LLC",
+    "category": "Marketing consultant",
+    "phone": "(323) 806-0400",
+    "website": "http://www.mileshighproductions.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11908008637508252076",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@mileshighproductions.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@mileshighproductions.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:19.824Z"
+  },
+  {
+    "place_id": "0x80c2bffa16d64a97:0xfd122cfe5bd22d61",
+    "name": "EightPM",
+    "category": "Marketing agency",
+    "address": "5570 Melrose Ave Ste 102, Los Angeles, CA 90038",
+    "phone": "(800) 251-0043",
+    "website": "http://eightpm.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0831508,
+      "lng": -118.32199849999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18235687312150375777",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "hi@eightpm.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "hi@eightpm.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "careers@eightpm.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:19.908Z"
+  },
+  {
+    "place_id": "0x80c2bf31cf7df06b:0x6bbd1fec98db876",
+    "name": "Eren Kamyshnikova Digital Marketing",
+    "category": "Marketing consultant",
+    "address": "1600 Vine St, Los Angeles, CA 90028",
+    "phone": "(323) 797-1376",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0999309,
+      "lng": -118.326056
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=485212277105866870",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:19.984Z"
+  },
+  {
+    "place_id": "0x8033d24e6400b90d:0xd33bebb074bf1b67",
+    "name": "Digetects, LLC",
+    "category": "Internet marketing service",
+    "address": "1465 Tamarind Ave Ste 616, Hollywood, CA 90028",
+    "phone": "(866) 999-1766",
+    "website": "https://digetects.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0975709,
+      "lng": -118.31921919999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15221018508734176103",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:20.010Z"
+  },
+  {
+    "place_id": "0x80c2bf9b13b93a9d:0xc1bef709a892602d",
+    "name": "The Hello Group",
+    "category": "Marketing agency",
+    "address": "1550 N El Centro Ave, Los Angeles, CA 90028",
+    "phone": "(234) 234-1310",
+    "website": "http://thehellogroup.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0996336,
+      "lng": -118.32344769999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13960867515750047789",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:20.060Z"
+  },
+  {
+    "place_id": "0x80c2a4d1ee68dfff:0xafa52a792ccb83cc",
+    "name": "Ghost Media - Digital Marketing",
+    "category": "Marketing agency",
+    "address": "777 S Alameda St 2nd Fl, Los Angeles, CA 90021",
+    "website": "http://www.ghostmediainc.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.033613599999995,
+      "lng": -118.241543
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12656569027725591500",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:25.909Z"
+  },
+  {
+    "place_id": "0x80c295b6ecff0f21:0x2e9f8863d25c4abb",
+    "name": "International Promotions",
+    "category": "Advertising agency",
+    "address": "10725 Vanowen St, North Hollywood, CA 91605",
+    "phone": "(818) 755-6333",
+    "website": "http://www.intlpromotions.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.1942569,
+      "lng": -118.3657137
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3359553809354083003",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "support@intlpromotions.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "support@intlpromotions.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:26.022Z"
+  },
+  {
+    "place_id": "0x80c2bed708863e55:0xc721a2f4043a6513",
+    "name": "Jeff Wagner Agency",
+    "category": "Marketing agency",
+    "address": "7111 CA-2 #605, West Hollywood, CA 90046",
+    "phone": "(323) 461-1011",
+    "website": "http://jeffwagneragency.com/",
+    "hours": {
+      "Tuesday": "9:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0909109,
+      "lng": -118.3446652
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14348929056705766675",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:26.082Z"
+  },
+  {
+    "place_id": "0x87df045c71368173:0x7debd61f420e34b9",
+    "name": "Lumative",
+    "category": "Marketing agency",
+    "phone": "(424) 513-4422",
+    "website": "https://lumativedigital.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9073581304008553657",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "lumativedigital@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "lumativedigital@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:26.160Z"
+  },
+  {
+    "place_id": "0x80c2cfc2da16aaab:0x6a6da5944132259",
+    "name": "Shark Media Marketing",
+    "category": "Marketing agency",
+    "address": "1605 W Olympic Blvd 9th floor, Los Angeles, CA 90015",
+    "phone": "(888) 588-1431",
+    "website": "http://www.sharkmediamarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0495978,
+      "lng": -118.2745312
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=479310487290585689",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "hi@sharkmediamarketing.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "hi@sharkmediamarketing.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:26.263Z"
+  },
+  {
+    "place_id": "0x80c2bf3906408eb3:0xb34f537a1c2afa5b",
+    "name": "Raucous Content",
+    "category": "Marketing agency",
+    "address": "1680 Vine St Ste 300, Los Angeles, CA 90028",
+    "phone": "(323) 627-5000",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.1012878,
+      "lng": -118.32637419999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12920637639872936539",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:26.306Z"
+  },
+  {
+    "place_id": "0x80c2b92203c483bd:0x364811d991972609",
+    "name": "Edelman",
+    "category": "Public relations firm",
+    "address": "1500 N El Centro Ave, Los Angeles, CA 90028",
+    "phone": "(323) 857-9100",
+    "website": "http://www.edelman.com/office/los-angeles/",
+    "rating": 4.5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0991168,
+      "lng": -118.3235619
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3911395902519453193",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:26.360Z"
+  },
+  {
+    "place_id": "0x80c2bf3a0a6103fb:0x762dd74c7f9c223f",
+    "name": "Oxford Agents Of Influences",
+    "category": "Advertising agency",
+    "address": "6430 Sunset Blvd #600, Los Angeles, CA 90028",
+    "phone": "(323) 212-6002",
+    "website": "http://oxfordroad.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0976798,
+      "lng": -118.329927
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8515699193985901119",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:26.385Z"
+  },
+  {
+    "place_id": "0x80c2c78b44df5ec5:0x83dc5e135d08bab5",
+    "name": "Internet Marketing Firm Net SEO",
+    "category": "Internet marketing service",
+    "address": "518 S Broadway, Los Angeles, CA 90013",
+    "phone": "(833) 762-7202",
+    "website": "https://www.internetmarketingfirm.net/california-internet-marketing/los-angeles-digital-marketing-company/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0473827,
+      "lng": -118.2508807
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9501572751103146677",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:29.062Z"
+  },
+  {
+    "place_id": "0x80c2bb8bf123819f:0x81298187d3ab3b7d",
+    "name": "Brill Media",
+    "category": "Marketing agency",
+    "address": "16133 Ventura Blvd #700, Encino, CA 91436",
+    "phone": "(800) 488-1973",
+    "website": "https://brillmedia.co/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.1568173,
+      "lng": -118.4847918
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9307112525309623165",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "hello@brillmedia.co",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@brillmedia.co",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:29.360Z"
+  },
+  {
+    "place_id": "0x42d498f24c1f6f71:0x380421796ec98a2e",
+    "name": "DealTrail",
+    "category": "Marketing agency",
+    "phone": "(310) 861-3459",
+    "website": "https://dealtrail.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4036387971464268334",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:29.676Z"
+  },
+  {
+    "place_id": "0x80c2bf2ec43214d5:0xa2b770c48b7530db",
+    "name": "VRSE 1 ENTERTAINMENT LLC",
+    "category": "Marketing agency",
+    "address": "4216 Santa Monica Blvd, West Hollywood, CA 90038",
+    "phone": "(714) 497-0865",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.092440499999995,
+      "lng": -118.33369809999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11724964144337989851",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:29.787Z"
+  },
+  {
+    "place_id": "0x80c2bf328f22a24d:0x7fd5dcf5db0dd5f7",
+    "name": "NYLA Talent",
+    "category": "Talent agency",
+    "address": "1149 N Gower St #200, Los Angeles, CA 90038",
+    "phone": "(310) 807-7630",
+    "website": "https://www.nylatalent.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0917469,
+      "lng": -118.3225215
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9211511561356432887",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:45.898Z"
+  },
+  {
+    "place_id": "0x80c2bf13a98ce3db:0x87eeb4913859277f",
+    "name": "IDEY",
+    "category": "Marketing agency",
+    "address": "6600 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(844) 554-4040",
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0977491,
+      "lng": -118.3334282
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9794964775386031999",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:45.916Z"
+  },
+  {
+    "place_id": "0x80c2bedc13845c79:0x326c1c5c552558cd",
+    "name": "BoomTown Marketing",
+    "category": "Internet marketing service",
+    "phone": "(323) 639-3385",
+    "website": "http://www.boomtownmarketing.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3633310182272227533",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@boomtownmarketing.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@boomtownmarketing.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:45.963Z"
+  },
+  {
+    "place_id": "0x80c29632ba838795:0x959a785c97a33dd0",
+    "name": "HollywoodProps.com",
+    "category": "Marketing consultant",
+    "address": "14040 Milbank St, Sherman Oaks, CA 91423",
+    "phone": "(310) 709-2990",
+    "website": "http://www.hollywoodprops.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.152873899999996,
+      "lng": -118.4389726
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10780060997141085648",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:46.097Z"
+  },
+  {
+    "place_id": "0x80c2bf6d43709d6f:0x9b0bc6e542623239",
+    "name": "Paul Burditch Branding Marketing Communications",
+    "category": "Branding agency",
+    "phone": "(323) 652-1867",
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 31.4813691,
+      "lng": -25.9787501
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11172241988586189369",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:46.181Z"
+  },
+  {
+    "place_id": "0x80c29f7b13960643:0x6b2141581f4b1a61",
+    "name": "Butter",
+    "category": "Film production company",
+    "address": "5806 Waring Ave #5, Los Angeles, CA 90038",
+    "phone": "(917) 267-2146",
+    "website": "http://www.butter.la/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.085095599999995,
+      "lng": -118.3247466
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7719523083027683937",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:46.267Z"
+  },
+  {
+    "place_id": "0x4b068f329241b4e1:0x861282906a8ce0a3",
+    "name": "HSR Marketing Agency",
+    "category": "Marketing agency",
+    "phone": "(847) 814-2949",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9660927707437654179",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:46.295Z"
+  },
+  {
+    "place_id": "0x80c2bf9c10108383:0x578f93a6970b7a61",
+    "name": "Melrose Domains",
+    "category": "Website designer",
+    "address": "6330 Hollywood Blvd, Hollywood, CA 90028",
+    "phone": "(323) 937-2565",
+    "website": "https://melrosedomains.net/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "12:30–8:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.101272,
+      "lng": -118.3276903
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6309423946677320289",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:46.318Z"
+  },
+  {
+    "place_id": "0x80c2bec0b3802b0b:0x246fdca078ea60b2",
+    "name": "Umbrella Los Angeles",
+    "category": "Marketing agency",
+    "website": "http://www.umbrellalosangeles.com/",
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2625559689561792690",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@umbrellalosangeles.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@umbrellalosangeles.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:58.341Z"
+  },
+  {
+    "place_id": "0x80c2bf3a64426881:0x8f5f6268bee1f9e6",
+    "name": "Minuteman Press Hollywood",
+    "category": "Graphic designer",
+    "address": "6501 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 461-1222",
+    "website": "https://ca298.minuteman.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0981746,
+      "lng": -118.3311928
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10331084272229808614",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:58.413Z"
+  },
+  {
+    "place_id": "0x80c2bfba6d27b5b7:0x39adf68234ab709",
+    "name": "Akeo",
+    "category": "Marketing agency",
+    "address": "1601 Vine St, Los Angeles, CA 90028",
+    "phone": "(213) 805-5285",
+    "website": "https://akeo.com/",
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.099907099999996,
+      "lng": -118.32690339999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=259765566888916745",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "zan@akeo.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "zan@akeo.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "hello@akeo.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:58.432Z"
+  },
+  {
+    "place_id": "0x80c2bf2d4af8643b:0x7f7e84b40e6d0b3e",
+    "name": "Trendr",
+    "category": "Marketing agency",
+    "address": "822 N Las Palmas Ave, Los Angeles, CA 90038",
+    "phone": "(818) 939-3695",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0860552,
+      "lng": -118.3358207
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9186926198753397566",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:58.621Z"
+  },
+  {
+    "place_id": "0x80c2bfceea186cd3:0x522c10cf6ad176f1",
+    "name": "iVisit Media Inc",
+    "category": "Marketing agency",
+    "address": "6121 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(213) 596-2614",
+    "website": "https://www.ivisitmedia.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.098496,
+      "lng": -118.32341699999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5921126093121746673",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:58.637Z"
+  },
+  {
+    "place_id": "0x80c2bf309ba4f575:0xa1c80f410b47cb2f",
+    "name": "New Media Hollywood",
+    "category": "Computer consultant",
+    "address": "6122 Santa Monica Blvd, Los Angeles, CA 90038",
+    "phone": "(323) 957-5000",
+    "website": "http://nmh.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.090636499999995,
+      "lng": -118.32310469999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11657584407485074223",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:58.697Z"
+  },
+  {
+    "place_id": "0x80c2b8cb7fe2dc83:0x3519ee5657be0b8a",
+    "name": "Milky Agency",
+    "category": "Talent agency",
+    "address": "760 N Cahuenga Blvd, Los Angeles, CA 90038",
+    "website": "http://www.milkyagency.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0851798,
+      "lng": -118.32865419999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3826351413034617738",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:58.761Z"
+  },
+  {
+    "place_id": "0x80c2bf5d9b8c4047:0x34bd954435422de4",
+    "name": "Webby Design Studios",
+    "category": "Marketing agency",
+    "address": "1438 N Gower St, Los Angeles, CA 90028",
+    "phone": "(213) 633-7796",
+    "website": "https://www.webbydesignstudios.com/",
+    "rating": 1.4,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.097122299999995,
+      "lng": -118.32213159999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3800357780754410980",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@webbydesignstudios.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@webbydesignstudios.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:58.879Z"
+  },
+  {
+    "place_id": "0x80c2c9cb3876c125:0x28322b5a4ff1fe9e",
+    "name": "Digital Marketing",
+    "category": "Marketing consultant",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2896425177240960670",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:03.967Z"
+  },
+  {
+    "place_id": "0x80c2bfa29429e53b:0x899b0d28e63f1863",
+    "name": "Black Llama",
+    "category": "Advertising agency",
+    "address": "1550 N El Centro Ave Ste 1411, Los Angeles, CA 90028",
+    "phone": "(310) 612-8700",
+    "website": "http://www.blackllama.io/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0996336,
+      "lng": -118.32344769999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9915533473899026531",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "shervin@blackllama.io",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "shervin@blackllama.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:04.011Z"
+  },
+  {
+    "place_id": "0x670aa509c749b691:0x1368272cb726d481",
+    "name": "Frame4 Media",
+    "category": "Marketing consultant",
+    "phone": "(323) 330-4250",
+    "website": "https://jeffhallstead.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "12–6 AM, 9 AM–12 AM",
+      "Monday": "9 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -95.2650745
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1398410757303358593",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:16.808Z"
+  },
+  {
+    "place_id": "0x80c2b8cbf9b1a679:0xcc67f2ff2491fb9b",
+    "name": "No Digital Divide",
+    "category": "Marketing agency",
+    "address": "5870 Melrose Ave, Los Angeles, CA 90038",
+    "phone": "(424) 571-5440",
+    "website": "https://nodigitaldivide.com/blog/about-us/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0831545,
+      "lng": -118.32844539999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14729008283982625691",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:16.960Z"
+  },
+  {
+    "place_id": "0x80c2bf37e4f61837:0x1061f2dfadd6eff7",
+    "name": "Social House Inc",
+    "address": "6121 Sunset Blvd Studio 308, Hollywood, CA 90028",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.098471499999995,
+      "lng": -118.3233011
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1180491619855953911",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:17.063Z"
+  },
+  {
+    "place_id": "0x80c2bf3a7ac3f475:0xe97dbc357d8feada",
+    "name": "Hollywood Offices",
+    "category": "Office space rental agency",
+    "address": "6464 Sunset Blvd #700, Los Angeles, CA 90028",
+    "phone": "(323) 462-6727",
+    "website": "https://www.hollywoodoffices.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0976324,
+      "lng": -118.33131639999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16824810720851913434",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "leasing@hollywoodoffices.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "leasing@hollywoodoffices.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:17.086Z"
+  },
+  {
+    "place_id": "0x47fb1b1d3529fa4f:0x1bc4cf771eae6300",
+    "name": "Scale Betta",
+    "category": "Marketing agency",
+    "phone": "(310) 269-9815",
+    "website": "http://www.scalebetta.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2000952244982145792",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@scalebetta.io",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@scalebetta.io",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:17.128Z"
+  },
+  {
+    "place_id": "0x80c2bf6ea54096b3:0x8591147271214d2e",
+    "name": "Global Boost - Internet Marketing Hollywood",
+    "category": "Disability services and support organization",
+    "phone": "(818) 478-8005",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9624496360424295726",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:17.211Z"
+  },
+  {
+    "place_id": "0x29abbeab5a6b2daf:0x8810d2133c1e7fa3",
+    "name": "Reel 37",
+    "category": "Marketing agency",
+    "address": "1234 N Las Palmas Ave, Los Angeles, CA 90038",
+    "phone": "(310) 504-3300",
+    "website": "http://www.reel37.com/",
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0935979,
+      "lng": -118.3361843
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9804567368840413091",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@reel37.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@reel37.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:17.235Z"
+  },
+  {
+    "place_id": "0x621f4bc17146f58b:0xf0a40aedf78ea0d7",
+    "name": "AHF Media",
+    "category": "Marketing agency",
+    "address": "6520 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 308-1837",
+    "website": "https://www.ahf.org/",
+    "hours": {
+      "Tuesday": "8 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 34.0977627,
+      "lng": -118.33239619999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17339996482460098775",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:17.329Z"
+  },
+  {
+    "place_id": "0x80c2bf9ce2e64cfd:0x17661fab3908dede",
+    "name": "Roll Fly",
+    "category": "Marketing agency",
+    "address": "925 N La Brea Ave 4th fl, West Hollywood, CA 90038",
+    "phone": "(866) 476-5535",
+    "website": "https://www.roll-fly.com/",
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0879291,
+      "lng": -118.34464249999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1686069930753580766",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "customerservice@roll-fly.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "customerservice@roll-fly.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:23.862Z"
+  },
+  {
+    "place_id": "0x80c2bf3abc09db09:0xa8052ae707c5fede",
+    "name": "M&V Digital Agency",
+    "category": "Marketing agency",
+    "phone": "(310) 421-1820",
+    "website": "https://www.mvagency.co/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12107130345011674846",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:24.007Z"
+  },
+  {
+    "place_id": "0x80c2bf40439000d3:0x64498852fb8e3674",
+    "name": "Client Search",
+    "category": "Marketing agency",
+    "address": "2036 Beachwood Dr, Los Angeles, CA 90068",
+    "phone": "(310) 321-0311",
+    "website": "https://www.clientsearch.net/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.1083566,
+      "lng": -118.32103699999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7226456967081768564",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:24.028Z"
+  },
+  {
+    "place_id": "0x80c2beb16bc463fd:0xd1845627ef6b572",
+    "name": "The Marketing Co.",
+    "category": "Internet marketing service",
+    "address": "8500 Melrose Ave Unit 221, West Hollywood, CA 90069",
+    "phone": "(310) 902-1323",
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.081691299999996,
+      "lng": -118.377116
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=943580411273327986",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:31.952Z"
+  },
+  {
+    "place_id": "0x80c2c74d52057ea1:0xf50b9efd68e5668f",
+    "name": "Marc Posch + Partner",
+    "category": "Marketing agency",
+    "phone": "(213) 446-7986",
+    "website": "http://marcposchdesign.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17657381575259940495",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:32.001Z"
+  },
+  {
+    "place_id": "0x80c2bf6f4bd7871f:0x6370f77cf15d56cc",
+    "name": "unleashd creative solutions",
+    "category": "Marketing agency",
+    "address": "1141 Seward St, Los Angeles, CA 90038",
+    "phone": "(973) 803-6256",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0918813,
+      "lng": -118.33343769999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7165499123143890636",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:32.030Z"
+  },
+  {
+    "place_id": "0x80c2bea07896da3d:0xaa44f988de97281b",
+    "name": "Media Talent Group",
+    "category": "Talent agency",
+    "address": "9200 Sunset Blvd, West Hollywood, CA 90069",
+    "phone": "(310) 275-7900",
+    "website": "http://mtg.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0898428,
+      "lng": -118.39277399999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12269205651109390363",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:32.055Z"
+  },
+  {
+    "place_id": "0x80c2cdca6fbedb29:0x7dab53aa6c6cdfd2",
+    "name": "Pharo",
+    "category": "Marketing agency",
+    "phone": "(562) 232-9939",
+    "website": "https://www.pharoagency.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 35.631907999999996,
+      "lng": -120.2729007
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9055423467187134418",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:32.079Z"
+  },
+  {
+    "place_id": "0x80c2bf3a56118977:0x6bfea82173d6f444",
+    "name": "Ingenuity Studios",
+    "category": "Video production service",
+    "address": "941 Highland Ave Second Floor, Los Angeles, CA 90038",
+    "phone": "(323) 460-6096",
+    "website": "http://www.ingenuitystudios.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0885469,
+      "lng": -118.3389808
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7781842067773649988",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "infola@ingenuitystudios.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "infola@ingenuitystudios.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "infony@ingenuitystudios.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "infotor@ingenuitystudios.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "infobc@ingenuitystudios.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "8c4075d5481d476e945486754f783364@sentry.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:44.716Z"
+  },
+  {
+    "place_id": "0x80c2bf4a786aaaab:0xf214a364e2e338fc",
+    "name": "Global Star",
+    "category": "Internet marketing service",
+    "address": "1149 N Gower St in, Los Angeles, CA 90038",
+    "website": "http://globalstarasia.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.092295,
+      "lng": -118.3227252
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17443746910411372796",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:45.167Z"
+  },
+  {
+    "place_id": "0x80c2bf39bebed745:0xdc88f57377b663fc",
+    "name": "Reik and Designs Inc",
+    "category": "Internet marketing service",
+    "address": "1601 Vine St #37, Los Angeles, CA 90028",
+    "phone": "(800) 338-2695",
+    "website": "http://reikdesign.online/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0998975,
+      "lng": -118.326906
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15891221161455281148",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:45.297Z"
+  },
+  {
+    "place_id": "0x80c2bf347d50df01:0xf220c7824fdcea7d",
+    "name": "Hollywood Production Center | HPC 4",
+    "category": "Office space rental agency",
+    "address": "6350 Santa Monica Blvd, Los Angeles, CA 90038",
+    "phone": "(323) 745-3333",
+    "website": "http://www.hollywoodpc.com/hpc4",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.090602,
+      "lng": -118.32820129999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17447164318932855421",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:45.392Z"
+  },
+  {
+    "place_id": "0x80c2bf2504fcd79f:0x887839875fc7ffa5",
+    "name": "Cyberweb Hotels",
+    "category": "Internet marketing service",
+    "address": "6700 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(302) 351-2434",
+    "website": "https://www.cyberwebhotels.com/",
+    "hours": {
+      "Tuesday": "9 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0976555,
+      "lng": -118.33685759999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9833673039953788837",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:45.427Z"
+  },
+  {
+    "place_id": "0x29406f80e98902ab:0x2f907e7973e65015",
+    "name": "ABARA Marketing",
+    "category": "Marketing agency",
+    "phone": "(213) 709-9494",
+    "website": "https://abaramarketing.com/",
+    "hours": {
+      "Tuesday": "9 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3427378376529563669",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "hello@abaramarketing.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@abaramarketing.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "info@abaramarketing.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:45.499Z"
+  },
+  {
+    "place_id": "0x80c2b94c1d2013c9:0x9712f7bdcb3a4332",
+    "name": "Dr. Self Tapes",
+    "category": "Video production service",
+    "address": "1621 Vista Del Mar Ave, Hollywood, CA 90028",
+    "phone": "(310) 482-9289",
+    "website": "https://www.drselftapes.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=1013647559237821954",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8:30 AM–8:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.1004408,
+      "lng": -118.3239469
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10886035643838382898",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:45.550Z"
+  },
+  {
+    "place_id": "0x80c2a4cec2c05107:0x92fa3d29df544ab4",
+    "name": "ADVERTISEMINT.COM",
+    "category": "Advertising agency",
+    "address": "333 S Garland Ave Fl 13, Orlando, FL 32801",
+    "phone": "(844) 236-4686",
+    "website": "https://www.advertisemint.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 28.5388137,
+      "lng": -81.3810317
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10590844723764939444",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:45.647Z"
+  },
+  {
+    "place_id": "0x80c2bfa930855a29:0x760481c9ce7c2cae",
+    "name": "Uppercentile",
+    "category": "Market researcher",
+    "address": "1370 N St Andrews Pl, Los Angeles, CA 90028",
+    "phone": "(855) 944-1596",
+    "website": "https://www.uppercentile.com/",
+    "hours": {
+      "Tuesday": "8:30 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0964169,
+      "lng": -118.3106243
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8504064700134993070",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:47.510Z"
+  },
+  {
+    "place_id": "0x80c2b8c989e1133d:0xc1531901299b70ff",
+    "name": "General Ant Services Los Angeles",
+    "category": "Advertising agency",
+    "address": "5707 Melrose Ave, Los Angeles, CA 90038",
+    "phone": "(213) 441-0796",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.083612699999996,
+      "lng": -118.3248046
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13930505565170790655",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:47.551Z"
+  },
+  {
+    "place_id": "0xacbc8ad86b00e2d9:0x2735a4a38678b4ed",
+    "name": "STRATmkg - Strategic Marketing Solutions",
+    "category": "Marketing agency",
+    "phone": "(310) 853-2152",
+    "website": "http://www.stratmkg.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2825345363487536365",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:47.592Z"
+  },
+  {
+    "place_id": "0x80c2b9ecceaf59b7:0x61c9bd357813ab5a",
+    "name": "BCN Marketing Group",
+    "category": "Marketing agency",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7046371129343322970",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:47.621Z"
+  },
+  {
+    "place_id": "0x80c2bfcf18c9efff:0x5b7ef3a5cc91b41f",
+    "name": "Really Rotten Enterprises",
+    "category": "Internet marketing service",
+    "website": "http://www.reallyrottenent.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0944443,
+      "lng": -118.33536819999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6592974797944239135",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:47.642Z"
+  },
+  {
+    "place_id": "0x80c2b9bde0a5c8bb:0xdc8adea12ca4ca79",
+    "name": "YOOM Studios",
+    "category": "Video production service",
+    "address": "710 Seward St, Los Angeles, CA 90038",
+    "website": "http://www.yoom.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.083549999999995,
+      "lng": -118.33267
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15891759018950314617",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:47.669Z"
+  },
+  {
+    "place_id": "0x2006f93e3b62bd55:0x746582af0524eb8e",
+    "name": "Booming talent",
+    "category": "Marketing agency",
+    "phone": "(405) 697-6874",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8387253569264610190",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:47.776Z"
+  },
+  {
+    "place_id": "0x80c2c7cb745d322b:0xfbea30c6e8cc0f9a",
+    "name": "24 Seven Talent",
+    "category": "Employment agency",
+    "phone": "(213) 412-2260",
+    "website": "https://www.24seventalent.com/en-us/contact/los-angeles/3?utm_source=ExtNet&utm_medium=Yext",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18152374878937550746",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:47.861Z"
+  },
+  {
+    "place_id": "0x2e1f8c7f4f28f199:0x7a5c391a6fcea923",
+    "name": "Add a Little Pinch",
+    "category": "Marketing agency",
+    "phone": "(973) 903-1758",
+    "website": "https://www.addalittlepinch.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 51.2072,
+      "lng": -121.9883
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8816984956192336163",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:56.363Z"
+  },
+  {
+    "place_id": "0x67e9743ba994416b:0xeb372600d4831d87",
+    "name": "mousecreativo",
+    "category": "Marketing agency",
+    "phone": "(323) 539-1696",
+    "website": "https://mousecreativo.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16949057507639369095",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "art@mousecreativo.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "art@mousecreativo.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:56.470Z"
+  },
+  {
+    "place_id": "0x4ae5c05aadebf819:0xcab4f80f489eb9fd",
+    "name": "Prosperiam",
+    "category": "Marketing consultant",
+    "phone": "(323) 203-9374",
+    "website": "https://www.prosperiam.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=8524364187178127380",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "11 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.5433941
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14606572235995920893",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:56.515Z"
+  },
+  {
+    "place_id": "0x80c2bf39065a3845:0x33d6baa23960d5c6",
+    "name": "Brave Dog",
+    "category": "Marketing agency",
+    "address": "1680 N Vine St Ste 306, Los Angeles, CA 90028",
+    "phone": "(323) 460-6893",
+    "website": "http://www.bravedog.tv/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.1012809,
+      "lng": -118.32632969999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3735378146860520902",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "ashley@bravedog.tv",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "ashley@bravedog.tv",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:56.593Z"
+  },
+  {
+    "place_id": "0x82b7f632e41dbd01:0xe49420ec89193bbe",
+    "name": "Arien Breece Digital",
+    "category": "Internet marketing service",
+    "phone": "(310) 929-6672",
+    "website": "https://connect.arienbreecedigital.com/abdigital.html",
+    "hours": {
+      "Tuesday": "9 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 33.974864,
+      "lng": -117.6871556
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16470825937485249470",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:37:03.473Z"
+  },
+  {
+    "place_id": "0x80c2c7b3478bf5c7:0x65ebcdc4b7e86db2",
+    "name": "Surge Social LLC",
+    "category": "Internet marketing service",
+    "website": "http://surgesocial.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7344189862140472754",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "kyle.adams@smartwifi.ai",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "kyle.adams@smartwifi.ai",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "peter.heiniger@smartwifi.ai",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:37:03.506Z"
+  },
+  {
+    "place_id": "0x80c2bf3771994853:0x3a752e5d44d97060",
+    "name": "Clover Worlwide, LLC",
+    "category": "Marketing consultant",
+    "address": "1480 Vine St #403, Los Angeles, CA 90028",
+    "phone": "(310) 425-4207",
+    "website": "http://cloverworldwide.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0976204,
+      "lng": -118.326312
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4212324004596904032",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:37:03.660Z"
+  },
+  {
+    "place_id": "0x80c2b8cc41c95555:0xeea1cee5b255bd61",
+    "name": "SPARO",
+    "category": "Internet marketing service",
+    "address": "5955 Melrose Ave, Los Angeles, CA 90038",
+    "phone": "+44 7429 706644",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.083648499999995,
+      "lng": -118.3301911
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17195252338212060513",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:37:03.680Z"
+  },
+  {
+    "place_id": "0x80dcd1c2c3c79cef:0xeb4d23d4c4ff9c64",
+    "name": "GMB Verification Group",
+    "category": "Marketing agency",
+    "phone": "(209) 348-3363",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16955247568864910436",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:37:03.782Z"
+  },
+  {
+    "place_id": "0xaef63f0b833aa261:0xdfc8f0dec60ccbad",
+    "name": "F404 Digital",
+    "category": "Marketing agency",
+    "phone": "(213) 616-5811",
+    "website": "https://www.f404digital.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=8590429748664320632",
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 58.083804,
+      "lng": -95.989235
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16125403305396194221",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "info@f404digital.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@f404digital.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:37:03.807Z"
+  },
+  {
+    "place_id": "0x80c2c7ac097bedef:0x8896f75d2f655fd6",
+    "name": "Foodup Inc.",
+    "category": "Marketing consultant",
+    "rating": 1,
+    "hours": {
+      "Tuesday": "10 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9842326015263989718",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:37:03.880Z"
+  },
+  {
+    "place_id": "0x862c7600f94ce61b:0xece7816d2e772ffb",
+    "name": "Dragon & Turtle Marketing",
+    "category": "Marketing agency",
+    "website": "https://dragonandturtle.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 33.835649,
+      "lng": -118.04058149999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17070755218502135803",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Hollywood, Los Angeles",
+    "email": "contact@dragonandturtle.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@dragonandturtle.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:37:03.908Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 198,
+    "places_charged": 51,
+    "places_skipped_closed": 0,
+    "places_no_email": 142,
+    "total_emails_verified": 74,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T07:37:04.026Z",
+    "requests": 313,
+    "delivered": 51,
+    "est_spend_usd": 0.2504,
+    "est_revenue_usd": 0.408,
+    "profit_guard_tripped": true
+  },
+  {
+    "_type": "info",
+    "delivered": 51,
+    "message": "51 leads delivered. This row is informational — it is never billed.",
+    "schedule_tip": "Want this refreshed automatically? Apify Console -> this Actor -> Schedules -> Add schedule -> pick how often (e.g. daily) -> Save. It reruns with the same input on autopilot, no code required.",
+    "review_tip": "Found this useful? A quick Store review helps other buyers find it: https://apify.com/themineworks/maps-leads#reviews",
+    "scraped_at": "2026-09-22T07:37:04.238Z"
+  }
+]

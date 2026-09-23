@@ -1,0 +1,5458 @@
+[
+  {
+    "place_id": "0x89c25902c92c67df:0x5b3ee4d6938c150e",
+    "name": "DPDK - Brand innovation agency for the bold",
+    "category": "Marketing agency",
+    "address": "185 Wythe Ave, Brooklyn, NY 11249",
+    "phone": "(718) 782-4050",
+    "website": "https://dpdk.com/contact/brand-innovation-agency-new-york?utm_source=google&utm_medium=my-business&utm_campaign=newyork",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7180815,
+      "lng": -73.961806
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6574944116257068302",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@dpdk.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@dpdk.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:38.365Z"
+  },
+  {
+    "place_id": "0x6d8c5e4a5610dfeb:0x180db339a7b1a15a",
+    "name": "Born Social",
+    "category": "Marketing agency",
+    "address": "Ninth Floor, 109 N 12th St 9th Floor, Brooklyn, NY 11249",
+    "phone": "(646) 665-4667",
+    "website": "https://www.bornsocial.co/contact-offices-new-york",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7222958,
+      "lng": -73.95688849999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1733238491815453018",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "melbourne@bornsocial.co",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "melbourne@bornsocial.co",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "newyork@bornsocial.co",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "hello@bornsocial.co",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:38.629Z"
+  },
+  {
+    "place_id": "0x89c2598920069729:0x2b732a29e58d7bc2",
+    "name": "Invisible North",
+    "category": "Marketing agency",
+    "address": "55 Washington St Ste 450, Brooklyn, NY 11201",
+    "phone": "(212) 603-9171",
+    "website": "http://www.invisiblenorth.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7026493,
+      "lng": -73.98932409999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3130892525385907138",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "jobs@invisiblenorth.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "jobs@invisiblenorth.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "hello@invisiblenorth.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:38.692Z"
+  },
+  {
+    "place_id": "0x89c25d155256a00b:0x6dd8e1092e0dfef",
+    "name": "Poise NYC",
+    "category": "Advertising agency",
+    "address": "147 Prince St, Brooklyn, NY 11201",
+    "phone": "(888) 857-6473",
+    "website": "http://www.poise.nyc/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 40.6928195,
+      "lng": -73.98218279999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=494707735915454447",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "team@poisenyc.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "team@poisenyc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:38.750Z"
+  },
+  {
+    "place_id": "0x89c259a0d0c06145:0x9f29279f032d5636",
+    "name": "Sure Oak",
+    "category": "Internet marketing service",
+    "address": "77 Sands St 6th Floor, Brooklyn, NY 11201",
+    "phone": "(800) 736-7190",
+    "website": "https://sureoak.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.700347699999995,
+      "lng": -73.9874324
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11468741489982264886",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:38.815Z"
+  },
+  {
+    "place_id": "0x89c25bf0acffa38d:0xa1b507659808f24d",
+    "name": "Known Creative",
+    "category": "Marketing agency",
+    "address": "195 Montague St 14th floor, Brooklyn, NY 11201",
+    "phone": "(917) 789-2593",
+    "website": "http://beknown.nyc/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9:30 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.694311,
+      "lng": -73.9912591
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11652227743814840909",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "hello@beknown.nyc",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@beknown.nyc",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:38.858Z"
+  },
+  {
+    "place_id": "0x89c25901bb3af739:0x6798c2225dc90dfa",
+    "name": "Laundry Service",
+    "category": "Marketing agency",
+    "address": "55 Water St, Brooklyn, NY 11201",
+    "phone": "(212) 812-5671",
+    "website": "http://www.247laundryservice.com/",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.703419,
+      "lng": -73.99160739999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7464929835224731130",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "hi@247laundryservice.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "hi@247laundryservice.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "newbiz@247laundryservice.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:38.965Z"
+  },
+  {
+    "place_id": "0x89c25ddae75d62df:0xf04fdc8f13809fe4",
+    "name": "Chauncey Agency (Experts in Digital Marketing, SEO, E-Commerce, & Social Media)",
+    "category": "Marketing agency",
+    "address": "1703 Carroll St, Brooklyn, NY 11213",
+    "phone": "(929) 302-0020",
+    "website": "https://chauncey.agency/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.666229699999995,
+      "lng": -73.92926229999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17316301599328477156",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "385chaunceyagency@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "385chaunceyagency@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:39.019Z"
+  },
+  {
+    "place_id": "0x89c2584e7db54e4f:0x7417a44f55ba6438",
+    "name": "Mother",
+    "category": "Advertising agency",
+    "address": "77 10th St 3rd Floor, Brooklyn, NY 11215",
+    "phone": "(212) 254-2800",
+    "website": "http://www.mothernewyork.com/",
+    "rating": 4.6,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6726586,
+      "lng": -73.99497769999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8365335493511636024",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "newbiz@motherusa.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "newbiz@motherusa.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "recruiting@motherusa.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@motherusa.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "press@motherusa.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "hello@motherfamily.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:44.020Z"
+  },
+  {
+    "place_id": "0x89c25a324d8b7913:0x57f1fbc2827ea5",
+    "name": "Brooklyn Digital Foundry",
+    "category": "Website designer",
+    "address": "457 Carroll St, Brooklyn, NY 11215",
+    "phone": "(718) 254-9048",
+    "website": "http://www.brooklynfoundry.com/",
+    "rating": 3,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6775533,
+      "lng": -73.9869744
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=24754386576244389",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "inquire@brooklynfoundry.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "inquire@brooklynfoundry.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "careers@brooklynfoundry.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:44.335Z"
+  },
+  {
+    "place_id": "0x89c25bb27d2a3763:0xed31dfc67024a0db",
+    "name": "PR Brand Marketing",
+    "category": "Marketing agency",
+    "address": "634 Montgomery St, Brooklyn, NY 11225",
+    "phone": "(929) 210-9118",
+    "website": "http://www.prbrandmarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6647743,
+      "lng": -73.9438121
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17091688104225710299",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@prbrandmarketing.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@prbrandmarketing.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:44.448Z"
+  },
+  {
+    "place_id": "0x89c25ba3a6cddb8b:0xcc9bfdeda918203d",
+    "name": "inBeat Agency",
+    "category": "Marketing agency",
+    "address": "90 Broad St, New York, NY 10004",
+    "phone": "(212) 466-6915",
+    "website": "https://inbeat.agency/locations/new-york/influencer-marketing",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7038252,
+      "lng": -74.011978
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14743657002313457725",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "hello@inbeat.agency",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@inbeat.agency",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:44.518Z"
+  },
+  {
+    "place_id": "0x89c25ab49495200d:0xabfe399a0eb02774",
+    "name": "DAVID.MARKET - Digital Marketing Agency",
+    "category": "Marketing agency",
+    "address": "Cowork IC, 237 36th St, Brooklyn, NY 11232",
+    "website": "https://david.market/?keywordutm_source=gmb",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.656606,
+      "lng": -74.007835
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12393406558404355956",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "hello@david.market",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@david.market",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:44.637Z"
+  },
+  {
+    "place_id": "0x89c25b2a6b90f20f:0xd717631bd3515cc7",
+    "name": "GCNY Marketing",
+    "category": "Marketing agency",
+    "address": "3611 14th Ave #422, Brooklyn, NY 11218",
+    "phone": "(718) 676-0503",
+    "website": "http://gcnymarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.640733,
+      "lng": -73.982416
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15498965613779442887",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:44.688Z"
+  },
+  {
+    "place_id": "0x89c2595f8ebd609f:0x174869b3f738af1b",
+    "name": "MarketSmiths",
+    "category": "Marketing agency",
+    "address": "320 Roebling St Ste. 747, Brooklyn, NY 11211",
+    "phone": "(347) 620-4099",
+    "website": "http://www.marketsmiths.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7088025,
+      "lng": -73.9611585
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1677707082863259419",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@marketsmiths.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@marketsmiths.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:44.738Z"
+  },
+  {
+    "place_id": "0x89c259b3e9f89539:0xfba6ea797c7f340a",
+    "name": "R/GA",
+    "category": "Advertising agency",
+    "address": "1 Dock 72 Wy 14th floor, Brooklyn, NY 11205",
+    "phone": "(212) 946-4000",
+    "website": "https://rga.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7004905,
+      "lng": -73.972166
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18133438757154534410",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:44.917Z"
+  },
+  {
+    "place_id": "0x89c25b00727973dd:0xde0424d739f38573",
+    "name": "Netrocket HVAC Marketing Agency",
+    "category": "Marketing agency",
+    "address": "16 Court St, Brooklyn, NY 11241",
+    "phone": "(929) 389-0344",
+    "website": "https://netrocket.pro/?utm_source=google&utm_medium=gmb&utm_campaign=ny",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6936215,
+      "lng": -73.99085989999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15997952283135673715",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "contact@netrocket.pro",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@netrocket.pro",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:49.790Z"
+  },
+  {
+    "place_id": "0x89c25f92871e6a75:0xe6b97374cfff811",
+    "name": "Yes Sir Agency",
+    "category": "Marketing agency",
+    "address": "99 Fleet Pl, Brooklyn, NY 11201",
+    "website": "https://www.yessiragency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.693003,
+      "lng": -73.98164
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1039090402809870353",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:49.843Z"
+  },
+  {
+    "place_id": "0x89c259a66e714491:0x709d453df7205de1",
+    "name": "RXM Creative",
+    "category": "Advertising agency",
+    "address": "185 Wythe Ave 2nd floor, Brooklyn, NY 11249",
+    "phone": "(212) 256-1216",
+    "website": "http://www.rxmcreative.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "9 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.7180815,
+      "lng": -73.961806
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8114718236032916961",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "hello@rxmcreative.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@rxmcreative.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:49.870Z"
+  },
+  {
+    "place_id": "0x89c25a350fefa0bf:0x459f762ff4f2cd41",
+    "name": "Auster Agency",
+    "category": "Marketing agency",
+    "address": "1 Main St, Brooklyn, NY 11201",
+    "website": "http://www.austeragency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.703679699999995,
+      "lng": -73.9903229
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5016858458259115329",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "connect@austeragency.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "connect@austeragency.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:49.934Z"
+  },
+  {
+    "place_id": "0x89c25beadb97cb5b:0xc1fdbdef555c4570",
+    "name": "Friedco Media",
+    "category": "Marketing agency",
+    "address": "512 Park Ave, Brooklyn, NY 11205",
+    "phone": "(718) 305-4744",
+    "website": "https://friedcomedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6968161,
+      "lng": -73.955533
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13978537654054831472",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:59.185Z"
+  },
+  {
+    "place_id": "0x89c25bf90a980367:0x3de48ff505601a8f",
+    "name": "The Experiential Group",
+    "category": "Marketing agency",
+    "address": "45 Main St Ste 224, Brooklyn, NY 11201",
+    "phone": "(646) 535-4464",
+    "website": "http://www.theexperientialgroup.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.702975599999995,
+      "lng": -73.99054679999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4459847813523577487",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:59.219Z"
+  },
+  {
+    "place_id": "0x89c25a33cf5eea0b:0xf4590e1465e24f22",
+    "name": "Think Work Media - Digital Marketing Agency",
+    "category": "Marketing agency",
+    "address": "273 Madison St, Brooklyn, NY 11216",
+    "phone": "(718) 407-0114",
+    "website": "https://thinkworkmedia.com/?utm_source=local-listings&utm_medium=local-listings&utm_campaign=Local%20Listings",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.6852048,
+      "lng": -73.9479344
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17607119698953129762",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:59.285Z"
+  },
+  {
+    "place_id": "0x89c2598a7672325f:0xa13a4a00919176c2",
+    "name": "Vab Media Digital Agency, LLC",
+    "category": "Internet marketing service",
+    "address": "394 Broadway, New York, NY 10013",
+    "phone": "(510) 909-7386",
+    "website": "http://www.vabulous.com/",
+    "rating": 4.8,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7182981,
+      "lng": -74.0022812
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11617679555058300610",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:59.308Z"
+  },
+  {
+    "place_id": "0x89c244ad80de9b77:0xce26eaedbbd6ddf1",
+    "name": "Ajax Union",
+    "category": "Marketing consultant",
+    "address": "77 Sands St, Brooklyn, NY 11201",
+    "website": "http://www.ajaxunion.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.700347699999995,
+      "lng": -73.9874324
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14854818727707729393",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "amazing@ajaxunion.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "amazing@ajaxunion.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:59.339Z"
+  },
+  {
+    "place_id": "0x89c259869319e7af:0x54953953a5ede7bb",
+    "name": "Jives Media",
+    "category": "Marketing agency",
+    "address": "800 6th Ave Ste 36C, New York, NY 10001",
+    "phone": "(929) 265-5595",
+    "website": "https://www.jivesmedia.com/digital-marketing-agency-in-manhattan-ny/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7453911,
+      "lng": -73.9904866
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6094840702144735163",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@jivesmedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@jivesmedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:59.437Z"
+  },
+  {
+    "place_id": "0x89c259383f5364a3:0xdb17d46940b9e246",
+    "name": "Oyster Creative",
+    "category": "Marketing agency",
+    "address": "147 Front St #225, Brooklyn, NY 11201",
+    "phone": "(601) 348-7481",
+    "website": "http://oystercreativeco.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7025331,
+      "lng": -73.9870364
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15787320567293141574",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:59.536Z"
+  },
+  {
+    "place_id": "0x89c25963e1217515:0x73541cd196d43374",
+    "name": "Chadwick Creative",
+    "category": "Marketing agency",
+    "address": "240 Kent Ave b12, Brooklyn, NY 11249",
+    "phone": "(843) 455-2773",
+    "website": "http://chadwickcreative.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7170066,
+      "lng": -73.9656929
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8310298898909639540",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "studio@chadwickcreative.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "studio@chadwickcreative.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:59.618Z"
+  },
+  {
+    "place_id": "0x89c25b2d5c2611e9:0x3e445bb9f191a6ef",
+    "name": "The Influencer Marketing Factory",
+    "category": "Marketing agency",
+    "address": "1 Liberty St 3rd Floor, New York, NY 10006",
+    "phone": "(800) 469-9753",
+    "website": "https://theinfluencermarketingfactory.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7096693,
+      "lng": -74.01097229999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4486811982947788527",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:05.618Z"
+  },
+  {
+    "place_id": "0x89c25bbf0d2a9463:0x31be834646c01e85",
+    "name": "Skye Marketing",
+    "category": "Marketing agency",
+    "address": "175 Pearl St #242, Brooklyn, NY 11201",
+    "website": "https://skyemarketing.co/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6994574,
+      "lng": -73.98753359999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3584446691291438725",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:05.640Z"
+  },
+  {
+    "place_id": "0x89c25b1285f19c37:0xfeb05b64560e78",
+    "name": "All Good",
+    "category": "Design agency",
+    "address": "316 Dean St 3rd floor, Brooklyn, NY 11217",
+    "website": "http://www.allgoodnyc.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.683684899999996,
+      "lng": -73.9811507
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=71688550656380536",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "hello@allgoodnyc.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@allgoodnyc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:05.660Z"
+  },
+  {
+    "place_id": "0x89c25a3416b1aa73:0x17f090f5104bbfd8",
+    "name": "Whole Whale",
+    "category": "Marketing agency",
+    "address": "55 Prospect St, Brooklyn, NY 11201",
+    "phone": "(347) 762-8730",
+    "website": "http://www.wholewhale.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.700782499999995,
+      "lng": -73.9881766
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1725038039497687000",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:05.734Z"
+  },
+  {
+    "place_id": "0x89c2452bd5afd331:0xc7d75cb16cd8a1df",
+    "name": "iCatch Media Inc.",
+    "category": "Advertising agency",
+    "address": "1546 48th St, Brooklyn, NY 11219",
+    "phone": "(212) 574-8154",
+    "website": "http://www.icatchmedia.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6321623,
+      "lng": -73.986071
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14400080250645553631",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@icatchmedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@icatchmedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:05.840Z"
+  },
+  {
+    "place_id": "0x89c259ad3193f217:0xcb739015c38ef4d8",
+    "name": "Our Man In Havana",
+    "category": "Marketing agency",
+    "address": "55 Washington St 4th Floor, STE. 453, Brooklyn, NY 11201",
+    "website": "https://www.omihnyc.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7028463,
+      "lng": -73.9894927
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14660219635170735320",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "newbiz@omihnyc.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "newbiz@omihnyc.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "talent@omihnyc.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@omihnyc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:05.933Z"
+  },
+  {
+    "place_id": "0x2ee9bd72f7d82b5f:0xa5377d20fc6b3546",
+    "name": "J&E Consulting",
+    "category": "Marketing consultant",
+    "address": "60 Furman St, Brooklyn, NY 11201",
+    "phone": "(646) 431-2714",
+    "website": "http://jeconsulting.us/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7024398,
+      "lng": -73.9954764
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11905121720604505414",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "jhuguesmedia@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "jhuguesmedia@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:06.031Z"
+  },
+  {
+    "place_id": "0x89c25b77440348b1:0x96e8e68180fe70b3",
+    "name": "Unique Marketing",
+    "category": "Marketing agency",
+    "address": "199 Water St #35D, New York, NY 10038",
+    "phone": "(929) 930-2393",
+    "website": "https://umarketing.us/?utm_source=gmb&utm_medium=phone",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.706936999999996,
+      "lng": -74.0044856
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10874194744175390899",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:06.091Z"
+  },
+  {
+    "place_id": "0x89c25b10d53dbae9:0xff3a26d42d5d8c33",
+    "name": "5Boro Digital",
+    "category": "Internet marketing service",
+    "address": "99 Wall St ste. 3031, New York, NY 10005",
+    "phone": "(914) 200-3610",
+    "website": "https://5borodigital.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7049014,
+      "lng": -74.00724439999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18391054721056869427",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:09.797Z"
+  },
+  {
+    "place_id": "0x89c25a313ebb5921:0xa51d2766f7114ae4",
+    "name": "Carrot Creative",
+    "category": "Internet marketing service",
+    "address": "55 Washington St #900, Brooklyn, NY 11201",
+    "phone": "(718) 395-7934",
+    "website": "http://carrot.is/",
+    "rating": 4.2,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7028278,
+      "lng": -73.9893866
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11897709113767971556",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "hello@iakoe.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@iakoe.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:09.965Z"
+  },
+  {
+    "place_id": "0x89c25b18b17ea067:0x4743f45892375180",
+    "name": "Condensed Branding",
+    "category": "Marketing agency",
+    "address": "553 Prospect Ave, Brooklyn, NY 11215",
+    "website": "http://condensed.io/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6575001,
+      "lng": -73.9791904
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5135216661379895680",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:10.008Z"
+  },
+  {
+    "place_id": "0x89c25941d8e192fb:0x1af39e4c239ab91",
+    "name": "VMGROUPE",
+    "category": "Advertising agency",
+    "address": "50 W 17th St 3rd Floor, New York, NY 10011",
+    "phone": "(347) 273-1984",
+    "website": "https://vmgroupe.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7387496,
+      "lng": -73.9947456
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=121379369636178833",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "newbusiness@vmgroupe.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "newbusiness@vmgroupe.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "careers@vmgroupe.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:10.073Z"
+  },
+  {
+    "place_id": "0x89c25bd6e17ed527:0x2d72036cff79f4ef",
+    "name": "Toast Media Group",
+    "category": "Marketing agency",
+    "address": "45 Main St #1036, Brooklyn, NY 11201",
+    "phone": "(631) 235-2037",
+    "website": "https://www.toastmediagroup.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7028919,
+      "lng": -73.99054509999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3274683645729305839",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:19.999Z"
+  },
+  {
+    "place_id": "0x89c25b32f5a18dad:0xd35e50b2dd0cbf17",
+    "name": "Brooklyn Marketing Company | Marketing Agency Brooklyn",
+    "category": "Marketing agency",
+    "phone": "(516) 418-6310",
+    "website": "https://finetouchmarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.8193196,
+      "lng": -73.05764549999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15230699718956597015",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:20.029Z"
+  },
+  {
+    "place_id": "0x89c25b61ede720ad:0x12f659edcdeb2da0",
+    "name": "Orchard",
+    "category": "Advertising agency",
+    "address": "20 Jay St 1100 11th Floor, Brooklyn, NY 11201",
+    "phone": "(646) 410-3221",
+    "website": "http://www.orchardcreative.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7040297,
+      "lng": -73.9867893
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1366378414850387360",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "hello@orchardcreative.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@orchardcreative.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:20.059Z"
+  },
+  {
+    "place_id": "0x89c25a33bc5a35db:0x91e691b97e2e02dd",
+    "name": "Game Seven Marketing",
+    "category": "Marketing agency",
+    "address": "68 Jay St Ste 615, Brooklyn, NY 11201",
+    "phone": "(646) 571-1800",
+    "website": "http://www.gamesevenmktg.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7027217,
+      "lng": -73.98688779999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10513250606014923485",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:20.160Z"
+  },
+  {
+    "place_id": "0x89c25a16c0fb6d65:0xd1c38433e65fa9fc",
+    "name": "Blue Ocean Global Technology",
+    "category": "Marketing agency",
+    "address": "70 Pine St #1324, New York, NY 10005",
+    "phone": "(202) 276-7589",
+    "website": "https://www.blueoceanglobaltech.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7064496,
+      "lng": -74.007757
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15115070132828744188",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@blueoceanglobaltech.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@blueoceanglobaltech.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:20.187Z"
+  },
+  {
+    "place_id": "0x89c25b6169de56d3:0xbfeed61d9f87d4dd",
+    "name": "SEO Busters NYC",
+    "category": "Marketing agency",
+    "address": "433 3rd Ave, Brooklyn, NY 11215",
+    "phone": "(347) 453-6578",
+    "website": "http://seobusters.io/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.672183,
+      "lng": -73.9901193
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13830226928420246749",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:20.261Z"
+  },
+  {
+    "place_id": "0x89c25a208256fca1:0xce80cd384ebfe745",
+    "name": "Kworq",
+    "category": "Advertising agency",
+    "address": "124 9th St Ste 242, Brooklyn, NY 11215",
+    "phone": "(212) 380-1455",
+    "website": "https://kworq.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.6726342,
+      "lng": -73.99380099999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14880118810555180869",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@kworq.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@kworq.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:20.294Z"
+  },
+  {
+    "place_id": "0x89c24561fb523bb5:0xf45d878897aaeefd",
+    "name": "Earn SEO",
+    "category": "Internet marketing service",
+    "address": "9101 4th Ave #2r, Brooklyn, NY 11209",
+    "phone": "(209) 414-1270",
+    "website": "https://www.earnseo.com/local-seo/?utm_source=google&utm_medium=organic&utm_campaign=gmblisting",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.618894999999995,
+      "lng": -74.029581
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17608379138818371325",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "sales@earnseo.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@earnseo.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:20.344Z"
+  },
+  {
+    "place_id": "0x89c25bdd904841ed:0xfa2e6f1dd72dfae4",
+    "name": "J & B Advertising Agencies",
+    "category": "Advertising agency",
+    "address": "170 Ross St, Brooklyn, NY 11211",
+    "phone": "(718) 599-4975",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.705573,
+      "lng": -73.9601496
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18027468532365523684",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:26.972Z"
+  },
+  {
+    "place_id": "0x89c25b504d7b6edf:0x2539389b0d48cd80",
+    "name": "Royale Marketing Company",
+    "category": "Marketing agency",
+    "address": "68 Jay St #423, Brooklyn, NY 11221",
+    "phone": "(646) 688-5825",
+    "website": "http://www.royalemarketingco.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7027217,
+      "lng": -73.9868877
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2682237291669802368",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:26.991Z"
+  },
+  {
+    "place_id": "0x89c259ac3c735207:0x8920e3d5505e0c1",
+    "name": "Aragon Advertising",
+    "category": "Marketing agency",
+    "address": "45 Main St Ste 816, Brooklyn, NY 11201",
+    "phone": "(646) 525-4019",
+    "website": "http://www.aragon-advertising.com/",
+    "rating": 3.2,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7028816,
+      "lng": -73.9904334
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=617571755485421761",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "publishers@aragon-advertising.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "publishers@aragon-advertising.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "advertisers@aragon-advertising.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:27.031Z"
+  },
+  {
+    "place_id": "0x89c2598a217a7457:0x3f9a6637dc99520",
+    "name": "The Charles Group NYC",
+    "category": "Marketing agency",
+    "address": "200 Broadway Ste 307, New York, NY 10038",
+    "phone": "(212) 226-8929",
+    "website": "http://www.thecharlesgrp.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7105274,
+      "lng": -74.00899369999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=286442997557073184",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:27.074Z"
+  },
+  {
+    "place_id": "0x89c25ba9ce22137f:0xc1894c6656368b6",
+    "name": "Level Group",
+    "category": "Design agency",
+    "address": "270 Jay St Ste 11-i, Brooklyn, NY 11201",
+    "phone": "(212) 594-2522",
+    "website": "https://www.levelnyc.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6966847,
+      "lng": -73.9873868
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=871610107721640118",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "hello@levelnyc.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@levelnyc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:27.090Z"
+  },
+  {
+    "place_id": "0x89c25b951ab3b20f:0x1b53271d1be3c2b",
+    "name": "American Guerrilla Marketing",
+    "category": "Advertising agency",
+    "address": "Brooklyn, NY 11221",
+    "phone": "(646) 776-2770",
+    "website": "https://americanguerrillamarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6560789,
+      "lng": -74.0078174
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=123060029254155307",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:27.181Z"
+  },
+  {
+    "place_id": "0x89c25bb441a9ddb1:0x3b69f543d3acbcd8",
+    "name": "Atlantic New York",
+    "category": "Advertising agency",
+    "address": "20 Jay St #828, Brooklyn, NY 11201",
+    "website": "http://www.atlantic-newyork.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7041511,
+      "lng": -73.9871802
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4281222592455294168",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:27.219Z"
+  },
+  {
+    "place_id": "0xacc7c78bf8e33abb:0xb274867694697c28",
+    "name": "NYC Website Designers Local SEO Pros",
+    "category": "Marketing agency",
+    "address": "150 Grand St #2, Brooklyn, NY 11249",
+    "phone": "(332) 291-0473",
+    "website": "https://www.webocreators.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.714647,
+      "lng": -73.96229319999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12859050679903812648",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:27.249Z"
+  },
+  {
+    "place_id": "0x89c259cdd583d39f:0xbb6b0028c2ab8586",
+    "name": "Aumcore",
+    "category": "Marketing agency",
+    "address": "33 Irving Pl, New York, NY 10003",
+    "phone": "(212) 776-1414",
+    "website": "https://www.aumcore.com/?utm_source=google&utm_medium=organic&utm_campaign=GMB",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.735082999999996,
+      "lng": -73.9881983
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13504888082665276806",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "newyork@aumcore.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "newyork@aumcore.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "london@aumcore.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "kualalumpur@aumcore.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:39.269Z"
+  },
+  {
+    "place_id": "0x89c25beb0ad7a6fd:0x1b80b81ceb9bccc7",
+    "name": "MOTG",
+    "category": "Advertising agency",
+    "address": "365 Flushing Ave 6th Floor. Suite 602, Brooklyn, NY 11205",
+    "phone": "(718) 875-1808",
+    "website": "https://motg.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6985065,
+      "lng": -73.96078899999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1981786270394469575",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@motg.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@motg.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:39.307Z"
+  },
+  {
+    "place_id": "0x89c25b1c857a5a6b:0xac126527f9f80217",
+    "name": "Park Slope Softworks",
+    "category": "Marketing agency",
+    "address": "163 Prospect Park W #2R, Brooklyn, NY 11215",
+    "phone": "(646) 519-3534",
+    "website": "https://www.parkslopesoftworks.com/home/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.663002899999995,
+      "lng": -73.9784114
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12399083946476306967",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:39.388Z"
+  },
+  {
+    "place_id": "0x89c258c741910ab1:0x7b88198b45022808",
+    "name": "Digital Drew SEM",
+    "category": "Advertising agency",
+    "address": "110 E 28th St 10th Floor, New York, NY 10016",
+    "phone": "(917) 513-0533",
+    "website": "https://www.digitaldrewsem.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.742924599999995,
+      "lng": -73.98347509999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8901392749446703112",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:39.418Z"
+  },
+  {
+    "place_id": "0x89c25c80cd8bffff:0xccb35238bfb7dd66",
+    "name": "RZ Web Media",
+    "category": "Marketing agency",
+    "phone": "(315) 636-4653",
+    "website": "https://rzwebmedia.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 42.746219499999995,
+      "lng": -75.7700406
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14750223608256650598",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@rzwebmedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@rzwebmedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:45.453Z"
+  },
+  {
+    "place_id": "0x89c288c707ca5129:0xb4c46c0ddce1cc86",
+    "name": "Hunter Digital Marketing Agency - Social Media & Search Marketing Agency in New York",
+    "category": "Marketing agency",
+    "address": "137 W 25th St 11th floor, New York, NY 10001",
+    "phone": "(212) 202-1431",
+    "website": "https://hunterdigitalmarketing.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "8 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.745069199999996,
+      "lng": -73.9934267
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13025654829058477190",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:45.497Z"
+  },
+  {
+    "place_id": "0x89c2585f5fee55e7:0xd5f7cbbf19e2368e",
+    "name": "Main Street ROI",
+    "category": "Marketing agency",
+    "phone": "(646) 470-3753",
+    "website": "https://www.mainstreetroi.com/?utm_source=google&utm_medium=google%20my%20business",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.778051999999995,
+      "lng": -73.5683375
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15418015870959629966",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:45.545Z"
+  },
+  {
+    "place_id": "0x89c25963e1652761:0x426dcd2e70e1e7f0",
+    "name": "Mind & Metrics | A Full-Service Digital Agency Focused On Growth",
+    "category": "Internet marketing service",
+    "address": "240 Kent Ave 3rd Floor B17, Brooklyn, NY 11249",
+    "phone": "(718) 766-7442",
+    "website": "http://mindandmetrics.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7170066,
+      "lng": -73.9656929
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4786707578310748144",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@mindandmetrics.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@mindandmetrics.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:45.618Z"
+  },
+  {
+    "place_id": "0x89c25b51c42f94d5:0xb5473b1a11a9145d",
+    "name": "AI SEO Elevate NY",
+    "category": "Internet marketing service",
+    "address": "931 Flatbush Ave Ste C, Brooklyn, NY 11226",
+    "phone": "(718) 513-9046",
+    "website": "https://aiseonewyorkcity.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.649031,
+      "lng": -73.9582021
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13062474227362894941",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:45.734Z"
+  },
+  {
+    "place_id": "0x89c258e53db12431:0xcf950c9ff75ac2b0",
+    "name": "SEO Image",
+    "category": "Internet marketing service",
+    "address": "535 5th Ave 4th fl, New York, NY 10017",
+    "phone": "(888) 736-2667",
+    "website": "https://seoimage.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7548367,
+      "lng": -73.97939869999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14957875618570224304",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:45.755Z"
+  },
+  {
+    "place_id": "0x89c259a85859daef:0x40aa5b69542218f6",
+    "name": "Leadflow NYC",
+    "category": "Marketing agency",
+    "address": "340 E 23rd St, New York, NY 10010",
+    "website": "http://www.leadflow.nyc/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "12–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.7370087,
+      "lng": -73.9794227
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4659637272409413878",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:45.778Z"
+  },
+  {
+    "place_id": "0x89c25900c6c04877:0x2bd31146a1ffca74",
+    "name": "Thrive Internet Marketing Agency",
+    "category": "Marketing agency",
+    "address": "260 Madison Ave 8th floor, New York, NY 10016",
+    "phone": "(315) 930-1001",
+    "website": "https://thriveagency.com/nyc-digital-marketing-agency/?utm_source=GMBlisting&utm_medium=organic",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7506832,
+      "lng": -73.9811227
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3157886758780127860",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:45.838Z"
+  },
+  {
+    "place_id": "0x84664e9bf1179557:0x53f68dda77d731fc",
+    "name": "WittyGlide • Brooklyn SEO / Brand Marketing",
+    "category": "Marketing agency",
+    "address": "597 Empire Blvd, Brooklyn, NY 11213",
+    "phone": "(212) 203-5989",
+    "website": "https://wittyglide.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "11 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.6642084,
+      "lng": -73.9424033
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6050179118871818748",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:49.293Z"
+  },
+  {
+    "place_id": "0x89c2459289482b57:0x92efe18c094c78ba",
+    "name": "PR Marketing Group",
+    "category": "Marketing agency",
+    "address": "1425 51st St #5A, Brooklyn, NY 11219",
+    "phone": "(718) 237-4300",
+    "website": "http://prgroupny.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "10:30 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.632411399999995,
+      "lng": -73.9903822
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10587929240539003066",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "mail@prgroupny.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "mail@prgroupny.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:49.318Z"
+  },
+  {
+    "place_id": "0x89c259a82eb22401:0xd34eddc6095cab72",
+    "name": "Agency Platform",
+    "category": "Internet marketing service",
+    "address": "171 Madison Avenue, NAP Building, Suite # 1006/A, New York, NY 10016",
+    "phone": "(646) 688-3628",
+    "website": "https://www.agencyplatform.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7471083,
+      "lng": -73.9831343
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15226351232816556914",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "sales@agencyplatform.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@agencyplatform.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:49.359Z"
+  },
+  {
+    "place_id": "0x89c25b380805528b:0xa72c9bc862ced5ab",
+    "name": "Grow My Program",
+    "category": "Marketing agency",
+    "address": "38 6th Ave, Brooklyn, NY 11217",
+    "website": "https://growmyprogram.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.682189699999995,
+      "lng": -73.9742132
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12046174388262720939",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "robin@growmyprogram.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "robin@growmyprogram.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:49.418Z"
+  },
+  {
+    "place_id": "0x89c259039475bfbf:0xc81605a2d7cf0e9c",
+    "name": "Horizon Media, Inc.",
+    "category": "Advertising agency",
+    "address": "75 Varick St, New York, NY 10013",
+    "phone": "(212) 220-5000",
+    "website": "http://www.horizonmedia.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.723341,
+      "lng": -74.0064156
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14417717454036733596",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:49.473Z"
+  },
+  {
+    "place_id": "0x89c258eff81c5f13:0xb3c9b2bce83a85b1",
+    "name": "Wasserman",
+    "category": "Talent agency",
+    "address": "55 Water St, Brooklyn, NY 11201",
+    "phone": "(212) 704-0488",
+    "website": "http://www.teamwass.com/",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.703419,
+      "lng": -73.99160739999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12955082327527687601",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:00.951Z"
+  },
+  {
+    "place_id": "0x89c2598a777ffee9:0xc6da0613c930fbcf",
+    "name": "Exposure America",
+    "category": "Marketing agency",
+    "address": "45 Main St #220, Brooklyn, NY 11201",
+    "phone": "(212) 226-2530",
+    "website": "https://www.exposure.net/new-york/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7028879,
+      "lng": -73.9905545
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14328771846482230223",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:00.969Z"
+  },
+  {
+    "place_id": "0x89c25b0241ec8ed3:0x6a7fb2d3486efb74",
+    "name": "BKLY",
+    "category": "Marketing agency",
+    "address": "83 Waverly Ave, Brooklyn, NY 11205",
+    "phone": "(917) 304-9850",
+    "website": "https://bklyinc.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6951927,
+      "lng": -73.9680113
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7674048910585690996",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "jim@bklyinc.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "jim@bklyinc.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:01.018Z"
+  },
+  {
+    "place_id": "0x89c24487de32dcb3:0xf1db9844dc952145",
+    "name": "NYCADSCO - Outdoor Advertising",
+    "category": "Marketing agency",
+    "address": "2733 E 12th St Office PH, Brooklyn, NY 11235",
+    "phone": "(646) 718-7488",
+    "website": "http://www.nycadsco.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.5846613,
+      "lng": -73.9570147
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17427690604566225221",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@nycadsco.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@nycadsco.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:01.118Z"
+  },
+  {
+    "place_id": "0x89c25bbbd7bdc013:0x1e3bf168b5dee0d3",
+    "name": "Wisdom Digital Marketing",
+    "category": "Internet marketing service",
+    "address": "175 Pearl St, Brooklyn, NY 11201",
+    "phone": "(838) 204-1274",
+    "website": "https://wisdomdigitalmarketing.com/",
+    "hours": {
+      "Tuesday": "9:30 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.6994574,
+      "lng": -73.98753359999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2178600276793942227",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:01.156Z"
+  },
+  {
+    "place_id": "0x89c2f716ec1978ed:0x7d1ea29a8aa1d80c",
+    "name": "BusySeed",
+    "category": "Internet marketing service",
+    "address": "1178 Broadway #508, New York, NY 10001",
+    "phone": "(838) 444-5161",
+    "website": "https://www.busyseed.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 40.7452353,
+      "lng": -73.9881912
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9015822288676837388",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@busyseed.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@busyseed.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:01.218Z"
+  },
+  {
+    "place_id": "0x89c244d2f5999e79:0x82cce83affb4f253",
+    "name": "2Marketing SEO New York",
+    "category": "Marketing agency",
+    "address": "3917A 18th Ave, Brooklyn, NY 11218",
+    "phone": "(315) 599-1777",
+    "website": "https://2marketing.com/new-york/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.632575599999996,
+      "lng": -73.9729368
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9425163460275401299",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:01.331Z"
+  },
+  {
+    "place_id": "0x89c25bce8b6112c7:0x9bb4f9074033fa4e",
+    "name": "Socium Media",
+    "category": "Marketing agency",
+    "address": "5 Crosby St, New York, NY 10013",
+    "website": "https://www.sociummedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7197611,
+      "lng": -74.0002433
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11219866381223983694",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:01.355Z"
+  },
+  {
+    "place_id": "0x89c259a61359c9b1:0x37fa32b5cc91b57",
+    "name": "Chatter Buzz - Advertising Agency",
+    "category": "Marketing agency",
+    "address": "246 5th Ave 3rd floor, New York, NY 10001",
+    "phone": "(718) 736-2880",
+    "website": "http://www.chatterbuzzmedia.com/new-york-city-digital-marketing-advertising-agency/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.744765099999995,
+      "lng": -73.9878047
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=252099510791641943",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:05.724Z"
+  },
+  {
+    "place_id": "0x2565cd107814b3cd:0x7fb95772890dcdd7",
+    "name": "Clickmen™ Digital Marketing Agency",
+    "category": "Internet marketing service",
+    "address": "45 Rockefeller Plaza, New York, NY 10111",
+    "phone": "(917) 444-3666",
+    "website": "https://clickmen.us/en/digital-marketing-agency-in-nyc-new-york-ny/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7591523,
+      "lng": -73.9777136
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9203483462945590743",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:05.774Z"
+  },
+  {
+    "place_id": "0x89c25b22eea4617f:0x1d699c743f690a9",
+    "name": "The Shelf",
+    "category": "Marketing agency",
+    "address": "68 Jay St Ste 301, Brooklyn, NY 11201",
+    "phone": "(212) 655-9879",
+    "website": "https://www.theshelf.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7026934,
+      "lng": -73.9869715
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=132462320171782313",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:05.815Z"
+  },
+  {
+    "place_id": "0x89c25b22c36f1151:0x83675822638cfc30",
+    "name": "Hold Up Brooklyn",
+    "category": "Marketing agency",
+    "address": "272 Wyckoff St, Brooklyn, NY 11217",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6828971,
+      "lng": -73.9833882
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9468633646292073520",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:05.839Z"
+  },
+  {
+    "place_id": "0x89c25986a80e79eb:0x453ada55acbe770d",
+    "name": "Verbsz Marketing",
+    "category": "Internet marketing service",
+    "address": "287 Park Ave S Ste 700, New York, NY 10010",
+    "phone": "(571) 303-9090",
+    "website": "https://www.verbszmarketing.com/new-york-digital-marketing-agency/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7396867,
+      "lng": -73.98654189999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4988539598771484429",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@verbsz.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@verbsz.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:05.857Z"
+  },
+  {
+    "place_id": "0x89c25a340d3b3a0f:0x7ebba7bb8dec22d",
+    "name": "Heady",
+    "category": "Website designer",
+    "address": "20 Jay St Ste 1018, Brooklyn, NY 11201",
+    "website": "http://www.heady.io/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.7040785,
+      "lng": -73.9870285
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=570754818337849901",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "hello@heady.io",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@heady.io",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:05.946Z"
+  },
+  {
+    "place_id": "0x89c25b5402cc6bbd:0x1057ec39a5f934f7",
+    "name": "Johnny's Marketing And Media Agency",
+    "category": "Marketing agency",
+    "address": "68 Jay St Ste 201, Brooklyn, NY 11201",
+    "phone": "(212) 918-1993",
+    "rating": 1,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7027571,
+      "lng": -73.98683419999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1177669559922537719",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:06.017Z"
+  },
+  {
+    "place_id": "0x89c2593baec44abd:0x50a176c129d98eea",
+    "name": "FWD People",
+    "category": "Marketing agency",
+    "address": "195 Montague St Floor 11, Suite 1126, Brooklyn, NY 11201",
+    "phone": "(646) 956-4878",
+    "website": "https://fwdpeople.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6942665,
+      "lng": -73.99139989999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5810055566287539946",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@fwdpeople.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@fwdpeople.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:13.055Z"
+  },
+  {
+    "place_id": "0x89c25cfd71bd99c5:0x6afb12fbf69566ae",
+    "name": "DCD Marketing",
+    "category": "Marketing agency",
+    "address": "73 Wortman Ave, Brooklyn, NY 11207",
+    "phone": "(718) 647-3000",
+    "website": "http://dcdad.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6552125,
+      "lng": -73.8897609
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7708776060557813422",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:13.134Z"
+  },
+  {
+    "place_id": "0x89c245cc846dc6a5:0x1b6287beb72b4716",
+    "name": "Prime Marketing",
+    "category": "Marketing agency",
+    "address": "915 E 17th St Apt 419, Brooklyn, NY 11230",
+    "phone": "(631) 213-7841",
+    "rating": 2.5,
+    "hours": {
+      "Tuesday": "8:30 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6282564,
+      "lng": -73.95986839999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1973288839928301334",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:13.159Z"
+  },
+  {
+    "place_id": "0x89c25a324d8b7913:0xb27bd6c6d65a8505",
+    "name": "Tronvig Group Inc",
+    "category": "Marketing agency",
+    "phone": "(718) 522-6326",
+    "website": "http://www.tronviggroup.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12861109310374708485",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:13.218Z"
+  },
+  {
+    "place_id": "0xa763a51a9dc183f5:0x4e8904c59c5dd649",
+    "name": "Boundless Creative",
+    "category": "Video production service",
+    "address": "68 Jay St Unit 510A, Brooklyn, NY 11201",
+    "phone": "(646) 883-2468",
+    "website": "http://www.boundlesscreative.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7027557,
+      "lng": -73.98686649999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5659059653546202697",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "contact@boundlesscreative.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@boundlesscreative.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:13.242Z"
+  },
+  {
+    "place_id": "0x5a3088f08549137:0x1f5c05b9a05517d5",
+    "name": "The Spero Agency",
+    "category": "Marketing agency",
+    "address": "1675 E 31st St, Brooklyn, NY 11234",
+    "phone": "(347) 369-3051",
+    "website": "http://www.speroads.com/",
+    "rating": 3,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6126146,
+      "lng": -73.940536
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2259687407850166229",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "hello@speroagency.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@speroagency.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:13.341Z"
+  },
+  {
+    "place_id": "0x89c2596700000001:0x1e8941ad2df7ac79",
+    "name": "SuperHeroes Agency NYC",
+    "category": "Advertising agency",
+    "address": "356 Wythe Ave Ste 201, Brooklyn, NY 11249",
+    "phone": "(917) 909-1880",
+    "website": "http://hellosuperheroes.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7139441,
+      "lng": -73.9654331
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2200362105003551865",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "airmail@hellosuperheroes.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "airmail@hellosuperheroes.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "searchlight@hellosuperheroes.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "sing@hellosuperheroes.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:13.380Z"
+  },
+  {
+    "place_id": "0x89c25b89b35ee433:0xfb6ee66a639b939",
+    "name": "ACA",
+    "category": "Advertising agency",
+    "address": "441 Marcus Garvey Blvd, Brooklyn, NY 11216",
+    "phone": "(929) 210-8109",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.681962399999996,
+      "lng": -73.9377047
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1132354480973134137",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:13.470Z"
+  },
+  {
+    "place_id": "0x89c25bddef2ad99d:0xa47cf9f4ced00652",
+    "name": "Power Media Advertising",
+    "category": "Advertising agency",
+    "phone": "(718) 260-6113",
+    "website": "http://www.powermedianyc.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.073132,
+      "lng": -74.6318776
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11852623149169378898",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "sales@powermedianyc.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@powermedianyc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:17.904Z"
+  },
+  {
+    "place_id": "0x89c259895487b545:0x78f2ac225e8da832",
+    "name": "B-Reel",
+    "category": "Advertising agency",
+    "address": "33 Washington St, Brooklyn, NY 11201",
+    "phone": "(212) 966-6186",
+    "website": "https://b-reel.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.7033744,
+      "lng": -73.9893709
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8715217492530538546",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "sthlm@b-reel.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "sthlm@b-reel.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "barcelona@b-reel.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "la@b-reel.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "new@feelslike.studio",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:17.940Z"
+  },
+  {
+    "place_id": "0x89c25b6b6f9b0daf:0x405f574fb4956e25",
+    "name": "Movers Development",
+    "category": "Internet marketing service",
+    "phone": "(718) 717-2795",
+    "website": "https://moversdev.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 42.746219499999995,
+      "lng": -75.7700406
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4638522141058625061",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:17.989Z"
+  },
+  {
+    "place_id": "0x89c25b2a17d0cdd3:0xa173b08c456c4b76",
+    "name": "Menachem Lubinsky | Lubicom Marketing Consulting",
+    "category": "Marketing agency",
+    "address": "Brooklyn Square, 3611 14th Ave Suite #207E, Brooklyn, NY 11218",
+    "phone": "(718) 854-4450",
+    "website": "http://www.lubicom.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6405745,
+      "lng": -73.9822961
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11633836378934758262",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:18.038Z"
+  },
+  {
+    "place_id": "0x89c25a31678ff631:0xb8df6a011744c377",
+    "name": "Spike DDB",
+    "category": "Marketing agency",
+    "address": "45 Main St Ste 1024, Brooklyn, NY 11201",
+    "phone": "(718) 596-5400",
+    "website": "http://spikeddb.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7028919,
+      "lng": -73.99054509999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13321482775703110519",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:18.072Z"
+  },
+  {
+    "place_id": "0x89c259d68254bda3:0x6528df458730fbd1",
+    "name": "AMP Agency",
+    "category": "Marketing agency",
+    "address": "1500 Broadway 32nd floor, New York, NY 10036",
+    "website": "https://www.ampagency.com/nyc-marketing-agency",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.756805199999995,
+      "lng": -73.9856882
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7289321486613019601",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:18.137Z"
+  },
+  {
+    "place_id": "0x89c2596b85040d67:0xcb988c23da334e70",
+    "name": "Spray Marketing",
+    "category": "Advertising agency",
+    "address": "61 Greenpoint Ave #218, Brooklyn, NY 11222",
+    "website": "https://www.spray.marketing/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7300325,
+      "lng": -73.9584385
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14670629871771930224",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:18.161Z"
+  },
+  {
+    "place_id": "0x89c259ab39b741b9:0x6a20a07d853087c1",
+    "name": "Amra & Elma",
+    "category": "Marketing agency",
+    "address": "1441 Broadway 6th floor, New York, NY 10018",
+    "phone": "(646) 518-7743",
+    "website": "https://www.amraandelma.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.754971,
+      "lng": -73.98716329999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7647288628241008577",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@amraandelma.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@amraandelma.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:18.221Z"
+  },
+  {
+    "place_id": "0x89c244c8a818307f:0x4cf53d0c45309cf5",
+    "name": "JB Marketing",
+    "category": "Marketing agency",
+    "address": "2329 Nostrand Ave Suite 100, Brooklyn, NY 11210",
+    "phone": "(718) 766-5290",
+    "website": "http://www.jaybmarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6279065,
+      "lng": -73.9467799
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5545405639086349557",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@jaybmarketing.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@jaybmarketing.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:25.732Z"
+  },
+  {
+    "place_id": "0x89c25b8f581a8739:0x640ab81427b263d8",
+    "name": "Bold NYC",
+    "category": "Marketing agency",
+    "address": "110 Wall St, New York, NY 10005",
+    "phone": "(212) 702-9587",
+    "website": "http://www.beboldnyc.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.7049028,
+      "lng": -74.0064172
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7208776550264759256",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@beboldnyc.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@beboldnyc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:25.767Z"
+  },
+  {
+    "place_id": "0x89c2596289995447:0x91e3323bbc8c9bed",
+    "name": "Branding New York City",
+    "category": "Marketing agency",
+    "address": "580 5th Ave #2908, New York, NY 10036",
+    "phone": "(646) 340-0889",
+    "website": "https://www.brandingnycity.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.756935,
+      "lng": -73.978799
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10512301187360660461",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:25.858Z"
+  },
+  {
+    "place_id": "0x89c25a313e55a8eb:0x1efdcba9d5b14caf",
+    "name": "Now What",
+    "category": "Marketing consultant",
+    "address": "45 Main St #1006, Brooklyn, NY 11201",
+    "phone": "(212) 673-3250",
+    "website": "http://nowwhat.com/",
+    "rating": 4,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7028919,
+      "lng": -73.99054509999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2233164920540712111",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "lauren@nowwhat.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "lauren@nowwhat.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "fernando@nowwhat.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "careers@nowwhat.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "press@nowwhat.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:25.918Z"
+  },
+  {
+    "place_id": "0x89c25b9c81358691:0x5a74476e98c3c755",
+    "name": "Platinum Agency",
+    "category": "Internet marketing service",
+    "address": "1080 Bergen St, Brooklyn, NY 11216",
+    "phone": "(917) 259-0807",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.676021999999996,
+      "lng": -73.950403
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6517913101046892373",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:25.966Z"
+  },
+  {
+    "place_id": "0x89c245e62c5ded23:0x95214df0fe49b30e",
+    "name": "Plug Talk Media - Outdoor Advertising",
+    "category": "Marketing agency",
+    "address": "4121 18th Ave, Brooklyn, NY 11218",
+    "phone": "(347) 640-0321",
+    "website": "http://www.plugtalk.media/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=7844913140512484573",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6315788,
+      "lng": -73.9747817
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10745955883336446734",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "8c4075d5481d476e945486754f783364@sentry.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "8c30b2581acc426badc414e8a5dc04ef@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:26.002Z"
+  },
+  {
+    "place_id": "0x89c25a487ef749d1:0x6e49e8e4dd816324",
+    "name": "Knock Social",
+    "category": "Marketing agency",
+    "address": "121 Montague St, Brooklyn, NY 11201",
+    "phone": "(800) 870-7153",
+    "website": "https://knocksocial.com/contact/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6951214,
+      "lng": -73.9945212
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7947139087138382628",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "hello@knocksocial.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@knocksocial.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:26.069Z"
+  },
+  {
+    "place_id": "0x89c25b93d2a5613d:0x5f88197795172965",
+    "name": "hikeinfotech - leading digital marketing company",
+    "category": "Marketing agency",
+    "address": "121 Henry St, Brooklyn, NY 11201",
+    "website": "http://www.hikeinfotech.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6969786,
+      "lng": -73.9930509
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6883780031828928869",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:26.133Z"
+  },
+  {
+    "place_id": "0x89c2448af803050f:0xb107453f64a1a4aa",
+    "name": "Media Explode Marketing, Web Development, Printing & Promo Products New York",
+    "category": "Marketing agency",
+    "address": "2271 E 14th St, Brooklyn, NY 11229",
+    "phone": "(718) 808-9328",
+    "website": "http://www.mediaexplode.com/?utm_campaign=gmb",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.5949196,
+      "lng": -73.9565001
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12756240608123790506",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:38.237Z"
+  },
+  {
+    "place_id": "0x89c25bb288c09b7f:0x79b7fa7291098e9f",
+    "name": "In The Name Of",
+    "category": "Marketing agency",
+    "address": "469 State St #2F, Brooklyn, NY 11217",
+    "phone": "(646) 396-3849",
+    "rating": 3.7,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6860722,
+      "lng": -73.98003469999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8770754169293868703",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:38.519Z"
+  },
+  {
+    "place_id": "0x89c25bf8fc713c33:0x21242a23af307629",
+    "name": "Digital Marketing Agency NYC - Mack",
+    "category": "Internet marketing service",
+    "address": "5 Hanover Square 12th Floor, New York, NY 10004",
+    "phone": "(929) 207-5837",
+    "website": "https://mackmediagroup.com/newyork-digitalmarketingagency?utm_campaign=GMB&utm_medium=digital_marketing_nyc",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.705075799999996,
+      "lng": -74.0091604
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2388080035164616233",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:38.920Z"
+  },
+  {
+    "place_id": "0x89c25b781c0481b1:0xcc3690efa6d0a8e7",
+    "name": "Spotlight Design",
+    "category": "Marketing agency",
+    "address": "627 Eastern Pkwy, Brooklyn, NY 11213",
+    "phone": "(718) 493-2866",
+    "website": "http://www.spotlightdesign.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6700859,
+      "lng": -73.94725559999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14715108191449950439",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:39.018Z"
+  },
+  {
+    "place_id": "0x89c25991e38038a3:0xb7ed0750b9b2ff3d",
+    "name": "CarnsMedia",
+    "category": "Marketing agency",
+    "address": "433 Broadway, New York, NY 10013",
+    "phone": "(917) 626-1111",
+    "website": "http://carnsmedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.72022,
+      "lng": -74.001564
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13253257321715531581",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:39.048Z"
+  },
+  {
+    "place_id": "0x89c25a33bf3fffff:0xe7d5ac7aad68db04",
+    "name": "by REVEAL",
+    "category": "Marketing agency",
+    "address": "68 Jay St Ste 201 studio 44, Brooklyn, NY 11201",
+    "phone": "(347) 620-6352",
+    "website": "https://www.byreveal.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7028129,
+      "lng": -73.9873187
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16705448035696040708",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:39.087Z"
+  },
+  {
+    "place_id": "0x89c24555b0fc181f:0xec3c961fe71ede15",
+    "name": "Pencil Point Marketing",
+    "category": "Graphic designer",
+    "address": "5808 21st Ave Apt 1R, Brooklyn, NY 11204",
+    "phone": "(718) 808-3803",
+    "website": "https://www.ohthatgroup.com/meet-the-creatives",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6191402,
+      "lng": -73.97994969999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17022645755319344661",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:39.144Z"
+  },
+  {
+    "place_id": "0x633737367440600d:0x8e892cab5151c742",
+    "name": "HDM Edits | Content Marketing Agency",
+    "category": "Video production service",
+    "address": "116 John St, New York, NY 10038",
+    "website": "http://hdmedits.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7075799,
+      "lng": -74.00578039999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10270789539510470466",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:39.218Z"
+  },
+  {
+    "place_id": "0x89c259af194ee05b:0xc84f7383a24f022f",
+    "name": "Xaxis",
+    "category": "Advertising agency",
+    "address": "175 Greenwich St 12th Floor, New York, NY 10007",
+    "phone": "(646) 259-4200",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7111628,
+      "lng": -74.0120886
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14433882339946725935",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:55.022Z"
+  },
+  {
+    "place_id": "0x89c25988509b84b7:0xd56e5c5df962c777",
+    "name": "Organic Digital Marketing",
+    "category": "Marketing agency",
+    "address": "444E East 86th St, New York, NY 10128",
+    "phone": "(646) 693-2401",
+    "website": "https://www.digital-marketing-usa.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.775972499999995,
+      "lng": -73.9478532
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15379331336202536823",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:55.243Z"
+  },
+  {
+    "place_id": "0x89c25bea6a0fa3d1:0x47ceef6fdb607a11",
+    "name": "Grapevine Media Marketing",
+    "category": "Marketing agency",
+    "address": "68 Jay St Ste 201, Brooklyn, NY 11201",
+    "phone": "(866) 728-2201",
+    "website": "http://www.grapevinemediamarketing.com/",
+    "hours": {
+      "Tuesday": "8 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7027571,
+      "lng": -73.98683419999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5174336285596219921",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:55.313Z"
+  },
+  {
+    "place_id": "0x89c25a33bca0e429:0x22f8d411ab41fd58",
+    "name": "Goodbrother",
+    "category": "Marketing agency",
+    "address": "55 Washington St Suite 703, Brooklyn, NY 11201",
+    "website": "http://goodbrother.tv/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9:30 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7026493,
+      "lng": -73.98932409999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2519997163866553688",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:55.334Z"
+  },
+  {
+    "place_id": "0x89c25b06fa850aef:0x5b27d9a37378f1f2",
+    "name": "Pentagon Group",
+    "category": "Marketing agency",
+    "address": "901 Myrtle Ave, Brooklyn, NY 11206",
+    "phone": "(718) 400-9035",
+    "website": "https://itspentagon.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6958292,
+      "lng": -73.9467439
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6568457877583360498",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:55.357Z"
+  },
+  {
+    "place_id": "0x89c25b7843cb866f:0x1ac9e798616fc96f",
+    "name": "GoEasyMedia",
+    "category": "Marketing agency",
+    "address": "50 MacDonough St, Brooklyn, NY 11216",
+    "phone": "(929) 735-9086",
+    "website": "http://goeasymedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6807118,
+      "lng": -73.9443412
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1930328556960729455",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@goeasymedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@goeasymedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:55.418Z"
+  },
+  {
+    "place_id": "0x89c25f2fcc5d8a87:0x60f54497b0048d65",
+    "name": "Limelight Digital Agency",
+    "category": "Marketing agency",
+    "address": "81-06 78th Ave, Glendale, NY 11385",
+    "phone": "(347) 853-6977",
+    "website": "https://limelightdigitalagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7053553,
+      "lng": -73.86745119999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6986565815219031397",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:55.536Z"
+  },
+  {
+    "place_id": "0x89c245280538eb03:0xca2c35fb252c578b",
+    "name": "Digital Empire NY",
+    "category": "Advertising agency",
+    "address": "3071 Brighton 13th St, Brooklyn, NY 11235",
+    "phone": "(929) 928-8338",
+    "website": "https://www.digitalempireny.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.578604,
+      "lng": -73.95621919999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14568078247413438347",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:55.559Z"
+  },
+  {
+    "place_id": "0x89c259a3c392b9e3:0xad99b403dc8da89c",
+    "name": "Amsive",
+    "category": "Marketing agency",
+    "address": "915 Broadway Ste 501, New York, NY 10010",
+    "phone": "(212) 661-8969",
+    "website": "https://www.amsive.com/about/new-york/?utm_source=google&utm_medium=organic&utm_campaign=gbp+new+york+location",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9:30 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.739696099999996,
+      "lng": -73.98982339999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12509227368676436124",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:04.795Z"
+  },
+  {
+    "place_id": "0x89e377c0d573539f:0x77af64c4f6509d77",
+    "name": "Composite – UX Agency",
+    "category": "Marketing agency",
+    "address": "33 Nassau Ave, Brooklyn, NY 11222",
+    "website": "https://www.composite.global/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7233673,
+      "lng": -73.9528083
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8624222608546635127",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "partnerships@composite.global",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "partnerships@composite.global",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "careers@composite.global",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "press@composite.global",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:04.828Z"
+  },
+  {
+    "place_id": "0x89c259a66b4e9445:0x6c644162e6c91c82",
+    "name": "MusicPromoToday",
+    "category": "Marketing agency",
+    "address": "1178 Broadway Fl 4 #144, New York, NY 10001",
+    "phone": "(646) 650-5557",
+    "website": "http://musicpromotoday.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7452688,
+      "lng": -73.9883569
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7810439546801822850",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:04.874Z"
+  },
+  {
+    "place_id": "0x89c25b0016b71e9d:0x4c212d572dffc7af",
+    "name": "Musemind — UI/UX Design Agency New York",
+    "category": "Website designer",
+    "address": "47 MacDonough St Apt 01, Brooklyn, NY 11216",
+    "phone": "(917) 960-9979",
+    "website": "https://musemind.agency/locations/ui-ux-agency-in-nyc",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.6810373,
+      "lng": -73.9444858
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5485715673571116975",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "rasel.ahmed@musemind.agency",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "rasel.ahmed@musemind.agency",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:04.952Z"
+  },
+  {
+    "place_id": "0x89c25da71c874c4f:0x2e4028abacc67255",
+    "name": "D-Marketing_",
+    "category": "Internet marketing service",
+    "address": "196 Jefferson St aparment 1, Brooklyn, NY 11206",
+    "phone": "(954) 609-9840",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.701670899999996,
+      "lng": -73.9286111
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3332708442057372245",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:05.018Z"
+  },
+  {
+    "place_id": "0x89c2593b3d733a13:0xc2700a6e57a8671f",
+    "name": "SEO Marketing Nerds NYC",
+    "category": "Internet marketing service",
+    "address": "32 Clinton St, New York, NY 10002",
+    "phone": "(332) 910-0590",
+    "website": "https://www.seomarketingnerds.com/seo-new-york/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7202773,
+      "lng": -73.9842591
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14010709909782947615",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:05.044Z"
+  },
+  {
+    "place_id": "0xadefccba69e33f55:0xd6798dbe3c433024",
+    "name": "Alvonso Marketing Agency",
+    "category": "Marketing agency",
+    "address": "30-22 44th St #2L, Astoria, NY 11103",
+    "phone": "(347) 926-8669",
+    "website": "https://alvonso.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7619342,
+      "lng": -73.9124796
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15454539444492906532",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "support@alvonso.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "support@alvonso.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:20.526Z"
+  },
+  {
+    "place_id": "0x89c25dfe8be2391d:0xb6fc7b9a41a5e035",
+    "name": "Law Firm Marketing Agency iDesignYours",
+    "category": "Marketing agency",
+    "address": "87-53 98th St, Woodhaven, NY 11421",
+    "phone": "(917) 742-4711",
+    "website": "https://idesignyours.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "10 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.6934484,
+      "lng": -73.8467594
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13185549711490539573",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "idesignyours@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "idesignyours@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:20.646Z"
+  },
+  {
+    "place_id": "0x89c259f2b887fe81:0x63cf9abc66b5d73",
+    "name": "Havas People New York",
+    "category": "Marketing agency",
+    "address": "200 Hudson St, New York, NY 10013",
+    "phone": "(631) 241-8917",
+    "website": "http://www.havaspeople.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "9 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7229449,
+      "lng": -74.00782079999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=449508578993855859",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "fiona.warren@havaspeople.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "fiona.warren@havaspeople.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "lisa.wiedemann@havaspeople.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "arindam.sengupta@havaspeople.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "jackie.carow@havas.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "hello@havaspeople.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:20.819Z"
+  },
+  {
+    "place_id": "0x89c25d8d818185e7:0x232e1654c24dc1eb",
+    "name": "Brooklyn SEO",
+    "category": "Marketing agency",
+    "address": "510 Decatur St Apt 2, Brooklyn, NY 11233",
+    "phone": "(646) 531-0409",
+    "website": "https://brooklynseo.nyc/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6828153,
+      "lng": -73.92284219999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2534988193549107691",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@brooklynseo.nyc",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@brooklynseo.nyc",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:21.118Z"
+  },
+  {
+    "place_id": "0x89c2594e16c303c1:0x5ecf989c971a21f4",
+    "name": "Nomad Marketing",
+    "category": "Marketing consultant",
+    "address": "30 Cooper Sq, New York, NY 10003",
+    "website": "https://www.nomadmarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7281197,
+      "lng": -73.99161149999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6831846958061724148",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:21.218Z"
+  },
+  {
+    "place_id": "0x89c259a9a9aab5c9:0xeb9d8cfa6bff29e7",
+    "name": "JUICE: Full Service Digital Marketing Agency",
+    "category": "Marketing agency",
+    "address": "250 Hudson St 2nd Floor, New York, NY 10013",
+    "phone": "(212) 688-3683",
+    "website": "http://www.thinkjuice.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.724994599999995,
+      "lng": -74.0072895
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16977881177438235111",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:21.268Z"
+  },
+  {
+    "place_id": "0x89c259a82eb22401:0x87570fbbf2002e10",
+    "name": "eBrandz",
+    "category": "Internet marketing service",
+    "address": "171 Madison Ave #1006, New York, NY 10016",
+    "phone": "(212) 685-6060",
+    "website": "http://www.ebrandz.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7471083,
+      "lng": -73.9831343
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9752280817987497488",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "sales@ebrandz.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@ebrandz.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:21.341Z"
+  },
+  {
+    "place_id": "0x89c259f2a5736ad9:0xbdc1dff0cd748d0",
+    "name": "Saatchi & Saatchi Advertising Agency",
+    "category": "Advertising agency",
+    "address": "375 Hudson St, New York, NY 10014",
+    "phone": "(212) 463-2000",
+    "website": "http://saatchiny.com/ny-us/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.7284631,
+      "lng": -74.0076526
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=854591010562853072",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:21.379Z"
+  },
+  {
+    "place_id": "0x89c25b3a06d24475:0xad5498588bf1c2f5",
+    "name": "Internet Marketing Firm Net SEO",
+    "category": "Internet marketing service",
+    "address": "125 Maiden Ln, New York, NY 10038",
+    "phone": "(833) 762-7202",
+    "website": "https://www.internetmarketingfirm.net/new-york-internet-marketing/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.706035899999996,
+      "lng": -74.0063866
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12489775172677649141",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:33.467Z"
+  },
+  {
+    "place_id": "0x89c2598cfe0d95db:0x9ecb4b3b8b52cfec",
+    "name": "Redpoint Marketing PR Inc",
+    "category": "Marketing agency",
+    "address": "85 Broad Street c/o WeWork, New York, NY 10004",
+    "phone": "(212) 229-0119",
+    "website": "https://redpointmarketingpr.com/",
+    "hours": {
+      "Tuesday": "9 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7040662,
+      "lng": -74.01114559999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11442321997377490924",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@redpointmarketingpr.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@redpointmarketingpr.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:33.495Z"
+  },
+  {
+    "place_id": "0x5a8c41674a52569:0x919a7a1678818e68",
+    "name": "Nova Reach Digital | AI Powered Marketing Automation in NY",
+    "category": "Marketing agency",
+    "address": "1600 Broadway, New York, NY 10019",
+    "phone": "(332) 201-6244",
+    "website": "https://novareach.digital/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.760245399999995,
+      "lng": -73.9843654
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10491832518842617448",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:33.553Z"
+  },
+  {
+    "place_id": "0x89c2590057a3552f:0x939565f83cfde80d",
+    "name": "Sun & Moon Marketing Communications",
+    "category": "Advertising agency",
+    "address": "75 Broad St, New York, NY 10004",
+    "phone": "(212) 686-9600",
+    "website": "http://smmcnyc.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7046172,
+      "lng": -74.01123249999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10634518211954862093",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "hello@paceadv.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@paceadv.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:33.619Z"
+  },
+  {
+    "place_id": "0x89c259aa8bb16163:0xa9676c2816623026",
+    "name": "Beyond Media Global LLC - New York City",
+    "category": "Marketing agency",
+    "address": "285 Fulton St, New York, NY 10007",
+    "phone": "(347) 391-6588",
+    "website": "https://us.bmgww.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.7130082,
+      "lng": -74.0131689
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12206844234441044006",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:33.755Z"
+  },
+  {
+    "place_id": "0x89c25cafed185861:0x2ad3effb66e339c5",
+    "name": "Allure Digital",
+    "category": "Internet marketing service",
+    "address": "5300 Kings Hwy, Brooklyn, NY 11234",
+    "phone": "(212) 301-7615",
+    "website": "https://www.alluredigital.net/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.637424599999996,
+      "lng": -73.9256225
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3086074032720918981",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "ny@alluredigital.net",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "ny@alluredigital.net",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "nj@alluredigital.net",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "isb@alluredigital.net",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@alluredigital.net",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:33.777Z"
+  },
+  {
+    "place_id": "0x89c25b93748d57d5:0x290dcaeb2121ce06",
+    "name": "SMALL",
+    "category": "Advertising agency",
+    "address": "355 S End Ave #29B, New York, NY 10280",
+    "website": "http://www.smalltheagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.7106954,
+      "lng": -74.01703119999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2958243641474272774",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:33.845Z"
+  },
+  {
+    "place_id": "0x66a0be69094c78bf:0xaf4d80af1307a646",
+    "name": "Astoria Advertising Company",
+    "category": "Marketing agency",
+    "address": "21-17 Broadway, Astoria, NY 11106",
+    "phone": "(917) 994-1256",
+    "website": "https://www.astoriaadvertising.co/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7650447,
+      "lng": -73.93039499999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12631894019271009862",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:42.439Z"
+  },
+  {
+    "place_id": "0x89c259a978878c93:0x5d506cd09a962273",
+    "name": "MAG Experiential",
+    "category": "Marketing agency",
+    "address": "333 W 52nd St, New York, NY 10019",
+    "phone": "(212) 563-7656",
+    "website": "http://themagexperience.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7643726,
+      "lng": -73.9866301
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6723993886866678387",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:42.466Z"
+  },
+  {
+    "place_id": "0x89c259af53c5e3b1:0x652ae263c99d70b7",
+    "name": "Melty Cone Video",
+    "category": "Marketing agency",
+    "address": "35 Prospect Park Southwest, Brooklyn, NY 11215",
+    "phone": "(646) 926-1900",
+    "website": "https://www.meltycone.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.659756,
+      "lng": -73.977783
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7289887865064747191",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "inquiries@meltycone.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "inquiries@meltycone.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "resume@meltycone.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:42.519Z"
+  },
+  {
+    "place_id": "0x89c2590249ec3311:0xc2500a6628c99ac0",
+    "name": "American Association of Advertising Agencies (4A's)",
+    "category": "Association / Organization",
+    "address": "25 W 45th St 16th Floor, New York, NY 10036",
+    "phone": "(212) 682-2500",
+    "website": "http://www.aaaa.org/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "8:30 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.756136399999995,
+      "lng": -73.9806852
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14001702675382115008",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:42.558Z"
+  },
+  {
+    "place_id": "0x89c259a62f533d6f:0xb9b9fe9de92b97b9",
+    "name": "Gourmet Marketing",
+    "category": "Marketing agency",
+    "address": "307 7th Ave, New York, NY 10001",
+    "phone": "(212) 239-0551",
+    "website": "https://www.gourmetmarketing.net/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.746763099999995,
+      "lng": -73.9932815
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13383007721883408313",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:42.641Z"
+  },
+  {
+    "place_id": "0x89c2595b70a3d0c5:0x75dd284f9bd5fc77",
+    "name": "Online Xsitement Web Agency (OX Web Agency)",
+    "category": "Website designer",
+    "address": "240 Kent Ave, Brooklyn, NY 11249",
+    "phone": "(929) 259-8005",
+    "website": "https://oxwebagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7170066,
+      "lng": -73.9656929
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8492988794672643191",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@oxwebagency.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@oxwebagency.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:42.667Z"
+  },
+  {
+    "place_id": "0x89c259ac3552d00d:0xb4e59b1095e6b765",
+    "name": "Arena Destination Marketing",
+    "category": "Event planner",
+    "address": "134 W 78th St, New York, NY 10024",
+    "phone": "(212) 989-1440",
+    "website": "http://arenadestinationmarketing.com/contact/",
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.781669699999995,
+      "lng": -73.97741289999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13034995192030476133",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:42.774Z"
+  },
+  {
+    "place_id": "0x89c25911791db3a7:0xaaf0c1812f1f3318",
+    "name": "Succeedo - Digital Marketing, SEO, Web Development Agency in New York, NYC",
+    "category": "Marketing agency",
+    "address": "1330 6th Ave 23rd floor, New York, NY 10019",
+    "phone": "+91 93912 85647",
+    "website": "https://succeedodm.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.7619555,
+      "lng": -73.97847589999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12317557741443822360",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "8c4075d5481d476e945486754f783364@sentry.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@succeedodm.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:42.809Z"
+  },
+  {
+    "place_id": "0x89c25b6703b7f023:0x1c14e6c4008501a8",
+    "name": "Power5Concepts NewYork",
+    "category": "Marketing agency",
+    "address": "490 New York Ave, Brooklyn, NY 11225",
+    "phone": "(718) 304-1697",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6631437,
+      "lng": -73.94824349999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2023495862092890536",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:49.430Z"
+  },
+  {
+    "place_id": "0x89c25b52d75c1b87:0xc840f51dfda7d11f",
+    "name": "Briteweb",
+    "category": "Marketing agency",
+    "address": "195 Montague St, Brooklyn, NY 11201",
+    "phone": "(646) 760-2740",
+    "website": "https://briteweb.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6942362,
+      "lng": -73.9915223
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14429802715253559583",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "agency@briteweb.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "agency@briteweb.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:49.453Z"
+  },
+  {
+    "place_id": "0x89c25bccca0e7a51:0xd509a7296d8e4206",
+    "name": "MDG",
+    "category": "Marketing agency",
+    "address": "651 New York Ave Apt 503, Brooklyn, NY 11203",
+    "phone": "(917) 969-5370",
+    "website": "http://mdgsolutions.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.658284599999995,
+      "lng": -73.94714189999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15350984601242583558",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:49.533Z"
+  },
+  {
+    "place_id": "0x89c25b82001f0259:0xb2ea1ea869eca258",
+    "name": "PlanNet Marketing - Eurdice L Jordan",
+    "category": "Marketing agency",
+    "address": "409 Eastern Pkwy #503, Brooklyn, NY 11216",
+    "phone": "(917) 254-8827",
+    "website": "https://www.plannetmarketing.com/BGMTRAVEL24",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.670553,
+      "lng": -73.9544671
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12892150591981920856",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:49.778Z"
+  },
+  {
+    "place_id": "0x89c25905d77ccb7d:0x8a6cad3e2d4b741c",
+    "name": "Cognate Hispanic Marketing",
+    "category": "Marketing agency",
+    "address": "1345 6th Ave 2ND FLOOR, New York, NY 10105",
+    "phone": "(844) 842-6462",
+    "website": "http://www.cognatehispanic.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7630212,
+      "lng": -73.9790517
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9974537757278303260",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "hello@cognatehispanic.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@cognatehispanic.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:49.795Z"
+  },
+  {
+    "place_id": "0x89c2609c2615e901:0x474009d863a7e99c",
+    "name": "Verve Concepts - NYC Branding Agency",
+    "category": "Marketing agency",
+    "address": "750 Lexington Ave 9th floor, New York, NY 10022",
+    "phone": "(212) 668-0557",
+    "website": "https://www.verveconcepts.com/brand_audit/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7626385,
+      "lng": -73.9683695
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5134114400191900060",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "ideas@verveconcepts.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "ideas@verveconcepts.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:49.933Z"
+  },
+  {
+    "place_id": "0x89c25989a76e98ad:0xc3ccd48cf0782e18",
+    "name": "Marccx Media",
+    "category": "Internet marketing service",
+    "address": "195 Montague St f14, Brooklyn, NY 11201",
+    "phone": "(347) 770-2874",
+    "website": "http://www.marccx.com/",
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.694312,
+      "lng": -73.991102
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14108885434439839256",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:49.972Z"
+  },
+  {
+    "place_id": "0x89c259a471228563:0xc3f1991b0b750066",
+    "name": "Colangelo & Partners",
+    "category": "Marketing agency",
+    "address": "55 W 39th St 5th Floor, New York, NY 10018",
+    "phone": "(646) 624-2885",
+    "website": "http://www.colangelopr.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7528431,
+      "lng": -73.9847935
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14119234648218599526",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@colangelopr.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@colangelopr.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:50.018Z"
+  },
+  {
+    "place_id": "0x8644b50841665927:0x413b4614b1b8771d",
+    "name": "PartnerCentric, Inc.",
+    "category": "Marketing agency",
+    "address": "228 Park Ave, New York, NY 10003",
+    "phone": "(512) 537-0913",
+    "website": "http://www.partnercentric.com/",
+    "rating": 2.8,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7543648,
+      "lng": -73.9763371
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4700427690786191133",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:51.335Z"
+  },
+  {
+    "place_id": "0x89c258f52d8a984f:0xf2bb8451229cd7c3",
+    "name": "Digital NYC Agency",
+    "category": "Marketing agency",
+    "address": "157 Columbus Ave 4th fl, New York, NY 10023",
+    "phone": "(212) 301-0575",
+    "website": "https://www.digitalnycagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.774285,
+      "lng": -73.9807173
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17490719061831374787",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@digitalnycagency.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@digitalnycagency.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:57.432Z"
+  },
+  {
+    "place_id": "0x89c258fc9951ca8f:0x9329e08b4e2fb3c1",
+    "name": "Digitas New York",
+    "category": "Marketing agency",
+    "address": "375 Hudson St, New York, NY 10014",
+    "phone": "(212) 610-5000",
+    "website": "http://www.digitas.com/en-us/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7285032,
+      "lng": -74.0073367
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10604253686537368513",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "lindapiggot@digitas.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "lindapiggot@digitas.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "communications@digitas.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:57.537Z"
+  },
+  {
+    "place_id": "0x89c25a115d14138d:0xdce5805bce0d16ce",
+    "name": "JMG Public Relations - New York PR Firm NYC",
+    "category": "Public relations firm",
+    "address": "125 Maiden Ln #211, New York, NY 10038",
+    "phone": "(212) 206-1645",
+    "website": "http://www.jmgpublicrelations.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "8:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.706725,
+      "lng": -74.006463
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15917269589798229710",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:57.741Z"
+  },
+  {
+    "place_id": "0x89c259cca990a3a5:0x7cf42f476229e353",
+    "name": "Unison Media - Classical Music PR, Publicity, & Marketing",
+    "category": "Marketing agency",
+    "address": "42 West St #2/28C, Brooklyn, NY 11222",
+    "phone": "(646) 580-2741",
+    "website": "https://www.unison.media/?utm_source=Google%20My%20Business&utm_medium=Home%20Page&utm_campaign=GMB",
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7280583,
+      "lng": -73.9587191
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9003873538656559955",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "hi@unison.media",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "hi@unison.media",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:57.784Z"
+  },
+  {
+    "place_id": "0xabf12a2a52a20f81:0xa67c617c44078c0e",
+    "name": "Likey Co",
+    "category": "Marketing agency",
+    "phone": "(212) 232-5376",
+    "website": "https://www.likeyco.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11996570693753342990",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "info@likeyco.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@likeyco.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:57.842Z"
+  },
+  {
+    "place_id": "0x89c2598946e2e40d:0xedeed0e7baa00e1b",
+    "name": "Creative Media Marketing Inc",
+    "category": "Marketing agency",
+    "address": "594 Broadway, New York, NY 10012",
+    "phone": "(212) 979-8884",
+    "website": "http://cmmpr.com/",
+    "rating": 2.8,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7249194,
+      "lng": -73.9968808
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17144870525133131291",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:57.937Z"
+  },
+  {
+    "place_id": "0x89c244932b479ff7:0x6a7985e23ce8acf0",
+    "name": "Contact Us — Mad Marketing",
+    "category": "Store",
+    "address": "1775 E 13th St, Brooklyn, NY 11229",
+    "phone": "(917) 501-5949",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6061949,
+      "lng": -73.9595753
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7672310646933335280",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:58.002Z"
+  },
+  {
+    "place_id": "0x89c245612950e8d3:0xfc0892c6dfbb2dea",
+    "name": "Horizon PPC LLC",
+    "category": "Internet marketing service",
+    "address": "1646 62nd St, Brooklyn, NY 11204",
+    "phone": "(518) 545-5598",
+    "rating": 2.3,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.622774,
+      "lng": -73.9919328
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18160926880226291178",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:58.072Z"
+  },
+  {
+    "place_id": "0x89c25bdf6aa5f977:0x7e9a3aa196efed02",
+    "name": "SMAKK Studios",
+    "category": "Marketing agency",
+    "address": "561 Broadway Apt 5B, New York, NY 10012",
+    "phone": "(917) 617-2539",
+    "website": "http://www.smakkstudios.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7241599,
+      "lng": -73.9982685
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9122668460888812802",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:08.020Z"
+  },
+  {
+    "place_id": "0x89c25a1fb9e67b37:0x1c0e17303c174743",
+    "name": "4 EON Inc",
+    "category": "Marketing agency",
+    "address": "60 Hudson St #1809, New York, NY 10013",
+    "phone": "(212) 913-9596",
+    "website": "http://www.4eon.net/",
+    "rating": 3,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7177206,
+      "lng": -74.00867629999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2021578778669958979",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:08.044Z"
+  },
+  {
+    "place_id": "0x89c25a21fc508b25:0x4cfa91cb2194f002",
+    "name": "Novità Communications",
+    "category": "Marketing agency",
+    "address": "277 Broadway, New York, NY 10007",
+    "phone": "(212) 528-3160",
+    "website": "http://novitapr.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "9 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.714442999999996,
+      "lng": -74.00645089999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5546906192687984642",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "rosalind@novitapr.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "rosalind@novitapr.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "chris@novitapr.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "danielle@novitapr.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "joseph@novitapr.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "alexandra@novitapr.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:08.081Z"
+  },
+  {
+    "place_id": "0x89c25a18157c4c95:0xc1017b73bb37cfd2",
+    "name": "Roswell NYC",
+    "category": "Marketing agency",
+    "address": "115 Broadway 5th floor, New York, NY 10006",
+    "phone": "(212) 227-6140",
+    "website": "https://roswell.nyc/",
+    "rating": 3.4,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.7088245,
+      "lng": -74.0112487
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13907532861289254866",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:08.190Z"
+  },
+  {
+    "place_id": "0x89c25b99a395df03:0x2fee18c59faeb4e8",
+    "name": "Lighthouse Creative",
+    "category": "Marketing agency",
+    "address": "35 Great Jones St, New York, NY 10012",
+    "phone": "(718) 989-1749",
+    "website": "http://www.lhchq.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.726665499999996,
+      "lng": -73.99318319999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3453725201306399976",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "hello@lhchq.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@lhchq.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:08.218Z"
+  },
+  {
+    "place_id": "0x89c25b1ad3f54fa5:0x7e262a1089ccfff8",
+    "name": "Rubik Marketing",
+    "category": "Marketing agency",
+    "address": "133 Beekman St, New York, NY 10038",
+    "phone": "(213) 446-0615",
+    "website": "http://www.rubikmarketing.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.707239099999995,
+      "lng": -74.0029742
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9089999148413681656",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "hello@rubikmarketing.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@rubikmarketing.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:08.417Z"
+  },
+  {
+    "place_id": "0x89c259b009143a49:0xe96d644240de602b",
+    "name": "ustwo New York",
+    "category": "Design agency",
+    "address": "20 Jay St, Brooklyn, NY 11201",
+    "phone": "(646) 598-8629",
+    "website": "https://ustwo.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7040297,
+      "lng": -73.9867893
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16820210419017605163",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:08.463Z"
+  },
+  {
+    "place_id": "0x89c24570d14585ed:0x2f582e814a0821b9",
+    "name": "Blorax - Digital Marketing, Paid Advertising, SEO, eCommerce and Corporate Website Development in Brooklyn",
+    "category": "Marketing agency",
+    "address": "44 Brighton 3rd Ct, Brooklyn, NY 11235",
+    "phone": "(347) 977-5021",
+    "website": "https://blorax.com/en/request/?utm_source=map&utm_medium=google&utm_campaign=gmb-map",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.5801805,
+      "lng": -73.965064
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3411527850560856505",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:08.518Z"
+  },
+  {
+    "place_id": "0x89c27e2702668ddf:0xf381e411aa2ed85e",
+    "name": "Thump Local, LLC",
+    "category": "Internet marketing service",
+    "address": "95 Rockaway Ave, Valley Stream, NY 11580",
+    "phone": "(855) 848-6748",
+    "website": "http://www.thumplocal.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.663162,
+      "lng": -73.69846799999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17546556387732936798",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:20.544Z"
+  },
+  {
+    "place_id": "0x89c25b951940ba4d:0xb10157f100121a67",
+    "name": "IG PPC",
+    "category": "Marketing agency",
+    "address": "18 Spencer St, Brooklyn, NY 11205",
+    "phone": "(718) 400-8772",
+    "website": "http://igppc.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6985905,
+      "lng": -73.9560899
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12754572312289876583",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:20.584Z"
+  },
+  {
+    "place_id": "0x89c25a57e199fad9:0x3098ccf4647f4e2",
+    "name": "BIB Media",
+    "category": "Media company",
+    "address": "68 35th St, Brooklyn, NY 11232",
+    "phone": "(718) 905-8490",
+    "website": "http://www.bibmedia.tv/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.656601599999995,
+      "lng": -74.0069938
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=218860878769419490",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "staff@bibmedia.tv",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "staff@bibmedia.tv",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:25.804Z"
+  },
+  {
+    "place_id": "0x89c25b8599d00547:0x3f7cf16daa681702",
+    "name": "Shinda Management Kingston Heights",
+    "category": "Property management company",
+    "address": "280 Herkimer St, Brooklyn, NY 11216",
+    "phone": "(718) 778-1820",
+    "rating": 3.8,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6789998,
+      "lng": -73.944321
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4574796774814258946",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:25.867Z"
+  },
+  {
+    "place_id": "0x89c25b6368388c17:0x4790b8ef0883003b",
+    "name": "Food Service Partners of Ny",
+    "category": "Food",
+    "address": "599 Kingston Ave, Brooklyn, NY 11203",
+    "phone": "(718) 363-7202",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6589646,
+      "lng": -73.9419697
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5156824910118715451",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:25.890Z"
+  },
+  {
+    "place_id": "0x89c25b83cc9c07a3:0x697dc32637f650e2",
+    "name": "Bruce Jones SEO",
+    "category": "Internet marketing service",
+    "phone": "(312) 761-5550",
+    "website": "https://brucejonesseo.com/brooklyn-seo/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.6452314,
+      "lng": -73.94483559999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7601446314986328290",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:25.931Z"
+  },
+  {
+    "place_id": "0x89c25b863e4e72d9:0xa60275b277ced8c0",
+    "name": "Surad Realty Corporation",
+    "category": "Property management company",
+    "address": "400 Herkimer St, Brooklyn, NY 11213",
+    "phone": "(718) 773-7070",
+    "rating": 2.6,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6787859,
+      "lng": -73.9402664
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11962252969624131776",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:25.950Z"
+  },
+  {
+    "place_id": "0x89c25b9062279cf5:0x490d75c2c88f1887",
+    "name": "Niu",
+    "category": "Graphic designer",
+    "address": "132 Hancock St, Brooklyn, NY 11216",
+    "phone": "(312) 952-6571",
+    "website": "http://madebyniu.com/about/",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.682211099999996,
+      "lng": -73.9505483
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5263993018914904199",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "studio@madebyniu.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "studio@madebyniu.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:26.018Z"
+  },
+  {
+    "place_id": "0x89c25bab067f5689:0x76daf5b49e100be1",
+    "name": "AdsMain Advertising Agency",
+    "category": "Marketing agency",
+    "address": "1072 Bedford Ave, PMB107, Brooklyn, NY 11216",
+    "phone": "(347) 560-5060",
+    "website": "http://www.adsmain.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6881834,
+      "lng": -73.95512169999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8564427797493189601",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "email": "vladtroy@adsmain.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "vladtroy@adsmain.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "andrewrush@adsmain.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "maxbosack@adsmain.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "dariabarda@adsmain.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "nastya@adsmain.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:26.075Z"
+  },
+  {
+    "place_id": "0x89c25ea638d8fa01:0x6e5527f9165be475",
+    "name": "Vali Industries Inc",
+    "category": "Electrician",
+    "address": "90 Scott Ave, Brooklyn, NY 11237",
+    "phone": "(718) 821-5555",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7105086,
+      "lng": -73.922873
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7950304667967939701",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:26.138Z"
+  },
+  {
+    "place_id": "0x89c25bc6ccf34ded:0x111aa3bb954d240",
+    "name": "Pear NYC",
+    "category": "Real estate agency",
+    "address": "1100 Bedford Ave, Brooklyn, NY 11216",
+    "phone": "(929) 209-2223",
+    "website": "http://www.pearnyc.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "11 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.687075799999995,
+      "lng": -73.954804
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=77029842131145280",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:28.386Z"
+  },
+  {
+    "place_id": "0x89c25b8fb203f8b7:0xd58e0070606ee699",
+    "name": "HUMAN NATURE",
+    "category": "Marketing agency",
+    "phone": "(310) 846-1156",
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15388237459425781401",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:28.399Z"
+  },
+  {
+    "place_id": "0x89c25bd9a801725b:0x4902dce28ad78987",
+    "name": "BrooklynLocalMarketing",
+    "category": "Business management consultant",
+    "address": "86 Monroe St, Brooklyn, NY 11216",
+    "phone": "(347) 413-8410",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.684686,
+      "lng": -73.95584339999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5261010180272261511",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:28.417Z"
+  },
+  {
+    "place_id": "0x89c25b5b2fd712f3:0xc0bed2cc795e14d6",
+    "name": "The Factory Boutique",
+    "category": "Graphic designer",
+    "phone": "(347) 365-5273",
+    "website": "https://www.thefactoryb.com/",
+    "rating": 4.4,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13888770076508558550",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:28.431Z"
+  },
+  {
+    "place_id": "0x89c25c03c4b0dff3:0xbfecc65cd13fc80f",
+    "name": "4 Star Import Distribution",
+    "category": "Food products supplier",
+    "address": "1075 Flushing Ave, Brooklyn, NY 11237",
+    "phone": "(718) 366-6580",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.704678099999995,
+      "lng": -73.9294367
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13829646657697859599",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:28.518Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 200,
+    "places_charged": 83,
+    "places_skipped_closed": 0,
+    "places_no_email": 114,
+    "total_emails_verified": 133,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T07:36:31.899Z",
+    "requests": 313,
+    "delivered": 83,
+    "est_spend_usd": 0.2504,
+    "est_revenue_usd": 0.664,
+    "profit_guard_tripped": true
+  },
+  {
+    "_type": "info",
+    "delivered": 83,
+    "message": "83 leads delivered. This row is informational — it is never billed.",
+    "schedule_tip": "Want this refreshed automatically? Apify Console -> this Actor -> Schedules -> Add schedule -> pick how often (e.g. daily) -> Save. It reruns with the same input on autopilot, no code required.",
+    "review_tip": "Found this useful? A quick Store review helps other buyers find it: https://apify.com/themineworks/maps-leads#reviews",
+    "scraped_at": "2026-09-22T07:36:32.438Z"
+  }
+]

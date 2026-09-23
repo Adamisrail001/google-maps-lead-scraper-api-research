@@ -1,0 +1,379 @@
+[
+  {
+    "place_id": "0x80c29b67230b73e5:0x7c6b1eeb80f10afd",
+    "name": "Melleka Marketing - A Digital Marketing Agency",
+    "category": "Marketing agency",
+    "address": "7141 Valjean Ave Second Floor, Van Nuys, CA 91406",
+    "phone": "(818) 599-2696",
+    "website": "https://www.melleka.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.200473699999996,
+      "lng": -118.48624029999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8965293480040532733",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:14.243Z"
+  },
+  {
+    "place_id": "0x80c2be3e331539cd:0x13c44ee088ffda49",
+    "name": "Sunny Creative",
+    "category": "Marketing agency",
+    "address": "14753 Oxnard St, Van Nuys, CA 91411",
+    "phone": "(818) 913-6740",
+    "website": "http://sunnycreative.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "7:30 AM–7:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.1795301,
+      "lng": -118.4547712
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1424350108434029129",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:14.440Z"
+  },
+  {
+    "place_id": "0x80c297f2d0daedc9:0xcdcc6fa1f48f4d7a",
+    "name": "Platinum Web Studio",
+    "category": "Marketing agency",
+    "address": "6666 Sepulveda Blvd APT 204, Van Nuys, CA 91411",
+    "phone": "(424) 600-9191",
+    "website": "https://platinumwebstudio.com/van-nuys-marketing-agency",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.191904199999996,
+      "lng": -118.4654101
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14829350414407650682",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:14.485Z"
+  },
+  {
+    "place_id": "0x80c2970c4526f361:0xd364e7969e8d7def",
+    "name": "Inbound Real Estate Marketing",
+    "category": "Internet marketing service",
+    "address": "6268 Lemona Ave, Van Nuys, CA 91411",
+    "phone": "(818) 274-9245",
+    "website": "https://www.inboundrem.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.184525199999996,
+      "lng": -118.4593599
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15232554473765043695",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:14.639Z"
+  },
+  {
+    "place_id": "0x80c297c38b58127f:0x66afbdc1d0968832",
+    "name": "TurboAgency - A Melleka Marketing Company",
+    "category": "Market researcher",
+    "address": "7141 Valjean Ave #201, Van Nuys, CA 91406",
+    "phone": "(818) 599-2696",
+    "website": "https://turboagency.io/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.2004777,
+      "lng": -118.48627909999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7399341352918878258",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:14.684Z"
+  },
+  {
+    "place_id": "0x80c299193c508cd5:0xf12a93ef3d6a9357",
+    "name": "Marketing Audit Agency",
+    "category": "Marketing agency",
+    "address": "6747 Odessa Ave #202, Van Nuys, CA 91406",
+    "phone": "(310) 560-9782",
+    "website": "https://marketingaudit.agency/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.193253299999995,
+      "lng": -118.4906178
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17377864767899341655",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:14.782Z"
+  },
+  {
+    "place_id": "0x80c29789eb4f443b:0x3daae6d5bc769bd",
+    "name": "365 Digital Agency",
+    "category": "Marketing agency",
+    "address": "16133 Ventura Blvd, Encino, CA 91436",
+    "phone": "(323) 364-4614",
+    "website": "https://365digitalagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8:30 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.15685,
+      "lng": -118.484978
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=277726111751170493",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:14.816Z"
+  },
+  {
+    "place_id": "0x80c2b93fa1a94a21:0x29752e168a5dd282",
+    "name": "A Very Good Agency",
+    "category": "Marketing agency",
+    "address": "15757 Stagg St, Van Nuys, CA 91406",
+    "phone": "(747) 264-1413",
+    "website": "http://www.averygoodagency.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.212845099999996,
+      "lng": -118.4768788
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2987344602175754882",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:14.947Z"
+  },
+  {
+    "place_id": "0x80c297bc7cbc6b01:0xc5b58324fc4ef5db",
+    "name": "Marketing 4 Real Results",
+    "category": "Marketing agency",
+    "address": "14900 Magnolia Blvd #57234, Sherman Oaks, CA 91413",
+    "phone": "(818) 824-4479",
+    "website": "https://www.m4rr.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.1643036,
+      "lng": -118.45802649999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14246437191131526619",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:21.041Z"
+  },
+  {
+    "place_id": "0x80c2966ba5e2c67d:0x6d3a98588923f5b9",
+    "name": "Falcon Marketing Advertising & SEO",
+    "category": "Marketing agency",
+    "address": "6442 Coldwater Canyon Ave #200, Valley Glen, CA 91606",
+    "phone": "(323) 613-2773",
+    "website": "http://www.falconmarketing.com/?utm_campaign=gmb",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.188175799999996,
+      "lng": -118.4133021
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7870770804808742329",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:21.140Z"
+  },
+  {
+    "place_id": "0x80c2970c171476cb:0xbab8dd6e0387a22",
+    "name": "A&N Marketing",
+    "category": "Marketing agency",
+    "address": "13746 Victory Blvd, Van Nuys, CA 91401",
+    "phone": "(800) 790-9612",
+    "website": "https://anmarketinginc.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.186391799999996,
+      "lng": -118.43273749999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=840921709459044898",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:21.165Z"
+  },
+  {
+    "place_id": "0x80c29705f509f70d:0x4a6ce6721cf65ad",
+    "name": "GC Creative Designs",
+    "category": "Marketing agency",
+    "phone": "(352) 232-1949",
+    "website": "https://www.gccreativedesigns.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.6892034,
+      "lng": -84.02539639999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=335182164629874093",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:21.240Z"
+  },
+  {
+    "place_id": "0x80c2ba94345f4ea3:0x4bdd27c00fe7bbbc",
+    "name": "Rosewood Creative",
+    "category": "Marketing agency",
+    "address": "16217 Kittridge St, Van Nuys, CA 91406",
+    "phone": "(310) 873-3366",
+    "website": "http://www.rosewoodcreative.com/",
+    "rating": 3,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.1904335,
+      "lng": -118.4865257
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5466569228551699388",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:21.279Z"
+  },
+  {
+    "place_id": "0x80c29738e30ab673:0xd86a64f4e595ba86",
+    "name": "Targetiva Digital Marketing Agency",
+    "category": "Marketing agency",
+    "phone": "(786) 408-8600",
+    "website": "https://www.targetiva.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.706084499999996,
+      "lng": -98.129747
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15594387662710356614",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:21.439Z"
+  },
+  {
+    "place_id": "0x80c297d29c4d0bdf:0xde76b430f2006c5b",
+    "name": "JGV Studios",
+    "category": "Marketing agency",
+    "phone": "(213) 799-5918",
+    "website": "https://jgvstudios.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16030198045983403099",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:21.647Z"
+  },
+  {
+    "place_id": "0xab25289837e286af:0xca73f8f4a3ee4c91",
+    "name": "SEO for California Lawfirms",
+    "category": "Marketing agency",
+    "website": "https://californialawfirmseo.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 37.269505599999995,
+      "lng": -119.306607
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14588277347589180561",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:21.845Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 20,
+    "places_charged": 0,
+    "places_skipped_closed": 0,
+    "places_no_email": 16,
+    "total_emails_verified": 0,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T07:33:21.974Z",
+    "requests": 26,
+    "delivered": 0,
+    "est_spend_usd": 0.0208,
+    "est_revenue_usd": 0,
+    "profit_guard_tripped": true
+  }
+]

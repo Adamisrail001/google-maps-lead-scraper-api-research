@@ -1,0 +1,5002 @@
+[
+  {
+    "place_id": "0x80c2bb9e4ddacb31:0xe5ed90ff82724072",
+    "name": "Tower 25 Digital Marketing Agency - Los Angeles",
+    "category": "Marketing agency",
+    "address": "2219 A Main St, Santa Monica, CA 90405",
+    "phone": "(310) 807-6823",
+    "website": "https://tower25.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0052427,
+      "lng": -118.48633249999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16568058031245508722",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:52.269Z"
+  },
+  {
+    "place_id": "0x87227a9625cdca23:0xa12a725ac29d27e3",
+    "name": "Seo Company Santa Monica",
+    "category": "Marketing agency",
+    "address": "202 Bicknell Ave, Santa Monica, CA 90405",
+    "phone": "(424) 230-3542",
+    "website": "https://www.seocompanysantamonica.com/seo/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0064352,
+      "lng": -118.4877877
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11613220323265947619",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "admin@seocompanysantamonica.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "admin@seocompanysantamonica.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:52.348Z"
+  },
+  {
+    "place_id": "0x80c2bb00f11c963f:0xe1f9ee68b97a9de2",
+    "name": "Storm Brain",
+    "category": "Marketing agency",
+    "address": "2450 Colorado Ave Ste 200, Santa Monica, CA 90404",
+    "phone": "(619) 618-0344",
+    "website": "https://stormbrain.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0292044,
+      "lng": -118.47222439999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16283308061290569186",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:52.470Z"
+  },
+  {
+    "place_id": "0x80c2a4d3b0b78c35:0x70e03cf01db1ab0",
+    "name": "Hawke Media",
+    "category": "Marketing agency",
+    "address": "2415 Michigan Ave, Santa Monica, CA 90404",
+    "phone": "(310) 451-7295",
+    "website": "https://hawkemedia.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0268908,
+      "lng": -118.4693338
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=508347995563694768",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:52.496Z"
+  },
+  {
+    "place_id": "0x80c2bb7776779e8b:0xb13c3f156c0e1527",
+    "name": "Branding Los Angeles",
+    "category": "Marketing agency",
+    "address": "2462 Overland Ave, Los Angeles, CA 90064",
+    "phone": "(310) 479-6444",
+    "website": "https://brandinglosangeles.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0408843,
+      "lng": -118.42386139999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12771152004555609383",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:52.552Z"
+  },
+  {
+    "place_id": "0x80c2a4d0383f079b:0x75cda04053670868",
+    "name": "Advertise Purple - Affiliate Management Agency",
+    "category": "Marketing agency",
+    "address": "2200 Michigan Ave, Santa Monica, CA 90404",
+    "phone": "(424) 272-7400",
+    "website": "https://www.advertisepurple.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "9 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.024658099999996,
+      "lng": -118.47115129999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8488617070800865384",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:52.631Z"
+  },
+  {
+    "place_id": "0x80c2a56e34fcc887:0x9fda6a9a82c47df0",
+    "name": "CMMAD | Creative Media - Marketing & Advertising",
+    "category": "Marketing agency",
+    "address": "100 Wilshire Blvd, Santa Monica, CA 90401",
+    "phone": "(440) 638-5597",
+    "website": "http://www.cmmad.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0168418,
+      "lng": -118.5006119
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11518636208804888048",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:52.674Z"
+  },
+  {
+    "place_id": "0x80c2bbaa73aa7d05:0x5de46a5b5c6ecc35",
+    "name": "Clever Creative",
+    "category": "Marketing agency",
+    "address": "2665 30th St Ste 209, Santa Monica, CA 90405",
+    "website": "https://www.clevercreative.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0204403,
+      "lng": -118.4539202
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6765649480842660917",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "hello@clevercreative.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@clevercreative.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:52.722Z"
+  },
+  {
+    "place_id": "0x80c2a5c60c0cc8f3:0xcb5cae1513e9dbd2",
+    "name": "Pay Per Lead Marketing Agency",
+    "category": "Advertising agency",
+    "address": "1334 3rd Street Promenade, Santa Monica, CA 90401",
+    "website": "https://www.payperlead.com/santa-monica-california",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0162268,
+      "lng": -118.4969799
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14653778693108390866",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:55.405Z"
+  },
+  {
+    "place_id": "0x80c2bb674c9cd981:0x84b14a97608c3063",
+    "name": "Canesta Digital Marketing",
+    "category": "Marketing agency",
+    "address": "11755 Wilshire Blvd 11th floor, Los Angeles, CA 90025",
+    "phone": "(213) 325-6603",
+    "website": "https://www.canesta.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.048875599999995,
+      "lng": -118.4620338
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9561505497904590947",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@canesta.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@canesta.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:55.435Z"
+  },
+  {
+    "place_id": "0x80c2bb385ddd2b45:0x56ad3ef8ca09602c",
+    "name": "RPA",
+    "category": "Marketing agency",
+    "address": "2525 Colorado Ave #100, Santa Monica, CA 90404",
+    "phone": "(310) 394-4000",
+    "website": "https://www.rpa.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "8:30 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0305548,
+      "lng": -118.47234069999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6245717496495169580",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "business@rpa.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "business@rpa.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "press@rpa.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "jobs@rpa.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "hello@rpa.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:55.514Z"
+  },
+  {
+    "place_id": "0x80c2a505f5dc2e4b:0x7a888f09778ee50",
+    "name": "IMPRiNT Digital Agency",
+    "category": "Marketing agency",
+    "address": "2218 Main St, Santa Monica, CA 90405",
+    "website": "http://www.imprint.la/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.005034699999996,
+      "lng": -118.48720859999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=551841521267699280",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "sales@imprint.la",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@imprint.la",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "hello@imprint.la",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:55.587Z"
+  },
+  {
+    "place_id": "0x80c2bad76df9ec23:0xd1ad3724153c84df",
+    "name": "Brandefy Video Production Los Angeles",
+    "category": "Marketing agency",
+    "address": "1902A Lincoln Blvd #406, Santa Monica, CA 90405",
+    "phone": "(424) 835-0405",
+    "website": "https://brandefy.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0117809,
+      "lng": -118.4835751
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15108792953012520159",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "contact@brandefy.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@brandefy.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:55.686Z"
+  },
+  {
+    "place_id": "0x80c2bb32897f41f5:0xb1e40ad1c1715a0c",
+    "name": "RadicalMedia",
+    "category": "Media company",
+    "address": "1630 12th St, Santa Monica, CA 90404",
+    "phone": "(310) 664-4500",
+    "website": "http://www.radicalmedia.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0190604,
+      "lng": -118.4839391
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12818382335413148172",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "newbusiness@radicalmedia.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "newbusiness@radicalmedia.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "nyc@radicalmedia.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "la@radicalmedia.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "london@radicalmedia.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "berlin@radicalmedia.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:55.780Z"
+  },
+  {
+    "place_id": "0x80c2bb4bc103124b:0xde3eb5e71cf10fb0",
+    "name": "Direct to Door Marketing",
+    "category": "Marketing agency",
+    "address": "2118 Wilshire Blvd #232, Santa Monica, CA 90403",
+    "phone": "(866) 643-4037",
+    "website": "https://www.doorhangerswork.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "6 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0323655,
+      "lng": -118.48164659999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16014437329203695536",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@doorhangerswork.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@doorhangerswork.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:55.882Z"
+  },
+  {
+    "place_id": "0x80c2ba2eb80bdcf7:0x547cab2773301ad9",
+    "name": "I Mean It Creative Los Angeles",
+    "category": "Advertising agency",
+    "address": "607 26th St, Santa Monica, CA 90402",
+    "phone": "(310) 200-0007",
+    "website": "https://www.imeanit.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0425734,
+      "lng": -118.48470859999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6087928982222674649",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:55.980Z"
+  },
+  {
+    "place_id": "0x80c2a50dd227806d:0xda24d04fd009d383",
+    "name": "Merchynt",
+    "category": "Software company",
+    "address": "150 Ocean Park Blvd, Santa Monica, CA 90405",
+    "phone": "(323) 212-5327",
+    "website": "https://www.merchynt.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0013006,
+      "lng": -118.4850137
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15718917640641172355",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "support@merchynt.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "support@merchynt.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "hello@merchynt.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:59.300Z"
+  },
+  {
+    "place_id": "0x80c2a4c57fd73baf:0x8cae34323e7821d4",
+    "name": "Agency 2.0",
+    "category": "Marketing agency",
+    "address": "225 Arizona Ave, Santa Monica, CA 90401",
+    "phone": "(310) 461-0838",
+    "website": "https://www.agency20.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0214049,
+      "lng": -118.5015512
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10137097201658634708",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "jc@agency20.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "jc@agency20.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "hello@agency20.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:59.387Z"
+  },
+  {
+    "place_id": "0x80c2a5d7a03406c9:0xedd9cdca496dcc7c",
+    "name": "Lemonade ideas",
+    "category": "Marketing agency",
+    "address": "209 21st Pl, Santa Monica, CA 90402",
+    "phone": "(800) 208-1068",
+    "website": "https://www.lemonadeideas.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0452657,
+      "lng": -118.4961895
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17138956125634153596",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "marketing@lemonadeideas.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "marketing@lemonadeideas.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:59.486Z"
+  },
+  {
+    "place_id": "0x80c2bb7e045263b1:0xcb1385261dbe98e5",
+    "name": "HawkSEM",
+    "category": "Marketing agency",
+    "address": "10940 Wilshire Blvd, Los Angeles, CA 90024",
+    "phone": "(800) 316-2220",
+    "website": "https://hawksem.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0581719,
+      "lng": -118.44507809999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14633186013011155173",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:59.580Z"
+  },
+  {
+    "place_id": "0x80c2b953ce4bdf79:0x737411c4efd67048",
+    "name": "Mad Mind Studios",
+    "category": "Marketing agency",
+    "address": "322 Culver Blvd Ste 240, Playa Del Rey, CA 90293",
+    "phone": "(310) 402-1613",
+    "website": "https://madmindstudios.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 33.9597992,
+      "lng": -118.44699709999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8319293949195219016",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@madmindstudios.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@madmindstudios.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:13.298Z"
+  },
+  {
+    "place_id": "0x80c2c3428fab1ebd:0x8f34ceb6aac98ce0",
+    "name": "Dēclick Agency",
+    "category": "Marketing agency",
+    "address": "2700 Neilson Wy, Santa Monica, CA 90405",
+    "website": "http://declickagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.000279,
+      "lng": -118.4835679
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10319099930157354208",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:13.366Z"
+  },
+  {
+    "place_id": "0x80c2bf2058efec9f:0x4a768b9eebadfef2",
+    "name": "Just Digital Inc.",
+    "category": "Marketing agency",
+    "address": "10250 Constellation Blvd #2300, Los Angeles, CA 90067",
+    "phone": "(424) 210-7128",
+    "website": "http://justdigitalinc.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0571801,
+      "lng": -118.4175088
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5365629520733667058",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@justdigitalinc.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@justdigitalinc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:13.396Z"
+  },
+  {
+    "place_id": "0x876bee832459c3ef:0x73d7068dbd042b99",
+    "name": "Front & Center Marketing",
+    "category": "Marketing consultant",
+    "address": "1639 11th St, Santa Monica, CA 90404",
+    "phone": "(855) 524-0060",
+    "website": "http://www.front-centermarketing.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0185402,
+      "lng": -118.4842522
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8347147640185826201",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:13.480Z"
+  },
+  {
+    "place_id": "0x80c2b9665f9aa20f:0x1d0cf42f934d598f",
+    "name": "IOI Solutions - Automotive Marketing Agency",
+    "category": "Marketing agency",
+    "address": "2219 Main St, Santa Monica, CA 90405",
+    "phone": "(866) 521-3350",
+    "website": "https://ioisolutions.com/?utm_campaign=gmb",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0051291,
+      "lng": -118.4864478
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2093316411992398223",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "rfp@ioisolutions.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "rfp@ioisolutions.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "sales@ioisolutions.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "careers@ioisolutions.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:13.508Z"
+  },
+  {
+    "place_id": "0x80c2bb6d4cb9bbe9:0x66b3f4e959b6cc2c",
+    "name": "Eclipse Marketing - Los Angeles SEO Agency",
+    "category": "Internet marketing service",
+    "address": "10250 Constellation Blvd #2300, Los Angeles, CA 90067",
+    "phone": "(213) 645-2282",
+    "website": "https://eclipsemarketing.io/los-angeles-ca-seo-agency/?utm_campaign=gmb",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "6 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.0571801,
+      "lng": -118.4175088
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7400527895769566252",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@eclmedia.agency",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@eclmedia.agency",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:13.601Z"
+  },
+  {
+    "place_id": "0x80c29831aedbd8e3:0xfc07ce753cf599d2",
+    "name": "Cat 'n Mouse, LLC",
+    "category": "Marketing agency",
+    "address": "730 Arizona Ave Ste 340, Santa Monica, CA 90401",
+    "phone": "(818) 391-8264",
+    "website": "http://www.catnmousepromo.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0204668,
+      "lng": -118.49289519999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18160711025324038610",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "connect@catnmouselive.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "connect@catnmouselive.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "example@mysite.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "8c4075d5481d476e945486754f783364@sentry.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:13.778Z"
+  },
+  {
+    "place_id": "0x80c2bb850a646a55:0x3200b9e1781bcb9a",
+    "name": "405 Ads SEO Los Angeles",
+    "category": "Internet marketing service",
+    "address": "10576 Eastborne Ave, Los Angeles, CA 90024",
+    "phone": "(877) 496-2256",
+    "website": "https://405ads.com/seo-los-angeles/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.054638499999996,
+      "lng": -118.4296713
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3603084079930264474",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:13.911Z"
+  },
+  {
+    "place_id": "0x80c2bb327e66f49f:0x950b942dae46b9a9",
+    "name": "I Ain't Your Momma Web Design & SEO",
+    "category": "Marketing agency",
+    "address": "1544 Princeton St, Santa Monica, CA 90404",
+    "phone": "(424) 645-7716",
+    "website": "https://iaintyourmomma.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0315863,
+      "lng": -118.4710379
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10739840660313389481",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "michelle@iaintyourmomma.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "michelle@iaintyourmomma.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:24.423Z"
+  },
+  {
+    "place_id": "0x89b657944a50d531:0x9459953391a8eb0f",
+    "name": "The True Marketing Agency",
+    "category": "Marketing agency",
+    "address": "6677 Santa Monica Blvd, Los Angeles, CA 90038",
+    "phone": "(866) 970-3567",
+    "website": "http://thetruemarketingagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.091073,
+      "lng": -118.33595729999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10689739239260220175",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "contact@thetruemarketingagency.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@thetruemarketingagency.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:24.482Z"
+  },
+  {
+    "place_id": "0x80c2bba1a4db6099:0x9347357867aadfe1",
+    "name": "PurpleZ Marketing Agency",
+    "category": "Marketing agency",
+    "address": "11601 Wilshire Blvd 5th Floor, Los Angeles, CA 90025",
+    "phone": "(800) 213-7303",
+    "website": "https://purplez.com/?utm_medium=LA_organic&utm_source=business-profile&utm_campaign=website-link",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0509694,
+      "lng": -118.4599885
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10612509838173462497",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@purplez.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@purplez.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:24.563Z"
+  },
+  {
+    "place_id": "0x80c2bb69ddbe08d9:0x29d127570a23d798",
+    "name": "The Miller Group",
+    "category": "Advertising agency",
+    "address": "1515 Palisades Dr Ste B4, Pacific Palisades, CA 90272",
+    "phone": "(310) 442-0101",
+    "website": "https://millergroup.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0762368,
+      "lng": -118.56550469999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3013232880473331608",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "renee@millergroupmarketing.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "renee@millergroupmarketing.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:24.620Z"
+  },
+  {
+    "place_id": "0x80c2bb8b4a225ccf:0xab01e00d3a0c8103",
+    "name": "Quaintise - Healthcare Marketing Agency",
+    "category": "Marketing agency",
+    "address": "1902 Lincoln Blvd Ste A-850, Santa Monica, CA 90405",
+    "phone": "(310) 758-4970",
+    "website": "https://quaintise.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0117695,
+      "lng": -118.4835907
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12322376402875482371",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@quaintise.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@quaintise.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:24.744Z"
+  },
+  {
+    "place_id": "0x80c2bbf18627a5a1:0x674cccedbf059373",
+    "name": "I Think An Idea",
+    "category": "Internet marketing service",
+    "address": "2425 Olympic Blvd #4000w, Santa Monica, CA 90404",
+    "phone": "(888) 240-0606",
+    "website": "https://www.ithinkanidea.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0281395,
+      "lng": -118.47120439999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7443549605620716403",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:24.834Z"
+  },
+  {
+    "place_id": "0x8c85ae0b4263a6fd:0xd0297d6bb983eb6c",
+    "name": "The Freeman Agency",
+    "category": "Marketing agency",
+    "phone": "(844) 724-3629",
+    "website": "http://thefreeman.agency/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14999657935561550700",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "timm@thefreeman.agency",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "timm@thefreeman.agency",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:24.908Z"
+  },
+  {
+    "place_id": "0x80c2a599dc53cbb7:0x1422afff56e1a894",
+    "name": "Digital Marketing 1on1 SEO Santa Monica",
+    "category": "Internet marketing service",
+    "address": "1351 3rd Street Promenade, Santa Monica, CA 90401",
+    "phone": "(818) 538-4805",
+    "website": "https://www.marketing1on1.com/digital-marketing-seo-santa-monica/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.016006499999996,
+      "lng": -118.49618459999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1450915541175871636",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:24.983Z"
+  },
+  {
+    "place_id": "0x880cd7751bbbffff:0xbc374f04d71a8840",
+    "name": "SPICY TRIBE | Advertising Agency | 종합 광고 대행사 ATL & BTL | 온라인 마케팅 및 전시/행사 전문",
+    "category": "Marketing agency",
+    "address": "3060 W Olympic Blvd #722, Los Angeles, CA 90006",
+    "phone": "(224) 875-0441",
+    "website": "http://www.spicytribe.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.052143199999996,
+      "lng": -118.3026106
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13562395685056841792",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "hi@spicytribe.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "hi@spicytribe.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:30.930Z"
+  },
+  {
+    "place_id": "0x80c2bb0fdb1f52c9:0x9a2d9cc75682927b",
+    "name": "ZGMAD (ZG Marketing & Design)",
+    "category": "Marketing agency",
+    "address": "817 Pier Ave B, Santa Monica, CA 90405",
+    "phone": "(316) 992-1795",
+    "website": "http://zgmad.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0042192,
+      "lng": -118.4716859
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11109708235756704379",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "hi@zgmad.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "hi@zgmad.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:31.006Z"
+  },
+  {
+    "place_id": "0x80c2b09940bdad15:0x702304fa8f7c3019",
+    "name": "Deutsch",
+    "category": "Marketing agency",
+    "address": "12901 W Jefferson Blvd, Los Angeles, CA 90066",
+    "phone": "(310) 862-3000",
+    "website": "https://deutschla.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 33.976479,
+      "lng": -118.4215433
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8080307630628417561",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:31.117Z"
+  },
+  {
+    "place_id": "0x80c2a564d004dcdb:0xe9efd5cd7204e0ed",
+    "name": "Sunlight Media LLC | Web Design Santa Monica",
+    "category": "Marketing agency",
+    "address": "730 Arizona Ave 2nd Floor, Santa Monica, CA 90401",
+    "phone": "(323) 868-3581",
+    "website": "https://sunlightmedia.org/?utm_source=google&utm_medium=gmb&utm_campaign=gmb",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.020465,
+      "lng": -118.4928982
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16856927008628990189",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:39.065Z"
+  },
+  {
+    "place_id": "0x80c2bd8e0f36a833:0x59b8f7f0d67db5ad",
+    "name": "Digital Marketing 1on1 SEO Los Angeles",
+    "category": "Internet marketing service",
+    "address": "1100 Glendon Ave Fl 17, Los Angeles, CA 90024",
+    "phone": "(818) 538-4805",
+    "website": "https://www.marketing1on1.com/digital-marketing-seo-los-angeles/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0605878,
+      "lng": -118.4437986
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6465189878853121453",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:39.090Z"
+  },
+  {
+    "place_id": "0x80c2c7b157a3f7a3:0x1d4605f309bc3c2e",
+    "name": "Propeller Digital Marketing",
+    "category": "Marketing agency",
+    "address": "1541 Ocean Ave Ste 208, Santa Monica, CA 90401",
+    "phone": "(424) 249-9199",
+    "website": "https://propeller.marketing/?utm_source=google&utm_medium=organic&utm_campaign=LA&utm_term=1080",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0120493,
+      "lng": -118.49501289999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2109380016868178990",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "newbiz@propeller.marketing",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "newbiz@propeller.marketing",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:39.117Z"
+  },
+  {
+    "place_id": "0x80c2b09ab57164af:0x7bbbdefb2ac59c26",
+    "name": "Modern Practice | Award-Winning Digital Marketing Agency for Doctors",
+    "category": "Internet marketing service",
+    "address": "6060 Center Dr 10th Floor, Los Angeles, CA 90045",
+    "phone": "(310) 818-3030",
+    "website": "http://www.modernpractice.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 33.976024699999996,
+      "lng": -118.3909061
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8915965057645780006",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:39.180Z"
+  },
+  {
+    "place_id": "0x80c299826f956e8f:0xafb653da6a5ac0af",
+    "name": "Digital Spotlight",
+    "category": "Internet marketing service",
+    "address": "2450 Colorado Ave Suite 100E, Santa Monica, CA 90404",
+    "phone": "(310) 879-8003",
+    "website": "https://www.digitalspotlight.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0292457,
+      "lng": -118.4720476
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12661399599951036591",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:39.210Z"
+  },
+  {
+    "place_id": "0x80c2bb4ba0f1b6b5:0x3537e9f946206301",
+    "name": "Acento Advertising",
+    "category": "Advertising agency",
+    "address": "11400 W Olympic Blvd #1200, Los Angeles, CA 90064",
+    "phone": "(424) 238-4001",
+    "website": "https://acento.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0364158,
+      "lng": -118.4429534
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3834790864561922817",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:39.264Z"
+  },
+  {
+    "place_id": "0x80c2bbfe61556ac5:0x89f85f7bd9347997",
+    "name": "EZ Marketing Agency",
+    "category": "Internet marketing service",
+    "address": "8605 Santa Monica Blvd, West Hollywood, CA 90069",
+    "website": "https://ezmarketing.agency/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0880315,
+      "lng": -118.3794221
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9941801162950080919",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:39.297Z"
+  },
+  {
+    "place_id": "0x80c2ba87d77c8f09:0xc1b448bf07828fce",
+    "name": "True North Social",
+    "category": "Marketing agency",
+    "address": "5855 Green Valley Cir #109, Culver City, CA 90230",
+    "phone": "(310) 694-5655",
+    "website": "https://truenorthsocial.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 33.9835338,
+      "lng": -118.3885141
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13957861130429960142",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:39.330Z"
+  },
+  {
+    "place_id": "0x80c2bb339f1e9fb9:0xcec3a1685f533c41",
+    "name": "Mirrored Media",
+    "category": "Marketing agency",
+    "address": "1531 14th St, Santa Monica, CA 90404",
+    "phone": "(310) 881-6314",
+    "website": "http://www.mirroredmedia.com/",
+    "rating": 4.5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.022258799999996,
+      "lng": -118.4831425
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14898929461919693889",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@mirroredmedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@mirroredmedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:42.427Z"
+  },
+  {
+    "place_id": "0x80c2bbbe9abd9505:0x637b16e25f13aaf4",
+    "name": "Westside Agency LLC",
+    "category": "Marketing agency",
+    "address": "11740 San Vicente Blvd Ste 109 218, Los Angeles, CA 90049",
+    "phone": "(424) 218-6076",
+    "website": "https://www.westside.agency/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0528043,
+      "lng": -118.4669157
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7168348393403820788",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@westside.agency",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@westside.agency",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:42.481Z"
+  },
+  {
+    "place_id": "0x80c2a4d1dc6a29a5:0x7e738f9ddee3d0cd",
+    "name": "Make It Rain - SEO | PPC | Digital Marketing Company Santa Monica",
+    "category": "Internet marketing service",
+    "address": "1541 Ocean Ave Suite 200, Santa Monica, CA 90401",
+    "phone": "(310) 954-1445",
+    "website": "https://www.makeitrainusa.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0120232,
+      "lng": -118.49503279999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9111784379312754893",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:42.521Z"
+  },
+  {
+    "place_id": "0x80c2bb8f7aa07bb9:0x93a06a647bb982f1",
+    "name": "KPI Creatives - B2B Content Marketing & Growth Partner",
+    "category": "Marketing agency",
+    "address": "695 Santa Clara Ave, Venice, CA 90291",
+    "phone": "(747) 677-1203",
+    "website": "https://www.kpicreatives.com/?utm_source=gmb&utm_medium=organic",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 33.994040399999996,
+      "lng": -118.4639615
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10637619299654140657",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "hello@kpicreatives.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@kpicreatives.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:42.563Z"
+  },
+  {
+    "place_id": "0xbfeacff32c0b75b:0xa31854530bbb83e2",
+    "name": "Los Angeles AI SEO Agency - AlgoWithYou",
+    "category": "Marketing agency",
+    "phone": "(619) 787-1674",
+    "website": "https://algowithyou.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.916979999999995,
+      "lng": -116.78526459999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11752235943279166434",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "alana@algowithyou.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "alana@algowithyou.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:42.614Z"
+  },
+  {
+    "place_id": "0x80c2a578aac02c0f:0x24be93ee3fde5163",
+    "name": "TriangleClick - SEO | PPC | Santa Monica Digital marketing Agency",
+    "category": "Internet marketing service",
+    "address": "720 Wilshire Blvd #204, Santa Monica, CA 90401",
+    "website": "https://triangleclick.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0218055,
+      "lng": -118.4944707
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2647716282423464291",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "sales@triangleclick.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@triangleclick.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:42.663Z"
+  },
+  {
+    "place_id": "0x80c29c3f433a8d6f:0x7f7024dc52649eec",
+    "name": "COLAB | Digital Marketing Agency Los Angeles",
+    "category": "Internet marketing service",
+    "address": "21300 Victory Blvd #830, Woodland Hills, CA 91367",
+    "phone": "(855) 265-2252",
+    "website": "https://colablosangeles.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.1878263,
+      "lng": -118.5957718
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9182880168902172396",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:42.699Z"
+  },
+  {
+    "place_id": "0x80c2bbe228385275:0x5a61b2516bfc1aae",
+    "name": "MBC Strategic",
+    "category": "Marketing agency",
+    "address": "2444 Wilshire Blvd #280, Santa Monica, CA 90403",
+    "phone": "(310) 445-3333",
+    "website": "https://www.mbcstrategic.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0346532,
+      "lng": -118.4786374
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6512682598928226990",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "mbc@mbcstrategic.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "mbc@mbcstrategic.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:42.735Z"
+  },
+  {
+    "place_id": "0x80c2a4cdf88129fb:0x757fd5cd64245739",
+    "name": "Drive Traffic Media",
+    "category": "Marketing agency",
+    "address": "1541 Ocean Ave Suite 200, Santa Monica, CA 90401",
+    "phone": "(310) 341-3939",
+    "website": "https://www.drivetrafficmedia.net/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0120493,
+      "lng": -118.49501289999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8466720902604937017",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:46.154Z"
+  },
+  {
+    "place_id": "0x80c2bb1572a41141:0xd384fbbec1dd6b7c",
+    "name": "Beck Media & Marketing",
+    "category": "Public relations firm",
+    "address": "1832 Franklin St, Santa Monica, CA 90404",
+    "phone": "(310) 300-4800",
+    "website": "http://www.beckmedia.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.031745199999996,
+      "lng": -118.46187409999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15241583835643472764",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@beckmedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@beckmedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:46.172Z"
+  },
+  {
+    "place_id": "0x80c2bb44b3f1f687:0xc0fb45fe0da9b25b",
+    "name": "One Eighteen Advertising",
+    "category": "Marketing agency",
+    "address": "12304 Santa Monica Blvd #100, Los Angeles, CA 90025",
+    "phone": "(310) 442-0118",
+    "website": "https://www.oneeighteen.com/",
+    "rating": 1,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0390948,
+      "lng": -118.46531879999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13905785231889773147",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:01.104Z"
+  },
+  {
+    "place_id": "0x80c2bbc4e54c28e7:0x2055fcd6d37edade",
+    "name": "Momentum Marketing Co",
+    "category": "Marketing agency",
+    "address": "3017 Santa Monica Blvd Ste 301, Santa Monica, CA 90404",
+    "website": "http://momentum.marketing.co.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 34.036852599999996,
+      "lng": -118.47022779999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2330046381835606750",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:01.133Z"
+  },
+  {
+    "place_id": "0x67ed09972ac8d1f7:0xf5e4c8c7771b4995",
+    "name": "Buzz | Social Media Marketing",
+    "category": "Marketing agency",
+    "address": "120 Broadway, Santa Monica, CA 90404",
+    "website": "http://www.buzzsocialmediamarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0130147,
+      "lng": -118.49553309999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17718507593004698005",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:01.180Z"
+  },
+  {
+    "place_id": "0x80c2bb04ec512e0d:0x8cea828fee9ba6df",
+    "name": "L Marketing Group LLC",
+    "category": "Internet marketing service",
+    "address": "3435 Ocean Park Blvd #107, Santa Monica, CA 90405",
+    "phone": "(424) 224-4424",
+    "website": "http://l-marketing-group.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0230649,
+      "lng": -118.44931969999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10154071864555316959",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:01.212Z"
+  },
+  {
+    "place_id": "0x80c2bb691b200241:0x3677f53940e5656e",
+    "name": "Circle Marketing",
+    "category": "Marketing agency",
+    "address": "11870 Santa Monica Blvd, Los Angeles, CA 90025",
+    "phone": "(323) 639-3406",
+    "website": "http://circlemarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.041677199999995,
+      "lng": -118.45934179999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3924875226527393134",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:01.263Z"
+  },
+  {
+    "place_id": "0x80c2bac845088d79:0xec53d36fcdbd9d79",
+    "name": "Monks LA Abbot Kinney",
+    "category": "Marketing agency",
+    "address": "1214 Abbot Kinney Blvd, Venice, CA 90291",
+    "phone": "(310) 684-5404",
+    "website": "http://media.monks.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 33.9911187,
+      "lng": -118.4686265
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17029187093164563833",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:01.290Z"
+  },
+  {
+    "place_id": "0x80c2a58071e0e135:0xc405432cc2f9f66d",
+    "name": "Victory Lawyer Marketing",
+    "category": "Marketing agency",
+    "address": "1541 Ocean Ave #200a, Santa Monica, CA 90401",
+    "phone": "(949) 776-3665",
+    "website": "https://www.victorylawyermarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0120493,
+      "lng": -118.49501289999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14124769665846212205",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:01.313Z"
+  },
+  {
+    "place_id": "0x80c2a4cfdd9c475f:0x52308a2a99d60a37",
+    "name": "Blaze PR",
+    "category": "Public relations firm",
+    "address": "150 Horizon Ave, Venice, CA 90291",
+    "phone": "(310) 923-4366",
+    "website": "http://www.blazepr.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 33.9891503,
+      "lng": -118.4722678
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5922385425566403127",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "mkovacs@blazepr.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "mkovacs@blazepr.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:01.363Z"
+  },
+  {
+    "place_id": "0x4fe49de1850afeb:0xa73cfe61bcabee91",
+    "name": "Santa Monica Public Relations",
+    "category": "Public relations firm",
+    "address": "1639 11th St Ste B-218, Santa Monica, CA 90404",
+    "phone": "(310) 426-8264",
+    "website": "http://www.santamonicapublicrelations.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.018358299999996,
+      "lng": -118.4841644
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12050786398667271825",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:06.887Z"
+  },
+  {
+    "place_id": "0x80c2a4cdcf18fdf1:0x8145f0e499bb3817",
+    "name": "7 Marketing Media",
+    "category": "Consultant",
+    "address": "1431 7th St, Santa Monica, CA 90401",
+    "phone": "(281) 766-7701",
+    "website": "http://7marketingmedia.com/about-us2/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.018209,
+      "lng": -118.491259
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9315116268908132375",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:06.917Z"
+  },
+  {
+    "place_id": "0x80c2bba7b928f791:0xd28220f2aa5806f4",
+    "name": "Click Happy Santa Monica Web Design",
+    "category": "Marketing agency",
+    "address": "2450 Colorado Ave Suite 100E, Santa Monica, CA 90404",
+    "phone": "(310) 901-9426",
+    "website": "https://clickhappymarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.028971299999995,
+      "lng": -118.4723398
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15168722721549321972",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:06.963Z"
+  },
+  {
+    "place_id": "0x80c2bb7d08117847:0x7847a69d1cda2d71",
+    "name": "Digilign",
+    "category": "Marketing agency",
+    "address": "2219 Main St Unit 608, Santa Monica, CA 90405",
+    "phone": "(310) 421-2595",
+    "website": "http://digilign.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0052427,
+      "lng": -118.48633249999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8667079201621945713",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:06.996Z"
+  },
+  {
+    "place_id": "0x80c2bf205ed6e6e5:0x5285c70d4d007a32",
+    "name": "Kobe Digital",
+    "category": "Internet marketing service",
+    "address": "7083 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(310) 734-4030",
+    "website": "http://www.kobedigital.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "6 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.1018384,
+      "lng": -118.34440079999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5946377742952987186",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:07.064Z"
+  },
+  {
+    "place_id": "0x80c2becdcf02e6f3:0x3117338b67772189",
+    "name": "LikeSocialBiz",
+    "category": "Internet marketing service",
+    "address": "7950 Sunset Blvd, Los Angeles, CA 90046",
+    "phone": "(310) 272-9734",
+    "website": "https://likesocialbiz.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "7 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0975158,
+      "lng": -118.36332499999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3537352706152145289",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:07.094Z"
+  },
+  {
+    "place_id": "0x80c2a51f324159b3:0x765a6a11995edc57",
+    "name": "Abra Marketing",
+    "category": "Marketing agency",
+    "address": "3110 Main St Bldg C, #999, Santa Monica, CA 90401",
+    "phone": "(530) 246-8000",
+    "website": "https://abramarketing.com/?utm_source=GMBSocialClimb&utm_medium=AbraMarketing",
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 33.997781599999996,
+      "lng": -118.47965339999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8528245468199574615",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:07.164Z"
+  },
+  {
+    "place_id": "0x80c2a59d21221497:0x8ca8027385b1d1e1",
+    "name": "YimBuzz",
+    "category": "Internet marketing service",
+    "address": "1299 Ocean Ave, Santa Monica, CA 90401",
+    "phone": "(888) 998-2449",
+    "website": "https://yimbuzz.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0160875,
+      "lng": -118.4994019
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10135353656584819169",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:07.193Z"
+  },
+  {
+    "place_id": "0xa767c7ac38662793:0xcb9e51ccd3875f0c",
+    "name": "Great Marketing AI",
+    "category": "Marketing agency",
+    "address": "8605 Santa Monica Blvd #779486, West Hollywood, CA 90069",
+    "phone": "(562) 592-8281",
+    "website": "https://www.greatmarketing.ai/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0880523,
+      "lng": -118.379549
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14672254576183697164",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:10.767Z"
+  },
+  {
+    "place_id": "0x80c2a4c5c6414c13:0xd677af08c5db824c",
+    "name": "The Ocean Group, Inc.",
+    "category": "Advertising agency",
+    "address": "201 Wilshire Blvd Second Floor, Santa Monica, CA 90401",
+    "phone": "(310) 917-2202",
+    "website": "http://theoceangroupinc.com/",
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.017905,
+      "lng": -118.50012299999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15454013098559242828",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:10.791Z"
+  },
+  {
+    "place_id": "0x80c2a5a764cf5b89:0xfe315179ffbe65fd",
+    "name": "Dragon Horse Agency - Los Angeles",
+    "category": "Marketing agency",
+    "address": "100 Wilshire Blvd Suite 700, Santa Monica, CA 90401",
+    "phone": "(239) 325-5088",
+    "website": "http://www.dragonhorseagency.com/",
+    "hours": {
+      "Tuesday": "8:30 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0168524,
+      "lng": -118.500672
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18316510743916078589",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@dragonhorseagency.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@dragonhorseagency.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:10.813Z"
+  },
+  {
+    "place_id": "0x80c2bb4ee323e2e5:0xf1d5ae0c6ebbf987",
+    "name": "Event Solutions",
+    "category": "Event management company",
+    "address": "1014 Broadway #32, Santa Monica, CA 90401",
+    "phone": "(800) 366-0603",
+    "website": "https://eventsolutions.com/locations/greater-los-angeles/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0199108,
+      "lng": -118.4873733
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17426025701600655751",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:25.005Z"
+  },
+  {
+    "place_id": "0x80c2bebeda9e9a33:0x6c01a0e35aef98e7",
+    "name": "Intensify - eCommerce Advertising Agency In Los Angeles",
+    "category": "Marketing agency",
+    "address": "1235 Kings Rd #204, West Hollywood, CA 90069",
+    "phone": "(310) 916-9876",
+    "website": "https://www.intensifynow.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.092636999999996,
+      "lng": -118.373111
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7782678529416599783",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:25.034Z"
+  },
+  {
+    "place_id": "0x80c2a4cf2e20c455:0x455b39bca8f80f67",
+    "name": "Spin Public Relations",
+    "category": "Public relations firm",
+    "address": "929 Colorado Ave, Santa Monica, CA 90401",
+    "phone": "(323) 330-9559",
+    "website": "http://spinprgroup.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0182596,
+      "lng": -118.4869174
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4997651693949161319",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:25.058Z"
+  },
+  {
+    "place_id": "0x80c2bad1ff992271:0xe5ae57d6f1cd0692",
+    "name": "The Bungalow PR",
+    "category": "Public relations firm",
+    "address": "185 Pier Ave, Santa Monica, CA 90405",
+    "phone": "(310) 313-1643",
+    "website": "https://www.thebungalowpr.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 33.998551299999995,
+      "lng": -118.48042009999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16550262261324514962",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:25.082Z"
+  },
+  {
+    "place_id": "0x80e818f1cd646aab:0x9b9a1c348a98f9f0",
+    "name": "Matador Solutions, LLC",
+    "category": "Internet marketing service",
+    "address": "2636 Lincoln Blvd 1st Floor, Santa Monica, CA 90405",
+    "phone": "(310) 774-0082",
+    "website": "https://matadorsolutions.net/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.006121,
+      "lng": -118.4756207
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11212305234281429488",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:25.107Z"
+  },
+  {
+    "place_id": "0x80c2a5ea062800cf:0x6809489d8d396ddd",
+    "name": "Scale Me Locally",
+    "category": "Marketing agency",
+    "address": "520 Broadway, Santa Monica, CA 90401",
+    "phone": "(855) 306-5463",
+    "website": "https://www.scalemelocally.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.016102599999996,
+      "lng": -118.4916616
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7496602896251317725",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:25.136Z"
+  },
+  {
+    "place_id": "0x80c2bb0012954315:0xa8bbb2aa247c36ed",
+    "name": "Cy Rogers Partnership",
+    "category": "Marketing agency",
+    "phone": "(310) 890-8310",
+    "website": "https://cyrogers.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12158508062843090669",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:25.183Z"
+  },
+  {
+    "place_id": "0x80c2b4067dd1a2bf:0x189d7d6c27f9ed77",
+    "name": "eMaximize",
+    "category": "Marketing agency",
+    "address": "1230 Rosecrans Ave #300, Manhattan Beach, CA 90266",
+    "phone": "(310) 706-4051",
+    "website": "http://www.emaximize.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 33.901416399999995,
+      "lng": -118.3921247
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1773711731734474103",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@emaximize.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@emaximize.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:25.207Z"
+  },
+  {
+    "place_id": "0x80c2a4cf2a07dae9:0xa2accb897a8f6ad1",
+    "name": "West LA SEO",
+    "category": "Internet marketing service",
+    "address": "1233 6th St #1114, Santa Monica, CA 90401",
+    "phone": "(424) 272-6228",
+    "website": "http://www.westlaseo.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.02003,
+      "lng": -118.49516299999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11721967721465735889",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:28.500Z"
+  },
+  {
+    "place_id": "0x80c2bb8f247ddfd7:0x5310b83f7ad63f2b",
+    "name": "Idea Rebel - Digital Marketing Agency",
+    "category": "Marketing agency",
+    "address": "225 Arizona Ave, Santa Monica, CA 90401",
+    "phone": "(877) 732-3507",
+    "website": "https://www.idearebel.com/",
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.016874,
+      "lng": -118.49817879999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5985486487558700843",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:28.536Z"
+  },
+  {
+    "place_id": "0x80c2a4ce1ac9c8df:0xb22b9a90d5bc1482",
+    "name": "Summit Media",
+    "category": "Advertising agency",
+    "address": "1445 5th St, Santa Monica, CA 90401",
+    "phone": "(877) 820-3002",
+    "website": "http://www.summit-media.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0163819,
+      "lng": -118.4928285
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12838525109601571970",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:28.560Z"
+  },
+  {
+    "place_id": "0x80c2ba5ea177361d:0xec786e3be5914fab",
+    "name": "Ignite Marketing",
+    "category": "Marketing agency",
+    "address": "6060 Manchester Ave Ste 310, Los Angeles, CA 90045",
+    "phone": "(424) 328-1077",
+    "website": "https://findignite.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 33.9596106,
+      "lng": -118.39070509999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17039490393689903019",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:28.585Z"
+  },
+  {
+    "place_id": "0x80c2bbe95411b367:0xa7639f244bb0854e",
+    "name": "The Offsite Co.",
+    "category": "Event management company",
+    "address": "929 Colorado Ave, Santa Monica, CA 90404",
+    "website": "http://www.theoffsiteco.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0182596,
+      "lng": -118.4869174
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12061659205265818958",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:28.611Z"
+  },
+  {
+    "place_id": "0x88431ee321e17333:0xc1b91925dc44e137",
+    "name": "Holistic Growth Marketing LLC",
+    "category": "Internet marketing service",
+    "phone": "(323) 902-1031",
+    "website": "https://holisticgrowthmarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 33.786671,
+      "lng": -118.2990476
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13959216170411548983",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "jason@holisticgrowthmarketing.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "jason@holisticgrowthmarketing.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:28.689Z"
+  },
+  {
+    "place_id": "0x80c2bf0750c9b60b:0x8998025123d5a704",
+    "name": "Creator Marketing",
+    "category": "Marketing agency",
+    "address": "12751 W Millennium B227, Playa Vista, CA 90094",
+    "website": "https://www.creatormarketing.co/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 33.9800849,
+      "lng": -118.40751279999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9914677127172957956",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "hello@creatormarketing.co",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@creatormarketing.co",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:28.778Z"
+  },
+  {
+    "place_id": "0x80c2a5b8fdcd5927:0xa9760b34b24fcd76",
+    "name": "OURACO",
+    "category": "Marketing agency",
+    "address": "1242 9th St Unit 2, Santa Monica, CA 90401",
+    "phone": "(305) 420-5115",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "6 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.021802,
+      "lng": -118.492741
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12210959760619457910",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:28.881Z"
+  },
+  {
+    "place_id": "0x80c2a53a87488d43:0x6c23bebd06da05fe",
+    "name": "Growth Alliance",
+    "category": "Marketing agency",
+    "phone": "+44 20 8106 5678",
+    "website": "https://www.thegrowthalliance.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 9.374110199999999,
+      "lng": -106.69185949999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7792281499354138110",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:40.905Z"
+  },
+  {
+    "place_id": "0x80c2bb7528c2db0b:0x359c3bae6678d5a9",
+    "name": "Sagon-Phior",
+    "category": "Marketing agency",
+    "address": "2107 Sawtelle Blvd, Los Angeles, CA 90025",
+    "phone": "(310) 575-4665",
+    "website": "http://www.sagon-phior.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0391794,
+      "lng": -118.44266379999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3863028200606586281",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:40.938Z"
+  },
+  {
+    "place_id": "0x80c2a5978c0cc737:0x61a8d898be73db4c",
+    "name": "The RLM Agency",
+    "category": "Marketing agency",
+    "phone": "(646) 926-1406",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.054930999999996,
+      "lng": -96.94080819999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7037112568308292428",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:40.962Z"
+  },
+  {
+    "place_id": "0x80c2bb5f6362bb23:0x765e0461cacd439b",
+    "name": "Los Angeles Public Relations PR Agency",
+    "category": "Marketing agency",
+    "address": "1605 Pacific Ave, Venice, CA 90291",
+    "phone": "(323) 599-8555",
+    "website": "https://losangelespublicrelations.com/?utm_source=GBP&utm_medium=organic&utm_campaign=Google+Business+Profile&utm_id=Google+Business+Profile",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 33.9874161,
+      "lng": -118.4722491
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8529259562347086747",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@losangelespublicrelations.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@losangelespublicrelations.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:40.995Z"
+  },
+  {
+    "place_id": "0x80c2bf46bb62f14f:0xd6d0f2f9e64bfa90",
+    "name": "TOP Agency Los Angeles - Marketing Agency",
+    "category": "Marketing agency",
+    "address": "7083 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(213) 465-4616",
+    "website": "https://topagency.com/los-angeles-marketing/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.101426,
+      "lng": -118.34476799999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15479139074396912272",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:57.333Z"
+  },
+  {
+    "place_id": "0x80c2b0a18a955555:0x148a679a050ea0b4",
+    "name": "Doing Good Digital",
+    "category": "Consultant",
+    "address": "312 Arizona Ave, Santa Monica, CA 90401",
+    "phone": "(310) 913-5656",
+    "website": "https://doinggoodagency.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0171162,
+      "lng": -118.49724859999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1480109338752098484",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "hello@doinggoodagency.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@doinggoodagency.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:57.364Z"
+  },
+  {
+    "place_id": "0x80c2bbd9d2ad027b:0x87328c56096267eb",
+    "name": "FLAT 6 CONCEPTS",
+    "category": "Marketing agency",
+    "phone": "(323) 880-4742",
+    "website": "http://www.flat6concepts.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 38.7139976,
+      "lng": -44.3942098
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9742003245108324331",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:57.414Z"
+  },
+  {
+    "place_id": "0x80c2babfa206eaff:0xbb0b4420b2aefdef",
+    "name": "mml Inc",
+    "category": "Public relations firm",
+    "address": "137 Bay St #4, Santa Monica, CA 90405",
+    "phone": "(310) 664-0600",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0069735,
+      "lng": -118.4896402
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13477941217063796207",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:57.464Z"
+  },
+  {
+    "place_id": "0x80c2bbb3e87064ad:0x2acc96f6fd5d7477",
+    "name": "The Rose Group Los Angeles",
+    "category": "Public relations firm",
+    "address": "1514 17th St, Santa Monica, CA 90404",
+    "phone": "(424) 221-5949",
+    "website": "http://www.therosegrp.com/",
+    "rating": 1,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.024577199999996,
+      "lng": -118.48115809999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3084005832398828663",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "hello@therosegrp.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@therosegrp.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:57.491Z"
+  },
+  {
+    "place_id": "0x80c2a5f732f15351:0x2f6d70f1e766ce3",
+    "name": "SERP Masters SEO - Santa Monica",
+    "category": "Internet marketing service",
+    "address": "1417 6th St Ste 101, Santa Monica, CA 90401",
+    "phone": "(310) 513-5679",
+    "website": "https://serpmasters.com/santa-monica-seo-company/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.017634199999996,
+      "lng": -118.4926866
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=213594492282236131",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "support@serpmasters.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "support@serpmasters.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:57.563Z"
+  },
+  {
+    "place_id": "0x80c2bb959c1c89e9:0xfd5d6cba7f7d5081",
+    "name": "Blue Wind Marketing",
+    "category": "Marketing consultant",
+    "website": "http://www.bluewindmarketing.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18256868012688494721",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:57.616Z"
+  },
+  {
+    "place_id": "0x80c2bb44b529a013:0x4704cd3d2ea45983",
+    "name": "Victoria King Public Relations",
+    "category": "Public relations firm",
+    "address": "1230 Montana Ave, Santa Monica, CA 90403",
+    "phone": "(310) 207-5175",
+    "website": "http://www.vkpr.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0311253,
+      "lng": -118.49621379999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5117440739258947971",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@vkpr.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@vkpr.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:57.663Z"
+  },
+  {
+    "place_id": "0x80ece36209f3bc73:0x992ec01fe2c5dc61",
+    "name": "Golden State Marketing",
+    "category": "Marketing agency",
+    "phone": "(310) 560-5185",
+    "website": "http://www.goldenstatemarketing.net/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11037970979912801377",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:03.472Z"
+  },
+  {
+    "place_id": "0x80c2a355f162d103:0x783f838c154f5d90",
+    "name": "Jonas Public Relations Inc",
+    "category": "Public relations firm",
+    "address": "1327 Ocean Ave F, Santa Monica, CA 90402",
+    "phone": "(310) 656-3355",
+    "website": "https://jonaspublicrelations.com/",
+    "rating": 3,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.014934,
+      "lng": -118.49877699999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8664788845760306576",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:03.495Z"
+  },
+  {
+    "place_id": "0x80c2bd801a864081:0xe85a24db53dae551",
+    "name": "Search Engine Projects Digital Marketing Los Angeles",
+    "category": "Marketing agency",
+    "address": "9663 S Santa Monica Blvd #350, Beverly Hills, CA 90210",
+    "phone": "(888) 733-9535",
+    "website": "https://www.searchengineprojects.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.069205,
+      "lng": -118.406657
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16742735089126532433",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [
+      {
+        "email": "info@searchengineprojects.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:03.524Z"
+  },
+  {
+    "place_id": "0x80c2c7cc7ae1bdb9:0x4801a7f935ec6674",
+    "name": "2POINT Los Angeles (LA)",
+    "category": "Marketing agency",
+    "address": "777 S Alameda St 2nd floor, Los Angeles, CA 90021",
+    "phone": "(213) 460-2132",
+    "website": "https://www.2pointagency.com/locations/los-angeles-digital-agency/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.033736,
+      "lng": -118.2414884
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5188612934500902516",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "team@2pointagency.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "team@2pointagency.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:03.583Z"
+  },
+  {
+    "place_id": "0x80c2a5000b30515f:0xdd5288e36e786499",
+    "name": "ReputationPrime",
+    "category": "Marketing agency",
+    "phone": "(213) 255-5059",
+    "website": "https://reputationprime.com/?utm_source=gbp&utm_medium=local&utm_campaign=traffic&utm_id=146",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 34.008722,
+      "lng": -118.50331399999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15947959740864685209",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "sales@reputationprime.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@reputationprime.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:03.629Z"
+  },
+  {
+    "place_id": "0x80c2bb8363e9376d:0x61f81ee71f49df2f",
+    "name": "Viral App Launch, by Jonathan Maxim",
+    "category": "Marketing consultant",
+    "phone": "(323) 628-2831",
+    "website": "http://viralapplaunch.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 51.2072,
+      "lng": -121.9883
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7059426393914466095",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "ops@viralapplaunch.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "ops@viralapplaunch.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:03.779Z"
+  },
+  {
+    "place_id": "0x80c2a4ccd6a429f1:0xaa0cf5397f3e039e",
+    "name": "Evolution: Creative. Production. Post",
+    "category": "Video production service",
+    "address": "1510 11th St #101, Santa Monica, CA 90401",
+    "phone": "(310) 587-9191",
+    "website": "https://www.evolutionla.com/",
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0201133,
+      "lng": -118.48689809999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12253438313464988574",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "newbiz@evolutionla.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "newbiz@evolutionla.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "pr@evolutionla.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "careers@evolutionla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "info@evolutionla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:03.822Z"
+  },
+  {
+    "place_id": "0x80c2a4cedb64ce6f:0x4dc23d1249734d4b",
+    "name": "Kennedy Marshall Co",
+    "category": "Video production service",
+    "address": "619 Arizona Ave #2, Santa Monica, CA 90401",
+    "phone": "(310) 656-8400",
+    "website": "https://kennedymarshall.com/",
+    "rating": 4,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0201286,
+      "lng": -118.4933722
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5603108035153317195",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:09.332Z"
+  },
+  {
+    "place_id": "0xa546043186a17e35:0x15e649fb1f23fb5a",
+    "name": "GrowthNectar",
+    "category": "Marketing agency",
+    "website": "https://www.growthnectar.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1578030062348008282",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "hello@growthnectardigital.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@growthnectardigital.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:09.353Z"
+  },
+  {
+    "place_id": "0x80c2a54c681e51b9:0xcdf7521504886f14",
+    "name": "TulaCo",
+    "category": "Software company",
+    "address": "406 Broadway #143, Santa Monica, CA 90401",
+    "phone": "(310) 526-3222",
+    "website": "https://www.tula.co/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0151055,
+      "lng": -118.4932237
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14841421347246599956",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:09.401Z"
+  },
+  {
+    "place_id": "0x80c2bb0d8bafcb25:0xf2adecc83f455ccb",
+    "name": "Conversions Marketing",
+    "category": "Marketing agency",
+    "address": "11845 W Olympic Blvd #1100W, Los Angeles, CA 90064",
+    "phone": "(424) 259-3429",
+    "website": "http://conversionsmarketing.net/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0329963,
+      "lng": -118.4511747
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17486893272948628683",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:09.478Z"
+  },
+  {
+    "place_id": "0x80c2bad2219c73eb:0x33b8ace33830f89",
+    "name": "Mark Woollen & Associates",
+    "category": "Advertising agency",
+    "address": "207 Ashland Ave, Santa Monica, CA 90405",
+    "phone": "(310) 399-2690",
+    "website": "https://www.markwoollen.com/",
+    "rating": 4,
+    "hours": {},
+    "coordinates": {
+      "lat": 33.9998007,
+      "lng": -118.48102279999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=232932423971835785",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:09.516Z"
+  },
+  {
+    "place_id": "0x80dc01a9fc750ee9:0x531f38fa60684b4f",
+    "name": "2POINT Agency",
+    "category": "Marketing agency",
+    "address": "9920 Pacific Heights Blvd Suite 150, San Diego, CA 92121",
+    "phone": "(619) 599-1006",
+    "website": "https://www.2pointagency.com/locations/sandiego-digital-agency/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 32.9000079,
+      "lng": -117.1903523
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5989568677436476239",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "team@2pointagency.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "team@2pointagency.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:09.541Z"
+  },
+  {
+    "place_id": "0x80c2a57a2a58d0ff:0x57bc183dd7e7bda3",
+    "name": "eComBattlers",
+    "category": "E commerce agency",
+    "phone": "(310) 570-9980",
+    "website": "https://ecom-battlers.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.013949499999995,
+      "lng": -118.49733459999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6321954630815694243",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:09.663Z"
+  },
+  {
+    "place_id": "0x80c2bbab01e24ed7:0x387dfcc3115a8f2e",
+    "name": "Auto Shop Digital",
+    "category": "Marketing agency",
+    "phone": "(833) 226-0795",
+    "website": "https://www.autoshopdigital.com/?utm_source=googlemybusiness&utm_medium=gmblisting&utm_campaign=GMBG",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 33.835649,
+      "lng": -118.04058149999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4070687552952766254",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "daniel@autoshopdigital.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "daniel@autoshopdigital.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:09.692Z"
+  },
+  {
+    "place_id": "0x80c2bec9efefcb37:0xf881e534963c1ef6",
+    "name": "Media Artists Group",
+    "category": "Talent agency",
+    "address": "730 Arizona Ave, Santa Monica, CA 90401",
+    "phone": "(323) 658-5050",
+    "website": "http://www.mediaartistsgroup.com/",
+    "rating": 3.6,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0206134,
+      "lng": -118.49295989999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17906845607423385334",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "assistant@mediaartistsgroup.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "assistant@mediaartistsgroup.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:14.971Z"
+  },
+  {
+    "place_id": "0x80c2a51e0811ecf3:0x5fb1fb96e7c20073",
+    "name": "DAC",
+    "category": "Marketing agency",
+    "address": "312 Arizona Ave Suite #350, Santa Monica, CA 90401",
+    "phone": "(866) 941-2045",
+    "website": "https://www.dacgroup.com/contact/los-angeles/",
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0171253,
+      "lng": -118.49724309999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6895569130032857203",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:15.014Z"
+  },
+  {
+    "place_id": "0x80c2bb9d0ba6db83:0x650cefc3d4d66776",
+    "name": "Sly Nerds - Web Design Santa Monica",
+    "category": "Marketing agency",
+    "address": "1639 11th St #103C, Santa Monica, CA 90404",
+    "phone": "(725) 228-8813",
+    "website": "https://www.slynerds.com/",
+    "hours": {
+      "Tuesday": "8 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 34.0185402,
+      "lng": -118.4842522
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7281458321919731574",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@slynerds.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@slynerds.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:15.037Z"
+  },
+  {
+    "place_id": "0x80c2a5af63900d2d:0xde275f66d5445199",
+    "name": "4D VIEWR [Augmented Reality Service Agency]",
+    "category": "Marketing agency",
+    "address": "730 Arizona Ave, Santa Monica, CA 90401",
+    "phone": "(323) 607-3056",
+    "website": "https://4dviewr.com/service-agency/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.020491299999996,
+      "lng": -118.49292609999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16007868295781044633",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "4dviewr@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "4dviewr@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:15.104Z"
+  },
+  {
+    "place_id": "0x80c2a56bf2682c4f:0x5b6896dba3c0d6b8",
+    "name": "Neural Command, LLC",
+    "category": "Marketing agency",
+    "address": "1639 11th St suite 110-a, Santa Monica, CA 90404",
+    "phone": "(844) 568-4624",
+    "website": "https://nrlc.ai/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "8 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.01095,
+      "lng": -118.4952074
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6586680325118678712",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "contact@neuralcommandllc.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@neuralcommandllc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:15.209Z"
+  },
+  {
+    "place_id": "0x80c2a597c1904b87:0xa84a0b8dc588b29e",
+    "name": "Gilt Media",
+    "category": "Marketing agency",
+    "address": "520 Broadway, Santa Monica, CA 90401",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0161618,
+      "lng": -118.4916439
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12126517650180846238",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:15.263Z"
+  },
+  {
+    "place_id": "0x80c2bace1789ed83:0xf1933bf82a545012",
+    "name": "NOVY UNLIMITED, INC.",
+    "category": "Marketing agency",
+    "phone": "(424) 645-1651",
+    "website": "http://novyunlimited.com/",
+    "rating": 3.4,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17407322921765195794",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "hello@novyunlimited.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@novyunlimited.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:15.290Z"
+  },
+  {
+    "place_id": "0x80c2bb54891ea353:0xccefa39186330c14",
+    "name": "Eye Universal LLC",
+    "category": "Internet marketing service",
+    "phone": "(888) 963-9448",
+    "website": "https://converze.media/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.008722,
+      "lng": -118.50331399999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14767201548588223508",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@simplicitymedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@simplicitymedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:15.363Z"
+  },
+  {
+    "place_id": "0x80c2bc0835a40021:0xf79a4b1f29bb297c",
+    "name": "Di Moda Public Relations",
+    "category": "Public relations firm",
+    "address": "2525 Main St #205, Santa Monica, CA 90405",
+    "phone": "(310) 288-0077",
+    "website": "http://www.dimodapr.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.002290099999996,
+      "lng": -118.48370059999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17841655470997842300",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@dimodapr.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@dimodapr.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:17.555Z"
+  },
+  {
+    "place_id": "0xaeadcf59ab0cfa7f:0xc601eb8d09906ff9",
+    "name": "Rudronix Media",
+    "category": "Internet marketing service",
+    "phone": "(310) 628-8289",
+    "website": "https://rudronixmedia.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.013949499999995,
+      "lng": -118.49733459999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14267944085469818873",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@rudronixmedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@rudronixmedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:17.602Z"
+  },
+  {
+    "place_id": "0x80c2bb5b6a210e55:0xba133e6137508f52",
+    "name": "Marketing Agency,",
+    "category": "Marketing agency",
+    "address": "11040 Santa Monica Blvd Ste 213, Los Angeles, CA 90025",
+    "phone": "+55 11 95346-0107",
+    "website": "https://www.thocagencia.com.br/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=3486160211936923159",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0477598,
+      "lng": -118.4424591
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13408129102872874834",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:17.649Z"
+  },
+  {
+    "place_id": "0x80c2bb8aedabc0df:0x5a09259d082cce6c",
+    "name": "AdEngine Marketing LLC",
+    "category": "Marketing consultant",
+    "address": "2450 Colorado Ave, Santa Monica, CA 90404",
+    "phone": "(800) 637-0163",
+    "website": "https://www.adengined.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.028971299999995,
+      "lng": -118.4723398
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6487758094581157484",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:17.692Z"
+  },
+  {
+    "place_id": "0x89c2592ec34d52b7:0xe0d9d30d1ac9bb40",
+    "name": "NoGood - Growth Marketing Agency",
+    "category": "Marketing agency",
+    "address": "491 Broadway, New York, NY 10012",
+    "website": "https://nogood.io/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "6 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.7220902,
+      "lng": -74.000013
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16202213187679533888",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:24.267Z"
+  },
+  {
+    "place_id": "0x80c2a5fb5f668bf7:0x32edaf61af079f67",
+    "name": "Markethology",
+    "category": "Internet marketing service",
+    "address": "100 Wilshire Blvd, Santa Monica, CA 90401",
+    "phone": "(310) 400-0838",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0168418,
+      "lng": -118.5006119
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3669782105460023143",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:24.394Z"
+  },
+  {
+    "place_id": "0x80c2a4d2dea901eb:0xc9448c5493f27709",
+    "name": "Computaid",
+    "category": "Website designer",
+    "address": "1653 7th St, Santa Monica, CA 90404",
+    "phone": "(310) 230-1998",
+    "website": "http://computaid.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.014986799999996,
+      "lng": -118.48739359999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14502870994927122185",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@computaid.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@computaid.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:24.419Z"
+  },
+  {
+    "place_id": "0x80c2a4c5c4acbb41:0xc011358846184135",
+    "name": "ymarketing - Los Angeles",
+    "category": "Internet marketing service",
+    "address": "233 Wilshire Blvd #700, Santa Monica, CA 90401",
+    "phone": "(323) 803-9594",
+    "website": "http://www.ymarketing.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.01847,
+      "lng": -118.49992499999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13839901989294063925",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:24.487Z"
+  },
+  {
+    "place_id": "0x80c2a53655be6673:0x65a8942fc905b48e",
+    "name": "App Makers Santa Monica | App, Website, AI & Software Development",
+    "category": "Website designer",
+    "address": "Second Floor, 201 Wilshire Blvd 2nd floor, Santa Monica, CA 90401",
+    "phone": "(310) 388-6435",
+    "website": "https://appmakersla.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0180316,
+      "lng": -118.50007389999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7325267726875079822",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:24.512Z"
+  },
+  {
+    "place_id": "0x80c2bab8f9e734f5:0x4f00043fe9c25b4b",
+    "name": "BIGPIE",
+    "category": "Marketing agency",
+    "address": "1639 11th St ° 101, Santa Monica, CA 90404",
+    "phone": "(310) 752-7707",
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.018544999999996,
+      "lng": -118.484263
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5692554601547586379",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:24.563Z"
+  },
+  {
+    "place_id": "0x80c2a4cfb3e2ff59:0xbce77abfacb5394c",
+    "name": "iconmobile, inc",
+    "category": "Marketing consultant",
+    "address": "820 Broadway #110, Santa Monica, CA 90401",
+    "phone": "(310) 393-7600",
+    "website": "http://www.iconmobile.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0186636,
+      "lng": -118.48898609999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13611983362405513548",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:24.592Z"
+  },
+  {
+    "place_id": "0x80c2a5a393ac1939:0xe169a0e5d6a06b3a",
+    "name": "Prism Design Co",
+    "category": "Website designer",
+    "address": "1212 5th St, Santa Monica, CA 90401",
+    "phone": "(615) 802-9513",
+    "website": "https://prismdesign.co/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0193805,
+      "lng": -118.49711649999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16242690440097196858",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:24.621Z"
+  },
+  {
+    "place_id": "0x80c2a4c92010d647:0x9528b4456bae4517",
+    "name": "Printland",
+    "category": "Graphic designer",
+    "address": "2927 Santa Monica Blvd, Santa Monica, CA 90404",
+    "phone": "(310) 393-4400",
+    "website": "http://www.printland.net/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0363587,
+      "lng": -118.4710664
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10748038720972014871",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "print@printland.net",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "print@printland.net",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:29.053Z"
+  },
+  {
+    "place_id": "0x80c2a557af6461e3:0x72bb7da85df284a4",
+    "name": "Zapwater Communications",
+    "category": "Public relations firm",
+    "address": "1460 4th St #306, Santa Monica, CA 90401",
+    "phone": "(310) 396-7851",
+    "website": "https://www.zapwater.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.015085899999995,
+      "lng": -118.49402819999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8267339703052829860",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "david@zapwater.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "david@zapwater.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "internshipschi@zapwater.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "internshipsla@zapwater.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "internshipsmia@zapwater.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:29.106Z"
+  },
+  {
+    "place_id": "0x80c2bb1737e61885:0xae508273747fe252",
+    "name": "Herman-Scheer",
+    "category": "Marketing agency",
+    "website": "https://www.herman-scheer.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12560682793123701330",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "hello@herman-scheer.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@herman-scheer.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:29.174Z"
+  },
+  {
+    "place_id": "0x80c2a5d658fb5eb1:0x152e2481bbb67ee8",
+    "name": "Growth Friday",
+    "category": "Marketing agency",
+    "phone": "(833) 226-0795",
+    "website": "https://www.growthfriday.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 33.676404999999995,
+      "lng": -117.5163305
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1526197463343857384",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "contact@growthfriday.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@growthfriday.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:29.209Z"
+  },
+  {
+    "place_id": "0x80c2bb1735826671:0x20910462f889066a",
+    "name": "DSJ Printing, Inc.",
+    "category": "Commercial printer",
+    "address": "1703 Stewart St, Santa Monica, CA 90404",
+    "phone": "(310) 828-8051",
+    "website": "https://dsjprinting.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8:30 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0309496,
+      "lng": -118.46616669999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2346661703959774826",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "dsj@dsjprinting.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "dsj@dsjprinting.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:29.278Z"
+  },
+  {
+    "place_id": "0x80c2b92244fa727f:0x2ee91c72be58aaeb",
+    "name": "Known",
+    "category": "Marketing agency",
+    "address": "6420 Wilshire Blvd 4th floor, Los Angeles, CA 90048",
+    "phone": "(323) 460-4035",
+    "website": "https://known.is/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.063643899999995,
+      "lng": -118.3691027
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3380264274463599339",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:41.162Z"
+  },
+  {
+    "place_id": "0x80c2bf205f2a7bab:0x478b2df6232d06c2",
+    "name": "Supercool Creative Agency & Video Production Company",
+    "category": "Marketing agency",
+    "address": "7083 Hollywood Blvd First Floor, Los Angeles, CA 90028",
+    "phone": "(323) 609-3715",
+    "website": "https://supercoolcreative.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.101827,
+      "lng": -118.344382
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5155264733631022786",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "supercool@supercoolcreative.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "supercool@supercoolcreative.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:41.207Z"
+  },
+  {
+    "place_id": "0x80c2bb87b16e8cef:0x27ab2a69d592fbba",
+    "name": "Seolos",
+    "category": "Internet marketing service",
+    "address": "1460 7th St #201, Santa Monica, CA 90401",
+    "phone": "(310) 869-9840",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.017362,
+      "lng": -118.49122369999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2858425022539824058",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:41.254Z"
+  },
+  {
+    "place_id": "0x80c2bf19c586d6c3:0x6bcac0a8af714bcd",
+    "name": "Amplify - Global Brand Experience Agency in Los Angeles (LA)",
+    "category": "Marketing agency",
+    "address": "Bradbury Building, 304 S Broadway, Los Angeles, CA 90013",
+    "phone": "(323) 842-0517",
+    "website": "http://www.weareamplify.com/",
+    "hours": {
+      "Tuesday": "9:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0505072,
+      "lng": -118.2478199
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7767232338084318157",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "sophy@weareamplify.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "sophy@weareamplify.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "maddiek@weareamplify.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "lara@weareamplify.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "jennie@weareamplify.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "lee@weareamplify.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:41.285Z"
+  },
+  {
+    "place_id": "0x80c2a4c5e6d940d1:0x80a71d82e7621167",
+    "name": "MGID Inc.",
+    "category": "Internet marketing service",
+    "address": "7201, 1149 3rd St #210, Santa Monica, CA 90403",
+    "website": "http://mgid.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0189715,
+      "lng": -118.49925549999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9270410806030373223",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:41.382Z"
+  },
+  {
+    "place_id": "0x80c2b09c12ea8369:0x653f811c16cc5af5",
+    "name": "Ignition Creative",
+    "category": "Marketing agency",
+    "address": "1201 W 5th St Ste T-1100, Los Angeles, CA 90017",
+    "phone": "(310) 315-6300",
+    "website": "http://ignitioncreative.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0547362,
+      "lng": -118.2604944
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7295691879005051637",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "hello@ignitioncreative.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@ignitioncreative.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:41.412Z"
+  },
+  {
+    "place_id": "0x80c2c7289900e009:0xe367d7418b5752b8",
+    "name": "JV Media Web",
+    "category": "Marketing agency",
+    "address": "445 S Figueroa St Ste 31, Los Angeles, CA 90071",
+    "phone": "(888) 859-6225",
+    "website": "https://jvmediaweb.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0536155,
+      "lng": -118.2568651
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16386302445721440952",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:41.487Z"
+  },
+  {
+    "place_id": "0x80c2bb0eb974c761:0x978ebc4609ca9d2b",
+    "name": "Tees On Demand",
+    "category": "Website designer",
+    "address": "1840 Lincoln Blvd, Santa Monica, CA 90404",
+    "phone": "(310) 795-7174",
+    "website": "http://www.teesondemand.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "11 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.012798599999996,
+      "lng": -118.4839899
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10920873155418037547",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@teesondemand.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@teesondemand.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:41.564Z"
+  },
+  {
+    "place_id": "0x80c2a4cdf88129f7:0xb6dae693c0d4b731",
+    "name": "Sulte Group",
+    "category": "Website designer",
+    "address": "520 Broadway, Santa Monica, CA 90401",
+    "phone": "(323) 538-2454",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.016096999999995,
+      "lng": -118.49168429999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13176097182095554353",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:06.511Z"
+  },
+  {
+    "place_id": "0x80c2bab9007a7b47:0xaa8cc8bb990bdaef",
+    "name": "Directade",
+    "category": "Marketing agency",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 33.9858954,
+      "lng": -118.46255079999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12289418191239371503",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:06.563Z"
+  },
+  {
+    "place_id": "0x80c2bbf4c4978f93:0x2d1baaab3f353562",
+    "name": "The Lee Strategy Group, Inc.",
+    "category": "Marketing agency",
+    "phone": "(424) 229-2753",
+    "hours": {
+      "Tuesday": "8:30 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3250379208554526050",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:06.616Z"
+  },
+  {
+    "place_id": "0x86e8409870d98a25:0x3d365164d55d2cf8",
+    "name": "Citrineque Digital Solutions",
+    "category": "Marketing agency",
+    "phone": "(732) 841-2581",
+    "website": "https://citrinequedigital.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 33.786671,
+      "lng": -118.2990476
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4410802378574212344",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:06.663Z"
+  },
+  {
+    "place_id": "0x80c2bb6b31c80a8f:0x220cfac340c16c79",
+    "name": "The Burgett Group, Inc.",
+    "category": "Public relations firm",
+    "website": "http://theburgettgroup.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 14.157641199999999,
+      "lng": -106.69185949999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2453611613522062457",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:06.706Z"
+  },
+  {
+    "place_id": "0x80c2a4cf9d17c8b3:0x7320e12943f615f4",
+    "name": "Corporate Giving Connection",
+    "category": "Marketing agency",
+    "address": "312 Arizona Ave, Santa Monica, CA 90401",
+    "phone": "(202) 505-2779",
+    "website": "http://www.cgcgiving.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.017116,
+      "lng": -118.497249
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8295878080966563316",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:06.735Z"
+  },
+  {
+    "place_id": "0x80c2a4c512bb48bf:0xe5a17053dc1ea443",
+    "name": "Blackstone Group",
+    "category": "Financial consultant",
+    "address": "1299 Ocean Ave #320, Santa Monica, CA 90401",
+    "phone": "(310) 310-6949",
+    "website": "http://www.blackstone.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0161637,
+      "lng": -118.49913699999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16546630011413505091",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:06.895Z"
+  },
+  {
+    "place_id": "0x80c2a4ceae206785:0xcd715c50dce90ffe",
+    "name": "My Perfect Workplace",
+    "category": "Office space rental agency",
+    "address": "730 Arizona Ave, Santa Monica, CA 90401",
+    "phone": "(888) 518-9168",
+    "website": "https://myperfectworkplace.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8:30 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0205719,
+      "lng": -118.4930323
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14803714952516931582",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:06.963Z"
+  },
+  {
+    "place_id": "0x80c2bbcb0e9213f3:0x455b370fcc71a721",
+    "name": "hawke.ai",
+    "category": "Marketing agency",
+    "address": "1714 16th St, Santa Monica, CA 90404",
+    "phone": "(310) 451-7295",
+    "website": "http://hawke.ai/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0207586,
+      "lng": -118.4785837
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4997648752491734817",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:19.167Z"
+  },
+  {
+    "place_id": "0x80c2a4cf582642a3:0x808c46f935f17506",
+    "name": "Fasbender & Associates",
+    "category": "Business management consultant",
+    "address": "530 Wilshire Blvd #308, Santa Monica, CA 90401",
+    "phone": "(310) 458-0080",
+    "rating": 1,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0202159,
+      "lng": -118.4962832
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9262856569760085254",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:19.209Z"
+  },
+  {
+    "place_id": "0x80c2c3b8b6128d37:0x46b052c3ae2d7703",
+    "name": "Brand House",
+    "category": "Internet marketing service",
+    "address": "155 N Lake Ave Fl 8, Pasadena, CA 91101",
+    "phone": "(626) 600-1044",
+    "website": "https://brandhousela.com/?utm_source=gmb&utm_medium=organic",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.1485147,
+      "lng": -118.13283489999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5093662178950346499",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:19.264Z"
+  },
+  {
+    "place_id": "0x80c2bb390fbaaaeb:0xbe107c4062da4b6b",
+    "name": "Zocha Group",
+    "category": "Marketing agency",
+    "address": "401 Wilshire Blvd Ste 1200, Santa Monica, CA 90401",
+    "phone": "(888) 859-5669",
+    "website": "https://www.zochagroup.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0196922,
+      "lng": -118.4984219
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13695583082811902827",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:19.296Z"
+  },
+  {
+    "place_id": "0x80c2bde4034ca6d5:0x3e678a4336a698ec",
+    "name": "Keri White",
+    "category": "Real estate agent",
+    "address": "1207 Montana Ave, Santa Monica, CA 90403",
+    "phone": "(310) 804-4011",
+    "website": "https://keriwhite.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0310653,
+      "lng": -118.49700519999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4496714774237059308",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:19.409Z"
+  },
+  {
+    "place_id": "0x80c2a550d09ce945:0x5cd6ed7ef18b8d31",
+    "name": "Threlkeld Communications, Inc",
+    "category": "Public relations firm",
+    "phone": "(310) 684-3552",
+    "website": "http://www.threlkeldcomm.com/",
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6689795425979567409",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:19.465Z"
+  },
+  {
+    "place_id": "0x80c2bfc7f681dd29:0xea26ab341f6927f0",
+    "name": "Nightshade Marketing Group, LLC",
+    "category": "Marketing agency",
+    "address": "8605 Santa Monica Blvd, West Hollywood, CA 90069",
+    "phone": "(657) 449-7408",
+    "website": "https://www.nightshadegroup.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0880898,
+      "lng": -118.3794525
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16872361294343776240",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:19.490Z"
+  },
+  {
+    "place_id": "0x80c2a5a02386c5cf:0x11eb4991b6003d1c",
+    "name": "IMPASTIAMO",
+    "category": "Cooking school",
+    "phone": "(213) 722-5065",
+    "website": "http://www.impastiamoclasses.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=197911167698601449",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1291206608344333596",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:19.570Z"
+  },
+  {
+    "place_id": "0x80c2bbdf8503b787:0x427b6bfb653918c4",
+    "name": "Miller Ink",
+    "category": "Public relations firm",
+    "phone": "(310) 571-8264",
+    "website": "https://www.miller-ink.com/?utm_source=google&utm_medium=organic&utm_campaign=gmbwebsite",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4790541356117858500",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:31.773Z"
+  },
+  {
+    "place_id": "0x80c2bacf5405b57b:0xbbcf233c72ad75b3",
+    "name": "The Workshop LA",
+    "category": "Recruiter",
+    "website": "http://theworkshop.la/",
+    "rating": 4.9,
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13533074147800610227",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:31.798Z"
+  },
+  {
+    "place_id": "0xaeb9c22e859eb16d:0x6e665de38c493c61",
+    "name": "KAR Direct Digital Marketing Agency",
+    "category": "Marketing agency",
+    "website": "https://kardirect.co/",
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7955149023689129057",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:31.963Z"
+  },
+  {
+    "place_id": "0x80c2959253c77945:0x26c3e397ff0d2c3f",
+    "name": "HCETI",
+    "category": "Internet marketing service",
+    "address": "2307 Main St Unit B, Santa Monica, CA 90405",
+    "phone": "(805) 517-4668",
+    "website": "http://hceti.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0048899,
+      "lng": -118.48614939999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2793326435858459711",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:32.084Z"
+  },
+  {
+    "place_id": "0x80c2bb11a3ec7b41:0xd60dbdfc1d9232fe",
+    "name": "Book Pitchers LLC",
+    "category": "Marketing agency",
+    "address": "8th floor 2500, Broadway Ste f-86, Santa Monica, CA 90404",
+    "phone": "(888) 768-8918",
+    "website": "http://bookpitchers.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0307009,
+      "lng": -118.4739024
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15424193189339345662",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:47.080Z"
+  },
+  {
+    "place_id": "0x80c2a4cf48c82a9f:0x2a78efb7a44ad6e",
+    "name": "The Acorn Store Santa Monica",
+    "category": "Toy store",
+    "address": "1220 5th St, Santa Monica, CA 90401",
+    "phone": "(310) 451-5845",
+    "website": "http://www.theacornstore.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.019284999999996,
+      "lng": -118.49696899999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=191278719925792110",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "acornonlineshop@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "acornonlineshop@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:47.113Z"
+  },
+  {
+    "place_id": "0x80c2a4cf9d17c8ed:0x8f361e4be01ec5e4",
+    "name": "Rokt",
+    "category": "Internet marketing service",
+    "address": "312 Arizona Ave, Santa Monica, CA 90401",
+    "phone": "(424) 299-4802",
+    "website": "https://rokt.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0171162,
+      "lng": -118.49724859999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10319468907397563876",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:47.263Z"
+  },
+  {
+    "place_id": "0x80c2a38da57586f3:0x94cc05109d50fbaf",
+    "name": "Westside Property Management Inc.",
+    "category": "Property management company",
+    "address": "2116 Wilshire Blvd #250, Santa Monica, CA 90403",
+    "phone": "(310) 310-8063",
+    "website": "https://www.westsidepropertymanagement.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0322671,
+      "lng": -118.4817982
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10721950381779254191",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:47.284Z"
+  },
+  {
+    "place_id": "0x80c2a4c5c4905ee1:0xd32492979aa2039c",
+    "name": "Morgan Search",
+    "category": "Executive search firm",
+    "address": "1639 11th St, Santa Monica, CA 90404",
+    "phone": "(310) 266-4704",
+    "website": "http://www.morgansearch.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0183977,
+      "lng": -118.48423059999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15214446620996404124",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@morgansearch.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@morgansearch.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:47.387Z"
+  },
+  {
+    "place_id": "0x80c2bb8d233e356d:0x1d45ac1d32a24851",
+    "name": "Zacuto Group,",
+    "category": "Commercial real estate agency",
+    "address": "1250 6th St #102, Santa Monica, CA 90401",
+    "phone": "(310) 469-9012",
+    "website": "http://zacutogroup.com/",
+    "rating": 3.5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0192976,
+      "lng": -118.4952797
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2109281241896470609",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "info@zacutogroup.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@zacutogroup.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:47.563Z"
+  },
+  {
+    "place_id": "0x80c2bb329aa51ccb:0xcb941c02af57ec03",
+    "name": "Bell + Ivy",
+    "category": "Marketing agency",
+    "website": "http://www.bellivy.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14669380684109835267",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:47.663Z"
+  },
+  {
+    "place_id": "0x80c2a4c8e7e39d3b:0x209ce011c0f28d38",
+    "name": "City Internships",
+    "category": "Education center",
+    "address": "929 Colorado Ave, Santa Monica, CA 90401",
+    "phone": "(310) 438-5329",
+    "website": "http://www.city-internships.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "7 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 34.0182596,
+      "lng": -118.4869174
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2349999472436743480",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:47.692Z"
+  },
+  {
+    "place_id": "0x80c2b0d3ad06af07:0xf2c3bab04b1e3597",
+    "name": "Reliable Staffing",
+    "category": "Temp agency",
+    "address": "11111 Santa Monica Blvd #1700, Los Angeles, CA 90025",
+    "phone": "(310) 575-9675",
+    "website": "https://reliablestaffing.com/los-angeles-california/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0484137,
+      "lng": -118.4454251
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17493030643974419863",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:51.085Z"
+  },
+  {
+    "place_id": "0xadf54f00c43f5725:0x9aaf8de98ea7cfb0",
+    "name": "RadioWave Marketing and Promotions",
+    "category": "Advertising agency",
+    "phone": "(310) 621-5454",
+    "website": "https://www.radiowavemarketing.com/",
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11146283637025525680",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:51.113Z"
+  },
+  {
+    "place_id": "0x80c2a4cf38dbc853:0xc207f850914f163",
+    "name": "JV-Global LLC",
+    "category": "Marketing agency",
+    "address": "1653 7th St #7231, Santa Monica, CA 90401",
+    "website": "http://www.jvglobal.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0149848,
+      "lng": -118.48767389999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=873838537069621603",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:51.185Z"
+  },
+  {
+    "place_id": "0x80c2bad84f65ef0f:0x7b033fb063694a58",
+    "name": "Milan Marketing Milan Management",
+    "category": "Entertainer",
+    "phone": "(310) 450-6895",
+    "website": "http://www.milanmarketing.net/",
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8863998518409906776",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:51.217Z"
+  },
+  {
+    "place_id": "0x80c2bb1c1e36700f:0xfd77f9fd7f49c30c",
+    "name": "Regina Vannicola",
+    "category": "Real estate agency",
+    "address": "1333 Montana Ave, Santa Monica, CA 90403",
+    "phone": "(424) 272-5120",
+    "website": "http://reginavannicola.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.032218,
+      "lng": -118.495436
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18264341680981918476",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "email": "regina@reginavannicola.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "regina@reginavannicola.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:51.263Z"
+  },
+  {
+    "place_id": "0xabc8119d45ab20d:0x84887c2edf324098",
+    "name": "Poster Child",
+    "category": "Advertising agency",
+    "website": "https://posterchildagency.com/",
+    "hours": {
+      "Tuesday": "9 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9550019550594089112",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:51.309Z"
+  },
+  {
+    "place_id": "0x80c2bbf1ae98773b:0x455f285968690105",
+    "name": "Operation Podcast Studio (Santa Monica)",
+    "category": "Recording studio",
+    "address": "1810 14th St #203, Santa Monica, CA 90404",
+    "phone": "(805) 298-1861",
+    "website": "https://www.operationpodcast.com/studio",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.017942999999995,
+      "lng": -118.4791185
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4998758475873452293",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:51.363Z"
+  },
+  {
+    "place_id": "0x80c2bb1c217c0af3:0xf05a494a171e6b4c",
+    "name": "Ray Lyon Realty Group",
+    "category": "Real estate agency",
+    "address": "2115 Main St, Santa Monica, CA 90405",
+    "phone": "(310) 993-1065",
+    "website": "https://www.raylyonrealty.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "7:30 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0049559,
+      "lng": -118.4887364
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17319235899570940748",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:51.387Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 192,
+    "places_charged": 71,
+    "places_skipped_closed": 0,
+    "places_no_email": 117,
+    "total_emails_verified": 98,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T07:36:51.489Z",
+    "requests": 313,
+    "delivered": 71,
+    "est_spend_usd": 0.2504,
+    "est_revenue_usd": 0.568,
+    "profit_guard_tripped": true
+  },
+  {
+    "_type": "info",
+    "delivered": 71,
+    "message": "71 leads delivered. This row is informational — it is never billed.",
+    "schedule_tip": "Want this refreshed automatically? Apify Console -> this Actor -> Schedules -> Add schedule -> pick how often (e.g. daily) -> Save. It reruns with the same input on autopilot, no code required.",
+    "review_tip": "Found this useful? A quick Store review helps other buyers find it: https://apify.com/themineworks/maps-leads#reviews",
+    "scraped_at": "2026-09-22T07:36:51.664Z"
+  }
+]

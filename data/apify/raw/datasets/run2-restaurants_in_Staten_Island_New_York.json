@@ -1,0 +1,1179 @@
+[
+  {
+    "place_id": "0x89c24b81b1210761:0x6625757af9fae7c9",
+    "name": "Sapori Ristorante",
+    "category": "Italian restaurant",
+    "address": "3800 Richmond Ave, Staten Island, NY 10312",
+    "phone": "(718) 210-0388",
+    "website": "http://saporiristorantesi.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "3–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.545043199999995,
+      "lng": -74.16594769999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7360418337047373769",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:19.453Z"
+  },
+  {
+    "place_id": "0x89c24d3bb05fbfab:0xc0d4f6cd87f73b52",
+    "name": "Osteria Santina",
+    "category": "Italian restaurant",
+    "address": "502 Jewett Ave, Staten Island, NY 10302",
+    "phone": "(718) 448-6100",
+    "website": "http://osteriasantina.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6246031,
+      "lng": -74.1320111
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13895002112954678098",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "email": "info@osteriasantina.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@osteriasantina.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:19.521Z"
+  },
+  {
+    "place_id": "0x89c24f0ae1ba5f2d:0x739c2baa0a55b888",
+    "name": "BOTA Supper Club",
+    "category": "American restaurant",
+    "address": "402 St Marks Pl, Staten Island, NY 10301",
+    "phone": "(347) 466-5585",
+    "website": "https://botasupperclub.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6399537,
+      "lng": -74.0777016
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8330581420046399624",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:19.661Z"
+  },
+  {
+    "place_id": "0x89c24f9fdf0894c5:0xd6c392bed5a68872",
+    "name": "Osteria by Primo",
+    "category": "Restaurant",
+    "address": "1282 Richmond Rd, Staten Island, NY 10304",
+    "phone": "(347) 258-9782",
+    "website": "http://www.osteriasi.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.5961133,
+      "lng": -74.0949294
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15475374092901058674",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "email": "mangia@osteriabyprimo.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "mangia@osteriabyprimo.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "hello@osteriabyprimo.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "info@osteriabyprimo.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:19.688Z"
+  },
+  {
+    "place_id": "0x89c24bb1f341b9b9:0x9233612c1577c221",
+    "name": "Patrizia's of Brooklyn",
+    "category": "Italian restaurant",
+    "address": "4255 Amboy Rd, Staten Island, NY 10308",
+    "phone": "(718) 317-6600",
+    "website": "https://www.patriziasofstatenislandmenu.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.5472234,
+      "lng": -74.15794319999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10534870795316347425",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:19.756Z"
+  },
+  {
+    "place_id": "0x89c24fdb78ff3179:0x3f4b729e6d32ab6c",
+    "name": "Trattoria Oliveto",
+    "category": "Restaurant",
+    "address": "1642 Hylan Blvd, Staten Island, NY 10305",
+    "phone": "(347) 466-5556",
+    "website": "https://olivetonyc.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.5884597,
+      "lng": -74.0900654
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4560865072405195628",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "email": "olivetonyc@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "olivetonyc@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:19.798Z"
+  },
+  {
+    "place_id": "0x89c24e1a3fc30283:0xe1c6f16a78e89e44",
+    "name": "Blue",
+    "category": "American restaurant",
+    "address": "1115 Richmond Ter, Staten Island, NY 10310",
+    "phone": "(718) 273-7777",
+    "website": "https://www.bluerestaurantnyc.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.645347199999996,
+      "lng": -74.1077972
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16268956143519833668",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:19.905Z"
+  },
+  {
+    "place_id": "0x89c24fac9b8a59e7:0x3f979f6448a57a32",
+    "name": "Don Cheech",
+    "category": "Italian restaurant",
+    "address": "1271 Bay St, Staten Island, NY 10305",
+    "phone": "(718) 285-4401",
+    "website": "http://www.doncheechnyc.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "12–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.612493799999996,
+      "lng": -74.0647797
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4582306398937119282",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "email": "doncheechnyc@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "doncheechnyc@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:19.931Z"
+  },
+  {
+    "place_id": "0x89c24b00b2544481:0xeb50dfa03425e91d",
+    "name": "Island Social",
+    "category": "Bar & grill",
+    "address": "4060 Hylan Blvd, Staten Island, NY 10308",
+    "phone": "(518) 692-3952",
+    "website": "https://islandsocialny.com/?utm_source=google",
+    "rating": 4.9,
+    "hours": {
+      "Monday": "11 AM–4 AM"
+    },
+    "coordinates": {
+      "lat": 40.540607099999995,
+      "lng": -74.14708739999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16956298476212578589",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:29.450Z"
+  },
+  {
+    "place_id": "0x89c24ba5ae588771:0x39501c09069ccdce",
+    "name": "Corrado's Cucina",
+    "category": "Italian restaurant",
+    "address": "831 Arthur Kill Rd, Staten Island, NY 10312",
+    "phone": "(347) 562-4102",
+    "website": "http://www.corradoscucina.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.5610658,
+      "lng": -74.1686486
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4129831683389967822",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "email": "info@corradoscucina.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@corradoscucina.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:29.480Z"
+  },
+  {
+    "place_id": "0x89c24f1d114ccbad:0x2d9ea39ccdb2491e",
+    "name": "Aqualine",
+    "category": "Restaurant",
+    "address": "422 St Marks Pl, Staten Island, NY 10301",
+    "phone": "(347) 466-4779",
+    "website": "https://aqualinenyc.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.6394036,
+      "lng": -74.0776255
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3287244671888279838",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:29.539Z"
+  },
+  {
+    "place_id": "0x89c24b3b98c4f605:0x51b51629ec22a98",
+    "name": "‘O Sfizio Ristorante",
+    "category": "Italian restaurant",
+    "address": "4651 Hylan Blvd, Staten Island, NY 10312",
+    "phone": "(718) 227-3000",
+    "website": "https://osfizio.com/?utm_source=google",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.5294873,
+      "lng": -74.1616851
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=367977278572997272",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:29.894Z"
+  },
+  {
+    "place_id": "0x89c24bcc10f356d1:0x5e3b26f5385b085f",
+    "name": "Marina Cafe Restaurant & Tiki Bar",
+    "category": "Seafood restaurant",
+    "address": "154 Mansion Ave, Staten Island, NY 10308",
+    "phone": "(718) 967-3077",
+    "website": "http://www.marinacafesiny.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.544121499999996,
+      "lng": -74.1408558
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6790063697845487711",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:30.393Z"
+  },
+  {
+    "place_id": "0x89c24a4abced1437:0xf349eff6fcbd2f49",
+    "name": "Giuliana’s Ristorante",
+    "category": "Italian restaurant",
+    "address": "4105 Hylan Blvd, Staten Island, NY 10308",
+    "phone": "(718) 317-8507",
+    "website": "http://www.giulianassi.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.539822,
+      "lng": -74.1485189
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17530806868597616457",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:30.417Z"
+  },
+  {
+    "place_id": "0x89c24f5697d6b4eb:0x8dd6656d5b5fe558",
+    "name": "Mello Bistro",
+    "category": "Bistro",
+    "address": "1233 Bay St, Staten Island, NY 10305",
+    "phone": "(718) 285-4574",
+    "website": "https://mellobistro.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6132965,
+      "lng": -74.0653653
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10220467924722771288",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:30.456Z"
+  },
+  {
+    "place_id": "0x89c24e2d2c37a5e1:0x330ab12b954d84e3",
+    "name": "Nonnas of the World Community",
+    "category": "Italian restaurant",
+    "address": "27 Hyatt St, Staten Island, NY 10301",
+    "phone": "(718) 447-2777",
+    "website": "http://www.enotecamaria.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.6420631,
+      "lng": -74.0773315
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3677946846448026851",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:30.522Z"
+  },
+  {
+    "place_id": "0x89c24900444faa29:0xe0b5e45012b5f27",
+    "name": "Seabass Taverna",
+    "category": "Greek restaurant",
+    "address": "365 New Dorp Ln, Staten Island, NY 10306",
+    "phone": "(718) 808-4110",
+    "website": "https://www.seabasstaverna.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "11:30 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.5709801,
+      "lng": -74.1103009
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1012006191740182311",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:42.595Z"
+  },
+  {
+    "place_id": "0x89c24e63b90fee99:0x5048a68a0e891ef6",
+    "name": "The Stone House at Clove Lakes",
+    "category": "Fine dining restaurant",
+    "address": "1150 Clove Rd, Staten Island, NY 10301",
+    "phone": "(718) 442-3600",
+    "website": "http://www.thestonehousesi.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11:30 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.6179128,
+      "lng": -74.1082282
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5785056833236967158",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:42.621Z"
+  },
+  {
+    "place_id": "0x89c24b4a8456df85:0x2cdf19b86d164e8",
+    "name": "Da Damaso",
+    "category": "Italian restaurant",
+    "address": "3981 Amboy Rd, Staten Island, NY 10308",
+    "phone": "(718) 255-3224",
+    "website": "http://www.dadamasoinc.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.5506501,
+      "lng": -74.1504753
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=202083208585635048",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:42.645Z"
+  },
+  {
+    "place_id": "0x89c3ca9d1079e177:0xd94143ef83b332d5",
+    "name": "Angelina's Restaurant",
+    "category": "Italian restaurant",
+    "address": "399 Ellis St, Staten Island, NY 10307",
+    "phone": "(718) 227-2900",
+    "website": "http://angelinasristorante.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.513480699999995,
+      "lng": -74.2515884
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15654868475702358741",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:42.693Z"
+  },
+  {
+    "place_id": "0x89c24f35ecde97e5:0x4e8bde9e1c142a57",
+    "name": "Raval Steakhouse",
+    "category": "Steak house",
+    "address": "12 Minthorne St, Staten Island, NY 10301",
+    "phone": "(718) 247-2323",
+    "website": "http://ravalsteakhouse.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.6371226,
+      "lng": -74.0755683
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5659862127378442839",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:59.796Z"
+  },
+  {
+    "place_id": "0x89c24fd33639a807:0x4418d592e7cb9dbb",
+    "name": "Beso",
+    "category": "Spanish restaurant",
+    "address": "70 Bay St, Staten Island, NY 10301",
+    "phone": "(718) 816-8162",
+    "website": "http://www.besonyc.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6402341,
+      "lng": -74.07583319999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4906906620950977979",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:59.831Z"
+  },
+  {
+    "place_id": "0x89c24ebf9c84b615:0x21adee1bac6ee887",
+    "name": "Max's Es-ca",
+    "category": "Italian restaurant",
+    "address": "1559 Richmond Rd, Staten Island, NY 10304",
+    "phone": "(718) 980-5006",
+    "website": "http://www.maxsesca.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.591521,
+      "lng": -74.101209
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2426857576847042695",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:59.870Z"
+  },
+  {
+    "place_id": "0x89c24ec883a44b6b:0xf7e078ed188d058",
+    "name": "Cafe Bella Vita Italian Restaurant",
+    "category": "Italian restaurant",
+    "address": "1919 Hylan Blvd, Staten Island, NY 10305",
+    "phone": "(718) 667-5656",
+    "website": "http://www.cafebellavita.net/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.5829796,
+      "lng": -74.0967304
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1116338067616616536",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:59.905Z"
+  },
+  {
+    "place_id": "0x89c24dace19fdca7:0xb037eaa6fb8944ff",
+    "name": "Fava Restaurant",
+    "category": "Restaurant",
+    "address": "2009 Victory Blvd, Staten Island, NY 10314",
+    "phone": "(718) 489-9039",
+    "website": "http://favarestaurant.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6127488,
+      "lng": -74.1305904
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12697875677299950847",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:59.932Z"
+  },
+  {
+    "place_id": "0x89c24fd33500f079:0xa544220e6eeeced5",
+    "name": "The Basement",
+    "category": "Restaurant",
+    "address": "11 Schuyler St, Staten Island, NY 10301",
+    "phone": "(718) 791-0027",
+    "website": "http://thebasementnyc.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6433576,
+      "lng": -74.076835
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11908680760060464853",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:00.012Z"
+  },
+  {
+    "place_id": "0x89c24be2ff95cc8b:0x4e8ba2c7415c018d",
+    "name": "Canlon's",
+    "category": "American restaurant",
+    "address": "1825 N Railroad Ave #1831, Staten Island, NY 10306",
+    "phone": "(718) 667-3013",
+    "website": "http://www.canlons.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.5651788,
+      "lng": -74.1268568
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5659796333399900557",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:00.093Z"
+  },
+  {
+    "place_id": "0x89c24e6c3c18565d:0xec5b3d898c5a79f5",
+    "name": "Panini Grill",
+    "category": "Italian restaurant",
+    "address": "538 Forest Ave, Staten Island, NY 10310",
+    "phone": "(718) 981-2999",
+    "website": "http://www.paninigrillsi.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.630085099999995,
+      "lng": -74.10812179999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17031274076806216181",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:00.118Z"
+  },
+  {
+    "place_id": "0x89c24afc01322e1d:0x7478768371fc9c93",
+    "name": "La Fontana Sorellena",
+    "category": "Italian restaurant",
+    "address": "885 Annadale Rd, Staten Island, NY 10312",
+    "phone": "(718) 683-5353",
+    "website": "https://www.sorellenasi.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "4–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.540068999999995,
+      "lng": -74.17681069999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8392588212530093203",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:12.220Z"
+  },
+  {
+    "place_id": "0x89c249dc0d7db44b:0xccda3f8a9d62c951",
+    "name": "Patrizia's Taverna",
+    "category": "Restaurant",
+    "address": "2636 Hylan Blvd Ste 130, Staten Island, NY 10306",
+    "phone": "(347) 855-2078",
+    "website": "https://www.patrizias.com/new-dorp-taverna/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.5663152,
+      "lng": -74.1099527
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14761180593238755665",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:12.252Z"
+  },
+  {
+    "place_id": "0x89c24ee46addecb5:0x9f415798baf48f58",
+    "name": "Bocelli",
+    "category": "Italian restaurant",
+    "address": "1250 Hylan Blvd, Staten Island, NY 10305",
+    "phone": "(718) 420-6150",
+    "website": "https://www.osteriabocelli.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.597405599999995,
+      "lng": -74.08412009999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11475549638999969624",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:12.292Z"
+  },
+  {
+    "place_id": "0x89c24f07b92836cd:0xac50436703c3a8d9",
+    "name": "Da Noi",
+    "category": "Italian restaurant",
+    "address": "138 Fingerboard Rd, Staten Island, NY 10305",
+    "phone": "(718) 720-1650",
+    "website": "http://danoinyc.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6069898,
+      "lng": -74.0667761
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12416498282384304345",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:12.345Z"
+  },
+  {
+    "place_id": "0x89c24d3e1e7b3e67:0x5cb8591723099562",
+    "name": "Il Sapore cafe",
+    "category": "Restaurant",
+    "address": "10 Akron St, Staten Island, NY 10314",
+    "phone": "(718) 983-0883",
+    "website": "https://www.ilsaporecafe.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "10:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6118786,
+      "lng": -74.1585003
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6681188003111081314",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:12.392Z"
+  },
+  {
+    "place_id": "0x89c24bcb84f7aaf3:0x97e4490ec4cebc65",
+    "name": "Fiore Di Mare",
+    "category": "Italian restaurant",
+    "address": "227 Mansion Ave, Staten Island, NY 10308",
+    "phone": "(718) 227-9771",
+    "website": "http://www.fioredimaresi.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.542868,
+      "lng": -74.142427
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10944953322197400677",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:12.414Z"
+  },
+  {
+    "place_id": "0x89c24bc6a4f4f26f:0x9abffe81641bc9b7",
+    "name": "Villa Paradiso Ristorante Italiano",
+    "category": "Italian restaurant",
+    "address": "145 Greaves Ln, Staten Island, NY 10308",
+    "phone": "(718) 227-2405",
+    "website": "http://www.villaparadisorestaurant.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.5534203,
+      "lng": -74.1435742
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11150911034076416439",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:12.467Z"
+  },
+  {
+    "place_id": "0x89c24ee2fe0b0c17:0x1d8a17d46f431c0f",
+    "name": "Nino's Restaurant",
+    "category": "Italian restaurant",
+    "address": "1110 Hylan Blvd, Staten Island, NY 10305",
+    "phone": "(718) 448-3838",
+    "website": "http://www.ninosrestaurant.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.5983333,
+      "lng": -74.07972219999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2128539975053155343",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "email": "ninosrestaurantsi@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "ninosrestaurantsi@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:12.489Z"
+  },
+  {
+    "place_id": "0x89c24bb825e99fab:0x837bc3569e31d4c9",
+    "name": "Piccolino Ristorante NY",
+    "category": "Italian restaurant",
+    "address": "3935 Amboy Rd, Staten Island, NY 10308",
+    "phone": "(718) 967-5870",
+    "website": "http://piccolinoristorante.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.5516661,
+      "lng": -74.1497515
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9474381017892639945",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:24.536Z"
+  },
+  {
+    "place_id": "0x89c24f221541ef89:0x5937635d64681379",
+    "name": "Pastavino",
+    "category": "Restaurant",
+    "address": "44 Navy Pier Ct, Staten Island, NY 10304",
+    "phone": "(718) 556-9300",
+    "website": "https://www.pastavinosi.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "5–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.6287624,
+      "lng": -74.0732816
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6428716245862323065",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:24.598Z"
+  },
+  {
+    "place_id": "0x89c24fd34dbe8b1b:0xacde457c11362a0",
+    "name": "Ruddy & Dean American Steakhouse",
+    "category": "Steak house",
+    "address": "44 Richmond Ter, Staten Island, NY 10301",
+    "phone": "(718) 816-4400",
+    "website": "http://www.ruddyanddean.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.6440209,
+      "lng": -74.0767576
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=778529376157524640",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:24.719Z"
+  },
+  {
+    "place_id": "0x89c24cf9f9e0485f:0x345f2843d8690d30",
+    "name": "Lorenzo’s Restaurant, Bar & Cabaret",
+    "category": "Italian restaurant",
+    "address": "1100 South Ave, Staten Island, NY 10314",
+    "phone": "(718) 477-2400 ext. 4",
+    "website": "http://lorenzosdining.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "6 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.614894199999995,
+      "lng": -74.17679249999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3773779284618448176",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:29.493Z"
+  },
+  {
+    "place_id": "0x89c24f103e779941:0x9ad5db32dc9a2631",
+    "name": "Basilio Inn",
+    "category": "Italian restaurant",
+    "address": "6 Galesville Ct, Staten Island, NY 10305",
+    "phone": "(718) 720-6835",
+    "website": "http://basilioinn.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "3–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.597522399999995,
+      "lng": -74.0637473
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11157064663376209457",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:29.514Z"
+  },
+  {
+    "place_id": "0x89c24f1aaca92b9d:0xf0cbfed01a93332f",
+    "name": "Italianissimo Ristorante Cafe Bar",
+    "category": "Italian restaurant",
+    "address": "107 McClean Ave, Staten Island, NY 10305",
+    "phone": "(718) 442-4442",
+    "website": "http://italianissimony.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.598631399999995,
+      "lng": -74.0656973
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17351242159127474991",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:29.616Z"
+  },
+  {
+    "place_id": "0x89c24dc6cd0ab1d9:0x203fa06cb05947ac",
+    "name": "Lacey's Bridge Tavern",
+    "category": "Restaurant",
+    "address": "75 Innis St, Staten Island, NY 10302",
+    "phone": "(718) 273-7514",
+    "website": "http://laceysbridgetavern.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.634152799999995,
+      "lng": -74.1437667
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2323752321422018476",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:29.636Z"
+  },
+  {
+    "place_id": "0x89c3caa1d86a5555:0xefb8ec0a5a3131b4",
+    "name": "Deluca's Italian Restaurant",
+    "category": "Italian restaurant",
+    "address": "7324 Amboy Rd, Staten Island, NY 10307",
+    "phone": "(718) 227-7200",
+    "website": "https://delucasitalian.com/?utm_source=google",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.510988,
+      "lng": -74.2413948
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17273815899986538932",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:29.721Z"
+  },
+  {
+    "place_id": "0x89c24bcb834cc0f7:0xae5e88a6cd9fdc94",
+    "name": "Cole's Dock Side",
+    "category": "Seafood restaurant",
+    "address": "369 Cleveland Ave, Staten Island, NY 10308",
+    "phone": "(718) 948-5588",
+    "website": "https://coledockside.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.5426767,
+      "lng": -74.14244889999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12564630260406017172",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:29.735Z"
+  },
+  {
+    "place_id": "0x89c24b1ff337eeab:0x6b07026679a45d32",
+    "name": "Trattoria Toscana",
+    "category": "Italian restaurant",
+    "address": "4200 Hylan Blvd, Staten Island, NY 10308",
+    "phone": "(718) 605-6009",
+    "website": "http://trattoriatoscanasi.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.5373393,
+      "lng": -74.1499572
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7712135526045998386",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:29.792Z"
+  },
+  {
+    "place_id": "0x89c24e9cfb4869db:0xdcd5478d9514b2cb",
+    "name": "The Manor",
+    "category": "Italian restaurant",
+    "address": "917 Manor Rd, Staten Island, NY 10314",
+    "phone": "(718) 698-4433",
+    "website": "http://www.manorrestaurantsiny.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.604389499999996,
+      "lng": -74.1206009
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15912703531800638155",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:29.815Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 57,
+    "places_charged": 6,
+    "places_skipped_closed": 0,
+    "places_no_email": 41,
+    "total_emails_verified": 9,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T07:58:29.895Z",
+    "requests": 86,
+    "delivered": 6,
+    "est_spend_usd": 0.0688,
+    "est_revenue_usd": 0.048,
+    "profit_guard_tripped": true
+  },
+  {
+    "_type": "info",
+    "delivered": 6,
+    "message": "6 leads delivered. This row is informational — it is never billed.",
+    "schedule_tip": "Want this refreshed automatically? Apify Console -> this Actor -> Schedules -> Add schedule -> pick how often (e.g. daily) -> Save. It reruns with the same input on autopilot, no code required.",
+    "review_tip": "Found this useful? A quick Store review helps other buyers find it: https://apify.com/themineworks/maps-leads#reviews",
+    "scraped_at": "2026-09-22T07:58:30.125Z"
+  }
+]

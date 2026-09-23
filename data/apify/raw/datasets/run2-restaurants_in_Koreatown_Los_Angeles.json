@@ -1,0 +1,2952 @@
+[
+  {
+    "place_id": "0x80c2c77c91ab6b01:0x72786640a7da4b2",
+    "name": "Dan Sung Sa",
+    "category": "Korean restaurant",
+    "address": "3317 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 487-9100",
+    "website": "https://dansungsala.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "4 PM–2 AM",
+      "Monday": "4 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.0637389,
+      "lng": -118.2946083
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=515528446588069042",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:24.605Z"
+  },
+  {
+    "place_id": "0x80c2b926234724bd:0x3e9d47f1fe6bf53f",
+    "name": "Sun Nong Dan",
+    "category": "Korean restaurant",
+    "address": "710 S Western Ave, Los Angeles, CA 90005",
+    "phone": "(213) 264-3303",
+    "website": "https://sunnongdanusa.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0592615,
+      "lng": -118.30879639999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4511841506376283455",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:24.665Z"
+  },
+  {
+    "place_id": "0x80c2b9002e945ea7:0xd6283b63c255443",
+    "name": "HANTA KOREAN RESTAURANT",
+    "category": "Korean restaurant",
+    "address": "3959 Wilshire Blvd Ste A5, Los Angeles, CA 90010",
+    "phone": "(213) 358-5300",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10:30 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0620097,
+      "lng": -118.3134728
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=964478088927073347",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:24.718Z"
+  },
+  {
+    "place_id": "0x80c2c7796df6ffd3:0xc6c9b606f7866317",
+    "name": "Kobawoo House",
+    "category": "Korean restaurant",
+    "address": "698 S Vermont Ave #109, Los Angeles, CA 90005",
+    "phone": "(213) 389-7300",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.060116799999996,
+      "lng": -118.29094509999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14324180230867411735",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:24.755Z"
+  },
+  {
+    "place_id": "0x80c2b942b6d08167:0x31833e2529443c12",
+    "name": "Jun Won Dak IG @junwon_la",
+    "category": "Korean restaurant",
+    "address": "4254 1/2 W 3rd St, Los Angeles, CA 90020",
+    "phone": "(213) 263-9135",
+    "website": "https://jun-won-dak.squarespace.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "11 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0687698,
+      "lng": -118.3070336
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3567763659134614546",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "junwondak@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "junwondak@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:24.775Z"
+  },
+  {
+    "place_id": "0x80c2b89b437ecda9:0xc6e1364fd48e3303",
+    "name": "Hae Jang Chon Korean BBQ Restaurant",
+    "category": "Korean barbecue restaurant",
+    "address": "3821 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 389-8777",
+    "website": "http://www.haejangchon.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0638885,
+      "lng": -118.3060754
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14330795205766034179",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:24.895Z"
+  },
+  {
+    "place_id": "0x80c2c7ff8031a26d:0x44e0e8ed0c655fbf",
+    "name": "Woo Hyang Woo",
+    "category": "Korean barbecue restaurant",
+    "address": "3429 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 315-5080",
+    "website": "https://www.instagram.com/woohyangwoola/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "5 PM–1 AM",
+      "Monday": "5 PM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.0637788,
+      "lng": -118.2965006
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4963222894175150015",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:24.927Z"
+  },
+  {
+    "place_id": "0x80c2b882c9f83c8f:0xcaff87a4d39627c5",
+    "name": "Mapo Kkak Doo Gee | Korean Restaurant",
+    "category": "Korean restaurant",
+    "address": "3611 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 736-6668",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0638455,
+      "lng": -118.3009043
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14627559256716879813",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:24.949Z"
+  },
+  {
+    "place_id": "0x80c2b89a41b5afa3:0x750d7510dcc3b37a",
+    "name": "Hanbat Sul Lung Tang",
+    "category": "Korean restaurant",
+    "address": "4163 5th St, Los Angeles, CA 90020",
+    "phone": "(213) 383-9499",
+    "website": "https://hanbatsullungtang.net/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0654526,
+      "lng": -118.3096161
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8434526392418546554",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:28.728Z"
+  },
+  {
+    "place_id": "0x80c2c79ca159d147:0x1f653953236f89e9",
+    "name": "Yangmani",
+    "category": "Korean restaurant",
+    "address": "414 S Western Ave Unit E, Los Angeles, CA 90020",
+    "phone": "(213) 568-3064",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11:30 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.066619599999996,
+      "lng": -118.30879709999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2262277417063123433",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:28.755Z"
+  },
+  {
+    "place_id": "0x80c2c7789b98c1d7:0xa2d790b8c64d1114",
+    "name": "Soowon Galbi",
+    "category": "Korean barbecue restaurant",
+    "address": "856 Vermont Ave B, Los Angeles, CA 90005",
+    "phone": "(213) 365-9292",
+    "website": "https://soowongalbila.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0564313,
+      "lng": -118.29133809999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11734006477412438292",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:28.784Z"
+  },
+  {
+    "place_id": "0x80c2b88234d199c7:0x1d5cc9184ed82800",
+    "name": "Hangari Kalguksu",
+    "category": "Korean restaurant",
+    "address": "3470 W 6th St Ste 9 and 10, Los Angeles, CA 90020",
+    "phone": "(213) 388-2326",
+    "website": "http://www.hangarikalguksu.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.062887599999996,
+      "lng": -118.2975914
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2115787031196477440",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:28.811Z"
+  },
+  {
+    "place_id": "0x80c2b9b4ef55c22d:0x370e54ea49f324c3",
+    "name": "KingChang-La",
+    "category": "Korean barbecue restaurant",
+    "address": "3732 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 318-5250",
+    "website": "https://kingchang-la.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "4 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.063364299999996,
+      "lng": -118.30376589999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3967201686999737539",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:28.845Z"
+  },
+  {
+    "place_id": "0x80c2b9b5e27347b3:0x9213df14b3e9dbf7",
+    "name": "jilli modern sool jib",
+    "category": "Korean restaurant",
+    "address": "3905 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 291-0888",
+    "website": "https://jillila.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "4:30–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0637112,
+      "lng": -118.3081593
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10526002034105768951",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "hello@chimmelierusa.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@chimmelierusa.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:28.898Z"
+  },
+  {
+    "place_id": "0x80c2c7cfcca9320f:0x4301b27a10ffb785",
+    "name": "Damsot",
+    "category": "Korean restaurant",
+    "address": "90010 California, Los Angeles, Wilshire Blvd, Damsot",
+    "phone": "(213) 219-8757",
+    "website": "https://www.instagram.com/damsot_la/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0624521,
+      "lng": -118.2976008
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4828336512858830725",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:28.972Z"
+  },
+  {
+    "place_id": "0x80c2c7003ad800a7:0x22013c3859ca033c",
+    "name": "Kingyubu",
+    "category": "Korean restaurant",
+    "address": "3128 W 8th St, Los Angeles, CA 90005",
+    "phone": "(213) 378-0065",
+    "website": "http://www.kingyubu.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0574406,
+      "lng": -118.29525079999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2450305884988506940",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:28.990Z"
+  },
+  {
+    "place_id": "0x80c2c77c853ad33b:0x2eb3db7671a6c8d1",
+    "name": "Seong Buk Dong",
+    "category": "Korean restaurant",
+    "address": "3303 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 738-8977",
+    "website": "https://seongbukdong.shop/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0639989,
+      "lng": -118.29435339999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3365274648335272145",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:32.206Z"
+  },
+  {
+    "place_id": "0x80c2b88c9bbe2b45:0x8f371e46e6ac9ab7",
+    "name": "Soban",
+    "category": "Korean restaurant",
+    "address": "4001 W Olympic Blvd, Los Angeles, CA 90019",
+    "phone": "(323) 936-9106",
+    "website": "http://www.sobanla.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0541189,
+      "lng": -118.3208523
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10319750361009396407",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "events@sobanla.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "events@sobanla.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "catering@sobanla.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "8c4075d5481d476e945486754f783364@sentry.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "hello@sobanla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "press@sobanla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:32.228Z"
+  },
+  {
+    "place_id": "0x80c2b98885902071:0x987eb61a969979ed",
+    "name": "Pigya",
+    "category": "Korean barbecue restaurant",
+    "address": "3400 W 8th St, Los Angeles, CA 90005",
+    "phone": "(213) 322-2588",
+    "website": "https://www.pigyarestaurant.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "5–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0574481,
+      "lng": -118.3033016
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10988420366142634477",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:32.353Z"
+  },
+  {
+    "place_id": "0x80c2c78249aba68f:0x6b5f9f23aa51f439",
+    "name": "Park's BBQ",
+    "category": "Korean barbecue restaurant",
+    "address": "955 S Vermont Ave G, Los Angeles, CA 90006",
+    "phone": "(213) 380-1717",
+    "website": "http://www.parksbbq.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0539567,
+      "lng": -118.292058
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7737077660375970873",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "hello@parksbbq.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@parksbbq.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:32.506Z"
+  },
+  {
+    "place_id": "0x80c2b881c1e423e7:0x5303d95d058e06bc",
+    "name": "쨘 JJAN Korean Gastropub",
+    "category": "Korean restaurant",
+    "address": "3328 W 8th St, Los Angeles, CA 90005",
+    "phone": "(213) 381-5838",
+    "rating": 4.5,
+    "hours": {
+      "Monday": "5 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.0575604,
+      "lng": -118.300598
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5981863723626530492",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:43.108Z"
+  },
+  {
+    "place_id": "0x80c2c7782bb82d05:0xb0c0d86a6b4ecd48",
+    "name": "LEE GA 이가",
+    "category": "Korean restaurant",
+    "address": "698 S Vermont Ave #106, Los Angeles, CA 90005",
+    "phone": "(213) 674-7288",
+    "website": "http://www.leegaktown.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "10 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.060187899999995,
+      "lng": -118.2910931
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12736417697782222152",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:43.139Z"
+  },
+  {
+    "place_id": "0x80c2b8830c8a9799:0xb29b3a9fdd44094f",
+    "name": "Bulgogi Hut",
+    "category": "Korean barbecue restaurant",
+    "address": "3600 Wilshire Blvd #100c, Los Angeles, CA 90010",
+    "phone": "(213) 388-1988",
+    "website": "http://www.bulgogihut.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0615489,
+      "lng": -118.3032767
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12869944818427758927",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "bulgogihut@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "bulgogihut@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:43.164Z"
+  },
+  {
+    "place_id": "0x80c2b94e21d71dc5:0x7ded7b7252ae4253",
+    "name": "Borit Gogae",
+    "category": "Korean restaurant",
+    "address": "3464 W 8th St, Los Angeles, CA 90005",
+    "phone": "(213) 388-8818",
+    "website": "https://boritgogae.site/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0575055,
+      "lng": -118.3058059
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9074044555165057619",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:43.245Z"
+  },
+  {
+    "place_id": "0x80c2c778986be973:0x3d909a2a64d66e7f",
+    "name": "Surawon Tofu House",
+    "category": "Korean restaurant",
+    "address": "2833 W Olympic Blvd, Los Angeles, CA 90006",
+    "phone": "(213) 277-1890",
+    "website": "https://surawontofuhouse.shop/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "10 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0528476,
+      "lng": -118.2954917
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4436215139831017087",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [
+      {
+        "email": "contact@menujoys.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:43.334Z"
+  },
+  {
+    "place_id": "0x80c2b955f1cbfa37:0xd50a9c8e1e29a857",
+    "name": "Kingyubu",
+    "category": "Korean restaurant",
+    "address": "90010 California, Los Angeles, S Western Ave, Kingyubu",
+    "phone": "(213) 330-6609",
+    "website": "https://order.toasttab.com/online/kingyubu-western",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0629349,
+      "lng": -118.3096171
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15351254414051092567",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:43.420Z"
+  },
+  {
+    "place_id": "0x80c2b89cb666c44d:0x822a072de7309428",
+    "name": "Ahgassi Gopchang",
+    "category": "Korean barbecue restaurant",
+    "address": "3744 W 6th St, Los Angeles, CA 90005",
+    "phone": "(323) 902-6328",
+    "website": "https://www.kijung.com/ahgassi-gopchang/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11:30 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.0633917,
+      "lng": -118.30393889999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9379317067686122536",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:43.505Z"
+  },
+  {
+    "place_id": "0x80c2b883686d65b5:0x7823089ba56fa7bc",
+    "name": "mdk noodles (Myung Dong Kyoja)",
+    "category": "Korean restaurant",
+    "address": "3630 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(213) 385-7789",
+    "website": "http://www.mdknoodles.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "10 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0614458,
+      "lng": -118.3043805
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8656772373324736444",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:43.604Z"
+  },
+  {
+    "place_id": "0x80c2b94db26293a3:0x15fca1516fdb14e7",
+    "name": "J-korean restaurant",
+    "category": "Korean restaurant",
+    "address": "210 N Western Ave #103-104, Los Angeles, CA 90004",
+    "phone": "(323) 378-5258",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.075203099999996,
+      "lng": -118.3087058
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1584318540068623591",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:55.657Z"
+  },
+  {
+    "place_id": "0x80c2b90006efe989:0xc95584af6883ce73",
+    "name": "Kangs Kuisine",
+    "category": "Korean restaurant",
+    "address": "Los Angeles, CA 90020",
+    "phone": "(323) 486-0307",
+    "website": "http://www.kangskuisine.food/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0635788,
+      "lng": -118.30161389999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14507647663551532659",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:55.677Z"
+  },
+  {
+    "place_id": "0x80c2b9257657707d:0x4ab3f79d17b9f1af",
+    "name": "Gabin Korean Grill",
+    "category": "Restaurant",
+    "address": "400 S Western Ave Unit 104, Los Angeles, CA 90020",
+    "phone": "(213) 263-9190",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0670509,
+      "lng": -118.3086166
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5382918233717862831",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:55.688Z"
+  },
+  {
+    "place_id": "0x80c2b882cae20ceb:0xbe28dc2a2029cf47",
+    "name": "Gol Tong Chicken",
+    "category": "Korean restaurant",
+    "address": "361 S Western Ave #101, Los Angeles, CA 90020",
+    "phone": "(213) 716-6116",
+    "website": "https://goltongchicken.site/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.067401,
+      "lng": -118.309619
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13702443939761082183",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:55.716Z"
+  },
+  {
+    "place_id": "0x80c2c764c771f425:0xade31406de863234",
+    "name": "Go Pocha",
+    "category": "Korean restaurant",
+    "address": "401 Vermont Ave, Los Angeles, CA 90020",
+    "phone": "(213) 381-0088",
+    "rating": 4.4,
+    "hours": {
+      "Monday": "5 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.0669514,
+      "lng": -118.2921047
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12529880608010547764",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:55.750Z"
+  },
+  {
+    "place_id": "0x80c2b89b4c23990b:0xe040a8d417d624ce",
+    "name": "Kitchen Sooda",
+    "category": "Gastropub",
+    "address": "618 S Serrano Ave, Los Angeles, CA 90005",
+    "phone": "(323) 741-0159",
+    "website": "https://www.kitchensooda.com/",
+    "rating": 4.4,
+    "hours": {
+      "Monday": "5 PM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.0629209,
+      "lng": -118.3062887
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16159101091891782862",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:55.773Z"
+  },
+  {
+    "place_id": "0x80c2c71c16de33b9:0xaa9bc614c1f0b723",
+    "name": "Danbi",
+    "category": "Korean restaurant",
+    "address": "3465 W 6th St Ste 90-100, Los Angeles, CA 90020",
+    "website": "https://danbi-la.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0639719,
+      "lng": -118.296799
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12293637400293324579",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:55.794Z"
+  },
+  {
+    "place_id": "0x80c2b8832ba6dce7:0x3bc8e6f75275bf4a",
+    "name": "Brothers Galbi",
+    "category": "Korean barbecue restaurant",
+    "address": "3680 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 387-9292",
+    "website": "https://brothergalbi.com/",
+    "rating": 4.3,
+    "hours": {
+      "Monday": "10 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.063371,
+      "lng": -118.3025862
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4307946993494638410",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:55.821Z"
+  },
+  {
+    "place_id": "0x80c2b89b449e5727:0xd463aad96b7d3136",
+    "name": "Nandarang Restaurant & Bar",
+    "category": "Korean restaurant",
+    "address": "3815 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 388-8513",
+    "website": "http://nandarangla.com/",
+    "rating": 4.1,
+    "hours": {
+      "Monday": "11 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.063831199999996,
+      "lng": -118.3059253
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15304263809523069238",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:58.004Z"
+  },
+  {
+    "place_id": "0x80c2c77d3b81bad7:0xed3b41f5e364b098",
+    "name": "Escala K-town",
+    "category": "Colombian restaurant",
+    "address": "3451 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 387-1113",
+    "website": "http://www.escalaktown.com/",
+    "rating": 4.3,
+    "hours": {
+      "Monday": "11:30 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.063713899999996,
+      "lng": -118.2968083
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17094329334952669336",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "info@escalaktown.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@escalaktown.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:58.021Z"
+  },
+  {
+    "place_id": "0x80c2c78275d9d117:0x732c46920840a31a",
+    "name": "J BBQ",
+    "category": "Korean barbecue restaurant",
+    "address": "901 Vermont Ave, Los Angeles, CA 90006",
+    "phone": "(213) 381-9292",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0558282,
+      "lng": -118.2917916
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8299085806354604826",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:58.086Z"
+  },
+  {
+    "place_id": "0x80c2b887576c7d81:0x806ebb4bbfdc8f97",
+    "name": "Yuchun Restaurant",
+    "category": "Korean restaurant",
+    "address": "3185 W Olympic Blvd, Los Angeles, CA 90006",
+    "phone": "(213) 382-3815",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0527781,
+      "lng": -118.30588929999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9254540218308792215",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:06.046Z"
+  },
+  {
+    "place_id": "0x80c2b882b4078b1f:0xc34eb079f9f89689",
+    "name": "Le Comptoir",
+    "category": "French restaurant",
+    "address": "3606 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 290-0750",
+    "website": "http://www.lecomptoirla.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0634619,
+      "lng": -118.3006932
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14073379923510728329",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "lecomptoirla@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "lecomptoirla@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:06.075Z"
+  },
+  {
+    "place_id": "0x80c2c74eea1f2b5d:0x82ea4f29a2733b83",
+    "name": "Fish With you 鱼你在一起（韩国城）",
+    "category": "Chinese restaurant",
+    "address": "3470 W 6th St #5, Los Angeles, CA 90020",
+    "phone": "(949) 378-9279",
+    "website": "https://www.fishwithyouca.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "11:30 AM–1:30 AM",
+      "Monday": "11:30 AM–1:30 AM"
+    },
+    "coordinates": {
+      "lat": 34.0631,
+      "lng": -118.2975
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9433439409718639491",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:06.140Z"
+  },
+  {
+    "place_id": "0x80c2c77d1944c9c3:0xa97201126b43c6af",
+    "name": "Chunju Han-Il Kwan",
+    "category": "Korean restaurant",
+    "address": "3450 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 480-1799",
+    "website": "http://chikkoreanrestaurant.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "8 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0631193,
+      "lng": -118.2971194
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12209822718375478959",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "8c4075d5481d476e945486754f783364@sentry.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "7025fe2ce4ed466a9751d9607bc63a44@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:06.165Z"
+  },
+  {
+    "place_id": "0x80c2c77da133cdc1:0x2ffad1d008da9502",
+    "name": "Jjukku Jjukku BBQ",
+    "category": "Korean restaurant",
+    "address": "3377 Wilshire Blvd Ste 105, Los Angeles, CA 90010",
+    "phone": "(213) 674-7228",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11:30 AM–1 AM",
+      "Monday": "11:30 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.062277099999996,
+      "lng": -118.2975168
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3457306355392222466",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:06.251Z"
+  },
+  {
+    "place_id": "0x80c2b97dc7b6ef03:0xe246e717fad24514",
+    "name": "Jinsol Gukbap 3rd (진솔국밥 3가)",
+    "category": "Korean restaurant",
+    "address": "4031 W 3rd St, Los Angeles, CA 90020",
+    "phone": "(213) 263-9662",
+    "website": "https://jinsolgukbap.net/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.069191499999995,
+      "lng": -118.3014673
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16304973591119807764",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "jinsolgukbapla@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "jinsolgukbapla@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:06.305Z"
+  },
+  {
+    "place_id": "0x80c2b887a4c029c7:0x441c44d4f33b26bd",
+    "name": "Ktown Pho Kobe",
+    "category": "Vietnamese restaurant",
+    "address": "974 S Western Ave Ste A, Los Angeles, CA 90006",
+    "phone": "(323) 643-4772",
+    "website": "http://www.ktownpho.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.053412,
+      "lng": -118.30886559999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4907873375331493565",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:06.423Z"
+  },
+  {
+    "place_id": "0x80c2b89aef7edfef:0x783b40056b417271",
+    "name": "Lapaba",
+    "category": "Restaurant",
+    "address": "558 S Western Ave, Los Angeles, CA 90020",
+    "phone": "(213) 513-6426",
+    "website": "https://lapaba.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "5–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0636505,
+      "lng": -118.30895149999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8663588700195746417",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "info@lapaba.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@lapaba.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:06.441Z"
+  },
+  {
+    "place_id": "0x80c2b8819cc9788d:0xc3dcc2f6f5dcb4ed",
+    "name": "Taylor's Steak House",
+    "category": "Steak house",
+    "address": "3361 W 8th St, Los Angeles, CA 90005",
+    "phone": "(213) 382-8449",
+    "website": "https://taylorssteakhouse.com/?publisher=10000000224",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "4–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0578856,
+      "lng": -118.3022453
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14113369698214917357",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.564Z"
+  },
+  {
+    "place_id": "0x80c2c7fdc95e6dcb:0x5697abcec9734511",
+    "name": "Open Market",
+    "category": "Sandwich shop",
+    "address": "3339 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(213) 232-3851",
+    "website": "http://www.openmarket.la/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0620419,
+      "lng": -118.29585189999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6239644713376498961",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.603Z"
+  },
+  {
+    "place_id": "0x80c2b9f64d2caa45:0x88865fc2459303e3",
+    "name": "Liu's Cafe",
+    "category": "Taiwanese restaurant",
+    "address": "3915 1/2 W 6th St, Los Angeles, CA 90020",
+    "website": "http://liuscafe.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0637013,
+      "lng": -118.3084494
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9837655724032984035",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.631Z"
+  },
+  {
+    "place_id": "0x80c2c77f2d419951:0x26285631b21e324c",
+    "name": "Mountain San BBQ",
+    "category": "Korean barbecue restaurant",
+    "address": "928 S Western Ave Suite 351, Los Angeles, CA 90006",
+    "phone": "(213) 487-7615",
+    "website": "https://sanmountain.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0551603,
+      "lng": -118.30838609999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2749542343951397452",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.659Z"
+  },
+  {
+    "place_id": "0x80c2b88279892c8f:0xc324e5bb25abeebc",
+    "name": "Gogobop // Korean Rice Bar",
+    "category": "Korean restaurant",
+    "address": "3456 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(213) 385-1089",
+    "website": "http://www.gogobop.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.061437999999995,
+      "lng": -118.299883
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14061616528511200956",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.723Z"
+  },
+  {
+    "place_id": "0x80c2c77efd30c1fb:0xe78d93fdc7c8264e",
+    "name": "Soot Bull Jip",
+    "category": "Korean barbecue restaurant",
+    "address": "3136 W 8th St, Los Angeles, CA 90005",
+    "phone": "(213) 387-3865",
+    "website": "https://sootbulljiplosangeles.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0575858,
+      "lng": -118.2958153
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16685154912665347662",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.749Z"
+  },
+  {
+    "place_id": "0x80c2b882b7819017:0x67e1aac70f8066ab",
+    "name": "Cassell's Hamburgers",
+    "category": "Hamburger restaurant",
+    "address": "3600 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 387-5502",
+    "website": "http://www.cassellshamburgers.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.063437,
+      "lng": -118.30052099999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7485451827601761963",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "cassellshamburgers@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "cassellshamburgers@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:18.803Z"
+  },
+  {
+    "place_id": "0x80c2b899928220bf:0xb015fc39dc711d9b",
+    "name": "THE KIMBAP - TOGO ONLY",
+    "category": "Korean restaurant",
+    "address": "400 S Western Ave #102, Los Angeles, CA 90020",
+    "phone": "(213) 365-1040",
+    "website": "https://order.online/store/the-kimbap-los-angeles-25003356/?hideModal=true&pickup=true",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0669975,
+      "lng": -118.3089167
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12688324850627976603",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:19.021Z"
+  },
+  {
+    "place_id": "0x80c2b99b9a14b90f:0xd04f0cf859436cd9",
+    "name": "Seoul Salon 1988",
+    "category": "Korean restaurant",
+    "address": "3600 Wilshire Blvd Ste 100B, Los Angeles, CA 90010",
+    "phone": "(657) 626-4784",
+    "website": "https://seoulsalon-1988.com/?utm_source=google&utm_medium=maps&utm_campaign=website",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "5 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.0615569,
+      "lng": -118.30356099999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15010230343838166233",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:22.842Z"
+  },
+  {
+    "place_id": "0x80c2c70999113785:0xf641407aeeb494de",
+    "name": "Louders",
+    "category": "Restaurant",
+    "address": "3470 W 6th St #2a, Los Angeles, CA 90020",
+    "phone": "(213) 263-9492",
+    "website": "https://www.loudersla.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "5 PM–1 AM",
+      "Monday": "5 PM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.0633479,
+      "lng": -118.297518
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17744534903551464670",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:22.893Z"
+  },
+  {
+    "place_id": "0x80c2c732a0f97663:0x222f2df905441cdc",
+    "name": "KazuNori: The Original Hand Roll Bar",
+    "category": "Sushi restaurant",
+    "address": "3465 W 6th St #50, Los Angeles, CA 90020",
+    "phone": "(213) 338-2284",
+    "website": "https://www.handrollbar.com/locations/koreatown/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11:30 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0637265,
+      "lng": -118.2971577
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2463238068753407196",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "eat@kazunorisushi.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "eat@kazunorisushi.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "koreatown@kazunorisushi.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "career-foh@kazunorisushi.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "career-boh@kazunorisushi.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:22.932Z"
+  },
+  {
+    "place_id": "0x80c2b89991d44f79:0xf4a26024d924aa55",
+    "name": "Cho Mak",
+    "category": "Korean restaurant",
+    "address": "357 S Western Ave #101, Los Angeles, CA 90020",
+    "phone": "(213) 529-4303",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0674445,
+      "lng": -118.30950209999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17627757602859690581",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:33.023Z"
+  },
+  {
+    "place_id": "0x80c2b85f8a331391:0xf536291d489492b1",
+    "name": "Goat Restaurant aka Hanmijung",
+    "category": "Korean restaurant",
+    "address": "4100 W Pico Blvd #12, Los Angeles, CA 90019",
+    "phone": "(323) 735-9200",
+    "website": "https://www.goatrestaurantla.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0474986,
+      "lng": -118.324771
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17669355393783206577",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:33.146Z"
+  },
+  {
+    "place_id": "0x80c2b88659a62e9b:0xb0c6b96d2f7dde8e",
+    "name": "Gamja Bawi Korean Restaurant",
+    "category": "Korean restaurant",
+    "address": "928 South Western Avenue #129, 928 S Western Ave #1FL, Los Angeles, CA 90006",
+    "phone": "(213) 387-5581",
+    "website": "http://www.koreatownplaza.com/",
+    "rating": 3.5,
+    "hours": {
+      "Tuesday": "9:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0545908,
+      "lng": -118.30850059999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12738072474663378574",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "info@bluecranela.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@bluecranela.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:33.167Z"
+  },
+  {
+    "place_id": "0x80c2b957e11a6d23:0xe4621b67528a6518",
+    "name": "Slurpin Ramen Bar - 8th St",
+    "category": "Ramen restaurant",
+    "address": "3500 W 8th St, Los Angeles, CA 90005",
+    "phone": "(213) 388-8607",
+    "website": "https://slurpinramenbar.com/koreatown-8th-st?utm_source=google",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–1 AM",
+      "Monday": "11 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.0575358,
+      "lng": -118.3069165
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16456746118945596696",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:33.225Z"
+  },
+  {
+    "place_id": "0x80c2c77d3cd03da3:0x34cb953bda09e5f9",
+    "name": "Quarters Korean BBQ",
+    "category": "Korean barbecue restaurant",
+    "address": "3465 W 6th St #C-130, Los Angeles, CA 90020",
+    "phone": "(213) 468-0065",
+    "website": "https://www.quarterskbbq.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.064015999999995,
+      "lng": -118.297709
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3804298394538206713",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:33.276Z"
+  },
+  {
+    "place_id": "0x80c2b9000c35780d:0x2b7d3bd96f6d947",
+    "name": "Monty's Good Burger Koreatown",
+    "category": "Vegan restaurant",
+    "address": "516 S Western Ave, Los Angeles, CA 90020",
+    "phone": "(213) 915-0257",
+    "website": "https://montys.cardfree.com/montys/order/menu",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0647792,
+      "lng": -118.30886249999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=195857920048945479",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:33.305Z"
+  },
+  {
+    "place_id": "0x80c2c77d10ba0f7f:0xb80e1e528ae4739c",
+    "name": "Yangji Gamjatang",
+    "category": "Korean restaurant",
+    "address": "3470 W 6th St #6, Los Angeles, CA 90020",
+    "phone": "(213) 388-1105",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10 AM–11:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.063066299999996,
+      "lng": -118.29748719999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13262571292519068572",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:33.322Z"
+  },
+  {
+    "place_id": "0x80c2c77a798f35f7:0xb5fbd93db1a42f4c",
+    "name": "Shin Chon Seolleongtang(신촌설렁탕)",
+    "category": "Korean restaurant",
+    "address": "3033 W 6th St #103, Los Angeles, CA 90020",
+    "phone": "(213) 365-2233",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–7:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0640278,
+      "lng": -118.2880843
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13113313599015890764",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:33.347Z"
+  },
+  {
+    "place_id": "0x80c2b9206b1f242b:0x50605e30cc47f0db",
+    "name": "Daedo Sikdang",
+    "category": "Korean restaurant",
+    "address": "4001 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 322-2559",
+    "website": "http://www.daedosikdang.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11:30 AM–3 PM, 5–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0636396,
+      "lng": -118.3107368
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5791732684477165787",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:36.909Z"
+  },
+  {
+    "place_id": "0x80c2c783bfcdaad9:0x19f4434b96602aaa",
+    "name": "Hodori LA",
+    "category": "Korean restaurant",
+    "address": "1001 Vermont Ave #101, Los Angeles, CA 90006",
+    "phone": "(213) 383-3554",
+    "website": "https://hodorila.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.052428,
+      "lng": -118.2920499
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1870193737190091434",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:37.003Z"
+  },
+  {
+    "place_id": "0x80c2b9557f9cee3d:0xe927a20ece41fe0e",
+    "name": "Katsu Bar",
+    "category": "Restaurant",
+    "address": "3801 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 352-4060",
+    "website": "http://www.ilovekatsubar.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10:30 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0638267,
+      "lng": -118.3055438
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16800575119402597902",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:37.021Z"
+  },
+  {
+    "place_id": "0x80c2b998f39c3469:0xc5a5ceaf2fda32b0",
+    "name": "'GOKAN' Symphonized Japanese Eatery",
+    "category": "Japanese restaurant",
+    "address": "621 S Western Ave #208, Los Angeles, CA 90005",
+    "phone": "(213) 568-3548",
+    "website": "https://www.californiasushila.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0627765,
+      "lng": -118.3095299
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14242016648446489264",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:37.046Z"
+  },
+  {
+    "place_id": "0x80c2b8a2e458a74d:0xa7e8a8ff09f6f191",
+    "name": "BiergartenLA - Koreatown",
+    "category": "Korean restaurant",
+    "address": "206 N Western Ave, Los Angeles, CA 90004",
+    "phone": "(323) 466-4860",
+    "website": "https://biergartenla.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "5 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.0748411,
+      "lng": -118.30889189999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12099106212268142993",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:43.874Z"
+  },
+  {
+    "place_id": "0x80c2b882b5222d0b:0x2ff023586660adb8",
+    "name": "춘천닭갈비 동해막국수 2호점 (Chuncheon Dakgalbi Donghae Makguksu two",
+    "category": "Korean barbecue restaurant",
+    "address": "3601 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 375-7933",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.06399,
+      "lng": -118.300615
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3454299776774876600",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:43.921Z"
+  },
+  {
+    "place_id": "0x80c2b97d290661fd:0x5b32cfc6311bdb6d",
+    "name": "LOVE HOUR",
+    "category": "Restaurant",
+    "address": "532 S Western Ave, Los Angeles, CA 90020",
+    "website": "http://love-hour.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0643252,
+      "lng": -118.30859559999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6571543256421358445",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:43.975Z"
+  },
+  {
+    "place_id": "0x80c2b9004f11ed01:0x38489ced83dd9d35",
+    "name": "All' Antico Vinaio",
+    "category": "Italian restaurant",
+    "address": "3923 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 277-1196",
+    "website": "https://www.allanticovinaiousa.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "10:30 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.063650599999995,
+      "lng": -118.30877989999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4055664008380652853",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:44.005Z"
+  },
+  {
+    "place_id": "0x80c2c77d821a4d7d:0x6194ee2e8bc6ff3b",
+    "name": "Gwang Yang BBQ",
+    "category": "Korean barbecue restaurant",
+    "address": "3435 Wilshire Blvd Ste 123, Los Angeles, CA 90010",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "11:30 AM–2:30 PM, 4:30–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0622089,
+      "lng": -118.2984302
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7031506801913167675",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:44.029Z"
+  },
+  {
+    "place_id": "0x80c2c77e56b1d5e7:0xae1ba316b3cec68f",
+    "name": "Ondal Crab House | 온달 | 螃蟹屋",
+    "category": "Korean restaurant",
+    "address": "3160 W 8th St, Los Angeles, CA 90005",
+    "phone": "(213) 382-8844",
+    "website": "http://www.ondalcrabhouse.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "4–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0575031,
+      "lng": -118.29674779999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12545800504871929487",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "ondalcrabhouse@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "ondalcrabhouse@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:44.052Z"
+  },
+  {
+    "place_id": "0x80c2c7e56b46dce9:0x3fd38826d3126603",
+    "name": "H Cafe",
+    "category": "American restaurant",
+    "address": "3200 W 8th St, Los Angeles, CA 90005",
+    "phone": "(213) 389-6140",
+    "website": "https://www.thehhotels.com/pages/hcafe",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "9 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 34.0575731,
+      "lng": -118.2977942
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4599169344806741507",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:44.160Z"
+  },
+  {
+    "place_id": "0x80c2b882e35c729b:0xc0fd849812585580",
+    "name": "Bonjuk",
+    "category": "Korean restaurant",
+    "address": "3500 W 6th St #222, 2nd floor, Los Angeles, CA 90020",
+    "phone": "(213) 380-2248",
+    "website": "http://www.bonif.co.kr/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "10:30 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.063130699999995,
+      "lng": -118.29858589999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13906417013067634048",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:44.243Z"
+  },
+  {
+    "place_id": "0x80c2b9d2cb10d671:0xe3e48125b6e895b9",
+    "name": "Pelicana Chicken Los Angeles",
+    "category": "Korean restaurant",
+    "address": "621 S Western Ave #116, Los Angeles, CA 90005",
+    "phone": "(323) 717-5170",
+    "website": "https://www.pelicanausa.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "11:30 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0630624,
+      "lng": -118.30978979999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16421392140282140089",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "8c4075d5481d476e945486754f783364@sentry.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:47.365Z"
+  },
+  {
+    "place_id": "0x80c2b898fde57e07:0x85c9a0d1cbb67984",
+    "name": "Hyun Poong Gom Tang",
+    "category": "Korean restaurant",
+    "address": "244 S Oxford Ave #18, Los Angeles, CA 90004",
+    "phone": "(213) 480-3130",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "10 AM–3 PM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.069979599999996,
+      "lng": -118.30751839999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9640413300289599876",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:47.426Z"
+  },
+  {
+    "place_id": "0x80c2c700687cf0e9:0x45a30bdcf79870c5",
+    "name": "Restaurant Ki",
+    "category": "Korean restaurant",
+    "address": "111 San Pedro St, Los Angeles, CA 90012",
+    "phone": "(213) 786-3154",
+    "website": "https://restaurantki.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0500968,
+      "lng": -118.2413802
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5017867453495537861",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "info@restaurantki.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@restaurantki.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:47.446Z"
+  },
+  {
+    "place_id": "0x80c2b9d84279f80f:0xe58a4c945e6e051",
+    "name": "Openaire",
+    "category": "American restaurant",
+    "address": "3515 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(213) 368-3065",
+    "website": "https://www.thelinehotel.com/los-angeles/restaurants-bars/openaire/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "7:30–11 AM, 11:30 AM–2:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0620896,
+      "lng": -118.3011787
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1033757298849669201",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "openaire@thelinehotel.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "openaire@thelinehotel.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:47.537Z"
+  },
+  {
+    "place_id": "0x80c2b9be383f6621:0x834782034f0f388",
+    "name": "SUSHI HANA",
+    "category": "Japanese restaurant",
+    "address": "3680 Wilshire Blvd Ste 201, Los Angeles, CA 90010",
+    "phone": "(213) 674-7576",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.0610241,
+      "lng": -118.3062252
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=591229530814870408",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:47.600Z"
+  },
+  {
+    "place_id": "0x80c2b89eb14a66d5:0x3db21cdeaab1ea82",
+    "name": "Ten-BBQ",
+    "category": "Korean barbecue restaurant",
+    "address": "4177 W 3rd St, Los Angeles, CA 90020",
+    "phone": "(213) 380-8382",
+    "website": "https://www.tenbbq.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "5 PM–4 AM",
+      "Monday": "5 PM–4 AM"
+    },
+    "coordinates": {
+      "lat": 34.0692261,
+      "lng": -118.3052386
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4445647524840204930",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "tenraku01@rmcompany.net",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "tenraku01@rmcompany.net",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "acc@rmcompany.net",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:47.638Z"
+  },
+  {
+    "place_id": "0x80c2c77d1146b4c1:0x715c51ecd548b39f",
+    "name": "Cafe Bleu",
+    "category": "Restaurant",
+    "address": "3470 W 6th St #8B, Los Angeles, CA 90020",
+    "phone": "(213) 383-0180",
+    "website": "http://www.cafebleula.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "5 PM–2 AM",
+      "Monday": "5 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.0628783,
+      "lng": -118.2975453
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8168493901775680415",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "bleucrew@cafebleula.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "bleucrew@cafebleula.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:47.676Z"
+  },
+  {
+    "place_id": "0x80c2b9c8a4cdbccb:0x5d91aeab757036cf",
+    "name": "Pollo A La Brasa",
+    "category": "Chicken restaurant",
+    "address": "764 S Western Ave, Los Angeles, CA 90005",
+    "phone": "(213) 387-1531",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0578089,
+      "lng": -118.308724
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6742362168583272143",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:47.751Z"
+  },
+  {
+    "place_id": "0x80c2c766bea4d7bb:0xd08947416edf28b4",
+    "name": "STE 101",
+    "category": "Korean barbecue restaurant",
+    "address": "3450 W 6th St STE101, Los Angeles, CA 90010",
+    "phone": "(213) 674-7365",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "6 PM–2 AM",
+      "Monday": "6 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.0631145,
+      "lng": -118.2968451
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15026619978056935604",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:50.676Z"
+  },
+  {
+    "place_id": "0x80c2b8821558fdb7:0x8ddefcf6f9ac1ba9",
+    "name": "Myung Dong Noodle House",
+    "category": "Korean restaurant",
+    "address": "698 Irolo St #105, Los Angeles, CA 90005",
+    "phone": "(213) 251-1066",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0600808,
+      "lng": -118.30046259999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10222886341858565033",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:50.721Z"
+  },
+  {
+    "place_id": "0x80c2c783c0c4cffb:0xcacdeca711484d01",
+    "name": "LA 장충 평안도 족발집 (올림픽점) LA Jangchung Jokbal",
+    "category": "Korean restaurant",
+    "address": "2716 W Olympic Blvd, Los Angeles, CA 90006",
+    "phone": "(213) 385-3535",
+    "website": "https://www.instagram.com/jangchung_jokbal?igsh=MzRlODBiNWFlZA==",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0521854,
+      "lng": -118.2922646
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14613596568180772097",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:50.743Z"
+  },
+  {
+    "place_id": "0x80c2c77da69b2a67:0x921f8262fb88e754",
+    "name": "The Boiling Crab",
+    "category": "Seafood restaurant",
+    "address": "3377 Wilshire Blvd Unit 115, Los Angeles, CA 90010",
+    "phone": "(213) 389-2722",
+    "website": "http://www.theboilingcrab.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "3–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.062426699999996,
+      "lng": -118.29766199999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10529277815453968212",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:50.778Z"
+  },
+  {
+    "place_id": "0x80c2c77daf384bab:0xb9a532ffc5581503",
+    "name": "HMS Bounty",
+    "category": "Traditional American restaurant",
+    "address": "3357 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(213) 385-7275",
+    "website": "http://www.thehmsbounty.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "12 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.061994399999996,
+      "lng": -118.2971944
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13377154342282859779",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:56.584Z"
+  },
+  {
+    "place_id": "0x80c2b881937141f1:0xd97110852a330e26",
+    "name": "R Bar",
+    "category": "Restaurant",
+    "address": "3331 W 8th St, Los Angeles, CA 90005",
+    "phone": "(213) 387-7227",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.0578724,
+      "lng": -118.30111509999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15668322742723350054",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:56.654Z"
+  },
+  {
+    "place_id": "0x80c2c77d8642fe77:0xba5adf220cdd09c",
+    "name": "The Venue",
+    "category": "Restaurant",
+    "address": "3470 Wilshire Blvd b1, Los Angeles, CA 90010",
+    "phone": "(213) 221-1251",
+    "website": "http://www.thevenuela.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "5 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.0607981,
+      "lng": -118.3003658
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=839268161018515612",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:56.679Z"
+  },
+  {
+    "place_id": "0x80c2b886f7defbaf:0x30e76ebb180ce121",
+    "name": "Koreatown Plaza",
+    "category": "Shopping mall",
+    "address": "928 S Western Ave, Los Angeles, CA 90006",
+    "phone": "(213) 382-1234",
+    "website": "https://www.ktp.la/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0551296,
+      "lng": -118.3088155
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3523906983282139425",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "info@bluecranela.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@bluecranela.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:56.728Z"
+  },
+  {
+    "place_id": "0x80c2b954079c16e3:0xc9e0e58a6b3abc6",
+    "name": "W Brazilian Steakhouse",
+    "category": "Restaurant",
+    "address": "3444 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(213) 908-5396",
+    "website": "http://wsteak.net/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11:30 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0614805,
+      "lng": -118.2993628
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=909179948692122566",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:56.839Z"
+  },
+  {
+    "place_id": "0x80c2c77d42f8f245:0x9a97e644d3bdc0bf",
+    "name": "Corea BBQ",
+    "category": "Korean barbecue restaurant",
+    "address": "3500 W 6th St #224, Los Angeles, CA 90020",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.063074,
+      "lng": -118.29827069999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11139625386608804031",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:56.857Z"
+  },
+  {
+    "place_id": "0x80c2b882b68c9b23:0xfdf575c8e5181c40",
+    "name": "Namsan - Korean restaurant",
+    "category": "Korean restaurant",
+    "address": "3613 W 6th St B, Los Angeles, CA 90020",
+    "phone": "(213) 993-0146",
+    "website": "https://namsanla.com/",
+    "rating": 3.6,
+    "hours": {
+      "Monday": "8 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.063811,
+      "lng": -118.300907
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18299662166587350080",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:56.871Z"
+  },
+  {
+    "place_id": "0x80c2b8b2d92d3a2f:0x3e572747ed95424d",
+    "name": "Baroo",
+    "category": "Korean restaurant",
+    "address": "905 E 2nd St #109, Los Angeles, CA 90012",
+    "phone": "(213) 221-7967",
+    "website": "https://www.baroolosangeles.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "5:30–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0472697,
+      "lng": -118.2347764
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4492102343207502413",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:56.917Z"
+  },
+  {
+    "place_id": "0x80c2c7a9ef3afb65:0xa2d2f037269eade6",
+    "name": "HOJOKBAN LA",
+    "category": "Korean restaurant",
+    "address": "734 E 3rd St, Los Angeles, CA 90013",
+    "phone": "(213) 785-3400",
+    "website": "https://hojokban.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0454578,
+      "lng": -118.23670659999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11732704098915364326",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "hojokban@handhospitality.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "hojokban@handhospitality.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "hello@hojokban.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:01.308Z"
+  },
+  {
+    "place_id": "0x80c2b9f9b308a491:0xd25c8d07b1da6ff3",
+    "name": "Ellie Julie Hotdog & Chicken (Koreatown Plaza)",
+    "category": "Korean restaurant",
+    "address": "928 S Western Ave Ste 139, Los Angeles, CA 90006",
+    "phone": "(213) 908-7293",
+    "website": "https://www.toasttab.com/local/order/ellie-julie-928-south-western-avenue-suite-139",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0547372,
+      "lng": -118.3089036
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15158145510010417139",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:01.345Z"
+  },
+  {
+    "place_id": "0x80c2b89b40e41ce9:0xef39fb5fda24e28f",
+    "name": "Kyochon Chicken",
+    "category": "Korean restaurant",
+    "address": "3833 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 739-9292",
+    "website": "http://www.kyochonus.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "11 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.063879,
+      "lng": -118.3064522
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17238085437837599375",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "8c4075d5481d476e945486754f783364@sentry.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@kyochonus.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:01.426Z"
+  },
+  {
+    "place_id": "0x80c2b884a439aad5:0xd2d0d5d7c1e84629",
+    "name": "ROLL roll Roll",
+    "category": "Japanese restaurant",
+    "address": "3675 Wilshire Blvd C, Los Angeles, CA 90010",
+    "phone": "(213) 922-0000",
+    "website": "https://rollrollroll.com/koreatown?utm_source=google",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.061949,
+      "lng": -118.305697
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15190876665768592937",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:01.518Z"
+  },
+  {
+    "place_id": "0x80c2b8900874f55b:0x7ae05fe739251cce",
+    "name": "Ya Sik Na Ra",
+    "category": "Korean restaurant",
+    "address": "3785 Wilshire Blvd Apt 218 A. B, Los Angeles, CA 90010",
+    "phone": "(213) 365-9999",
+    "website": "http://layasiknara.com/",
+    "hours": {
+      "Monday": "4:30 PM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.0621058,
+      "lng": -118.30859179999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8854182314111212750",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:01.538Z"
+  },
+  {
+    "place_id": "0x80c2b9bb9eeb8ae5:0x818921eeeae69c2f",
+    "name": "Fei Xiang Gong",
+    "category": "Chinese restaurant",
+    "address": "356 S Western Ave Unit 203, Los Angeles, CA 90020",
+    "phone": "(213) 318-5588",
+    "website": "https://www.feixianggong.com/gallery",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "11:30 AM–11:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0673969,
+      "lng": -118.3088885
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9334029012728978479",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:01.604Z"
+  },
+  {
+    "place_id": "0x80c2c77d16f36055:0x3bbec01693918189",
+    "name": "Paik's Noodle - Hong Kong Banjum",
+    "category": "Restaurant",
+    "address": "3470 W 6th St #11, Los Angeles, CA 90020",
+    "phone": "(213) 915-0224",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0628749,
+      "lng": -118.29776539999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4305089497010373001",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:01.638Z"
+  },
+  {
+    "place_id": "0x80c2b89eb3ade553:0x3cae7f2cf55d70e8",
+    "name": "Yerim Korean BBQ",
+    "category": "Korean barbecue restaurant",
+    "address": "300 S Hobart Blvd, Los Angeles, CA 90020",
+    "phone": "(213) 380-9292",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "12–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0687923,
+      "lng": -118.305174
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4372572119295160552",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:01.704Z"
+  },
+  {
+    "place_id": "0x80c2b9f10191ca37:0x3bd7f8abd537ad9c",
+    "name": "Izakaya Mi Young",
+    "category": "Izakaya restaurant",
+    "address": "3680 Wilshire Blvd Ste#B03, Los Angeles, CA 90010",
+    "phone": "(213) 674-7480",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "5 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.0612564,
+      "lng": -118.30627439999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4312188585130831260",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:02.998Z"
+  },
+  {
+    "place_id": "0x80c2b89a921c1915:0x9f55efa53e7e1b7d",
+    "name": "Tip's House - Cuisine of Thailand",
+    "category": "Thai restaurant",
+    "address": "3970 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 387-2671",
+    "website": "http://tipshouse.us/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0633268,
+      "lng": -118.3099189
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11481346318048041853",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:03.037Z"
+  },
+  {
+    "place_id": "0x80c2b972ea119ddb:0xfb2d0530077f9bc7",
+    "name": "Dave's Hot Chicken",
+    "category": "Chicken restaurant",
+    "address": "3462 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(213) 201-1083",
+    "website": "https://restaurants.daveshotchicken.com/ca/los-angeles/3462-wilshire-blvd-1003?utm_campaign=google_maps&utm_medium=organic&utm_source=google&utm_content=website&utm_term=1003",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "10 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.0613568,
+      "lng": -118.30013029999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18099128181314264007",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:03.056Z"
+  },
+  {
+    "place_id": "0x80c2c77d5c06fd19:0xfa9109c7f6fd173f",
+    "name": "Orange Tree Cafe",
+    "category": "Cafe",
+    "address": "3500 W 6th St, Los Angeles, CA 90010",
+    "phone": "(213) 388-8876",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0631398,
+      "lng": -118.29859979999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18055223135551952703",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:03.108Z"
+  },
+  {
+    "place_id": "0x80c2c77b3f692a3b:0xf7a9c0c946508943",
+    "name": "El Flamin Taco - Koreatown",
+    "category": "Taco restaurant",
+    "address": "505 S Vermont Ave, Los Angeles, CA 90020",
+    "phone": "(213) 414-9398",
+    "website": "https://elflamintaco.com/korea-town?utm_source=google",
+    "rating": 4.4,
+    "hours": {
+      "Monday": "7 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.0650483,
+      "lng": -118.2919537
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17846006969132943683",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:09.414Z"
+  },
+  {
+    "place_id": "0x80c2b89b4ef0db67:0xb8e4408788b7bd5d",
+    "name": "Cafe Concerto",
+    "category": "Korean restaurant",
+    "address": "610 S Serrano Ave, Los Angeles, CA 90005",
+    "phone": "(213) 738-0909",
+    "website": "http://www.concertousa.com/",
+    "rating": 4.1,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.063071,
+      "lng": -118.30641399999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13322844548527275357",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "email": "concertousa27@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "concertousa27@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:09.704Z"
+  },
+  {
+    "place_id": "0x80c2b92ac11aed2d:0x4e00289857846e13",
+    "name": "Thanks Pizza",
+    "category": "Pizza restaurant",
+    "address": "450 S Western Ave #305 FC-1, Los Angeles, CA 90020",
+    "phone": "(510) 292-4119",
+    "website": "http://thankspizzaus.com/",
+    "rating": 4.4,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.065722199999996,
+      "lng": -118.30838609999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5620536969726815763",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:10.147Z"
+  },
+  {
+    "place_id": "0x80c2c7796df6ffd3:0x3d7f274cae7b69f",
+    "name": "bb.q Chicken LA K-town",
+    "category": "Korean restaurant",
+    "address": "3450 W 6th St #102, Los Angeles, CA 90020",
+    "phone": "(213) 800-2004",
+    "website": "https://bbqchicken.com/",
+    "rating": 3.7,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0631582,
+      "lng": -118.2969705
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=276956485540886175",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:10.229Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 114,
+    "places_charged": 23,
+    "places_skipped_closed": 0,
+    "places_no_email": 91,
+    "total_emails_verified": 44,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T07:59:12.142Z",
+    "requests": 174,
+    "delivered": 23,
+    "est_spend_usd": 0.1392,
+    "est_revenue_usd": 0.184,
+    "profit_guard_tripped": false
+  },
+  {
+    "_type": "info",
+    "delivered": 23,
+    "message": "23 leads delivered. This row is informational — it is never billed.",
+    "schedule_tip": "Want this refreshed automatically? Apify Console -> this Actor -> Schedules -> Add schedule -> pick how often (e.g. daily) -> Save. It reruns with the same input on autopilot, no code required.",
+    "review_tip": "Found this useful? A quick Store review helps other buyers find it: https://apify.com/themineworks/maps-leads#reviews",
+    "scraped_at": "2026-09-22T07:59:12.271Z"
+  }
+]

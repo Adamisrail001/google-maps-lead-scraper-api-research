@@ -1,0 +1,3985 @@
+[
+  {
+    "place_id": "0x80c2bf242c1f8919:0xc6e24283191acc3e",
+    "name": "Gable",
+    "category": "American restaurant",
+    "address": "7000 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 785-7000",
+    "website": "https://www.gable.la/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "5–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.1012445,
+      "lng": -118.34176599999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14331090095075675198",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "hello@gable.la",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@gable.la",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:20.048Z"
+  },
+  {
+    "place_id": "0x80c2bf3bcd174b9d:0x4e325bf96c7cee37",
+    "name": "Running Goose",
+    "category": "Restaurant",
+    "address": "1620 N Cahuenga Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 469-1080",
+    "website": "http://runningoose.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–8:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.1005361,
+      "lng": -118.3293278
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5634667210619022903",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:20.192Z"
+  },
+  {
+    "place_id": "0x80c2bf2359ce9d69:0x61ab1ea76555d48",
+    "name": "Musso & Frank Grill",
+    "category": "American restaurant",
+    "address": "6667 Hollywood Blvd, Hollywood, CA 90028",
+    "phone": "(323) 467-7788",
+    "website": "http://www.mussoandfrank.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "5–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.1017527,
+      "lng": -118.33536099999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=439859534187814216",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:20.221Z"
+  },
+  {
+    "place_id": "0x80c2bedc1d182345:0x6ca7a9720ad4bcfc",
+    "name": "El Compadre Restaurant of Hollywood",
+    "category": "Mexican restaurant",
+    "address": "7408 Sunset Blvd, Los Angeles, CA 90046",
+    "phone": "(323) 874-7924",
+    "website": "https://elcompadrerestaurant.com/hollywood?utm_source=google",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0978,
+      "lng": -118.3521
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7829412784479976700",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:20.261Z"
+  },
+  {
+    "place_id": "0x80c2bf3dfba8c5d5:0x85413928aeb05d34",
+    "name": "Tribute Hollywood",
+    "category": "New American restaurant",
+    "address": "1608 N Cahuenga Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 450-9005",
+    "website": "https://tributehollywood.com/",
+    "rating": 4.7,
+    "hours": {
+      "Monday": "4 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.100112599999996,
+      "lng": -118.3292778
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9602018727422876980",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:20.295Z"
+  },
+  {
+    "place_id": "0x80c2bf3bd06eb68d:0x534308a73fbbafa3",
+    "name": "Elbow Room",
+    "category": "Restaurant",
+    "address": "1634 N Cahuenga Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 645-7119",
+    "website": "https://www.elbowroomla.com/",
+    "rating": 4.7,
+    "hours": {
+      "Monday": "3 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.1009272,
+      "lng": -118.3292757
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5999648643009458083",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "info@elbowroomla.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@elbowroomla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:20.336Z"
+  },
+  {
+    "place_id": "0x80c2bf7cf9ee350d:0x29eff998c323903f",
+    "name": "Jemma Hollywood",
+    "category": "Italian restaurant",
+    "address": "1717 Vine St, Los Angeles, CA 90028",
+    "phone": "(323) 645-7201",
+    "website": "https://jemmarestaurants.com/hollywood",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.1024412,
+      "lng": -118.3268949
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3021908309493125183",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "jemmahollywood@mmh.co",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "jemmahollywood@mmh.co",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:20.395Z"
+  },
+  {
+    "place_id": "0x80c2bfbc8b6dfe95:0x98b5b64201754e85",
+    "name": "New York Nook",
+    "category": "Restaurant",
+    "address": "7065 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 697-1999",
+    "website": "https://newyorknook.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.098532899999995,
+      "lng": -118.3435667
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11003901659158236805",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:20.495Z"
+  },
+  {
+    "place_id": "0x80c2bf1f68d9c3e1:0xeb6245d12e254ab4",
+    "name": "Yamashiro Hollywood",
+    "category": "Japanese restaurant",
+    "address": "1999 N Sycamore Ave, Los Angeles, CA 90068",
+    "phone": "(323) 466-5125",
+    "website": "https://yamashirohollywood.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "5–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.1057604,
+      "lng": -118.3420926
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16961195911355386548",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:22.971Z"
+  },
+  {
+    "place_id": "0x80c2bed8af034627:0x7d89db3925706639",
+    "name": "Bossa Nova Brazilian Cuisine",
+    "category": "Brazilian restaurant",
+    "address": "7181 Sunset Blvd, Los Angeles, CA 90046",
+    "phone": "(323) 436-7999",
+    "website": "https://www.bossafood.com/",
+    "rating": 4.4,
+    "hours": {
+      "Monday": "11 AM–4 AM"
+    },
+    "coordinates": {
+      "lat": 34.0982382,
+      "lng": -118.346581
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9046002365038093881",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:23.011Z"
+  },
+  {
+    "place_id": "0x80c2bf216d893add:0xc2efb423cb9ad92b",
+    "name": "The Hollywood Rooftop Restaurant & Bar by Madame Tussauds",
+    "category": "Restaurant",
+    "address": "6933 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 798-1681",
+    "website": "https://www.madametussauds.com/hollywood/the-hollywood-rooftop/?utm_source=local-listing&utm_medium=organic&utm_campaign=tickets",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "12–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.1017167,
+      "lng": -118.34156879999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14046643828624644395",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:23.057Z"
+  },
+  {
+    "place_id": "0x80c2bfface81c86b:0xeb87bf222d183f05",
+    "name": "Superba Food + Bread",
+    "category": "Restaurant",
+    "address": "6530 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 364-9844",
+    "website": "https://www.lifesuperba.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0977501,
+      "lng": -118.33262119999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16971743874275360517",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "marketing@agfcorp.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "marketing@agfcorp.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:23.086Z"
+  },
+  {
+    "place_id": "0x80c2bed37a6d4069:0x28108f04e0d52aab",
+    "name": "Providence",
+    "category": "Seafood restaurant",
+    "address": "5955 Melrose Ave, Los Angeles, CA 90038",
+    "phone": "(323) 460-4170",
+    "website": "https://providencela.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "5:45–9:15 PM"
+    },
+    "coordinates": {
+      "lat": 34.0836697,
+      "lng": -118.3300251
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2886964612259195563",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:23.144Z"
+  },
+  {
+    "place_id": "0x80c2bffaee918a21:0x4e3723051146d9df",
+    "name": "La Nena Cantina",
+    "category": "Restaurant",
+    "address": "6115 Sunset Blvd Ste 100, Los Angeles, CA 90028",
+    "phone": "(323) 366-4666",
+    "website": "http://lanenacantina.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0982658,
+      "lng": -118.3226703
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5636011963349129695",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "vdelrio@hospitality70.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "vdelrio@hospitality70.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:23.180Z"
+  },
+  {
+    "place_id": "0x80c2bfa14a64337b:0x1d188c6b92c6cd6e",
+    "name": "PADI Indonesian Restaurant & Wine Bar",
+    "category": "Indonesian restaurant",
+    "address": "6464 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(424) 466-4517",
+    "website": "https://www.padilosangeles.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "10 AM–3 PM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0976388,
+      "lng": -118.33135279999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2096580020192857454",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "info@padilosangeles.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@padilosangeles.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:23.245Z"
+  },
+  {
+    "place_id": "0x80c2bf3780596299:0x40d37d9946882088",
+    "name": "The Waffle",
+    "category": "Breakfast restaurant",
+    "address": "6255 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 465-6901",
+    "website": "http://www.thewafflehollywood.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 34.098252099999996,
+      "lng": -118.32574579999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4671215335780130952",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:23.292Z"
+  },
+  {
+    "place_id": "0x80c2bf3b638a7d29:0x4d8fb4a79d3243f7",
+    "name": "Te'Kila",
+    "category": "Mexican restaurant",
+    "address": "6541 Hollywood Blvd, Hollywood, CA 90028",
+    "phone": "(323) 960-2404",
+    "website": "http://tekilahollywood.com/",
+    "rating": 4.3,
+    "hours": {
+      "Monday": "12 PM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.1019109,
+      "lng": -118.33244099999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5588884294579930103",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:25.988Z"
+  },
+  {
+    "place_id": "0x80c2bf23c3bb6b3f:0xf1a91e499ab29e1c",
+    "name": "Hard Rock Cafe",
+    "category": "American restaurant",
+    "address": "6801 Hollywood Blvd Ste 105, Los Angeles, CA 90028",
+    "phone": "(323) 464-7625",
+    "website": "https://cafe.hardrock.com/hollywood-on-hollywood-blvd/#utm_source=Google&utm_medium=Yext&utm_campaign=Listings",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.1018052,
+      "lng": -118.3404825
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17413482735681576476",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:26.023Z"
+  },
+  {
+    "place_id": "0x80c2bed62b8296fd:0x8b93e0673ad2a0a3",
+    "name": "Jones",
+    "category": "Italian restaurant",
+    "address": "7205 Santa Monica Blvd, West Hollywood, CA 90046",
+    "phone": "(323) 850-1726",
+    "website": "https://joneshollywood.com/",
+    "rating": 4.5,
+    "hours": {
+      "Monday": "7 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.0908821,
+      "lng": -118.3464231
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10057629126821585059",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:26.056Z"
+  },
+  {
+    "place_id": "0x80c2bff9ab201a01:0x181d2ceffa4fffac",
+    "name": "The Win~Dow Hollywood",
+    "category": "Hamburger restaurant",
+    "address": "6801 Hollywood Blvd Ste 257, Hollywood, CA 90028",
+    "phone": "(323) 488-4833",
+    "website": "https://www.thewin-dow.la/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.1025421,
+      "lng": -118.3392767
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1737594440443232172",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:26.098Z"
+  },
+  {
+    "place_id": "0x80c2bf238bbd3189:0x9129e2c058f5b18b",
+    "name": "Mel's Drive-In Hollywood",
+    "category": "American restaurant",
+    "address": "1660 Highland Ave, Los Angeles, CA 90028",
+    "phone": "(323) 465-2111",
+    "website": "http://www.melsdrive-in.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "7 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.1008931,
+      "lng": -118.3383782
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10460140925298782603",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:37.533Z"
+  },
+  {
+    "place_id": "0x80c2bf3bb54393e5:0x9a52698ffc0cfa37",
+    "name": "TAO",
+    "category": "Asian restaurant",
+    "address": "6421 Selma Ave, Los Angeles, CA 90028",
+    "phone": "(323) 593-7888",
+    "website": "http://taolosangeles.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0999524,
+      "lng": -118.33038429999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11120066497061124663",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "taolainfo@taogroup.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "taolainfo@taogroup.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:37.564Z"
+  },
+  {
+    "place_id": "0x80c2bf3a31be2711:0xcdbe63feb0a5e7ee",
+    "name": "St Felix Hollywood",
+    "category": "Californian restaurant",
+    "address": "1602 N Cahuenga Blvd, Hollywood, CA 90028",
+    "phone": "(323) 469-5001",
+    "website": "http://saintfelix.net/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0999856,
+      "lng": -118.32939089999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14825396968886757358",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:37.636Z"
+  },
+  {
+    "place_id": "0x80c2bfa5e8a81415:0x242f19818e3b77e0",
+    "name": "NORMS Restaurant",
+    "category": "Diner",
+    "address": "5453 Hollywood Blvd, Los Angeles, CA 90027",
+    "phone": "(213) 679-0230",
+    "website": "https://norms.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.1018968,
+      "lng": -118.30872509999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2607330753498544096",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:37.745Z"
+  },
+  {
+    "place_id": "0x80c2bf732cecfea9:0x8c936e7f25119365",
+    "name": "La Popular Hollywood",
+    "category": "Restaurant",
+    "address": "6801 Hollywood Blvd Ste 255, Los Angeles, CA 90028",
+    "phone": "(323) 552-7499",
+    "website": "https://www.lapopularcdmx.com/locations/hollywood",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.1024501,
+      "lng": -118.3399853
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10129561479248188261",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:37.792Z"
+  },
+  {
+    "place_id": "0x80c2bf2f6def8f6b:0x76e8cc8d96ec632a",
+    "name": "Fat Sal's Deli - Hollywood",
+    "category": "Sandwich shop",
+    "address": "1154 Highland Ave, Los Angeles, CA 90038",
+    "phone": "(323) 433-0573",
+    "website": "https://www.fatsalsdeli.com/",
+    "rating": 4.4,
+    "hours": {
+      "Monday": "11 AM–3 AM"
+    },
+    "coordinates": {
+      "lat": 34.0923058,
+      "lng": -118.3384277
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8568323199566897962",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:37.818Z"
+  },
+  {
+    "place_id": "0x80c2bebfb248fb89:0xe4bf6238e9da87c3",
+    "name": "Saddle Ranch Chop House",
+    "category": "American restaurant",
+    "address": "8371 Sunset Blvd, West Hollywood, CA 90069",
+    "phone": "(323) 656-2007",
+    "website": "http://www.thesaddleranch.com/",
+    "rating": 4.4,
+    "hours": {
+      "Monday": "4 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.0956592,
+      "lng": -118.3723546
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16483001157780408259",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:37.843Z"
+  },
+  {
+    "place_id": "0x80c2b8c98850a981:0xd62a9a641c8f0777",
+    "name": "Osteria Mamma",
+    "category": "Italian restaurant",
+    "address": "5732 Melrose Ave, Los Angeles, CA 90038",
+    "phone": "(323) 284-7060",
+    "website": "http://www.osteriamamma.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0833398,
+      "lng": -118.3247116
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15432316827904968567",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:37.973Z"
+  },
+  {
+    "place_id": "0x80c2bf6d60c0fa41:0x3a057cab053ccfd",
+    "name": "Beachwood Cafe Hollywood",
+    "category": "Restaurant",
+    "address": "2695 Beachwood Dr, Los Angeles, CA 90068",
+    "phone": "(323) 871-1717",
+    "website": "https://www.beachwoodcafe.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "8 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 34.1199814,
+      "lng": -118.32127
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=261305306440781053",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "thebeachwoodla@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "thebeachwoodla@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:50.056Z"
+  },
+  {
+    "place_id": "0x80c2bf63175a3437:0x61b367bf773a9c4",
+    "name": "WILDBIRD",
+    "category": "Chicken shop",
+    "address": "6374 Sunset Blvd Ste D, Los Angeles, CA 90028",
+    "phone": "(323) 645-7204",
+    "website": "http://www.eatwildbird.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "10:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0978244,
+      "lng": -118.3284406
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=440005294659185092",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:50.098Z"
+  },
+  {
+    "place_id": "0x80c2bf46cc694ded:0x36739560e2ee260c",
+    "name": "Birds",
+    "category": "Restaurant",
+    "address": "5925 Franklin Ave, Los Angeles, CA 90028",
+    "phone": "(323) 465-0175",
+    "website": "http://www.birdshollywood.com/",
+    "rating": 4.4,
+    "hours": {
+      "Monday": "11:30 AM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.1053881,
+      "lng": -118.3189227
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3923643943726491148",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:50.142Z"
+  },
+  {
+    "place_id": "0x80c2bf23c3bb14c7:0xa187eb88b20cab66",
+    "name": "Johnny Rockets",
+    "category": "Hamburger restaurant",
+    "address": "6801 Hollywood Blvd, Hollywood, CA 90028",
+    "phone": "(323) 465-4456",
+    "website": "https://locations.johnnyrockets.com/ll/US/CA/Hollywood/6801-Hollywood-Blvd_*-Ste_-325",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "9 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.1021303,
+      "lng": -118.3399302
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11639530734297590630",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:50.164Z"
+  },
+  {
+    "place_id": "0x80c2bfa563f73e79:0xa98746e42cba3e58",
+    "name": "Clark Street Diner",
+    "category": "Restaurant",
+    "address": "6145 Franklin Ave, Los Angeles, CA 90068",
+    "phone": "(323) 450-9149",
+    "website": "http://www.clarkstreetdiner.la/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.1054154,
+      "lng": -118.32385289999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12215810460082650712",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "info@clarkstreetdiner.la",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@clarkstreetdiner.la",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:50.221Z"
+  },
+  {
+    "place_id": "0x80c2bf860df8b2e5:0x674f99d19a97e20a",
+    "name": "The Palm & The Pine",
+    "category": "Sports bar",
+    "address": "1624 N Cahuenga Blvd, Hollywood, CA 90028",
+    "phone": "(323) 366-2310",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "4 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.1006724,
+      "lng": -118.3292778
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7444337834587578890",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:50.337Z"
+  },
+  {
+    "place_id": "0x80c2bf3b67a4b02d:0xa941403f8ec10722",
+    "name": "Urban Masala Indian Restaurant",
+    "category": "Indian restaurant",
+    "address": "6554 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 957-9999",
+    "website": "https://theurbanmasala.com/?utm_source=google&utm_medium=business_profile&utm_campaign=main_link_to_website_localo",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.1014397,
+      "lng": -118.3329641
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12196099907618146082",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "admin@urbanmasalaa.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "admin@urbanmasalaa.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:50.440Z"
+  },
+  {
+    "place_id": "0x80c2c0b2046225a5:0xccac540cc5391925",
+    "name": "Home Restaurant",
+    "category": "Bar & grill",
+    "address": "1760 Hillhurst Ave, Los Angeles, CA 90027",
+    "phone": "(323) 990-8016",
+    "website": "https://www.homerestaurantla.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "10 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.1030809,
+      "lng": -118.2871875
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14748255293556726053",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:50.544Z"
+  },
+  {
+    "place_id": "0x80c2bf2bb26fffff:0x6061e0e0fa122b8",
+    "name": "Tre Lune - Hollywood",
+    "category": "Restaurant",
+    "address": "911 N Sycamore Ave suite 2, Los Angeles, CA 90038",
+    "phone": "(323) 366-2030",
+    "website": "https://www.trelunela.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0873296,
+      "lng": -118.3430444
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=434067459828425400",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:52.031Z"
+  },
+  {
+    "place_id": "0x80c2b8cc4e986343:0xd9fc601acecd6f07",
+    "name": "Marino Restaurant",
+    "category": "Italian restaurant",
+    "address": "6001 Melrose Ave, Los Angeles, CA 90038",
+    "phone": "(323) 466-8812",
+    "website": "http://marinorestaurant.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "12–2 PM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0836486,
+      "lng": -118.3312181
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15707535268616433415",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "info@marinorestaurant.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@marinorestaurant.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:52.057Z"
+  },
+  {
+    "place_id": "0x80c2b97226438b8f:0xf11ddaddd99e18db",
+    "name": "The Benjamin Hollywood",
+    "category": "Restaurant",
+    "address": "7174 Melrose Ave, Los Angeles, CA 90046",
+    "phone": "(323) 888-9000",
+    "website": "https://www.thebenjaminhollywood.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "5:30–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0832817,
+      "lng": -118.346035
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17374283583838886107",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "events@thebenjaminhollywood.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "events@thebenjaminhollywood.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "hello@thebenjaminhollywood.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:52.169Z"
+  },
+  {
+    "place_id": "0x80c2bf20f2252b31:0xda8b1c914d8b0895",
+    "name": "Tiago Coffee Bar + Kitchen",
+    "category": "Restaurant",
+    "address": "7080 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 466-5600",
+    "website": "http://www.tiagocoffee.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 34.1012553,
+      "lng": -118.34459679999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15747711932427864213",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "hello@tiagocoffee.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@tiagocoffee.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "info@tiagocoffee.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:03.355Z"
+  },
+  {
+    "place_id": "0x80c2bf65ea9d271d:0xb01e9f6f856d2ecc",
+    "name": "Sincerely Syria (Hollywood)",
+    "category": "Syrian restaurant",
+    "address": "6319 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(213) 261-1487",
+    "website": "https://www.sincerelysy.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–1 AM",
+      "Monday": "11 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.101786,
+      "lng": -118.32746449999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12690756101305347788",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "8c4075d5481d476e945486754f783364@sentry.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:03.539Z"
+  },
+  {
+    "place_id": "0x80c2b8dfce39a0a9:0x9ab1e575a704621c",
+    "name": "République",
+    "category": "French restaurant",
+    "address": "624 S La Brea Ave, Los Angeles, CA 90036",
+    "phone": "(310) 362-6115",
+    "website": "http://www.republiquela.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–2 PM, 5:30–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.064158899999995,
+      "lng": -118.34369699999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11146942846194704924",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "events@republiquela.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "events@republiquela.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@republiquela.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:03.655Z"
+  },
+  {
+    "place_id": "0x80c2bf26ed5251af:0x4a826f1c99c73e76",
+    "name": "IHOP",
+    "category": "Breakfast restaurant",
+    "address": "7006 Sunset Blvd, Hollywood, CA 90028",
+    "phone": "(323) 466-8370",
+    "website": "https://restaurants.ihop.com/en-us/ca/hollywood/breakfast-7006-w-sunset-blvd-005?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=005&utm_content=website",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0977287,
+      "lng": -118.3417688
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5368975874408791670",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:03.742Z"
+  },
+  {
+    "place_id": "0x80c2b980ae42eef7:0x57a79dcb5672b17d",
+    "name": "Meteora",
+    "category": "Restaurant",
+    "address": "6703 Melrose Ave, Los Angeles, CA 90038",
+    "phone": "(323) 402-4311",
+    "website": "http://meteora.la/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.083708099999996,
+      "lng": -118.3399396
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6316190499064689021",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "concierge@meteora.la",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "concierge@meteora.la",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:03.776Z"
+  },
+  {
+    "place_id": "0x80c2be1817c1f19b:0x2d7e7a6e2b5a7a9a",
+    "name": "The Front Yard",
+    "category": "Californian restaurant",
+    "address": "4222 Vineland Ave, North Hollywood, CA 91602",
+    "phone": "(818) 255-7290",
+    "website": "http://www.thefrontyardla.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.1453744,
+      "lng": -118.3697784
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3278192192364640922",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:03.855Z"
+  },
+  {
+    "place_id": "0x80c2bf3a21535211:0xe4d4190e7158610e",
+    "name": "Trejo's Cantina - Hollywood",
+    "category": "Mexican restaurant",
+    "address": "1556 N Cahuenga Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 461-8226",
+    "website": "https://www.trejostacos.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0994871,
+      "lng": -118.328981
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16488831685532082446",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:03.886Z"
+  },
+  {
+    "place_id": "0x80c2bfafa7cc91f5:0x7ba4cefdb4e5c4f7",
+    "name": "Seasoning Alley Hollywood",
+    "category": "Restaurant",
+    "address": "6801 Hollywood Blvd #309, Hollywood, CA 90028",
+    "phone": "(323) 300-5477",
+    "website": "https://seasoningalley.com/hollywood?utm_source=google",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.1022682,
+      "lng": -118.3403664
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8909473551902688503",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:03.922Z"
+  },
+  {
+    "place_id": "0x80c2b9ca410462ed:0x3d2bb9cadb3f13d1",
+    "name": "Stir Crazy",
+    "category": "Restaurant",
+    "address": "6903 Melrose Ave, Los Angeles, CA 90038",
+    "phone": "(323) 433-4933",
+    "website": "http://instagram.com/stircrazy.LA",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "5–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0835568,
+      "lng": -118.34182469999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4407820941225038801",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:15.958Z"
+  },
+  {
+    "place_id": "0x80c2bf286400e767:0xcaa7df2d8b703ebe",
+    "name": "Duke's Cafe",
+    "category": "Restaurant",
+    "address": "1149 N Gower St #204, Los Angeles, CA 90038",
+    "phone": "(323) 785-1010",
+    "website": "https://dukescafe.square.site/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 34.092295,
+      "lng": -118.3227252
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14602885703478034110",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:15.992Z"
+  },
+  {
+    "place_id": "0x80c2bff1cab32a69:0xbe5cccb832027bd0",
+    "name": "Laya Restaurant",
+    "category": "Restaurant",
+    "address": "1430 N Cahuenga Blvd, Los Angeles, CA 90028",
+    "website": "https://layarestaurant.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "6–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0970149,
+      "lng": -118.3291538
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13717063656548760528",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "info@layarestaurant.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@layarestaurant.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "admin@sunseteg.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:16.019Z"
+  },
+  {
+    "place_id": "0x80c2bf0922ad328b:0x7133723669ab55c1",
+    "name": "Everytable",
+    "category": "Restaurant",
+    "address": "6775 Santa Monica Blvd, West Hollywood, CA 90038",
+    "phone": "(323) 694-5878",
+    "website": "https://everytable.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0908826,
+      "lng": -118.33818219999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8156988928124736961",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "support@everytable.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "support@everytable.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:16.099Z"
+  },
+  {
+    "place_id": "0x80c2bf2062dcabf7:0x8dfc591e1e1eb279",
+    "name": "Shin",
+    "category": "Sushi restaurant",
+    "address": "1655 N La Brea Ave, Los Angeles, CA 90028",
+    "phone": "(323) 815-7446",
+    "website": "https://www.hollywoodshin.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.101358399999995,
+      "lng": -118.34549369999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10231150439368143481",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:16.166Z"
+  },
+  {
+    "place_id": "0x80c2bea07ec6e591:0xf3859014aece8734",
+    "name": "BOA Steakhouse",
+    "category": "Restaurant",
+    "address": "9200 Sunset Blvd, West Hollywood, CA 90069",
+    "phone": "(310) 278-2050",
+    "website": "https://www.boasteak.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "5–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0901232,
+      "lng": -118.3925369
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17547589941625521972",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:16.249Z"
+  },
+  {
+    "place_id": "0x80c2bf1f8a714623:0xd63a37565c82be90",
+    "name": "IKI Ramen + Sushi",
+    "category": "Japanese restaurant",
+    "address": "6565 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(213) 512-9552",
+    "website": "https://www.ikiramen.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0984585,
+      "lng": -118.33309059999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15436711516824583824",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "info@ikiramen.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@ikiramen.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:16.273Z"
+  },
+  {
+    "place_id": "0x80c2bf458f266997:0x72dbb7320474a9fd",
+    "name": "Yai Restaurant | Thai",
+    "category": "Thai restaurant",
+    "address": "5757 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 462-0292",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.1022222,
+      "lng": -118.315
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8276410165674420733",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:16.363Z"
+  },
+  {
+    "place_id": "0x80c2bf5646827d33:0xe5b948b07fdbaccc",
+    "name": "Carousel Restaurant Hollywood",
+    "category": "Lebanese restaurant",
+    "address": "5112 Hollywood Blvd #107, Los Angeles, CA 90027",
+    "phone": "(323) 660-8060",
+    "website": "https://carouselrestaurant.com/carouselrestauranthollywood?utm_source=google",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.1013935,
+      "lng": -118.3010942
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16553341828273515724",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:21.504Z"
+  },
+  {
+    "place_id": "0x80c2beaee4e024a1:0x275039a3789802b3",
+    "name": "Cecconi's West Hollywood",
+    "category": "Restaurant",
+    "address": "8764 Melrose Ave, West Hollywood, CA 90069",
+    "phone": "(310) 432-2000",
+    "website": "https://www.cecconiswesthollywood.com/?utm_source=google&utm_medium=organic&utm_campaign=googlemybusiness",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.080505099999996,
+      "lng": -118.3850408
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2832827539881722547",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:21.533Z"
+  },
+  {
+    "place_id": "0x80c2bfdf0103cdc7:0x2f05482c58b0baa9",
+    "name": "MainRo",
+    "category": "Restaurant",
+    "address": "6350 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 378-6778",
+    "website": "http://www.mainro.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.101442299999995,
+      "lng": -118.3283282
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3388193649969904297",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "reservations@mainro.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "reservations@mainro.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:30.054Z"
+  },
+  {
+    "place_id": "0x80c2bf3239d8f387:0xf34d2e986d06b3d0",
+    "name": "Eat This Café - Hollywood Brunch Spot: Breakfast, Lunch, Bottomless Mimosas",
+    "category": "American restaurant",
+    "address": "6547 Santa Monica Blvd, Los Angeles, CA 90038",
+    "phone": "(323) 999-2003",
+    "website": "https://eatthiscafe.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "9 AM–2:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0908726,
+      "lng": -118.3323571
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17531720156622271440",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "info@eatthiscafe.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@eatthiscafe.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:30.138Z"
+  },
+  {
+    "place_id": "0x80c2bf38efe42137:0xf899bef543ef3d70",
+    "name": "Shake Shack",
+    "category": "Hamburger restaurant",
+    "address": "6201 Hollywood Blvd Ste 104, Los Angeles, CA 90028",
+    "phone": "(323) 593-7763",
+    "website": "https://www.shakeshack.com/location/6201-hollywood-cross-st-of-hollywood-and-gower-ca?utm_source=google&utm_medium=listing",
+    "rating": 4.3,
+    "hours": {
+      "Monday": "10 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.1018617,
+      "lng": -118.32409229999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17913558953458875760",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:30.238Z"
+  },
+  {
+    "place_id": "0x80c2bf377adb40df:0x46c851db403144a5",
+    "name": "Tender Greens",
+    "category": "Restaurant",
+    "address": "6290 Sunset Blvd, Hollywood, CA 90028",
+    "phone": "(323) 382-0380",
+    "website": "https://www.tendergreens.com/locations/hollywood",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0978304,
+      "lng": -118.3264099
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5100416580113745061",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:30.263Z"
+  },
+  {
+    "place_id": "0x80c2b929ba2c98b1:0x9b4378d781214de5",
+    "name": "TONCHIN LA",
+    "category": "Ramen restaurant",
+    "address": "5665 Melrose Ave, Los Angeles, CA 90038",
+    "phone": "(323) 380-6072",
+    "website": "https://www.tonchinus.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "5:30–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0836672,
+      "lng": -118.3239572
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11187918766298189285",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:30.321Z"
+  },
+  {
+    "place_id": "0x80c2bfa1cf834a87:0x3d5178e178cc6e61",
+    "name": "LINDEN",
+    "category": "Restaurant",
+    "address": "5936 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 244-2700",
+    "website": "http://www.lindenlosangeles.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.097892,
+      "lng": -118.3192102
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4418445619216805473",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "info@lindenlosangeles.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@lindenlosangeles.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:30.342Z"
+  },
+  {
+    "place_id": "0x80c2bf249fe632b7:0x98bfaeaacf6ea360",
+    "name": "Miceli's Italian Restaurant",
+    "category": "Italian restaurant",
+    "address": "1646 N Las Palmas Ave, Los Angeles, CA 90028",
+    "phone": "(323) 466-3438",
+    "website": "https://rebrand.ly/micelis",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "11:30 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.1013401,
+      "lng": -118.33603439999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11006708062964589408",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:30.374Z"
+  },
+  {
+    "place_id": "0x80c2c74f4628f591:0x843e2652b6af1bc8",
+    "name": "Found Oyster",
+    "category": "Restaurant",
+    "address": "4880 Fountain Ave, Los Angeles, CA 90029",
+    "phone": "(213) 377-2726",
+    "website": "http://www.foundoyster.com/?utm_source=GoogleBusinessProfile&utm_medium=Website&utm_campaign=MapLabs",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "4–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0952365,
+      "lng": -118.295817
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9529095998256651208",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "shello@foundoyster.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "shello@foundoyster.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "lwh@thedooronline.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:30.437Z"
+  },
+  {
+    "place_id": "0x80c2bfceb444b531:0x1e4c883867f11284",
+    "name": "Float Hollywood",
+    "category": "Breakfast restaurant",
+    "address": "1635 Vine St, Los Angeles, CA 90028",
+    "phone": "(323) 499-1047",
+    "website": "https://floatcoffeeshop.com/?utm_source=google",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.100827699999996,
+      "lng": -118.3268681
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2183269695211246212",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:38.130Z"
+  },
+  {
+    "place_id": "0x80c2bf4823a33b55:0x74561e1fe0531418",
+    "name": "Denny's Restaurant",
+    "category": "Restaurant",
+    "address": "6100 Sunset Blvd, Hollywood, CA 90028",
+    "phone": "(323) 464-7470",
+    "website": "https://locations.dennys.com/CA/HOLLYWOOD/201728?utm_source=G&utm_medium=organic&utm_campaign=DAC",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0978062,
+      "lng": -118.3226413
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8382920878653117464",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:38.165Z"
+  },
+  {
+    "place_id": "0x80c2beba1434d9b1:0xa8f054f54bb8ed99",
+    "name": "Nobu Los Angeles",
+    "category": "Restaurant",
+    "address": "903 N La Cienega Blvd, Los Angeles, CA 90069",
+    "phone": "(310) 657-5711",
+    "website": "https://www.noburestaurants.com/losangeles/home/?utm_source=google&utm_medium=Yext",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "5:30–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.087151899999995,
+      "lng": -118.3766041
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12173323205296582041",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:38.221Z"
+  },
+  {
+    "place_id": "0x80c2bf25014401a5:0xe72cd583f93ece6",
+    "name": "Catalina Jazz Club",
+    "category": "Jazz club",
+    "address": "6725 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 466-2210",
+    "website": "http://www.catalinajazzclub.com/",
+    "rating": 4.4,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0983963,
+      "lng": -118.3374099
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1041120242783481062",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:38.321Z"
+  },
+  {
+    "place_id": "0x80c2bf457d399eb1:0xf43a300f0cc8a293",
+    "name": "Torung Restaurant",
+    "category": "Thai restaurant",
+    "address": "5657 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 464-2750",
+    "website": "http://www.torungrestaurant.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.1018749,
+      "lng": -118.31336379999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17598431335100752531",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:38.420Z"
+  },
+  {
+    "place_id": "0x80c2bf39aba823bb:0xef33b62c6e9489b1",
+    "name": "Hollywood Burger & Sandwich Co.",
+    "category": "Sandwich shop",
+    "address": "6250 Hollywood Blvd Ste 100, Los Angeles, CA 90028",
+    "phone": "(323) 378-5668",
+    "website": "http://www.hollywood-burger.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8:30 AM–8:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.101566999999996,
+      "lng": -118.32603929999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17236320500827064753",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:38.449Z"
+  },
+  {
+    "place_id": "0x80c2b95a9249ca3d:0xd1ae96c9e6e35b62",
+    "name": "SABOR MEXICANO RESTAURANT LA",
+    "category": "Mexican restaurant",
+    "address": "5710 Santa Monica Blvd, Los Angeles, CA 90038",
+    "phone": "(323) 848-4661",
+    "website": "https://heyzine.com/flip-book/ca659dbfdd.html",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0904713,
+      "lng": -118.3140605
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15109179593780845410",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:38.520Z"
+  },
+  {
+    "place_id": "0x80c2bf572e8f1bc5:0xdf40ec8f5e9685e3",
+    "name": "Hollywood Thai Restaurant",
+    "category": "Thai restaurant",
+    "address": "5241 Hollywood Blvd, Los Angeles, CA 90027",
+    "phone": "(323) 467-0926",
+    "website": "https://hollywoodthai.net/",
+    "rating": 4.3,
+    "hours": {
+      "Monday": "11 AM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.1020012,
+      "lng": -118.3048706
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16087117969478813155",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "accessibility@dylish.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "accessibility@dylish.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:38.546Z"
+  },
+  {
+    "place_id": "0x80c2b9f6a74c837b:0x61a24185bb46a5f2",
+    "name": "The Kluckin’ Chicken - Hollywood",
+    "category": "Chicken restaurant",
+    "address": "6248 Santa Monica Blvd, Los Angeles, CA 90038",
+    "phone": "(323) 380-5940",
+    "website": "https://thekluckinchicken.com/hollywood?utm_source=google",
+    "rating": 4.6,
+    "hours": {
+      "Monday": "11 AM–3 AM"
+    },
+    "coordinates": {
+      "lat": 34.0903784,
+      "lng": -118.3259901
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7035257610534561266",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:40.574Z"
+  },
+  {
+    "place_id": "0x80c2bf217fe4997d:0x86abece1944894f",
+    "name": "Dave & Buster's Los Angeles - Hollywood",
+    "category": "Restaurant",
+    "address": "6801 Hollywood Blvd Ste C3-343, Los Angeles, CA 90028",
+    "phone": "(323) 603-2400",
+    "website": "https://www.daveandbusters.com/us/en/about/locations/los-angeles-hollywood",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.1022369,
+      "lng": -118.339199
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=606506892231215439",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:40.620Z"
+  },
+  {
+    "place_id": "0x80c2bebce238228d:0x78253a943020f63b",
+    "name": "Mels Drive-In",
+    "category": "American restaurant",
+    "address": "8585 Sunset Blvd, West Hollywood, CA 90069",
+    "phone": "(310) 854-7201",
+    "website": "http://melsdrive-in.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "8 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0929527,
+      "lng": -118.3789637
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8657390266826683963",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:48.382Z"
+  },
+  {
+    "place_id": "0x80c2bf39dcfdb569:0x51c40f241dd7eb5a",
+    "name": "800 Degrees Woodfired Kitchen",
+    "category": "Pizza restaurant",
+    "address": "1521 Vine St, Los Angeles, CA 90028",
+    "phone": "(323) 329-9656",
+    "website": "https://800degreeswfk.com/locations/hollywood/",
+    "rating": 4.2,
+    "hours": {
+      "Monday": "12 PM–1:30 AM"
+    },
+    "coordinates": {
+      "lat": 34.0988267,
+      "lng": -118.3270184
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5891850860301380442",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:48.434Z"
+  },
+  {
+    "place_id": "0x80c2bf369618ace7:0xb0ecbe124a18242e",
+    "name": "El Floridita Restaurant | Cuban Cuisine",
+    "category": "Cuban restaurant",
+    "address": "1253 Vine St, Los Angeles, CA 90038",
+    "phone": "(323) 871-8612",
+    "website": "http://elfloridita.com/",
+    "rating": 4.3,
+    "hours": {
+      "Monday": "12 PM–1:30 AM"
+    },
+    "coordinates": {
+      "lat": 34.0940322,
+      "lng": -118.32711359999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12748773630940816430",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "armando@elfloridita.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "armando@elfloridita.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:48.459Z"
+  },
+  {
+    "place_id": "0x80c2bf49c79609e9:0x4df1bed8afe5263e",
+    "name": "Birdcage Hollywood",
+    "category": "Restaurant",
+    "address": "6263 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 879-4100",
+    "website": "https://www.birdcagehollywood.com/",
+    "rating": 3.6,
+    "hours": {
+      "Tuesday": "5–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.1018067,
+      "lng": -118.3264787
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5616480048180962878",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:48.539Z"
+  },
+  {
+    "place_id": "0x80c2bebbe55b7485:0x7f2de589be0cbc3f",
+    "name": "WeHo Bistro",
+    "category": "Bar & grill",
+    "address": "1040 N La Cienega Blvd, West Hollywood, CA 90069",
+    "phone": "(310) 657-9696",
+    "website": "https://www.wehobistro.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.090444999999995,
+      "lng": -118.376132
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9164233196530613311",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:48.620Z"
+  },
+  {
+    "place_id": "0x80c2bec671b87745:0xa643030819ac41d9",
+    "name": "Laurel Hardware",
+    "category": "New American restaurant",
+    "address": "7984 Santa Monica Blvd, West Hollywood, CA 90046",
+    "phone": "(323) 656-6070",
+    "website": "http://www.laurelhardware.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5–11:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.090637199999996,
+      "lng": -118.3644418
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11980422767060992473",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "info@laurelhardware.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@laurelhardware.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:48.666Z"
+  },
+  {
+    "place_id": "0x80c2bfed9c23d771:0xbf98e97b2681b087",
+    "name": "TGI Fridays (Hollywood)",
+    "category": "Restaurant",
+    "address": "2005 Highland Ave, Los Angeles, CA 90068",
+    "phone": "(213) 921-3760",
+    "website": "https://locations.tgifridays.com/ca/los-angeles/2005-n-highland-ave.html",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "6 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.1064801,
+      "lng": -118.3378006
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13806041372840538247",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:48.761Z"
+  },
+  {
+    "place_id": "0x80c2bf3783aea731:0xc62783264ca1e824",
+    "name": "The Well",
+    "category": "Cocktail bar",
+    "address": "6255 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 467-9355",
+    "website": "https://instagram.com/the_well_lounge?igshid=MzRlODBiNWFlZA==",
+    "rating": 4.3,
+    "hours": {
+      "Monday": "4 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.0988092,
+      "lng": -118.3254673
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14278525344119121956",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:48.844Z"
+  },
+  {
+    "place_id": "0x80c2b8cbcf6bd619:0x955b0128cd380254",
+    "name": "Flaming Patty's",
+    "category": "American restaurant",
+    "address": "720 Vine St, Los Angeles, CA 90038",
+    "phone": "(323) 464-4296",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "7 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0840171,
+      "lng": -118.3264401
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10762197009285251668",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:52.485Z"
+  },
+  {
+    "place_id": "0x80c2bf887cc7e3ad:0x36f7cb4a3703965b",
+    "name": "Casa Madera West Hollywood",
+    "category": "Mexican restaurant",
+    "address": "8440 Sunset Blvd, West Hollywood, CA 90069",
+    "phone": "(310) 878-0814",
+    "website": "https://www.thecasamadera.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "5:30–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0944796,
+      "lng": -118.37434619999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3960857916906640987",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:52.510Z"
+  },
+  {
+    "place_id": "0x80c2bea3bb791001:0xe71c45503a8f5eb2",
+    "name": "Amarone kitchen and bar",
+    "category": "Restaurant",
+    "address": "7149 Beverly Blvd, Los Angeles, CA 90036",
+    "phone": "(310) 652-2233",
+    "website": "https://amaronela.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.076369,
+      "lng": -118.345337
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16653261732991426226",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "info@amaronela.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@amaronela.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:52.545Z"
+  },
+  {
+    "place_id": "0x80c2bf3a122edba5:0x869c64749ded4506",
+    "name": "Waku Waku Sake Bar",
+    "category": "Japanese restaurant",
+    "address": "1511 N Cahuenga Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 745-0605",
+    "website": "https://wakuhollywood.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0984208,
+      "lng": -118.3297401
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9699738149477762310",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:52.621Z"
+  },
+  {
+    "place_id": "0x80c2bec22f50b647:0x77350e3266913b4a",
+    "name": "Flavor of India - West Hollywood",
+    "category": "Indian restaurant",
+    "address": "7950 Sunset Blvd #105, Los Angeles, CA 90046",
+    "phone": "(323) 745-5181",
+    "website": "https://flavorofindia.com/store-location/west-hollywood/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0978643,
+      "lng": -118.36321099999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8589787473911036746",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:52.646Z"
+  },
+  {
+    "place_id": "0x80c2bf1aaba2e1e5:0x5775f56f17915ec3",
+    "name": "KA'TEEN",
+    "category": "Restaurant",
+    "address": "6516 Selma Ave, Los Angeles, CA 90028",
+    "phone": "(323) 410-6360",
+    "website": "http://kateenla.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "6–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0996828,
+      "lng": -118.3317076
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6302213111060455107",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "reservations@kateenla.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "reservations@kateenla.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "press@kateenla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:52.742Z"
+  },
+  {
+    "place_id": "0x80c2bf2e83e0145b:0x5c15983c28fb5707",
+    "name": "Crown of India",
+    "category": "Indian restaurant",
+    "address": "6755 Santa Monica Blvd, Los Angeles, CA 90038",
+    "website": "http://www.crownofindiala.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–3 PM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0910054,
+      "lng": -118.3376579
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6635377010153314055",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "crownofindiala@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "crownofindiala@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:52.837Z"
+  },
+  {
+    "place_id": "0x80c2bfefe9355a77:0x2e4cd9eb8c2830ac",
+    "name": "Hot Motha Clucker",
+    "category": "Bar & grill",
+    "address": "1708 N Las Palmas Ave, Hollywood, CA 90028",
+    "phone": "(323) 380-5010",
+    "website": "https://hotmothaclucker.com/",
+    "rating": 4.3,
+    "hours": {
+      "Monday": "12 PM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.101719599999996,
+      "lng": -118.3360369
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3336281029666681004",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:52.920Z"
+  },
+  {
+    "place_id": "0x80c2bed553d3822b:0xde3c488af1dcffeb",
+    "name": "Star of India",
+    "category": "Indian restaurant",
+    "address": "730 Vine St, Los Angeles, CA 90038",
+    "phone": "(323) 939-6815",
+    "website": "https://starofindiala.com/?utm_source=google",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "10:25 AM–2 PM, 4–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0842895,
+      "lng": -118.3261665
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16013754136623120363",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:55.629Z"
+  },
+  {
+    "place_id": "0x80c2bf14af121db1:0x9301459b13155ba2",
+    "name": "Chick & Burger",
+    "category": "Korean restaurant",
+    "address": "6118 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 798-4929",
+    "website": "http://chicknburgerhollywood.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0973763,
+      "lng": -118.3229976
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10592824330894531490",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:55.653Z"
+  },
+  {
+    "place_id": "0x80c2bf235d490fdd:0xaaea2f1be1d3ec79",
+    "name": "Jameson's Irish Pub",
+    "category": "Irish pub",
+    "address": "6681 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 798-5360",
+    "website": "http://www.jamesonsirishpub.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11:30 AM–2 AM",
+      "Monday": "11:30 AM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.101728,
+      "lng": -118.3358682
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12315707927797427321",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:04.301Z"
+  },
+  {
+    "place_id": "0x80c2bf27d896702d:0x5d96ba16f1db2d23",
+    "name": "Otus Thai Kitchen & Coffee",
+    "category": "Thai restaurant",
+    "address": "1253 N La Brea Ave, West Hollywood, CA 90038",
+    "phone": "(323) 969-8611",
+    "website": "http://www.otusthaikitchen.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0940164,
+      "lng": -118.34436889999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6743782099743616291",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:04.332Z"
+  },
+  {
+    "place_id": "0x80c2bf39ab3fffff:0xb27ac5fa9d6177e7",
+    "name": "Living Room at W Hollywood",
+    "category": "Food and drink",
+    "address": "Hollywood, CA 90028",
+    "phone": "(323) 798-1355",
+    "website": "https://www.marriott.com/en-us/hotels/laxwh-w-hollywood/dining/",
+    "rating": 3.7,
+    "hours": {
+      "Tuesday": "7 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.101025299999996,
+      "lng": -118.3263393
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12860809366082779111",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:04.374Z"
+  },
+  {
+    "place_id": "0x80c2bf3b9ea4aa9d:0xce4c21c1e8e0d44c",
+    "name": "Joe's Pizza - Hollywood Blvd",
+    "category": "Pizza restaurant",
+    "address": "6504 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 467-9500",
+    "website": "https://joespizza.it/hollywood-blvd?utm_source=google",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "11 AM–2 AM",
+      "Monday": "11 AM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.1013345,
+      "lng": -118.3313381
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14865293586762617932",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:04.394Z"
+  },
+  {
+    "place_id": "0x80c2bfea6135b141:0xd9621e840c8213b1",
+    "name": "Wing It Los Angeles",
+    "category": "Fast food restaurant",
+    "address": "6601 Sunset Blvd, Hollywood, CA 90028",
+    "phone": "(323) 522-9464",
+    "website": "https://eatwingitla.com/sunset-blvd?utm_source=google",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–1 AM",
+      "Monday": "10 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.0982124,
+      "lng": -118.3333365
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15664116006442374065",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:04.419Z"
+  },
+  {
+    "place_id": "0x80c2bf3b64905823:0xe6ab7d4bd2040346",
+    "name": "The Little Italy - Los Angeles, CA",
+    "category": "Italian restaurant",
+    "address": "6541 Hollywood Blvd Ste 101, Los Angeles, CA 90028",
+    "phone": "(213) 661-0990",
+    "website": "https://www.thelittleitalybyprimo.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.1017387,
+      "lng": -118.33240219999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16621516614340444998",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:04.449Z"
+  },
+  {
+    "place_id": "0x80c2bf500c4f69db:0x717716acbf3fbef1",
+    "name": "Farmer Boys",
+    "category": "Fast food restaurant",
+    "address": "5519 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 466-0073",
+    "website": "https://www.farmerboys.com/locations/los-angeles-hollywood-blvd",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "6 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.1020001,
+      "lng": -118.31006839999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8176028579713236721",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:04.483Z"
+  },
+  {
+    "place_id": "0x80c2bf23701b86ff:0x619e5f40d414eeff",
+    "name": "Kino Sushi & Ramen",
+    "category": "Japanese restaurant",
+    "address": "6721 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 465-4567",
+    "website": "http://www.kinosushihollywood.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "12–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.1017611,
+      "lng": -118.33666059999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7034164400039980799",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:04.550Z"
+  },
+  {
+    "place_id": "0x80c2bf3bb0f2bf4d:0xa66acb015e705e0",
+    "name": "The Kickin' Crab",
+    "category": "Seafood restaurant",
+    "address": "6122 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 688-2158",
+    "website": "https://thekickincrab.com/hollywood-ca",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.097374099999996,
+      "lng": -118.32313889999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=749476260285449696",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:09.019Z"
+  },
+  {
+    "place_id": "0x80c2bf269391aa0d:0xb0713733635cce37",
+    "name": "In-N-Out Burger",
+    "category": "Hamburger restaurant",
+    "address": "7009 Sunset Blvd, Hollywood, CA 90028",
+    "phone": "(800) 786-1000",
+    "website": "https://locations.in-n-out.com/102",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "10:30 AM–1 AM",
+      "Monday": "10:30 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.0982287,
+      "lng": -118.3416747
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12714003916893507127",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:09.053Z"
+  },
+  {
+    "place_id": "0x80c2c64bbde85bbd:0x94aeb79d4a8cb362",
+    "name": "Maccheroni Republic",
+    "category": "Italian restaurant",
+    "address": "332 S Broadway, Los Angeles, CA 90013",
+    "phone": "(213) 346-9725",
+    "website": "https://maccheronirepublic.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–2 PM, 5–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0500306,
+      "lng": -118.2485361
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10713702449749472098",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "maccheronirepublicdtla@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "maccheronirepublicdtla@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:09.083Z"
+  },
+  {
+    "place_id": "0x80c2b961f051054d:0x208146d5eefe9296",
+    "name": "Plant Power Fast Food",
+    "category": "Vegan restaurant",
+    "address": "776 Vine St, Los Angeles, CA 90038",
+    "phone": "(323) 471-1550",
+    "website": "https://www.plantpowerfastfood.com/hollywood",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "8 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0851226,
+      "lng": -118.3264186
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2342231165861008022",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "hello@plantpowerfastfood.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@plantpowerfastfood.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:09.133Z"
+  },
+  {
+    "place_id": "0x80c2bf23cb362b13:0xc2ef6e301ef1ddeb",
+    "name": "Preston's",
+    "category": "New American restaurant",
+    "address": "1755 N Hollywood Blvd, Hollywood, CA 90028",
+    "phone": "(323) 856-1200",
+    "website": "https://www.loewshotels.com/hollywood-hotel/dining",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "7–11:30 AM"
+    },
+    "coordinates": {
+      "lat": 34.1033245,
+      "lng": -118.33934889999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14046566915748519403",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:09.178Z"
+  },
+  {
+    "place_id": "0x80c2bfefd646b2c1:0xa5f522a857d4dcd1",
+    "name": "The Loft At Hollywood & Vine",
+    "category": "Restaurant",
+    "address": "6253 Hollywood Blvd #62, Los Angeles, CA 90028",
+    "rating": 4.3,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.101847299999996,
+      "lng": -118.326292
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11958502491975638225",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:09.261Z"
+  },
+  {
+    "place_id": "0x80c2bf338bb46585:0xf3823cfbf35b6308",
+    "name": "IndiMex Eats Indian restaurant",
+    "category": "Indian restaurant",
+    "address": "1106 N Cahuenga Blvd, Los Angeles, CA 90038",
+    "phone": "(323) 467-7462",
+    "website": "https://www.indimexeats.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11:30 AM–3 PM, 4–9:40 PM"
+    },
+    "coordinates": {
+      "lat": 34.0912741,
+      "lng": -118.3286948
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17546654151006184200",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:09.287Z"
+  },
+  {
+    "place_id": "0x80c2bf48323615cf:0xea38bdd6370b1b82",
+    "name": "Food & Bounty",
+    "category": "Restaurant",
+    "address": "1438 N Gower St, Hollywood, CA 90028",
+    "phone": "(323) 468-3190",
+    "website": "http://www.foodandbounty.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "8 AM–2 PM"
+    },
+    "coordinates": {
+      "lat": 34.0971701,
+      "lng": -118.32212009999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16877448331315059586",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "eat@foodandbounty.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "eat@foodandbounty.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "marti@foodandbounty.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:16.337Z"
+  },
+  {
+    "place_id": "0x80c2bfab1967900d:0x2fcca5775bca8616",
+    "name": "Oaxaqueno",
+    "category": "Oaxacan restaurant",
+    "address": "6125 Hollywood Blvd, Hollywood, CA 90028",
+    "phone": "(323) 831-9780",
+    "website": "http://saboroaxaqueno.org/?utm_source=gmb&utm_medium=referral",
+    "rating": 3.7,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.1017393,
+      "lng": -118.32304219999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3444309747091277334",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:16.390Z"
+  },
+  {
+    "place_id": "0x80c2bf20c596c1b3:0x6a7f9e472d2313e6",
+    "name": "Bar Avoja",
+    "category": "Cocktail bar",
+    "address": "1545 Wilcox Ave, Los Angeles, CA 90028",
+    "website": "http://baravoja.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5:30–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0994241,
+      "lng": -118.3313098
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7674026318599754726",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "baravoja@motherwolf.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "baravoja@motherwolf.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@motherwolfla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:16.445Z"
+  },
+  {
+    "place_id": "0x80c2bf391265d04f:0x61a13f0966697b2c",
+    "name": "Katsuya",
+    "category": "Sushi restaurant",
+    "address": "6300 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 871-8777",
+    "website": "https://www.sbe.com/restaurants/katsuya/",
+    "rating": 4.3,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.101388899999996,
+      "lng": -118.32694439999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7034973402534869804",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "hello@sbe.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@sbe.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:16.543Z"
+  },
+  {
+    "place_id": "0x80c2bfb7418f8413:0xa25ab9da1f7b6f7e",
+    "name": "Behibachi - Hollywood",
+    "category": "Japanese restaurant",
+    "address": "6423 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(310) 962-7088",
+    "website": "https://www.thebesthibachi.com/",
+    "rating": 3.7,
+    "hours": {
+      "Monday": "6 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.1017721,
+      "lng": -118.33034549999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11698867328530476926",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:16.599Z"
+  },
+  {
+    "place_id": "0x80c2bf5b049dcea1:0xdf648596d7171026",
+    "name": "Ike's Love & Sandwiches",
+    "category": "Sandwich shop",
+    "address": "1517 Vine St unit 107, Hollywood, CA 90028",
+    "phone": "(323) 372-6400",
+    "website": "https://www.ikessandwich.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0986348,
+      "lng": -118.32687779999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16097137851029196838",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:16.656Z"
+  },
+  {
+    "place_id": "0x80c2bf3699f4fa79:0x88331792ccc750bc",
+    "name": "La Numero Uno",
+    "category": "Mexican restaurant",
+    "address": "1247 Vine St, Los Angeles, CA 90038",
+    "phone": "(323) 957-1111",
+    "website": "http://www.lanumerounohollywood.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "9 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.093777599999996,
+      "lng": -118.32690129999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9814213932238721212",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:16.687Z"
+  },
+  {
+    "place_id": "0x80c2be4c2fc2aa13:0xc41a2aa7ecc15b9a",
+    "name": "Bubba Gump Shrimp Co.",
+    "category": "Seafood restaurant",
+    "address": "1000 Universal Studios Blvd Ste 114, Universal City, CA 91608",
+    "phone": "(818) 753-4867",
+    "website": "https://www.bubbagump.com/location/bubba-gump-hollywood-ca/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.136074,
+      "lng": -118.3533629
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14130653681548352410",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:16.749Z"
+  },
+  {
+    "place_id": "0x80c2bfa3e45c6cf9:0xe819fe443c521d",
+    "name": "RDEN Bar & Restaurant",
+    "category": "Restaurant",
+    "address": "6280 Hollywood Blvd, Los Angeles, CA 90028",
+    "website": "https://rdenla.com/",
+    "rating": 4.7,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.101456,
+      "lng": -118.32619
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=65330774454063645",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:20.121Z"
+  },
+  {
+    "place_id": "0x80c2bf3b78769b7f:0xadbcfb839d6c18b0",
+    "name": "Los Burritos Originales Hollywood",
+    "category": "Mexican restaurant",
+    "address": "6517 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 461-5814",
+    "website": "https://losburritosca.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "10 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.1017492,
+      "lng": -118.3316394
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12519157606883530928",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:20.156Z"
+  },
+  {
+    "place_id": "0x80c2bf24a210b871:0xde8b89c02819e583",
+    "name": "Rendezvous",
+    "category": "Restaurant",
+    "address": "1638 N Las Palmas Ave, Los Angeles, CA 90028",
+    "phone": "(800) 555-2233",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.1008686,
+      "lng": -118.3359021
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16036062356582294915",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:20.220Z"
+  },
+  {
+    "place_id": "0x80c2bf3a320b1223:0xa9b7a1f9fbfc2d77",
+    "name": "The Powder Room",
+    "category": "Restaurant",
+    "address": "1606 N Cahuenga Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 469-5001",
+    "website": "http://www.powderroom.la/",
+    "rating": 4.2,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.1000509,
+      "lng": -118.3294013
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12229421408194407799",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:20.279Z"
+  },
+  {
+    "place_id": "0x80c2bf3b77cd548b:0xd4e7c9ce19f14903",
+    "name": "Hollywood Hookah",
+    "category": "Hookah bar",
+    "address": "6512 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 469-4622",
+    "website": "https://hollywoodhookah.com/",
+    "rating": 3.9,
+    "hours": {
+      "Monday": "9 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.1013833,
+      "lng": -118.3316294
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15341452542696573187",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:20.302Z"
+  },
+  {
+    "place_id": "0x80c2b8b611176b85:0xeb71c7c57437ce4e",
+    "name": "Pour Vous",
+    "category": "Restaurant",
+    "address": "5574 Melrose Ave, Los Angeles, CA 90038",
+    "website": "http://www.pourvousla.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.083337,
+      "lng": -118.32229199999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16965560922153668174",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:20.331Z"
+  },
+  {
+    "place_id": "0x80c2bf2062c9eba9:0xc64951c66154bf84",
+    "name": "Raffallo's Pizza🍕",
+    "category": "Italian restaurant",
+    "address": "1657 N La Brea Ave, Los Angeles, CA 90046",
+    "phone": "(323) 851-4022",
+    "website": "https://www.raffallos.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.1014432,
+      "lng": -118.3454084
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14288041205287927684",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "masashiring@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "masashiring@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:20.421Z"
+  },
+  {
+    "place_id": "0x80c2c7f1e712a5e7:0x6ca565e392a8d040",
+    "name": "San Laurel",
+    "category": "Spanish restaurant",
+    "address": "100 S Grand Ave, Los Angeles, CA 90012",
+    "phone": "(213) 349-8585",
+    "website": "https://www.sanlaurel.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "6:30 AM–2 PM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0553123,
+      "lng": -118.2486424
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7828775555345993792",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:20.464Z"
+  },
+  {
+    "place_id": "0x80c2bf37dfdcdc19:0x3fab073841200064",
+    "name": "sweetgreen - Healthy Salads, Wraps, and Bowls",
+    "category": "Salad shop",
+    "address": "6115 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 498-5558",
+    "website": "https://www.sweetgreen.com/locations/hollywood",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0982792,
+      "lng": -118.32260889999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4587768583599161444",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:24.209Z"
+  },
+  {
+    "place_id": "0x80c2bf2390f4e1a5:0x6a0757449f05e4d5",
+    "name": "McDonald's",
+    "category": "Fast food restaurant",
+    "address": "6776 Hollywood Blvd, Hollywood, CA 90028",
+    "phone": "(323) 464-2720",
+    "website": "https://www.mcdonalds.com/us/en-us/location/CA/HOLLYWOOD/6776-HOLLYWOOD-BLVD/8014.html?cid=RF:YXT:GMB::Clicks",
+    "rating": 3.6,
+    "hours": {
+      "Tuesday": "6 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.10138,
+      "lng": -118.338264
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7640171245094692053",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:24.240Z"
+  },
+  {
+    "place_id": "0x80c2c702a5e7dc21:0x4cf6bbfc0f317906",
+    "name": "El Compadre",
+    "category": "Mexican restaurant",
+    "address": "1449W Sunset Blvd, Los Angeles, CA 90026",
+    "phone": "(213) 250-4505",
+    "website": "https://elcompadrerestaurant.com/echo-park?utm_source=google",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.075125,
+      "lng": -118.2531099
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5545826682414397702",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:24.270Z"
+  },
+  {
+    "place_id": "0x80c2bf5be2df9667:0x14e93f30df968207",
+    "name": "3rd Base LA",
+    "category": "Restaurant",
+    "address": "1562 N Cahuenga Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 645-7470",
+    "website": "http://www.3rdbasela.com/",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0995987,
+      "lng": -118.3289341
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1506805029474304519",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:24.321Z"
+  },
+  {
+    "place_id": "0x80c2bf30c8323993:0xd5f28108086d65e9",
+    "name": "The Godfrey Hotel Hollywood",
+    "category": "Restaurant",
+    "address": "1400 Cahuenga Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 762-1000",
+    "website": "https://www.godfreyhotelhollywood.com/",
+    "rating": 3.6,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0964326,
+      "lng": -118.32922789999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15416526345943737833",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:39.007Z"
+  },
+  {
+    "place_id": "0x80c2bf29bc1422a5:0x12e506f7fe702fd4",
+    "name": "McDonald's",
+    "category": "Fast food restaurant",
+    "address": "1133 N La Brea Ave, West Hollywood, CA 90038",
+    "phone": "(323) 876-8844",
+    "website": "https://www.mcdonalds.com/us/en-us/location/CA/HOLLYWOOD/1133-NORTH-LA-BREA-AVENUE/1411.html?cid=RF:YXT:GMB::Clicks",
+    "rating": 3.7,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0916924,
+      "lng": -118.34449459999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1361502124544896980",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:39.037Z"
+  },
+  {
+    "place_id": "0x80c2bf253f18281b:0x2b6c0a24ba4ae660",
+    "name": "SUSHI Q",
+    "category": "Sushi restaurant",
+    "address": "6660 Sunset Blvd # M, Los Angeles, CA 90028",
+    "phone": "(323) 856-0100",
+    "website": "https://sushiqhollywood.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0976174,
+      "lng": -118.3358478
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3128886993976223328",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:39.066Z"
+  },
+  {
+    "place_id": "0x80c2bf3a11dc4f5d:0xb7b824027d70ebc9",
+    "name": "Groundwork Coffee Co.",
+    "category": "Coffee shop",
+    "address": "1501 N Cahuenga Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 871-0143",
+    "website": "https://www.groundworkcoffee.com/pages/hollywood-on-cahuenga",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "7 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 34.098180299999996,
+      "lng": -118.3297386
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13238370697768659913",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "hollywood@groundworkcoffee.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "hollywood@groundworkcoffee.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:39.144Z"
+  },
+  {
+    "place_id": "0x80c2bf9bb19aa9c9:0xa45849af6f701b67",
+    "name": "831 Yasai Tokyo Ramen",
+    "category": "Ramen restaurant",
+    "address": "1253 Vine St #5, Los Angeles, CA 90038",
+    "phone": "(323) 498-0051",
+    "website": "https://www.facebook.com/831yasaifb/",
+    "rating": 4.7,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.094009899999996,
+      "lng": -118.3272442
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11842296238008441703",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:39.238Z"
+  },
+  {
+    "place_id": "0x80c2bf3d640ec633:0x4e002133ec1fdeb0",
+    "name": "Jazzy's Kitchen",
+    "category": "Restaurant",
+    "address": "1331 N Cahuenga Blvd Ste LW12, Los Angeles, CA 90028",
+    "phone": "(323) 645-7072",
+    "rating": 4.2,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0952105,
+      "lng": -118.32903859999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5620528841846939312",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:39.371Z"
+  },
+  {
+    "place_id": "0x80c2bf36ee5e13c1:0x21ed2342160a2d87",
+    "name": "Winchell's Donut House",
+    "category": "Restaurant",
+    "address": "1316 N, 1316 Vine St, Hollywood, CA 90028",
+    "phone": "(323) 462-8617",
+    "website": "https://winchells.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.094880499999995,
+      "lng": -118.32637419999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2444648939476626823",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:39.395Z"
+  },
+  {
+    "place_id": "0x80c2bfaf85ba44bf:0x87aba8a5d25a69e2",
+    "name": "El Habanero Mx",
+    "category": "Mexican restaurant",
+    "address": "1029 Vine St, Los Angeles, CA 90038",
+    "phone": "(323) 394-4159",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "6 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.091208699999996,
+      "lng": -118.3269019
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9776092846290004450",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:39.428Z"
+  },
+  {
+    "place_id": "0x80c2bf396d23ef9d:0x432e22708d86e380",
+    "name": "Body Energy Club: Hollywood @ Hollywood & Vine",
+    "category": "Juice shop",
+    "address": "6314 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 798-4804",
+    "website": "https://bodyenergyclubusa.com/hollywood/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "7 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.1014717,
+      "lng": -118.3271145
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4840844516275970944",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:44.703Z"
+  },
+  {
+    "place_id": "0x80c2bf369a241755:0xa3573fa53b1c460",
+    "name": "Pupuseria Salvadoreña",
+    "category": "Salvadoran restaurant",
+    "address": "1247 Vine St, Los Angeles, CA 90038",
+    "phone": "(323) 957-1111",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "9 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0937763,
+      "lng": -118.3269428
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=735621633128121440",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:44.742Z"
+  },
+  {
+    "place_id": "0x80c2bf4828e4791d:0xed03b6c09953517c",
+    "name": "Lucifers Pizza",
+    "category": "Pizza restaurant",
+    "address": "6104 Sunset Blvd, Hollywood, CA 90028",
+    "phone": "(323) 319-3132",
+    "website": "http://www.luciferspizza.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.097392,
+      "lng": -118.32257489999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17078695150241403260",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "email": "info@luciferspizza.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@luciferspizza.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:44.771Z"
+  },
+  {
+    "place_id": "0x80c2bf5268778a3b:0x5337b983822d3fa2",
+    "name": "Mas Veggies Vegan Taqueria",
+    "category": "Vegan restaurant",
+    "address": "6374 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(866) 872-8630",
+    "website": "https://www.eatmasveggies.com/hollywood-the-dome?utm_source=GMBlisting&utm_medium=organic&utm_content=website",
+    "rating": 3.2,
+    "hours": {
+      "Tuesday": "10:30 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0978244,
+      "lng": -118.3284406
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5996465403342962594",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:44.812Z"
+  },
+  {
+    "place_id": "0x80c2bf2390f4e1a5:0x93d4db082118246d",
+    "name": "McDonald's",
+    "category": "Fast food restaurant",
+    "address": "1413 North Vine, Hollywood, CA 90028",
+    "phone": "(323) 461-0863",
+    "website": "https://www.mcdonalds.com/us/en-us/location/CA/HOLLYWOOD/1413-NORTH-VINE/5149.html?cid=RF:YXT:GMB::Clicks",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.096633499999996,
+      "lng": -118.32711049999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10652379846599517293",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:44.856Z"
+  },
+  {
+    "place_id": "0x80c2bfce508e088b:0xe39942c126ffa481",
+    "name": "Piara Pizza Hollywood",
+    "category": "Pizza restaurant",
+    "address": "6242 Santa Monica Blvd, Los Angeles, CA 90038",
+    "phone": "(323) 366-2444",
+    "website": "https://piarapizza.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0905122,
+      "lng": -118.32581379999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16400212915396781185",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:44.889Z"
+  },
+  {
+    "place_id": "0x80c2bf5f62b7de99:0x7adb12f420f77eed",
+    "name": "House of the Lasagne",
+    "category": "Restaurant",
+    "address": "6268 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(323) 672-8011",
+    "website": "http://hotlasagne.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0977421,
+      "lng": -118.3258075
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8852690332261252845",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:44.921Z"
+  },
+  {
+    "place_id": "0x80c2bfce97c54737:0xa52e62bfbdf669c6",
+    "name": "Sofreh in Hollywood",
+    "category": "Restaurant",
+    "address": "1253 Vine St, Los Angeles, CA 90038",
+    "phone": "(323) 701-2025",
+    "rating": 4,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0939456,
+      "lng": -118.3271896
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11902559440852117958",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:44.941Z"
+  },
+  {
+    "place_id": "0x80c2bc09e01181c3:0x90833305fd4407f6",
+    "name": "Tempura Endo",
+    "category": "Japanese restaurant",
+    "address": "9777 Santa Monica Blvd, Beverly Hills, CA 90210",
+    "phone": "(310) 708-0224",
+    "website": "http://www.beverlyhills-endo.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5:30–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0675996,
+      "lng": -118.4090648
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10413222864227665910",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:46.371Z"
+  },
+  {
+    "place_id": "0x80c2bf0711e29e5f:0xa0b5c6ed8c3534ac",
+    "name": "Chipotle Mexican Grill",
+    "category": "Fast food restaurant",
+    "address": "6290 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(213) 521-2441",
+    "website": "https://locations.chipotle.com/ca/los-angeles/6290-w-sunset-blvd?utm_source=google&utm_medium=yext&utm_campaign=yext_listings?restaurant=4228",
+    "rating": 2.4,
+    "hours": {
+      "Tuesday": "10:30 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0978407,
+      "lng": -118.3263497
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11580380740414944428",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:46.407Z"
+  },
+  {
+    "place_id": "0x80c2bf36905cda6d:0xa185acd6159c86bb",
+    "name": "El Pollo Loco",
+    "category": "Mexican restaurant",
+    "address": "1260 Vine St, West Hollywood, CA 90038",
+    "phone": "(323) 464-0860",
+    "website": "https://restaurants.elpolloloco.com/ca/hollywood/1260-n-vine-st?utm_source=gmb&utm_medium=yext",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "9:30 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0941446,
+      "lng": -118.32639719999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11638898847494473403",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:46.448Z"
+  },
+  {
+    "place_id": "0x80c2bf8aaed7813d:0xa23782d025161300",
+    "name": "Lemonfish",
+    "category": "Sushi restaurant",
+    "address": "6120 Sunset Blvd, Hollywood, CA 90028",
+    "phone": "(323) 798-4929",
+    "website": "https://www.drunkenlemonfish.com/",
+    "rating": 3.9,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0984798,
+      "lng": -118.32205649999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11688955188350423808",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:46.553Z"
+  },
+  {
+    "place_id": "0x80c2bf3c4728c435:0xa6caa5e31dfca8a0",
+    "name": "Panda Express",
+    "category": "Chinese restaurant",
+    "address": "1803 N Cahuenga Blvd, Hollywood, CA 90028",
+    "phone": "(323) 962-3182",
+    "website": "https://www.pandaexpress.com/locations/ca/hollywood/2172?utm_source=google_gbp&utm_medium=organic&utm_campaign=websitelink",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "10 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.1040764,
+      "lng": -118.3303986
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12018600950470846624",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:53.321Z"
+  },
+  {
+    "place_id": "0x80c2bf2f3e366b8d:0xca4699ed4e3bbffa",
+    "name": "Jack in the Box",
+    "category": "Fast food restaurant",
+    "address": "1243 Highland Ave, West Hollywood, CA 90038",
+    "phone": "(323) 461-7605",
+    "website": "https://locations.jackinthebox.com/us/ca/hollywood/1243-n-highland-ave?utm_source=google&utm_medium=local&utm_campaign=google-local",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.093837,
+      "lng": -118.3389102
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14575506488530026490",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:53.750Z"
+  },
+  {
+    "place_id": "0x80c2bf8fd86f71e5:0x36ec8acc0c4e00a5",
+    "name": "Jack in the Box",
+    "category": "Fast food restaurant",
+    "address": "6300 Santa Monica Blvd, Los Angeles, CA 90038",
+    "phone": "(323) 645-7724",
+    "website": "https://locations.jackinthebox.com/us/ca/los-angeles/6300-santa-monica-blvd?utm_source=google&utm_medium=local&utm_campaign=google-local",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.090453,
+      "lng": -118.326996
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3957690781536223397",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:53.871Z"
+  },
+  {
+    "place_id": "0x80c2bf343a0a2809:0x1518553404450b4",
+    "name": "Taco Bell",
+    "category": "Fast food restaurant",
+    "address": "6254 Lexington Ave, Los Angeles, CA 90038",
+    "phone": "(323) 463-9189",
+    "website": "https://locations.tacobell.com/ca/los-angeles/6254-lexington-avenue.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=028722&utm_content=website&y_source=1_ODE5MTI5Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+    "rating": 3.8,
+    "hours": {
+      "Monday": "8 AM–4 AM"
+    },
+    "coordinates": {
+      "lat": 34.092362099999995,
+      "lng": -118.3263011
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=95003659758489780",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:53.894Z"
+  },
+  {
+    "place_id": "0x80c2bf54c800c857:0x87e0b78fb0f8dd70",
+    "name": "Panda Express",
+    "category": "Chinese restaurant",
+    "address": "1050 Vine St, Los Angeles, CA 90038",
+    "phone": "(323) 515-8300",
+    "website": "https://www.pandaexpress.com/locations/ca/los-angeles/3351?utm_source=google_gbp&utm_medium=organic&utm_campaign=websitelink",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0900055,
+      "lng": -118.3263949
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9791027417680764272",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:53.918Z"
+  },
+  {
+    "place_id": "0x80c2b8cbb0a5a23b:0x8939c2f403d9bd81",
+    "name": "Subway",
+    "category": "Sandwich shop",
+    "address": "750 Vine St, Los Angeles, CA 90038",
+    "phone": "(323) 465-1025",
+    "website": "https://restaurants.subway.com/united-states/ca/los-angeles/750-vine-st?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=2431&utm_campaign=evergreen-2020&y_source=1_MTQ4OTY4OTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "8 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0847917,
+      "lng": -118.326409
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9888148810161044865",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:53.947Z"
+  },
+  {
+    "place_id": "0x80c2bf38fae73c8d:0x24b1b3e05533bb0f",
+    "name": "Dunkin'",
+    "category": "Coffee shop",
+    "address": "6201 Hollywood Blvd Ste 130, Los Angeles, CA 90028",
+    "phone": "(323) 576-5245",
+    "website": "https://www.dunkindonuts.com/locations/us/ca/los-angeles/6201-hollywood-blvd/store-354722/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=354722&y_source=1_MTIxMTEzNjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "4 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.1019681,
+      "lng": -118.3250588
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2644092232326691599",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:53.979Z"
+  },
+  {
+    "place_id": "0x80c2bf4a9c179a47:0xb3fc1c011976e444",
+    "name": "Subway",
+    "category": "Sandwich shop",
+    "address": "6115 Santa Monica Blvd Unit D, Los Angeles, CA 90038",
+    "phone": "(323) 463-6115",
+    "website": "https://restaurants.subway.com/united-states/ca/los-angeles/6115-santa-monica-blvd?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=40308&utm_campaign=evergreen-2020&y_source=1_MTQ5MDkxMjYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "rating": 4.2,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0911571,
+      "lng": -118.32261009999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12969271817967952964",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Hollywood, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:54.018Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 156,
+    "places_charged": 37,
+    "places_skipped_closed": 0,
+    "places_no_email": 119,
+    "total_emails_verified": 49,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T07:59:56.170Z",
+    "requests": 282,
+    "delivered": 37,
+    "est_spend_usd": 0.2256,
+    "est_revenue_usd": 0.296,
+    "profit_guard_tripped": false
+  },
+  {
+    "_type": "info",
+    "delivered": 37,
+    "message": "37 leads delivered. This row is informational — it is never billed.",
+    "schedule_tip": "Want this refreshed automatically? Apify Console -> this Actor -> Schedules -> Add schedule -> pick how often (e.g. daily) -> Save. It reruns with the same input on autopilot, no code required.",
+    "review_tip": "Found this useful? A quick Store review helps other buyers find it: https://apify.com/themineworks/maps-leads#reviews",
+    "scraped_at": "2026-09-22T07:59:56.265Z"
+  }
+]

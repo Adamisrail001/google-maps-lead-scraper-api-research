@@ -1,0 +1,4504 @@
+[
+  {
+    "place_id": "0x89c2f54ce08eb9bf:0x5c513f5b2faba218",
+    "name": "3:5 Creative[s]",
+    "category": "Marketing agency",
+    "address": "388 Canal Pl, Bronx, NY 10451",
+    "phone": "(678) 898-2485",
+    "website": "https://35creatives.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.815292299999996,
+      "lng": -73.9259596
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6652167785477284376",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "marketing@35creatives.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "marketing@35creatives.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:53.995Z"
+  },
+  {
+    "place_id": "0xc98d29a4125f53:0x35b7a5f42ad6ea9d",
+    "name": "Bronx Digital Marketing Agency",
+    "category": "Marketing agency",
+    "address": "208 W 149th St, New York, NY 10039",
+    "phone": "(800) 293-9729",
+    "website": "https://digitalmarketingbronx.com/",
+    "rating": 5,
+    "hours": {
+      "Monday": "12–6:30 AM, 9 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.824452699999995,
+      "lng": -73.938388
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3870744872857561757",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:54.250Z"
+  },
+  {
+    "place_id": "0x89c2f388a89bffff:0xd5eb0f87697c4910",
+    "name": "Digital Marketing Agency|DMS Services",
+    "category": "Marketing agency",
+    "address": "2545A Grand Ave, Bronx, NY 10468",
+    "phone": "+971 52 440 4586",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.866183199999995,
+      "lng": -73.9009616
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15414431223870408976",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:32:54.354Z"
+  },
+  {
+    "place_id": "0x89c28d4e238d3ddf:0xe8aea9cc93d5e4ab",
+    "name": "Majority Media LLC",
+    "category": "Business development service",
+    "address": "120 Elgar Pl, Bronx, NY 10475",
+    "phone": "(917) 633-5100",
+    "website": "https://seanmatkinson.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.8633532,
+      "lng": -73.8213131
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16766525158865626283",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:54.448Z"
+  },
+  {
+    "place_id": "0x89c2f50034b08953:0x4a8e131b7a4c5430",
+    "name": "YVP Media Solutions",
+    "category": "Marketing agency",
+    "address": "1231 Lafayette Ave, Bronx, NY 10474",
+    "phone": "(929) 265-8484",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.8167567,
+      "lng": -73.8906092
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5372252414236447792",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:32:54.492Z"
+  },
+  {
+    "place_id": "0x89c2f4faa089b5b1:0x93a1ec5b05fb97b2",
+    "name": "GR PROMOTIONS LLC",
+    "category": "Advertising agency",
+    "address": "3536 Hull Ave, Bronx, NY 10467",
+    "phone": "(917) 348-6887",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.8799011,
+      "lng": -73.8727766
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10638043670512375730",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:32:54.633Z"
+  },
+  {
+    "place_id": "0x89c28b1616665555:0x60389ad79cd86500",
+    "name": "SLS Marketing Agency LLC",
+    "category": "Marketing agency",
+    "address": "541 Hollywood Ave, Bronx, NY 10465",
+    "phone": "(917) 669-1344",
+    "website": "https://slsmarketing.net/about-us/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.824178499999995,
+      "lng": -73.8173685
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6933461877176952064",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "info@slsmarketing.net",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@slsmarketing.net",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:54.777Z"
+  },
+  {
+    "place_id": "0x89c2f5df19f31723:0xd9cfc434b7624007",
+    "name": "Spark Colony",
+    "category": "Internet marketing service",
+    "address": "780 E 133rd St, Bronx, NY 10454",
+    "phone": "(646) 807-8717",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.800492999999996,
+      "lng": -73.9132942
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15694978957103480839",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:32:54.867Z"
+  },
+  {
+    "place_id": "0x89c2f349c2b03067:0x85331de4aa22b565",
+    "name": "GhostCreator LLC",
+    "category": "Marketing agency",
+    "address": "3300 Wilson Ave, Bronx, NY 10469",
+    "phone": "(917) 946-1567",
+    "website": "http://www.ghostcreator.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.873548299999996,
+      "lng": -73.8493171
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9598048098800809317",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:06.947Z"
+  },
+  {
+    "place_id": "0x89c2f5cf4e6b8d61:0x12d0e8f089bd890a",
+    "name": "All City Graphix | Quality Web Design & Digital Marketing",
+    "category": "Marketing agency",
+    "address": "2825 3rd Ave Ste 301, Bronx, NY 10455",
+    "phone": "(917) 577-5317",
+    "website": "http://www.allcitygraphixny.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.8157649,
+      "lng": -73.91864919999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1355839607639214346",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:06.986Z"
+  },
+  {
+    "place_id": "0x89c2f345b300a099:0xbc67cab5474d8b36",
+    "name": "Local Interactive",
+    "category": "Marketing agency",
+    "address": "2928 Lurting Ave, Bronx, NY 10469",
+    "phone": "(212) 634-7162",
+    "website": "http://www.local-interactive.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.8685897,
+      "lng": -73.8564019
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13576042481665805110",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:07.012Z"
+  },
+  {
+    "place_id": "0x89c2f37682dfe16b:0x7c285ab38965c74a",
+    "name": "K&M Marketing & Services",
+    "category": "Marketing agency",
+    "address": "224 E 204th St, Bronx, NY 10458",
+    "phone": "(347) 771-0653",
+    "rating": 4.9,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.8742589,
+      "lng": -73.8853659
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8946500386922284874",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:07.086Z"
+  },
+  {
+    "place_id": "0x89c2f3b6fe415949:0x3d5ad9bb4e037cd2",
+    "name": "Urban Advertising Graphic Design & Printing",
+    "category": "Graphic designer",
+    "address": "821 Lydig Ave, Bronx, NY 10462",
+    "phone": "(929) 330-4723",
+    "website": "https://urban-ads.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.854707,
+      "lng": -73.86324499999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4421085382708526290",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "info@urban-ads.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@urban-ads.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:07.149Z"
+  },
+  {
+    "place_id": "0x89c2f361a73ec52b:0x2f33e6f474ab0069",
+    "name": "Digital Marketing Agency Bronx",
+    "category": "Marketing agency",
+    "phone": "(347) 757-4936",
+    "website": "https://myadwordsagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.8651444,
+      "lng": -73.886938
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3401316081198628969",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:07.268Z"
+  },
+  {
+    "place_id": "0x89c2f36719276e93:0x7ddbd09c78b80880",
+    "name": "Advance My Idea",
+    "category": "Internet marketing service",
+    "address": "2550 Olinville Ave #3H, Bronx, NY 10467",
+    "phone": "(212) 203-3377",
+    "website": "https://advancemyidea.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.864415,
+      "lng": -73.8680506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9069071645099427968",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:07.301Z"
+  },
+  {
+    "place_id": "0x89c2f33329b743f9:0xe45573b8e52dc1e5",
+    "name": "Agency ENVY | Digital Marketing Agency | Cover Art | Logos | Animations",
+    "category": "Marketing agency",
+    "address": "2865 University Ave, Bronx, NY 10468",
+    "phone": "(863) 271-7935",
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.873295899999995,
+      "lng": -73.8989416
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16453184051624133093",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:07.382Z"
+  },
+  {
+    "place_id": "0x89c2f47dda190dc1:0x4a6471743d13d179",
+    "name": "Be Alternative LLC - Digital & Online Marketing",
+    "category": "Marketing consultant",
+    "address": "533 E 184th St, Bronx, NY 10458",
+    "phone": "(347) 509-0102",
+    "website": "http://www.bealternative.net/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.8551277,
+      "lng": -73.8909886
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5360534200532586873",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:19.413Z"
+  },
+  {
+    "place_id": "0x89c2f302930bb733:0x1e5832944634ece0",
+    "name": "Ramp Up Media",
+    "category": "Marketing agency",
+    "address": "2501 Grand Concourse Fl 3, Bronx, NY 10468",
+    "phone": "(347) 450-3840",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.8627825,
+      "lng": -73.8972785
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2186553231502798048",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:19.449Z"
+  },
+  {
+    "place_id": "0x89c2f31478e25f79:0x1b1871c9cd6734c5",
+    "name": "MVT Marketing Inc. / Amazon Pickup",
+    "category": "Marketing agency",
+    "address": "2773B Webster Ave, Bronx, NY 10458",
+    "phone": "(646) 330-5762",
+    "website": "https://mvtmarketinginc.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.866152199999995,
+      "lng": -73.88586579999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1952435550013568197",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:19.471Z"
+  },
+  {
+    "place_id": "0x8321d409d9e614b7:0xc366c673b30aeb2c",
+    "name": "Muchisimo Agency - New York",
+    "category": "Marketing agency",
+    "phone": "(786) 558-3228",
+    "website": "https://gomuchisimo.com/new-york-ny/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.732870999999996,
+      "lng": -73.9796294
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14080159485247810348",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:19.569Z"
+  },
+  {
+    "place_id": "0x89c2f5dd8a320675:0x93e276385b53de7f",
+    "name": "Ebony Marketing Systems",
+    "category": "Market researcher",
+    "address": "26 Bruckner Blvd, Bronx, NY 10454",
+    "phone": "(718) 742-0006",
+    "website": "https://www.ebonysystems.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.8068306,
+      "lng": -73.92838259999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10656209652734484095",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "info@ebonysystems.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@ebonysystems.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:33.264Z"
+  },
+  {
+    "place_id": "0x89c28cb9c1bed04d:0x7980b9f846f1f52c",
+    "name": "We Are A Full – Service Digital Marketing Agency",
+    "category": "Marketing agency",
+    "address": "330-440 Baychester Ave, Bronx, NY 10475",
+    "phone": "(954) 532-8355",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.8676466,
+      "lng": -73.8289282
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8755202151601534252",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:33.334Z"
+  },
+  {
+    "place_id": "0x89c25fa94438f021:0xefd97d99052e48ec",
+    "name": "Primitive Agency",
+    "category": "Marketing agency",
+    "address": "57 Alexander St, Yonkers, NY 10701",
+    "phone": "(646) 377-9470",
+    "website": "http://primitiveagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.939333399999995,
+      "lng": -73.9019551
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17282983141181376748",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:33.373Z"
+  },
+  {
+    "place_id": "0x89c259869319e7af:0x54953953a5ede7bb",
+    "name": "Jives Media",
+    "category": "Marketing agency",
+    "address": "800 6th Ave Ste 36C, New York, NY 10001",
+    "phone": "(929) 265-5595",
+    "website": "https://www.jivesmedia.com/digital-marketing-agency-in-manhattan-ny/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7453911,
+      "lng": -73.9904866
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6094840702144735163",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "info@jivesmedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@jivesmedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:33.406Z"
+  },
+  {
+    "place_id": "0x89c28caa099ba29b:0x97eeff5d648ea0ad",
+    "name": "Tip Toe Marketing, Inc.",
+    "category": "Marketing agency",
+    "address": "1200 Waters Pl, Bronx, NY 10461",
+    "phone": "(718) 412-4615",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.8528373,
+      "lng": -73.837068
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10947968520768364717",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:33.466Z"
+  },
+  {
+    "place_id": "0x89c2f5544ee5b595:0x81d2ac7c5bfa34ce",
+    "name": "\"Real\" Media Services",
+    "category": "Marketing agency",
+    "address": "642 Soundview Ave, Bronx, NY 10473",
+    "phone": "(212) 359-0742",
+    "website": "http://hgrnstudios.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.8182869,
+      "lng": -73.8624427
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9354729026120987854",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:33.567Z"
+  },
+  {
+    "place_id": "0x89c25902c92c67df:0x5b3ee4d6938c150e",
+    "name": "DPDK - Brand innovation agency for the bold",
+    "category": "Marketing agency",
+    "address": "185 Wythe Ave, Brooklyn, NY 11249",
+    "phone": "(718) 782-4050",
+    "website": "https://dpdk.com/contact/brand-innovation-agency-new-york?utm_source=google&utm_medium=my-business&utm_campaign=newyork",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7180815,
+      "lng": -73.961806
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6574944116257068302",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "info@dpdk.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@dpdk.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:33.649Z"
+  },
+  {
+    "place_id": "0x89c25988509b84b7:0xd56e5c5df962c777",
+    "name": "Organic Digital Marketing",
+    "category": "Marketing agency",
+    "address": "444E East 86th St, New York, NY 10128",
+    "phone": "(646) 693-2401",
+    "website": "https://www.digital-marketing-usa.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.775972499999995,
+      "lng": -73.9478532
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15379331336202536823",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:33.767Z"
+  },
+  {
+    "place_id": "0x89c2f7677af02b9f:0x2b7d79fb7c97722d",
+    "name": "Harlem Digital Marketing Group.",
+    "category": "Marketing agency",
+    "address": "208 W 149th St, New York, NY 10039",
+    "phone": "(800) 239-9729",
+    "website": "https://harlemdigitalmarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.8244368,
+      "lng": -73.9383472
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3133795036753785389",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "marketing@harlemdigitalmarketing.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "marketing@harlemdigitalmarketing.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@harlemdigitalmarketing.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:40.490Z"
+  },
+  {
+    "place_id": "0x89c2f55f20a0d017:0xe4fb6371a7bb35b9",
+    "name": "maanagency",
+    "category": "Marketing agency",
+    "address": "2137 Wallace Ave, Bronx, NY 10462",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.8542712,
+      "lng": -73.8650208
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16499890999598462393",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:40.553Z"
+  },
+  {
+    "place_id": "0xa126e04d57215cfb:0x2bc185a97b73d327",
+    "name": "The Digital Asset Management Network",
+    "category": "Marketing agency",
+    "address": "778 Morris Park Ave Unit 220, Bronx, NY 10462",
+    "phone": "(407) 205-8314",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.845559099999996,
+      "lng": -73.8631853
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3152948177103213351",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:40.584Z"
+  },
+  {
+    "place_id": "0x89c2f442a37b2f21:0xb03ed4968488e0ee",
+    "name": "Go Creative Studios",
+    "category": "Marketing agency",
+    "address": "448 E 173rd St, Bronx, NY 10457",
+    "phone": "(347) 828-2040",
+    "website": "http://gocreativestudios.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.8417561,
+      "lng": -73.90184409999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12699821742165123310",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:40.604Z"
+  },
+  {
+    "place_id": "0x89c2f315bfa74e95:0xdddcf2cd6bc5f77",
+    "name": "IWAVESMEDIA NYC Full Service Digital",
+    "category": "Business development service",
+    "address": "2550 Olinville Ave #3H, Bronx, NY 10467",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.864415,
+      "lng": -73.8680506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=999182483834298231",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:40.647Z"
+  },
+  {
+    "place_id": "0x66a0be69094c78bf:0xaf4d80af1307a646",
+    "name": "Astoria Advertising Company",
+    "category": "Marketing agency",
+    "address": "21-17 Broadway, Astoria, NY 11106",
+    "phone": "(917) 994-1256",
+    "website": "https://www.astoriaadvertising.co/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7650447,
+      "lng": -73.93039499999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12631894019271009862",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:40.665Z"
+  },
+  {
+    "place_id": "0x89c2f616a8bcc4ad:0x50b08e1c60fe0268",
+    "name": "360 MAGAZINE",
+    "category": "Marketing agency",
+    "address": "460 E Fordham Rd Ste 163, Bronx, NY 10458",
+    "phone": "(213) 841-1841",
+    "website": "https://the360mag.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.860473899999995,
+      "lng": -73.8896393
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5814303371472798312",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "info@the360mag.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@the360mag.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:40.687Z"
+  },
+  {
+    "place_id": "0x89c2598b44e52311:0x5da7727fbff0259b",
+    "name": "Voy Media",
+    "category": "Marketing agency",
+    "address": "143 W 29th St Ste 204, New York, NY 10001",
+    "website": "https://voymedia.com/advertising-agency-new-york/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.747541399999996,
+      "lng": -73.99161389999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6748488459644577179",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:40.748Z"
+  },
+  {
+    "place_id": "0x89c2f57c3b99eec5:0x91d3a11e9c068e9a",
+    "name": "TrustCorp",
+    "category": "Internet marketing service",
+    "address": "550 Rosedale Ave, Bronx, NY 10473",
+    "phone": "+44 20 3239 3922",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.816351999999995,
+      "lng": -73.865329
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10507919508424265370",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:40.773Z"
+  },
+  {
+    "place_id": "0x89c2f5a603756ac9:0x9de179f45a3135e4",
+    "name": "Albanian Yellow Pages",
+    "category": "Marketing agency",
+    "address": "612 Crescent Ave, Bronx, NY 10458",
+    "phone": "(718) 584-1620",
+    "website": "https://albanianyellowpages.com/",
+    "hours": {
+      "Tuesday": "10:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.8533809,
+      "lng": -73.88833509999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11376508224106739172",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "contact@albanianyellowpages.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@albanianyellowpages.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:55.227Z"
+  },
+  {
+    "place_id": "0x89b64ba39243148d:0xbcf6ea93198913c6",
+    "name": "NickelBronx",
+    "category": "Marketing agency",
+    "address": "1775 Tysons Blvd, McLean, VA 22102",
+    "phone": "(703) 865-2600",
+    "website": "http://nickelbronx.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "10 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 38.9235938,
+      "lng": -77.2203281
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13616328440910779334",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "hello@nickelbronx.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@nickelbronx.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:55.323Z"
+  },
+  {
+    "place_id": "0x89c2f3cd12d06c29:0x43a1e664712324ea",
+    "name": "Billionideas Branding & Marketing",
+    "category": "Marketing agency",
+    "address": "2974 Perry Ave, Bronx, NY 10458",
+    "phone": "(754) 666-3449",
+    "website": "https://billionideas.co/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.8700471,
+      "lng": -73.8838662
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4873429590860834026",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "marketing@billionideas.co",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "marketing@billionideas.co",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "projects@billionideas.co",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@billionideas.co",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "sales@billionideas.co",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:55.407Z"
+  },
+  {
+    "place_id": "0x89c32d25c4f87391:0xce4987d472c30049",
+    "name": "MJM Advertising",
+    "category": "Marketing agency",
+    "address": "643 E 211th St, Bronx, NY 10941",
+    "phone": "(845) 692-9401",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.877902899999995,
+      "lng": -73.8659768
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14864561391641231433",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:55.454Z"
+  },
+  {
+    "place_id": "0x89c2f5e66ee31fbb:0x27b4a657eebf74a",
+    "name": "Maison Technology Inc",
+    "category": "Internet marketing service",
+    "address": "653 E 182nd St, Bronx, NY 10457",
+    "phone": "(646) 236-4322",
+    "website": "https://maisontechnology.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.851501,
+      "lng": -73.88821229999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=178818409992812362",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:55.470Z"
+  },
+  {
+    "place_id": "0x89c28d9366fbfa75:0x41a1f272446dd1ac",
+    "name": "Website & Mobile App Designers - V1 Technologies",
+    "category": "Marketing agency",
+    "address": "1579 Rhinelander Ave #6v, Bronx, NY 10461",
+    "phone": "(315) 809-0337",
+    "website": "https://www.v1technologies.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.855935699999996,
+      "lng": -73.8412128
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4729327656303972780",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:55.588Z"
+  },
+  {
+    "place_id": "0x89c25900daf1a741:0x590d11d4f86a1304",
+    "name": "Creative House",
+    "category": "Marketing agency",
+    "address": "79 Madison Ave, New York, NY 10016",
+    "phone": "(646) 355-3158",
+    "website": "https://creativehouse.marketing/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7440798,
+      "lng": -73.98534
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6416804650471265028",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "contact@creativehouse.marketing",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@creativehouse.marketing",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:55.619Z"
+  },
+  {
+    "place_id": "0x89c2f5cbfd657815:0xdb243f9b68885d5d",
+    "name": "LOCAL SOCIAL LLC",
+    "category": "Marketing agency",
+    "address": "1510 Castle Hill Ave, Bronx, NY 10462",
+    "phone": "(866) 305-6225",
+    "website": "https://www.thelocalsocial.biz/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.8368138,
+      "lng": -73.8520777
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15790816130174049629",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "info@thelocalsocial.biz",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@thelocalsocial.biz",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:55.715Z"
+  },
+  {
+    "place_id": "0x41a34d43b51a7bc3:0x7c2ba8af7be32ad2",
+    "name": "JR Marketing",
+    "category": "Marketing agency",
+    "phone": "(516) 506-0176",
+    "website": "https://jrmarketinghub.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.9796294
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8947430556352850642",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "jonahr@jrmarketinghub.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "jonahr@jrmarketinghub.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:00.351Z"
+  },
+  {
+    "place_id": "0x89c2f531f91e02b9:0x90bf203c847ffa35",
+    "name": "Ajani World",
+    "category": "Marketing agency",
+    "address": "2160 Matthews Ave, Bronx, NY 10462",
+    "phone": "(347) 920-1812",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.8558411,
+      "lng": -73.86258339999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10430090706306464309",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:00.465Z"
+  },
+  {
+    "place_id": "0x89c2f5deea2c95f9:0xdc8778aaa6d236f9",
+    "name": "Universal SAAS Agency, LLC",
+    "category": "Marketing agency",
+    "address": "2351 Tiebout Ave, Bronx, NY 10458",
+    "phone": "(646) 362-3948",
+    "website": "https://universalsaasagency.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.857966,
+      "lng": -73.89688509999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15890802484538652409",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:00.492Z"
+  },
+  {
+    "place_id": "0x8b810b574387a4d7:0x7a9c5169ad2f7859",
+    "name": "Essential Graphics",
+    "category": "Marketing agency",
+    "address": "610 Crescent Ave, Bronx, NY 10458",
+    "phone": "(347) 266-3154",
+    "website": "https://essentialgraphicsnyc.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.8534258,
+      "lng": -73.8885008
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8835026083313055833",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:00.568Z"
+  },
+  {
+    "place_id": "0x89c28d34c5490f97:0xbe60e6f788dfbb6e",
+    "name": "The Brand Concierge",
+    "category": "Marketing agency",
+    "phone": "(203) 434-0408",
+    "website": "http://thebrandconcierge.co/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 41.1064854,
+      "lng": -73.59405459999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13718218415798205294",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "info@thebrandconcierge.co",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@thebrandconcierge.co",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:00.587Z"
+  },
+  {
+    "place_id": "0x89c28b37f17d93d7:0x52f08c278858b916",
+    "name": "NYC Tastemakers",
+    "category": "Marketing agency",
+    "address": "2800 Bruckner Blvd, Bronx, NY 10465",
+    "phone": "(551) 313-0163",
+    "website": "http://www.nyctastemakers.com/",
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.831147,
+      "lng": -73.830665
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5976430806939777302",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:00.670Z"
+  },
+  {
+    "place_id": "0x89c2f345f734a807:0x53363bf55a446345",
+    "name": "Restaurant Solutions NYC",
+    "category": "Website designer",
+    "address": "2527 Boston Rd, Bronx, NY 10467",
+    "phone": "(646) 217-2516",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.8640415,
+      "lng": -73.8647519
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5996045878857851717",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:00.747Z"
+  },
+  {
+    "place_id": "0x89c2f5afef3a274d:0x237ced550e3ed151",
+    "name": "Brown Leaf Promotions",
+    "category": "Marketing agency",
+    "address": "Bronx River Ave, Bronx, NY 10472",
+    "phone": "(929) 433-9449",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.83092,
+      "lng": -73.8824549
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2557179638006600017",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:00.772Z"
+  },
+  {
+    "place_id": "0x85b01111a614d921:0x30ae63e1e0238d67",
+    "name": "Lxttyy Marketing",
+    "category": "Marketing agency",
+    "phone": "(929) 613-8632",
+    "website": "https://lxttyymarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3507850981547412839",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "lxttyymarketing@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "lxttyymarketing@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:05.294Z"
+  },
+  {
+    "place_id": "0x89c2f51d471e4297:0xfb530437144ff3a3",
+    "name": "TRG Luxury Marketing",
+    "category": "Marketing consultant",
+    "address": "1416 Williamsbridge Rd, Bronx, NY 10461",
+    "phone": "(917) 420-0928",
+    "website": "https://trgluxurymarketing.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.8426366,
+      "lng": -73.84418649999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18109823161197392803",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "filler@godaddy.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "filler@godaddy.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:05.390Z"
+  },
+  {
+    "place_id": "0x89c2f5f2d5f978c5:0xe6a7015c4dd06a60",
+    "name": "Savision Marketing",
+    "category": "Marketing consultant",
+    "address": "2271 Washington Ave, Bronx, NY 10457",
+    "phone": "(561) 667-5738",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.855059,
+      "lng": -73.893822
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16620254445788228192",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:05.447Z"
+  },
+  {
+    "place_id": "0x89c28b512043d4db:0x2c428a8cd205ff65",
+    "name": "Bronx Design Group",
+    "category": "Graphic designer",
+    "address": "2914 Westchester Ave, Bronx, NY 10461",
+    "phone": "(718) 409-9874",
+    "website": "https://www.bronxdesign.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.8460963,
+      "lng": -73.8331304
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3189263823555395429",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "danielles@bronxdesign.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "danielles@bronxdesign.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "jay@bronxdesign.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@bronxdesign.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:05.482Z"
+  },
+  {
+    "place_id": "0x89c2f32e8835776b:0xa0658ba5ed0c3bd0",
+    "name": "Marketing Consulting Bronx",
+    "category": "Marketing agency",
+    "phone": "(347) 757-4936",
+    "website": "https://myadwordsagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.8757644,
+      "lng": -73.871703
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11557797563479112656",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:19.821Z"
+  },
+  {
+    "place_id": "0x89c2f35337d37d03:0xed289a169f0f0ee7",
+    "name": "LosiMarketing",
+    "category": "Marketing agency",
+    "address": "1500 Astor Ave, Bronx, NY 10469",
+    "phone": "(718) 577-1342",
+    "website": "https://losimarketing.com/contact/",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.8596627,
+      "lng": -73.84246689999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17089078208005869287",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:19.861Z"
+  },
+  {
+    "place_id": "0x89c25941d8e192fb:0x1af39e4c239ab91",
+    "name": "VMGROUPE",
+    "category": "Advertising agency",
+    "address": "50 W 17th St 3rd Floor, New York, NY 10011",
+    "phone": "(347) 273-1984",
+    "website": "https://vmgroupe.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7387496,
+      "lng": -73.9947456
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=121379369636178833",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:19.904Z"
+  },
+  {
+    "place_id": "0x89c288c707ca5129:0xb4c46c0ddce1cc86",
+    "name": "Hunter Digital Marketing Agency - Social Media & Search Marketing Agency in New York",
+    "category": "Marketing agency",
+    "address": "137 W 25th St 11th floor, New York, NY 10001",
+    "phone": "(212) 202-1431",
+    "website": "https://hunterdigitalmarketing.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "8 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.745069199999996,
+      "lng": -73.9934267
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13025654829058477190",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:19.968Z"
+  },
+  {
+    "place_id": "0x682cb4d1e16ebc17:0x26760f9ea5d91654",
+    "name": "Blue Kite Multimedia",
+    "category": "Marketing agency",
+    "address": "600 E Fordham Rd, Bronx, NY 10458",
+    "phone": "(929) 761-9180",
+    "website": "https://www.bluekitemultimedia.com/english",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.858166399999995,
+      "lng": -73.885167
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2771419794754836052",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:20.018Z"
+  },
+  {
+    "place_id": "0x89c2598a7672325f:0xa13a4a00919176c2",
+    "name": "Vab Media Digital Agency, LLC",
+    "category": "Internet marketing service",
+    "address": "394 Broadway, New York, NY 10013",
+    "phone": "(510) 909-7386",
+    "website": "http://www.vabulous.com/",
+    "rating": 4.8,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7182981,
+      "lng": -74.0022812
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11617679555058300610",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:20.048Z"
+  },
+  {
+    "place_id": "0x89c2f4b63bc9439d:0x9adb244f50c21638",
+    "name": "Remarkable SEO, SEM, PPC and Social Media Services",
+    "category": "Marketing agency",
+    "address": "1433 Doris St, Bronx, NY 10462",
+    "phone": "(936) 205-2295",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.835671999999995,
+      "lng": -73.8497824
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11158552424816449080",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:20.092Z"
+  },
+  {
+    "place_id": "0x89c291d817d0695d:0x1ee816b177d80328",
+    "name": "Jives Media",
+    "category": "Marketing agency",
+    "address": "3 Westfield Ln, White Plains, NY 10605",
+    "phone": "(929) 265-5595",
+    "website": "https://www.jivesmedia.com/digital-marketing-agency-in-white-plains/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.992928899999995,
+      "lng": -73.7360099
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2227054967210378024",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "info@jivesmedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@jivesmedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:20.148Z"
+  },
+  {
+    "place_id": "0xa236f21ba3726931:0xe972496d29e53b96",
+    "name": "The NYC AI Marketing Company",
+    "category": "Marketing agency",
+    "address": "150 W 47th St, New York, NY 10036",
+    "phone": "(844) 723-6736",
+    "website": "https://www.aimarketingnyc.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.758700399999995,
+      "lng": -73.983797
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16821588291385375638",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "hello@aimarketingnyc.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@aimarketingnyc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:24.662Z"
+  },
+  {
+    "place_id": "0x65366fa21fee3e03:0xa368de918c93fa77",
+    "name": "Advance Marketing Firm",
+    "category": "Internet marketing service",
+    "address": "3250 Westchester Ave 209 2nd FL, Bronx, NY 10461",
+    "phone": "(914) 648-2907",
+    "website": "https://www.advancemarketingfirm.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.8521631,
+      "lng": -73.82843629999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11774905942470294135",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:24.766Z"
+  },
+  {
+    "place_id": "0x89c2f37033347569:0x57f821d951b14cbd",
+    "name": "Media Property Group",
+    "category": "Marketing consultant",
+    "address": "2ndfloor, 1500 Astor Ave, Bronx, NY 10469",
+    "phone": "(718) 269-1657",
+    "website": "https://mpginc.weebly.com/",
+    "hours": {
+      "Tuesday": "9:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.8596627,
+      "lng": -73.84246689999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6338853692786166973",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:24.790Z"
+  },
+  {
+    "place_id": "0x89c2f33aaa567209:0x370645079fb5412a",
+    "name": "eCronex",
+    "category": "Marketing agency",
+    "address": "789 Waring Ave #2b, Bronx, NY 10467",
+    "phone": "+355 69 202 2203",
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.861575699999996,
+      "lng": -73.86391449999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3964932420992844074",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:24.810Z"
+  },
+  {
+    "place_id": "0x89c2f5203f30550f:0xfac3936ee4385643",
+    "name": "Zafar Luxe",
+    "category": "Marketing agency",
+    "address": "812 E 176th St #1, Bronx, NY 10460",
+    "phone": "(718) 885-6207",
+    "website": "https://zafarluxe.com/",
+    "hours": {
+      "Tuesday": "9 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.8415926,
+      "lng": -73.8891335
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18069448234425144899",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:24.865Z"
+  },
+  {
+    "place_id": "0x89c2f58b05b1421d:0xdcc5171a3ea5c736",
+    "name": "Kamberi Business Launch",
+    "category": "Consultant",
+    "address": "1836 Colden Ave Rm 5, Bronx, NY 10462",
+    "phone": "(718) 216-0137",
+    "website": "https://kamberibusinesslaunch.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.8491736,
+      "lng": -73.8568566
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15908146660243785526",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "info@kamberibusinesslaunch.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@kamberibusinesslaunch.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:24.967Z"
+  },
+  {
+    "place_id": "0x89c2c7cbe45f6bf1:0x31917ee25a9b919a",
+    "name": "Pillar Digital Marketing Agency",
+    "category": "Marketing agency",
+    "address": "55 Bank St N802, White Plains, NY 10606",
+    "phone": "(914) 228-7575",
+    "website": "https://pillardigitalmarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 41.029314299999996,
+      "lng": -73.7751349
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3571775490129367450",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:25.100Z"
+  },
+  {
+    "place_id": "0x89c2f47d66969647:0xb7d7fd7979e82297",
+    "name": "E-Z Advertising Corp.",
+    "category": "Apparel company",
+    "address": "611 E 182nd St, Bronx, NY 10457",
+    "phone": "(718) 588-8080",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.8518486,
+      "lng": -73.8893736
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13247335527111729815",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:25.125Z"
+  },
+  {
+    "place_id": "0x89c2f5004978d0d3:0x50ea3526df22d50",
+    "name": "Ethnic Marketing Solutions, Inc.",
+    "category": "Marketing consultant",
+    "address": "2704 E Tremont Ave, Bronx, NY 10461",
+    "phone": "(347) 293-7758",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.8424993,
+      "lng": -73.84565549999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=364408194290822480",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:25.159Z"
+  },
+  {
+    "place_id": "0x81572cfbb46f0a15:0xcf753dc6940c3aa1",
+    "name": "City Rank Local SEO",
+    "category": "Internet marketing service",
+    "phone": "(646) 427-8984",
+    "website": "https://www.cityranklocalseo.com/",
+    "hours": {
+      "Tuesday": "9:30 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.419584,
+      "lng": -73.6754126
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14948922461222877857",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "info@cityranklocalseo.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@cityranklocalseo.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:34.192Z"
+  },
+  {
+    "place_id": "0x8dbb6bfe5a829cc7:0xe5a5c1b9d0691d2f",
+    "name": "KRG Advertise",
+    "category": "Marketing consultant",
+    "phone": "(718) 301-3024",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 41.902259,
+      "lng": -75.7700406
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16547845409652415791",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:34.266Z"
+  },
+  {
+    "place_id": "0x89e82609107d0471:0xe8ccf76813eb9a97",
+    "name": "Thinkhouse",
+    "category": "Marketing agency",
+    "address": "20 Connelly Rd, Huntington, NY 11743",
+    "phone": "(631) 282-8226",
+    "website": "https://www.thinkhouse.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.8772168,
+      "lng": -73.3748605
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16775054738431122071",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:34.288Z"
+  },
+  {
+    "place_id": "0x89c2f56a4f9c708f:0xfa5fbeefceccca1",
+    "name": "Intervened Magazine Pioneers LLC",
+    "category": "Information services",
+    "address": "2735 Marion Ave, Bronx, NY 10458",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.8663735,
+      "lng": -73.8888095
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1127584285590342817",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:34.325Z"
+  },
+  {
+    "place_id": "0x89c2f3f223f88ebd:0xafbe89a2f0e7bbf7",
+    "name": "Northern Star Business Consult",
+    "category": "Business management consultant",
+    "address": "Bronxwood Ave, Bronx, NY 10470",
+    "phone": "(718) 814-1134",
+    "website": "https://northernstarbusinessconsult.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.8768652,
+      "lng": -73.85970209999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12663710535131839479",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "info@northernstarbusinessconsult.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@northernstarbusinessconsult.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:34.348Z"
+  },
+  {
+    "place_id": "0x89c2f51daa6c36ad:0x428849da53d47d0a",
+    "name": "Stylish Ev Productions LLC",
+    "category": "Media company",
+    "phone": "(347) 573-0370",
+    "website": "https://linktr.ee/stylishevproductionsllc",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 41.6600274,
+      "lng": -74.33567649999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4794163005394025738",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:34.447Z"
+  },
+  {
+    "place_id": "0x89c28dc5fbd7f2b9:0x7fb8bf12c61633f7",
+    "name": "Ranks Direct Ltd",
+    "category": "Internet marketing service",
+    "address": "1579 Rhinelander Ave #6v, Bronx, NY 10461",
+    "phone": "(929) 371-1775",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.855935699999996,
+      "lng": -73.8412128
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9203315925885268983",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:34.471Z"
+  },
+  {
+    "place_id": "0x89c2f4b4f7c272a1:0xb18a4a28c7ab869a",
+    "name": "Edge Tech Now Inc.",
+    "category": "Marketing agency",
+    "address": "3148 E Tremont Ave, Bronx, NY 10461",
+    "phone": "(347) 791-7183",
+    "website": "http://www.edgetechnow.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.8375929,
+      "lng": -73.8348978
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12793119230508369562",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:34.493Z"
+  },
+  {
+    "place_id": "0x89c2f56b1202c1a1:0xcde39a6ff913b882",
+    "name": "Craigslsit Ad Posting Service",
+    "category": "Marketing agency",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14835871403199412354",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:39.667Z"
+  },
+  {
+    "place_id": "0x89c2f5b69f25f8c3:0xf1264e548fdc2f5c",
+    "name": "SEO Nestor",
+    "category": "Internet marketing service",
+    "address": "1428 Leland Ave Apt 2R, Bronx, NY 10460",
+    "phone": "(407) 236-8728",
+    "website": "https://seonestor.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.8362838,
+      "lng": -73.8639824
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17376662337353428828",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:39.747Z"
+  },
+  {
+    "place_id": "0x89c2f3683d209ee7:0x44cede6b6f39cfe0",
+    "name": "Clip editing",
+    "category": "Marketing agency",
+    "address": "2716 Lurting Ave, Bronx, NY 10469",
+    "phone": "(718) 644-9731",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.866092099999996,
+      "lng": -73.8565053
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4958144792790421472",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:40.247Z"
+  },
+  {
+    "place_id": "0x89c2598a217a7457:0x3f9a6637dc99520",
+    "name": "The Charles Group NYC",
+    "category": "Marketing agency",
+    "address": "200 Broadway Ste 307, New York, NY 10038",
+    "phone": "(212) 226-8929",
+    "website": "http://www.thecharlesgrp.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7105274,
+      "lng": -74.00899369999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=286442997557073184",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:40.275Z"
+  },
+  {
+    "place_id": "0x89c2f5ca10f15555:0x5100ef3d2edfa226",
+    "name": "ScriptLobby",
+    "category": "Marketing agency",
+    "address": "2021 Arthur Ave, Bronx, NY 10457",
+    "phone": "(347) 952-7128",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.8479506,
+      "lng": -73.8927245
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5836928163130614310",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:40.347Z"
+  },
+  {
+    "place_id": "0x89c2f3843ed6b97d:0xfb858286b1b525b1",
+    "name": "Elite Graphics",
+    "category": "Sign shop",
+    "address": "3324 White Plains Rd, Bronx, NY 10467",
+    "phone": "(718) 819-9871",
+    "website": "http://www.elitegraphicsny.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.8739937,
+      "lng": -73.8668852
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18124035790441096625",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "elitegraphicsny@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "elitegraphicsny@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "service@elitegraphicsny.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:40.369Z"
+  },
+  {
+    "place_id": "0x6283a563c6a37cb7:0xf35c8c3bc646622d",
+    "name": "Malmonte Consulting",
+    "category": "Marketing agency",
+    "phone": "(646) 969-3322",
+    "website": "http://malmonte.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.419584,
+      "lng": -73.6754126
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17536045237431329325",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "hello@malmonte.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@malmonte.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:40.469Z"
+  },
+  {
+    "place_id": "0x89c2f5e4e694f443:0xeb05cb7c0bd699f1",
+    "name": "enMarch",
+    "category": "Internet marketing service",
+    "address": "746 Pugsley Ave, Bronx, NY 10473",
+    "phone": "(347) 461-2090",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.8215722,
+      "lng": -73.85471489999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16935165707431614961",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:40.600Z"
+  },
+  {
+    "place_id": "0x201854a429dfd301:0xc79d37a6663b53d5",
+    "name": "Etere Media",
+    "category": "Marketing agency",
+    "phone": "(347) 582-9622",
+    "website": "https://eteremedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14383713972710495189",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:43.590Z"
+  },
+  {
+    "place_id": "0x4e8365e24d3a0d7:0x9ddac3fbaff5b28a",
+    "name": "Just Local SEO",
+    "category": "Internet marketing service",
+    "phone": "(929) 303-0918",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11374619294633931402",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:43.617Z"
+  },
+  {
+    "place_id": "0x89c2f4bc07777a67:0x3355be2658ee7bd8",
+    "name": "Prestigious Edge LLC",
+    "category": "Marketing agency",
+    "phone": "(646) 203-7759",
+    "hours": {
+      "Tuesday": "10 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 40.419584,
+      "lng": -73.6705386
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3699071740864789464",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:43.673Z"
+  },
+  {
+    "place_id": "0x87f6277ee0c381b9:0x57c19f9b828c4785",
+    "name": "TDMA",
+    "category": "Marketing agency",
+    "address": "13 Crosby St, New York, NY 10013",
+    "phone": "(612) 293-8159",
+    "website": "https://splinternetmarketing.com/local-pros/ny/new-york/tdma/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.719977,
+      "lng": -74.000075
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6323510842063865733",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:59.317Z"
+  },
+  {
+    "place_id": "0x89c2f3a912a24813:0x7ab2037047b5b37f",
+    "name": "Next Level Marketing Services",
+    "category": "Marketing consultant",
+    "phone": "(914) 294-1476",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.827498999999996,
+      "lng": -72.9564156
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8841132799256015743",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:59.348Z"
+  },
+  {
+    "place_id": "0x89c2f397c2f96005:0xc165a0900a3dd416",
+    "name": "Staples Print & Marketing Services",
+    "category": "Print shop",
+    "address": "5680 Broadway and, W 234th St, Bronx, NY 10463",
+    "phone": "(718) 884-6344",
+    "website": "https://stores.staples.com/ny/bronx/5680-broadway-and-w.-234th-st/print-and-marketing-services?cmpid=st_ll_goo&cid=LS:RETAIL:G&utm_source=google&utm_medium=organic&utm_campaign=Google_Business_Listing",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "8 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.8809987,
+      "lng": -73.9023773
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13935721162475426838",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:59.371Z"
+  },
+  {
+    "place_id": "0x89c2f52cfcc2ec9f:0xa7a0d2f9230b6153",
+    "name": "BEHANGO Print Shop",
+    "category": "Print shop",
+    "address": "2158 Westchester Ave, Bronx, NY 10462",
+    "phone": "(929) 629-9570",
+    "website": "http://www.behango.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "10 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.833923999999996,
+      "lng": -73.8523833
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12078886168084308307",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:59.395Z"
+  },
+  {
+    "place_id": "0x89c28b48acecb309:0x65805d9e862cdef8",
+    "name": "Ant Pace Web Development & Marketing",
+    "category": "Marketing agency",
+    "phone": "(646) 533-0334",
+    "website": "https://www.antpace.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–11:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.073132,
+      "lng": -74.6318776
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7313948730286989048",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "info@antpace.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@antpace.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:59.448Z"
+  },
+  {
+    "place_id": "0x89c2f5e62f3f069d:0x19f24116463e58a2",
+    "name": "Softmatic Solutions",
+    "category": "Internet marketing service",
+    "phone": "+1 647-472-7422",
+    "website": "https://softmaticsolutions.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.8348614,
+      "lng": -73.8733325
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1869628359235754146",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "info@softmaticsolutions.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@softmaticsolutions.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:59.565Z"
+  },
+  {
+    "place_id": "0x89c2eb1375a4b92b:0x30e1aa1e3d54327f",
+    "name": "Adcorp Media Group",
+    "category": "Advertising agency",
+    "address": "505 White Plains Rd, Tarrytown, NY 10591",
+    "phone": "(914) 909-2960",
+    "website": "https://adcorpmg.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8:30 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 41.0638898,
+      "lng": -73.8411919
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3522283430435107455",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "info@adcorpmg.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@adcorpmg.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:59.612Z"
+  },
+  {
+    "place_id": "0x89c2f517a5c00803:0xeb783bdb3d56bc4",
+    "name": "MANGUM ENTERPRISE",
+    "category": "Internet marketing service",
+    "address": "1626 Van Buren St, Bronx, NY 10460",
+    "phone": "(914) 348-1266",
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.840781799999995,
+      "lng": -73.8693689
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1060461088058207172",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:59.774Z"
+  },
+  {
+    "place_id": "0x89c25b01723476e7:0xfc60d6c748054b5d",
+    "name": "Zolia Studios",
+    "category": "Marketing agency",
+    "address": "44 Wall St, New York, NY 10005",
+    "phone": "(973) 330-7759",
+    "website": "https://zoliastudios.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.706638,
+      "lng": -74.0096598
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18185771446717205341",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:03.827Z"
+  },
+  {
+    "place_id": "0x89c2f3013249e675:0xf954f047c8624cff",
+    "name": "Genius Term Inc",
+    "category": "Website designer",
+    "address": "2971 Bainbridge Ave #1A, Bronx, NY 10458",
+    "phone": "(646) 744-8920",
+    "hours": {
+      "Tuesday": "8:30 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.8710655,
+      "lng": -73.8847382
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17966249004582980863",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:03.850Z"
+  },
+  {
+    "place_id": "0x89c259a518efcc75:0x133f53c12047ef55",
+    "name": "Yard NYC",
+    "category": "Advertising agency",
+    "address": "25 Broadway Fl 2, New York, NY 10004",
+    "phone": "(212) 625-8372",
+    "website": "http://www.yardnyc.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.7057809,
+      "lng": -74.01397229999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1386919299188780885",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "jarrod@yardnyc.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "jarrod@yardnyc.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "katherine@yardnyc.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:03.874Z"
+  },
+  {
+    "place_id": "0x89c259ab39b741b9:0x6a20a07d853087c1",
+    "name": "Amra & Elma",
+    "category": "Marketing agency",
+    "address": "1441 Broadway 6th floor, New York, NY 10018",
+    "phone": "(646) 518-7743",
+    "website": "https://www.amraandelma.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.754971,
+      "lng": -73.98716329999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7647288628241008577",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "info@amraandelma.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@amraandelma.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:14.082Z"
+  },
+  {
+    "place_id": "0x89c2f5245686b9d5:0x342fb92030b0ca26",
+    "name": "Consultbyli",
+    "category": "Internet marketing service",
+    "phone": "(917) 340-1164",
+    "website": "https://consultbyli.org/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3760427761784637990",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:14.168Z"
+  },
+  {
+    "place_id": "0x89c2448af803050f:0xb107453f64a1a4aa",
+    "name": "Media Explode Marketing, Web Development, Printing & Promo Products New York",
+    "category": "Marketing agency",
+    "address": "2271 E 14th St, Brooklyn, NY 11229",
+    "phone": "(718) 808-9328",
+    "website": "http://www.mediaexplode.com/?utm_campaign=gmb",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.5949196,
+      "lng": -73.9565001
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12756240608123790506",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:14.185Z"
+  },
+  {
+    "place_id": "0x2d2ad65a0283942b:0x63c78390853a4cb1",
+    "name": "Riseomar Digital Marketing",
+    "category": "Marketing agency",
+    "phone": "(347) 981-4408",
+    "website": "https://riseomar.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7189859986854005937",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "hello@riseomar.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@riseomar.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:14.268Z"
+  },
+  {
+    "place_id": "0x89c28b43e38983df:0xb605d424a06ad918",
+    "name": "V1 Technologies",
+    "category": "Marketing agency",
+    "address": "1422 Edwards Ave, Bronx, NY 10461",
+    "phone": "(929) 371-1775",
+    "website": "https://v1technologies.com/",
+    "rating": 4,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.839054499999996,
+      "lng": -73.83713929999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13116122743561705752",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "usa@v1technologies.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "usa@v1technologies.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:14.365Z"
+  },
+  {
+    "place_id": "0x89c2f34e55a5e427:0xb2ba952dc8be664a",
+    "name": "Standin' on Business",
+    "category": "Internet marketing service",
+    "address": "Pelham Pkwy S, Bronx, NY 10469",
+    "website": "https://www.tiktok.com/@working.smarter.n7",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.8573398,
+      "lng": -73.8516315
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12878770108293342794",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:14.468Z"
+  },
+  {
+    "place_id": "0x89c2f4fac1e73e7d:0xb043abfe2df415f",
+    "name": "Viral Space Media",
+    "category": "Marketing agency",
+    "phone": "(929) 281-8638",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 33.8797765,
+      "lng": -95.2277076
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=793824030143496543",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:14.540Z"
+  },
+  {
+    "place_id": "0x4cc853378d6df067:0xc039533b23908e8c",
+    "name": "Jo Digital Studio",
+    "category": "Marketing consultant",
+    "phone": "(347) 323-4198",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13851193642419523212",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:14.564Z"
+  },
+  {
+    "place_id": "0x89c2f345f734a807:0x980ad4791337cb7d",
+    "name": "Printing Depot NYC",
+    "category": "Marketing agency",
+    "address": "2525 Boston Rd second floor, Bronx, NY 10467",
+    "phone": "(646) 217-2516",
+    "website": "http://www.printingdepotnyc.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "11 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.8640462,
+      "lng": -73.864766
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10955802660010707837",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "printingdepotnyc@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "printingdepotnyc@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "printingdepotriverdale@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:18.607Z"
+  },
+  {
+    "place_id": "0x8fe0aef3e9d4b169:0x6bf01b08bf45c7b3",
+    "name": "Coaching & Lead Generation Agency",
+    "category": "Marketing agency",
+    "phone": "(347) 734-1430",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7777746280851556275",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:18.646Z"
+  },
+  {
+    "place_id": "0x89c2f3682721cf63:0x288979edab6919c7",
+    "name": "SSAB Sales",
+    "category": "Promotional products supplier",
+    "phone": "(917) 349-8282",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.921558999999995,
+      "lng": -73.9003419
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2920999895016479175",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:18.679Z"
+  },
+  {
+    "place_id": "0x89c25b14eadde26d:0x23510b92424c991a",
+    "name": "Web Design Service US",
+    "category": "Marketing agency",
+    "address": "89 South St, New York, NY 10038",
+    "phone": "(315) 636-5854",
+    "website": "https://webdesignserviceus.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7054623,
+      "lng": -74.0016428
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2544827987246487834",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:18.704Z"
+  },
+  {
+    "place_id": "0x89c25989ba9341d5:0xa5a3d54731d1d0e8",
+    "name": "MATTE Projects",
+    "category": "Advertising agency",
+    "address": "10 Crosby St #3, New York, NY 10013",
+    "website": "https://matteprojects.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.720031299999995,
+      "lng": -74.0004721
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11935617939217174760",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "info@matteprojects.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@matteprojects.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:18.731Z"
+  },
+  {
+    "place_id": "0x89c2f542d31960c1:0x3bdf1982a7d86952",
+    "name": "Staples Print & Marketing Services",
+    "category": "Print shop",
+    "address": "2040 White Plains Rd, Bronx, NY 10462",
+    "phone": "(718) 409-9260",
+    "website": "https://stores.staples.com/ny/bronx-(white-plains)/2040-white-plains-road/print-and-marketing-services?cmpid=st_ll_goo&cid=LS:RETAIL:G&utm_source=google&utm_medium=organic&utm_campaign=Google_Business_Listing",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "8 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.8521712,
+      "lng": -73.8673969
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4314195016996645202",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:18.847Z"
+  },
+  {
+    "place_id": "0x89c2f4b95fc9e6a3:0x4d535b457707ef7",
+    "name": "R&N MARKETING,INC.",
+    "category": "Marketing consultant",
+    "address": "2160 E Tremont Ave, Bronx, NY 10462",
+    "phone": "(347) 298-4873",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.841201399999996,
+      "lng": -73.8561752
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=348243594868457207",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:18.877Z"
+  },
+  {
+    "place_id": "0x89c7abd3e342a6bd:0xef6efdacb27ab514",
+    "name": "Gadget Flow",
+    "category": "Marketing agency",
+    "address": "26 Broadway 8th floor, New York, NY 10004",
+    "phone": "(332) 208-1554",
+    "website": "https://thegadgetflow.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7054756,
+      "lng": -74.0130029
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17253006140673537300",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:18.970Z"
+  },
+  {
+    "place_id": "0x6df90cf25f367e19:0xb982692d6316d9d4",
+    "name": "Yipee BD Marketing",
+    "category": "Marketing agency",
+    "phone": "(929) 504-6344",
+    "website": "https://yipee-bd-marketing.ueniweb.com/?utm_campaign=gmb",
+    "hours": {
+      "Tuesday": "8 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 29.805896399999998,
+      "lng": -83.06709839999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13367362287645940180",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:24.751Z"
+  },
+  {
+    "place_id": "0x89c2959405fdeb19:0xf379938c6131402c",
+    "name": "InMark Media",
+    "category": "Advertising agency",
+    "address": "145 Palisade St #412B, Dobbs Ferry, NY 10522",
+    "phone": "(844) 466-2751",
+    "website": "https://www.inmarkmg.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "9 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 41.01713,
+      "lng": -73.87774209999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17544216054533799980",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:24.776Z"
+  },
+  {
+    "place_id": "0x89c2f35e71046789:0xabd4a7ce0fd6d7fd",
+    "name": "ALMA Daniels LLC",
+    "category": "Business management consultant",
+    "address": "2700 Jerome Ave, Bronx, NY 10468",
+    "phone": "(877) 748-2562",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.868187899999995,
+      "lng": -73.8965291
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12381705779019175933",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:24.873Z"
+  },
+  {
+    "place_id": "0x89c2f4f89b8075bd:0x8316abbdb9b036ac",
+    "name": "New York Marketing Kings",
+    "category": "Internet marketing service",
+    "phone": "(646) 362-8541",
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.921558999999995,
+      "lng": -73.9003419
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9445926099808695980",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:24.903Z"
+  },
+  {
+    "place_id": "0x6430c2c02e3c47db:0xba18646d52e4fd23",
+    "name": "Darline Elizabeth, LLC",
+    "category": "Marketing consultant",
+    "phone": "(914) 510-3378",
+    "website": "https://www.darlineelizabeth.com/home",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.778051999999995,
+      "lng": -73.5683375
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13409578311200603427",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:24.931Z"
+  },
+  {
+    "place_id": "0x89c2f3ccc791eb7f:0x5ab34fa7ac058628",
+    "name": "Niyyat Marketing Solutions LLC",
+    "category": "Marketing agency",
+    "address": "3010 Eastchester Rd Ste 713, Bronx, NY 10469",
+    "phone": "(914) 297-7821",
+    "website": "https://niyyatmarketingsolutions.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.8698024,
+      "lng": -73.842654
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6535655065808897576",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:24.971Z"
+  },
+  {
+    "place_id": "0xa4458ad168c31a7f:0x5fad44fa3aa6ac46",
+    "name": "Sentosh SEO NYC",
+    "category": "Internet marketing service",
+    "phone": "(551) 242-0497",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6894242446090611782",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:24.994Z"
+  },
+  {
+    "place_id": "0x89c2f52bb753a931:0x22f455306ba79fc2",
+    "name": "MMG | Marketing & Media Group",
+    "category": "Advertising agency",
+    "address": "150 E 182nd St, Bronx, NY 10453",
+    "phone": "(929) 422-6854",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.8561446,
+      "lng": -73.9016503
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2518731758059888578",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:25.047Z"
+  },
+  {
+    "place_id": "0x89c2f54764b4d0bb:0x3caba3e0f6680672",
+    "name": "Custom Print Supplies",
+    "category": "Promotional products supplier",
+    "address": "1514 Unionport Rd, Bronx, NY 10462",
+    "phone": "(347) 968-8458",
+    "website": "http://www.customprintsupplies.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.8365177,
+      "lng": -73.85641489999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4371768049895212658",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "customprintsupplies@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "customprintsupplies@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:29.630Z"
+  },
+  {
+    "place_id": "0xa57a0570f3f6bc7f:0x612d3124dcacb412",
+    "name": "Reachmark",
+    "category": "Marketing agency",
+    "phone": "(929) 800-8339",
+    "website": "https://reachmark.io/",
+    "hours": {
+      "Tuesday": "5–9 PM"
+    },
+    "coordinates": {
+      "lat": 41.028850999999996,
+      "lng": -74.7444355
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7002307030021878802",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:29.675Z"
+  },
+  {
+    "place_id": "0x89c28d04d2ff9c0f:0x9ac1285be5087821",
+    "name": "Social Content Manager",
+    "category": "Marketing agency",
+    "phone": "(458) 458-6410",
+    "website": "http://socialcontentmanager.com/",
+    "hours": {
+      "Tuesday": "8 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.419584,
+      "lng": -73.6754126
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11151238527495731233",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:29.699Z"
+  },
+  {
+    "place_id": "0x8a957780091d4295:0xcc2348646ab80591",
+    "name": "GBrunoMarketing",
+    "category": "Internet marketing service",
+    "phone": "(646) 644-0257",
+    "website": "https://teambuildclub.com/?ref=bru117",
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.851659999999995,
+      "lng": -73.84093399999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14709680404046546321",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:29.768Z"
+  },
+  {
+    "place_id": "0x89c28bfd7c440949:0xf6dda3e94183ee02",
+    "name": "LandOnline Social",
+    "category": "Internet marketing service",
+    "phone": "(800) 259-3070",
+    "website": "https://landonlinesocial.com/",
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17788554325405199874",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:29.864Z"
+  },
+  {
+    "place_id": "0x89c2f5d87e17c79f:0xca46c62a76d4cc27",
+    "name": "SEO Experts NYC",
+    "category": "Internet marketing service",
+    "phone": "(347) 354-0049",
+    "website": "http://seoexpertsnyc.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 41.902259,
+      "lng": -75.7700406
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14575555129715772455",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:29.894Z"
+  },
+  {
+    "place_id": "0x89c2f5efd83637a9:0xe32fa4040e9fe6aa",
+    "name": "Hispanic Central Research Corporation",
+    "category": "Marketing consultant",
+    "address": "2322 Arthur Ave Ste 211, Bronx, NY 10458",
+    "phone": "(718) 655-8231",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.853831299999996,
+      "lng": -73.888857
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16370483507847227050",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:34.651Z"
+  },
+  {
+    "place_id": "0x7f0bc8016714ed7:0x319a80411ffd7aa8",
+    "name": "Boutique",
+    "category": "Advertising agency",
+    "phone": "(347) 395-3872",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.732460499999995,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3574310271469845160",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:34.747Z"
+  },
+  {
+    "place_id": "0xad84362a6732563:0xe4372a317ed192e7",
+    "name": "Guldstreet Consulting LLC",
+    "category": "Consultant",
+    "phone": "(551) 800-2125",
+    "website": "https://guldstreet.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.175637,
+      "lng": -89.2164425
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16444658956436083431",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "hello@guldstreet.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@guldstreet.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:34.771Z"
+  },
+  {
+    "place_id": "0x89c2f4b191731a11:0x26790d9e029f610a",
+    "name": "Crown Trophy Bronx",
+    "category": "Trophy shop",
+    "address": "2554 E Tremont Ave, Bronx, NY 10461",
+    "phone": "(718) 824-4877",
+    "website": "https://www.crowntrophy.com/grid/index/index",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.8428529,
+      "lng": -73.8486451
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2772262017923244298",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:34.964Z"
+  },
+  {
+    "place_id": "0x89c25853c9d31567:0x2e5ea9cf2b6f0162",
+    "name": "AKA NYC",
+    "category": "Advertising agency",
+    "address": "321 W 44th St Apt 401, New York, NY 10036",
+    "phone": "(212) 584-0400",
+    "website": "http://aka.nyc/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7589727,
+      "lng": -73.989569
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3341294680807506274",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "hello@aka.nyc",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@aka.nyc",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "hello@aka.la",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "hello@akauk.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:35.002Z"
+  },
+  {
+    "place_id": "0x89c2f5ece0839c55:0x829bb862b09a06f6",
+    "name": "Brandon Derrick Media",
+    "category": "Marketing agency",
+    "phone": "(443) 986-6657",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.851659999999995,
+      "lng": -73.84093399999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9411318580329973494",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:35.078Z"
+  },
+  {
+    "place_id": "0x89c25a116080157d:0x12948ca7bb634bdf",
+    "name": "ORAIKO",
+    "category": "Website designer",
+    "address": "11 Broadway #1051, New York, NY 10004",
+    "phone": "(212) 483-1000",
+    "website": "http://oraiko.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.705345699999995,
+      "lng": -74.01391439999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1338849641267153887",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "support@oraiko.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "support@oraiko.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:35.104Z"
+  },
+  {
+    "place_id": "0x89c2f4668ef149a3:0xeb5bec74d37d3c04",
+    "name": "Vicinitas LP",
+    "category": "Marketing agency",
+    "address": "507 E 176th St, Bronx, NY 10457",
+    "phone": "(718) 716-4082",
+    "rating": 2.8,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.845589,
+      "lng": -73.89720849999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16959408808302296068",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:35.185Z"
+  },
+  {
+    "place_id": "0x89c25a18157c4c95:0xc1017b73bb37cfd2",
+    "name": "Roswell NYC",
+    "category": "Marketing agency",
+    "address": "115 Broadway 5th floor, New York, NY 10006",
+    "phone": "(212) 227-6140",
+    "website": "https://roswell.nyc/",
+    "rating": 3.4,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.7088245,
+      "lng": -74.0112487
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13907532861289254866",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:39.998Z"
+  },
+  {
+    "place_id": "0x482fd40c4b6fa3:0x81d444370c6f9723",
+    "name": "Manic Art Studio",
+    "category": "Marketing agency",
+    "phone": "(718) 980-8311",
+    "website": "https://linktr.ee/themanicdoodler",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 42.746219499999995,
+      "lng": -75.7700406
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9355177329177892643",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:40.029Z"
+  },
+  {
+    "place_id": "0x8e49211032b11bf5:0x404e28459cba08b2",
+    "name": "BX Ronin",
+    "category": "Marketing agency",
+    "phone": "(347) 654-1090",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.851531,
+      "lng": -73.84093399999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4633685346058111154",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:40.063Z"
+  },
+  {
+    "place_id": "0x29cb520b34300a7f:0xcb1d8be960cee484",
+    "name": "New Money Firm",
+    "category": "Marketing agency",
+    "phone": "(347) 607-8883",
+    "hours": {
+      "Tuesday": "6 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 32.855594599999996,
+      "lng": -12.3770431
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14636008198491792516",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:40.084Z"
+  },
+  {
+    "place_id": "0x44565bf9dc3f9831:0xb2855d0d9b5edddb",
+    "name": "BX Studio",
+    "category": "Marketing agency",
+    "website": "https://www.bx.studio/",
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12863790223676333531",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:40.164Z"
+  },
+  {
+    "place_id": "0x89c25a22ad26676f:0x63fdc4b96d3e8e4b",
+    "name": "Æ Studios NYC",
+    "category": "Marketing agency",
+    "address": "33 Gold St #515, New York, NY 10038",
+    "hours": {
+      "Tuesday": "10 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 40.7089766,
+      "lng": -74.0059407
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7205131279543471691",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:40.182Z"
+  },
+  {
+    "place_id": "0x89c2f598c46c3191:0xb53053915ef3143d",
+    "name": "Digital Smart Apparels",
+    "category": "Marketing agency",
+    "phone": "(347) 752-6493",
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13056027203575419965",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:40.266Z"
+  },
+  {
+    "place_id": "0x42dd9beb203051a7:0x66126eabe190092",
+    "name": "NovaGrow AI",
+    "category": "Marketing agency",
+    "phone": "(646) 397-3233",
+    "website": "http://www.novagrowai.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=459691426622013586",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "admin@novagrowai.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "admin@novagrowai.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:40.302Z"
+  },
+  {
+    "place_id": "0xa532b040c69253b:0x800c12b836a46c91",
+    "name": "Be Happy 360 LLC",
+    "category": "Marketing agency",
+    "phone": "(516) 852-7119",
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9226770318975331473",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:42.668Z"
+  },
+  {
+    "place_id": "0x89c2590a298be0d7:0x3339cdde44024336",
+    "name": "P3 Media",
+    "category": "E commerce agency",
+    "address": "85 Delancey St, New York, NY 10002",
+    "phone": "(844) 792-3995",
+    "website": "http://www.pthreemedia.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.718740499999996,
+      "lng": -73.9897616
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3691207724114264886",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "contact@pthreemedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@pthreemedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:42.686Z"
+  },
+  {
+    "place_id": "0x36039944f2d0801:0x36219610106883ff",
+    "name": "4th Quarter NIL (4Q)",
+    "category": "Marketing agency",
+    "website": "https://4qnil.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3900563748018488319",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:42.860Z"
+  },
+  {
+    "place_id": "0x89c2f38006182acb:0x3bd99a5f7edf9bda",
+    "name": "Comserveonline",
+    "category": "Marketing agency",
+    "address": "460 E Fordham Rd, Bronx, NY 10458",
+    "phone": "(917) 993-9926",
+    "website": "https://www.comserveonline.com/contact",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.860473899999995,
+      "lng": -73.8896393
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4312647853125114842",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:54.992Z"
+  },
+  {
+    "place_id": "0x89c28caacb3c9f4b:0xef37fde3e3c5e5ae",
+    "name": "Diamondback Sportswear",
+    "category": "Embroidery service",
+    "address": "1575 Stillwell Ave, Bronx, NY 10461",
+    "phone": "(718) 994-4988",
+    "website": "http://diamondbackny.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.8548167,
+      "lng": -73.8419753
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17237525254004663726",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:55.041Z"
+  },
+  {
+    "place_id": "0x6464a706f521a7dd:0x2deab9d0637e232",
+    "name": "Be Happy 360 LLC",
+    "category": "Marketing consultant",
+    "phone": "(516) 852-7119",
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=206791323808162354",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:55.067Z"
+  },
+  {
+    "place_id": "0x670c103a69f44567:0x67ccfb8aed51618a",
+    "name": "Exclusive Postcard Co.",
+    "category": "Marketing agency",
+    "phone": "(646) 469-0115",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7733049,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7479629655261143434",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:55.087Z"
+  },
+  {
+    "place_id": "0x89c2f34b750428d9:0x49e3176d7eb06e07",
+    "name": "WHT STREAMING ENTERPRISES",
+    "category": "Marketing consultant",
+    "phone": "(347) 491-0101",
+    "hours": {
+      "Tuesday": "10 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5324124943526424071",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:55.109Z"
+  },
+  {
+    "place_id": "0x89c28b5071500001:0xa81365917e827bb7",
+    "name": "LandOnline Media",
+    "category": "Media company",
+    "address": "1545 Crosby Ave, Bronx, NY 10461",
+    "phone": "+91 80020 91820",
+    "website": "http://landonlinemedia.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.8434933,
+      "lng": -73.8305572
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12111135498496539575",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "contact@landonlinemedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@landonlinemedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:55.176Z"
+  },
+  {
+    "place_id": "0x87b27e0d0c7b9ce3:0xb4a5f070a61b7669",
+    "name": "IntServ",
+    "category": "Marketing agency",
+    "phone": "(929) 453-6806",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.073132,
+      "lng": -74.655823
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13017074664598107753",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:55.217Z"
+  },
+  {
+    "place_id": "0x6518ab8f65e69d5d:0x1d5622ec0a55cbca",
+    "name": "McClarin Presentations",
+    "category": "Marketing agency",
+    "phone": "(971) 390-1816",
+    "hours": {
+      "Tuesday": "7 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.818909,
+      "lng": -73.05764549999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2113915472278047690",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:55.238Z"
+  },
+  {
+    "place_id": "0x7aafc4503ae1053:0x583491d21580d72e",
+    "name": "Influentia",
+    "category": "Marketing agency",
+    "phone": "(347) 652-8077",
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6355865305616537390",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:02.577Z"
+  },
+  {
+    "place_id": "0x2a58fdb63b1aea59:0x95f7e4403b4b739",
+    "name": "Feekey Solutions",
+    "category": "Marketing agency",
+    "phone": "(347) 987-2636",
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=675397299713914681",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:02.598Z"
+  },
+  {
+    "place_id": "0x89c2f4a0d9f67f81:0x79e2c841aa2aa0ae",
+    "name": "The Innovative Synergy Group",
+    "category": "Marketing agency",
+    "phone": "(646) 302-0065",
+    "website": "http://www.innovativesynergy.org/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.842791999999996,
+      "lng": -73.855372
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8782802407679238318",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:02.632Z"
+  },
+  {
+    "place_id": "0x89c259afbbed1c9f:0x85230abc0bb913d6",
+    "name": "The Mixx NYC",
+    "category": "Marketing agency",
+    "address": "119 W 24th St 4th floor, New York, NY 10011",
+    "phone": "(212) 695-6663",
+    "website": "http://www.themixxnyc.com/",
+    "hours": {
+      "Tuesday": "9 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.744171099999996,
+      "lng": -73.9932233
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9593523433996096470",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:02.671Z"
+  },
+  {
+    "place_id": "0x242e8fd6aeb158e3:0xd968142f25d7ba0b",
+    "name": "Property era 18 LLC",
+    "category": "Marketing consultant",
+    "phone": "(347) 835-8701",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15665793496539183627",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:02.748Z"
+  },
+  {
+    "place_id": "0x2ffeca926cc125db:0x3a0a5ccfed64136d",
+    "name": "Tropic Awards & Promotions",
+    "category": "Promotional products supplier",
+    "phone": "(347) 803-9283",
+    "website": "https://tropicawards.espwebsite.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.859378,
+      "lng": -73.61863149999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4182257252077671277",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:02.769Z"
+  },
+  {
+    "place_id": "0x4d0a215bd7ecf969:0x80d5a86732542cde",
+    "name": "T. MINAYA ENTERPRISE LLC",
+    "category": "Marketing consultant",
+    "phone": "(347) 470-0721",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.851659999999995,
+      "lng": -73.84093399999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9283511368073620702",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:02.791Z"
+  },
+  {
+    "place_id": "0x67867eb022fb8371:0xb150e5bc2da933b4",
+    "name": "Elm tree L",
+    "category": "Internet marketing service",
+    "phone": "(347) 419-6038",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12776964739232773044",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:02.864Z"
+  },
+  {
+    "place_id": "0x89c2f3086321e2e7:0x77500aeabe66b2ae",
+    "name": "bylenushe",
+    "category": "Marketing consultant",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8597383691983303342",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:04.738Z"
+  },
+  {
+    "place_id": "0x883725e3dd2f21ed:0x417b880f6a09374b",
+    "name": "One Shot Made",
+    "category": "Astrologer",
+    "phone": "(929) 604-7031",
+    "website": "https://msha.ke/oneshotmade.com",
+    "hours": {
+      "Tuesday": "10 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4718514634385602379",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:05.047Z"
+  },
+  {
+    "place_id": "0x491dc0caf61eaf3:0xa6020f4116a3ba6c",
+    "name": "PHP Marketing Agent",
+    "category": "Financial consultant",
+    "phone": "(917) 656-1588",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11962140332476578412",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:05.152Z"
+  },
+  {
+    "place_id": "0x89c2598f2ba12cf3:0xb6e60107f256163b",
+    "name": "Fohr",
+    "category": "Internet marketing service",
+    "address": "72 Allen St Fl 3, New York, NY 10002",
+    "phone": "(646) 374-8736",
+    "website": "https://www.fohr.co/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7174894,
+      "lng": -73.99085389999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13179222493188462139",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:19.727Z"
+  },
+  {
+    "place_id": "0x89c2f5107af65dcb:0xf6a27e7a32a31877",
+    "name": "Sanz Media Group",
+    "category": "Marketing agency",
+    "phone": "(347) 465-9607",
+    "hours": {},
+    "coordinates": {
+      "lat": 27.9081355,
+      "lng": -82.53861599999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17771906142858057847",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:19.787Z"
+  },
+  {
+    "place_id": "0x89c259a1aeaa52f9:0xb7b1d6866013f2b2",
+    "name": "Predictive Intent Marketing",
+    "category": "Marketing agency",
+    "address": "447 Broadway, 2nd FL, #497, New York, NY 10013",
+    "phone": "(917) 993-5252",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7206058,
+      "lng": -74.0014893
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13236596652444480178",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:19.802Z"
+  },
+  {
+    "place_id": "0x89c2f5286408372d:0x2b0b72c003de87f7",
+    "name": "Junbug's Cart",
+    "category": "Internet marketing service",
+    "phone": "(917) 260-9005",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.732460499999995,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3101698937398921207",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:19.821Z"
+  },
+  {
+    "place_id": "0x89c25a32e88a9483:0x61a8ee48e789cc95",
+    "name": "ExportUSA New York, Corp.",
+    "category": "Import export company",
+    "address": "45 Main St Suite 628, Brooklyn, NY 11201",
+    "phone": "(718) 522-5575",
+    "website": "https://www.exportusa.eu/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.702880799999996,
+      "lng": -73.9905816
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7037136414656023701",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "a.breda@exportusa.us",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "a.breda@exportusa.us",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@exportusa.us",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:19.847Z"
+  },
+  {
+    "place_id": "0x82855908e300da01:0x89ca5bd129e38a50",
+    "name": "cash app support",
+    "category": "Telemarketing service",
+    "phone": "(989) 250-3550",
+    "rating": 3,
+    "hours": {
+      "Tuesday": "9:30 AM–2 PM"
+    },
+    "coordinates": {
+      "lat": 40.851659999999995,
+      "lng": -73.84093399999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9928849282400750160",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:19.882Z"
+  },
+  {
+    "place_id": "0x89c25a16fe3d8095:0x475ff431a016f9d0",
+    "name": "Performance Software NY INC",
+    "category": "Software company",
+    "address": "40 Wall St, New York, NY 10005",
+    "phone": "(800) 881-3414",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "9 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 40.7070346,
+      "lng": -74.0097535
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5143097793456830928",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:19.906Z"
+  },
+  {
+    "place_id": "0x89c25a167cf1f40b:0xb85bff5c569ad0b1",
+    "name": "Tradeshow Models New York",
+    "category": "Marketing agency",
+    "address": "5 Hanover Square Ste 247, New York, NY 10004",
+    "phone": "(800) 299-2894",
+    "website": "http://tradeshowmodelsnewyork.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.705075799999996,
+      "lng": -74.0091604
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13284492297914470577",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:19.971Z"
+  },
+  {
+    "place_id": "0x89c259a40146185d:0xc79d912a5138b8e0",
+    "name": "Front Row",
+    "category": "Marketing agency",
+    "address": "5 Crosby St, New York, NY 10013",
+    "phone": "+1 406-059-0170",
+    "website": "https://frontrowgroup.com/",
+    "hours": {
+      "Tuesday": "9:30 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7197671,
+      "lng": -74.00024259999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14383812395828558048",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:23.409Z"
+  },
+  {
+    "place_id": "0x89cbbea2d1184d19:0x53fe9d86fe09491e",
+    "name": "Hospihub",
+    "category": "Marketing agency",
+    "phone": "(551) 482-8767",
+    "website": "https://www.hospihub.net/",
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6052448152345725214",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "hello@hospihub.net",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@hospihub.net",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:23.432Z"
+  },
+  {
+    "place_id": "0x89c2f494d7878d7f:0x83479a8fc3043d12",
+    "name": "Jet Realty Corporation",
+    "category": "Property management company",
+    "address": "1501 St Lawrence Ave, Bronx, NY 10460",
+    "phone": "(718) 518-0925",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.8381062,
+      "lng": -73.8683575
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9459699484557851922",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:23.476Z"
+  },
+  {
+    "place_id": "0x89c2f49e5bed62b9:0xe4a6b4cac68b53b2",
+    "name": "Sam and Jeffereys Pressure Washing",
+    "category": "Internet marketing service",
+    "phone": "(347) 948-5953",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.921558999999995,
+      "lng": -73.9003419
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16476055069788951474",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:23.502Z"
+  },
+  {
+    "place_id": "0x89c25bd5b2fd942f:0xb005548ff293a68d",
+    "name": "Blue Astral - NY",
+    "category": "Marketing agency",
+    "phone": "(800) 227-9410",
+    "website": "https://blueastral.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12683636902785689229",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "info@blueastral.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@blueastral.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:23.522Z"
+  },
+  {
+    "place_id": "0x89c25a25fc06aaab:0xfd05e000b89dd62d",
+    "name": "JB Screen Printing & Embroidery",
+    "category": "Embroidery service",
+    "address": "Appoinment Only, 108 Madison St, New York, NY 10002",
+    "phone": "(718) 799-6765",
+    "website": "http://www.jbprintny.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "6 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.712053999999995,
+      "lng": -73.9951466
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18232224960181294637",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "jbprintny@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "jbprintny@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:23.563Z"
+  },
+  {
+    "place_id": "0x89c2f3960bd1bf87:0x95db0cf73e45cabc",
+    "name": "Adam Hilton",
+    "category": "Marketing consultant",
+    "phone": "(646) 709-6347",
+    "website": "http://adamhilton.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10798238787592112828",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Bronx, New York",
+    "email": "adam@adamhilton.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "adam@adamhilton.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:23.648Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 187,
+    "places_charged": 46,
+    "places_skipped_closed": 0,
+    "places_no_email": 141,
+    "total_emails_verified": 58,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T07:36:26.484Z",
+    "requests": 214,
+    "delivered": 46,
+    "est_spend_usd": 0.1712,
+    "est_revenue_usd": 0.368,
+    "profit_guard_tripped": false
+  },
+  {
+    "_type": "info",
+    "delivered": 46,
+    "message": "46 leads delivered. This row is informational — it is never billed.",
+    "schedule_tip": "Want this refreshed automatically? Apify Console -> this Actor -> Schedules -> Add schedule -> pick how often (e.g. daily) -> Save. It reruns with the same input on autopilot, no code required.",
+    "review_tip": "Found this useful? A quick Store review helps other buyers find it: https://apify.com/themineworks/maps-leads#reviews",
+    "scraped_at": "2026-09-22T07:36:26.748Z"
+  }
+]

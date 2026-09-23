@@ -1,0 +1,3087 @@
+[
+  {
+    "place_id": "0x89c2f4873b21458b:0x3d5aa9f4c63cfe",
+    "name": "Antonio's Trattoria",
+    "category": "Italian restaurant",
+    "address": "2370 Belmont Ave, Bronx, NY 10458",
+    "phone": "(718) 733-6630",
+    "website": "http://www.antoniostrattoria.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.8542121,
+      "lng": -73.8865438
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17269659581955326",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "email": "info@antoniostrattoria.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@antoniostrattoria.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:24.226Z"
+  },
+  {
+    "place_id": "0x89c28b302b518203:0x988671e2a6e9141c",
+    "name": "Lena Trattoria",
+    "category": "Italian restaurant",
+    "address": "3470 E Tremont Ave, Bronx, NY 10465",
+    "phone": "(718) 239-5362",
+    "website": "https://www.lenatrattoria.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "12–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.8315408,
+      "lng": -73.8273579
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10990597158921114652",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:24.405Z"
+  },
+  {
+    "place_id": "0x89c28c788be66c1d:0xef5f21426cd3b08a",
+    "name": "The Black Whale",
+    "category": "American restaurant",
+    "address": "279 City Island Ave, Bronx, NY 10464",
+    "phone": "(718) 885-3657",
+    "website": "https://theblackwhalefb.wixsite.com/theblackwhaleci",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.846344699999996,
+      "lng": -73.7863399
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17248541667029659786",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:24.433Z"
+  },
+  {
+    "place_id": "0x89c2f48751b2a8e1:0xf3352ba247ab7897",
+    "name": "Zero Otto Nove Bronx",
+    "category": "Neapolitan restaurant",
+    "address": "2357 Arthur Ave, Bronx, NY 10458",
+    "phone": "(718) 220-1028",
+    "website": "https://www.zeroottonove.com/locations/bronx",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–2:30 PM, 4:30–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.8547726,
+      "lng": -73.8884726
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17524961500969269399",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:24.465Z"
+  },
+  {
+    "place_id": "0x89c2f52c6a745acf:0x81dcdd2d31179426",
+    "name": "Frankie's Restaurant Arthur Avenue",
+    "category": "Pizza restaurant",
+    "address": "2376 Arthur Ave, Bronx, NY 10458",
+    "phone": "(347) 270-1452",
+    "website": "http://www.frankiesrestaurantarthurave.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.8548301,
+      "lng": -73.88786259999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9357597311935943718",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:24.517Z"
+  },
+  {
+    "place_id": "0x89c2f4a3002ac521:0x40629e8724ea3727",
+    "name": "Pine Restaurant",
+    "category": "Italian restaurant",
+    "address": "1913 Bronxdale Ave, Bronx, NY 10462",
+    "phone": "(718) 792-5956",
+    "website": "http://fjpine.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.8487296,
+      "lng": -73.8622597
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4639444869422135079",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:24.593Z"
+  },
+  {
+    "place_id": "0x89c2f487589be52b:0xf439de54b109fb58",
+    "name": "Enzo's of Arthur Avenue",
+    "category": "Italian restaurant",
+    "address": "2339 Arthur Ave, Bronx, NY 10458",
+    "phone": "(718) 733-4455",
+    "website": "http://www.enzosofarthuravenue.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.854444099999995,
+      "lng": -73.888881
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17598341474255764312",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:24.668Z"
+  },
+  {
+    "place_id": "0x89c2f54461a0601d:0xb3ffc8f5c4d1b70f",
+    "name": "Leandro's Kitchen & Wine",
+    "category": "Restaurant",
+    "address": "1000 Morris Park Ave, Bronx, NY 10462",
+    "phone": "(718) 362-6009",
+    "website": "http://leandrosknw.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.8480388,
+      "lng": -73.8559124
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12970306409744938767",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:24.866Z"
+  },
+  {
+    "place_id": "0x89c2f5caaee8ecc7:0xf2b4c1668fb4afe5",
+    "name": "Porto Salvo",
+    "category": "Italian restaurant",
+    "address": "424 E 161st St, Bronx, NY 10451",
+    "phone": "(929) 376-7866",
+    "website": "https://portosalvonyc.com/?utm_source=google",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.823695699999995,
+      "lng": -73.9129382
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17488815899228286949",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:30.490Z"
+  },
+  {
+    "place_id": "0x89c2f48766f0bda5:0xefe0b4cca73a7111",
+    "name": "Roberto's",
+    "category": "Italian restaurant",
+    "address": "603 Crescent Ave #605, Bronx, NY 10458",
+    "phone": "(718) 733-9503",
+    "website": "https://www.robertosbronx.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12–2:30 PM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.853763,
+      "lng": -73.8884344
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17285014160919916817",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:30.768Z"
+  },
+  {
+    "place_id": "0x89c2f362b7dd5aab:0x51e137a2003b75be",
+    "name": "The Last Stop",
+    "category": "Bar",
+    "address": "5977 Broadway, Bronx, NY 10471",
+    "phone": "(347) 449-6679",
+    "website": "https://www.thelaststopbar.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "4 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.889704099999996,
+      "lng": -73.89855709999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5900058155760186814",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:30.967Z"
+  },
+  {
+    "place_id": "0x89c2f555365d9ce9:0x82cbc8df3e023ab4",
+    "name": "Maisonetta",
+    "category": "Mexican restaurant",
+    "address": "141 Lincoln Ave, Bronx, NY 10454",
+    "phone": "(347) 297-4607",
+    "website": "https://maisonettanyc.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "10 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.808723,
+      "lng": -73.9291428
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9424847506346490548",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:31.337Z"
+  },
+  {
+    "place_id": "0x89c2f53819c60e11:0x7ba295943992343d",
+    "name": "Sugar Restaurant",
+    "category": "Restaurant",
+    "address": "1010 Southern Blvd, Bronx, NY 10459",
+    "phone": "(718) 600-7330",
+    "website": "http://sugarbbq.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "1–11:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.8233916,
+      "lng": -73.8916024
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8908847476745843773",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:31.467Z"
+  },
+  {
+    "place_id": "0x89c2f3aeeea22cab:0xfc0dd7a9363b243c",
+    "name": "Tortoise & Hare",
+    "category": "Gastropub",
+    "address": "6115 Broadway, Bronx, NY 10471",
+    "phone": "(347) 843-7868",
+    "website": "http://tortoiseharenyc.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "3–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.8941853,
+      "lng": -73.8967473
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18162409994014368828",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:31.488Z"
+  },
+  {
+    "place_id": "0x89c28b521ddf61ed:0x5f63e1fbff501f18",
+    "name": "Da Franco & Tony Ristorante",
+    "category": "Italian restaurant",
+    "address": "2815 Middletown Rd, Bronx, NY 10461",
+    "phone": "(718) 684-2815",
+    "website": "http://dafrancoandtony.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.8435906,
+      "lng": -73.83605519999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6873585928733990680",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "email": "francoandtony@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "francoandtony@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:31.566Z"
+  },
+  {
+    "place_id": "0x89c2f5dde84023ad:0x10e1c325ea8fb3f2",
+    "name": "Charlies Bar & Kitchen",
+    "category": "New American restaurant",
+    "address": "112 Lincoln Ave, Bronx, NY 10454",
+    "phone": "(718) 684-2338",
+    "website": "http://charliesbarkitchen.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.8078563,
+      "lng": -73.9291873
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1216467941983237106",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "email": "events@charliesbarkitchen.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "events@charliesbarkitchen.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:31.685Z"
+  },
+  {
+    "place_id": "0x89c28c7c8a831933:0x396aa7f6513e9814",
+    "name": "ATIK Restaurant",
+    "category": "Restaurant",
+    "address": "555 City Island Ave, Bronx, NY 10464",
+    "phone": "(646) 375-3133",
+    "website": "https://atikrestaurant.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "3–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.8533332,
+      "lng": -73.79026569999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4137303884060071956",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:38.509Z"
+  },
+  {
+    "place_id": "0x89c28b1d2ba8c877:0x2501f3ba55e8da13",
+    "name": "The Waterfront NYC",
+    "category": "New American restaurant",
+    "address": "500 Hutchinson Riv Pkwy, Bronx, NY 10465",
+    "phone": "(718) 414-1577",
+    "website": "http://thewaterfrontnyc.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "11:30 AM–7:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.8109433,
+      "lng": -73.833659
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2666680436010834451",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:38.536Z"
+  },
+  {
+    "place_id": "0x89c2f3f3168eb33d:0xaae626a7f96dd1b6",
+    "name": "Tobala",
+    "category": "Oaxacan restaurant",
+    "address": "3732 Riverdale Ave, Bronx, NY 10463",
+    "phone": "(347) 427-6889",
+    "website": "http://tobalanyc.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "5–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.88749,
+      "lng": -73.9068724
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12314572733977317814",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "email": "events@tobalanyc.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "events@tobalanyc.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@tobalanyc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:38.588Z"
+  },
+  {
+    "place_id": "0x89c2f59ee9aecf73:0xdb9749cbe63a3824",
+    "name": "No Fork",
+    "category": "Fast food restaurant",
+    "address": "612 Crescent Ave, Bronx, NY 10458",
+    "phone": "(347) 654-5807",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "10 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.8533737,
+      "lng": -73.88831929999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15823196955879290916",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:38.685Z"
+  },
+  {
+    "place_id": "0x89c2f5c481958515:0x836ddb8f95e0bd5d",
+    "name": "La Morada",
+    "category": "Oaxacan restaurant",
+    "address": "308 Willis Ave, Bronx, NY 10454",
+    "phone": "(718) 292-0235",
+    "website": "http://lamorada.nyc/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "10 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.810555099999995,
+      "lng": -73.9214101
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9470467001171361117",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:48.775Z"
+  },
+  {
+    "place_id": "0x89c28b4ecbc8d561:0xef772c6c75e0f520",
+    "name": "Havana Café",
+    "category": "Cuban restaurant",
+    "address": "3151 E Tremont Ave, Bronx, NY 10461",
+    "phone": "(718) 518-1800",
+    "website": "https://bronxhavanacafe.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "12–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.837820799999996,
+      "lng": -73.83436669999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17255309341639111968",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:48.809Z"
+  },
+  {
+    "place_id": "0x89c28b463473a51d:0x615be40a8ffe1f40",
+    "name": "Made in Puerto Rico Latin Cuisine",
+    "category": "Puerto Rican restaurant",
+    "address": "3363 E Tremont Ave, Bronx, NY 10461",
+    "phone": "(718) 684-1309",
+    "website": "http://www.madeinpuertoricony.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.834509499999996,
+      "lng": -73.8290179
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7015451578576281408",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:48.844Z"
+  },
+  {
+    "place_id": "0x89c2f48739580219:0xb20de58dfcf6b03d",
+    "name": "Cakor",
+    "category": "Eastern European restaurant",
+    "address": "632 E 186th St, Bronx, NY 10458",
+    "phone": "(718) 733-2300",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.8540506,
+      "lng": -73.88704609999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12830163311445585981",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:48.893Z"
+  },
+  {
+    "place_id": "0x89c2f55853e126c1:0xe26e4fb1f51c93d7",
+    "name": "iNine Bistro",
+    "category": "Bistro",
+    "address": "53 Bruckner Blvd, Bronx, NY 10454",
+    "phone": "(929) 265-9682",
+    "website": "https://ininebistro.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "4 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.8067311,
+      "lng": -73.9267094
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16316066125749982167",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:48.919Z"
+  },
+  {
+    "place_id": "0x89c2f4a595434233:0xcf35d27948ac370e",
+    "name": "Nana's Kitchen",
+    "category": "Eastern European restaurant",
+    "address": "1809 Hone Ave, Bronx, NY 10461",
+    "phone": "(347) 810-9070",
+    "website": "http://www.nanaskitchenbronx.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.849032099999995,
+      "lng": -73.8550635
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14931071557968869134",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:48.956Z"
+  },
+  {
+    "place_id": "0x89c2f331be655de1:0xec0b64212174778a",
+    "name": "Home BX Steak",
+    "category": "Restaurant",
+    "address": "224 W 238th St, Bronx, NY 10463",
+    "phone": "(929) 243-3527",
+    "website": "http://homebxsteak.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "12 PM–1 AM"
+    },
+    "coordinates": {
+      "lat": 40.884724299999995,
+      "lng": -73.8998893
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17008798511152789386",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "email": "homesteaknyc@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "homesteaknyc@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:49.098Z"
+  },
+  {
+    "place_id": "0x89c28b1810999af9:0x5496f2ea1f135df8",
+    "name": "Wicked Wolf Bronx",
+    "category": "American restaurant",
+    "address": "4029 E Tremont Ave, Bronx, NY 10465",
+    "phone": "(718) 829-4400",
+    "website": "http://www.wickedwolfbronx.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.8196472,
+      "lng": -73.81734999999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6095326233050177016",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "email": "wickedwolfbx@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "wickedwolfbx@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:49.254Z"
+  },
+  {
+    "place_id": "0x89c2f5ba1be3826f:0xe455ebb94e7807c8",
+    "name": "Seis Vecinos",
+    "category": "Central American restaurant",
+    "address": "640 Prospect Ave, Bronx, NY 10455",
+    "phone": "(718) 684-8604",
+    "website": "http://www.seisvecinos.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "10 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.8154018,
+      "lng": -73.90295979999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16453315994785941448",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:55.628Z"
+  },
+  {
+    "place_id": "0x89c2f51570c93895:0x33a267a696178cb6",
+    "name": "Mirador Restaurant",
+    "category": "Dominican restaurant",
+    "address": "1452 Westchester Ave, Bronx, NY 10472",
+    "phone": "(718) 684-3011",
+    "website": "http://miradorrestaurants.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "7 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.828005,
+      "lng": -73.8821973
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3720650207341808822",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "8c4075d5481d476e945486754f783364@sentry.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "e0b4d631da7b4200828051f7f9c783e3@sentry-next.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:55.654Z"
+  },
+  {
+    "place_id": "0x89c2f5fba0f4a1e5:0x51a84dbd71066cc7",
+    "name": "Patricia's of Morris Park",
+    "category": "Italian restaurant",
+    "address": "1082 Morris Park Ave, Bronx, NY 10461",
+    "phone": "(718) 409-9069",
+    "website": "https://patriciasofmorrispark.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.8491213,
+      "lng": -73.85330069999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5884038389199957191",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:55.725Z"
+  },
+  {
+    "place_id": "0x89c2f48742b4d875:0x77cc19930c936440",
+    "name": "Çka Ka Qëllu",
+    "category": "Mediterranean restaurant",
+    "address": "2321 Hughes Ave, Bronx, NY 10458",
+    "phone": "(718) 933-6194",
+    "website": "http://ckakaqellu.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.8539343,
+      "lng": -73.88821159999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8632302705124271168",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "email": "info@ckakaqellu.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@ckakaqellu.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:55.799Z"
+  },
+  {
+    "place_id": "0x89c2f4c11f9497bd:0xe4456978f2a147",
+    "name": "Step In",
+    "category": "American restaurant",
+    "address": "1309 Metropolitan Ave, Bronx, NY 10462",
+    "phone": "(718) 822-0562",
+    "website": "http://www.stepinnyc.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "1–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.833887999999995,
+      "lng": -73.8611919
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=64252613993079111",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:55.882Z"
+  },
+  {
+    "place_id": "0x89c28c633b025067:0x8dd7fd3725821408",
+    "name": "City Island Lobster House",
+    "category": "Seafood restaurant",
+    "address": "691 Bridge St, Bronx, NY 10464",
+    "phone": "(718) 885-1459",
+    "website": "http://cilobsterhouse.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11:30 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.8567653,
+      "lng": -73.791135
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10220916292634940424",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:55.902Z"
+  },
+  {
+    "place_id": "0x89c2f3971fed55ab:0x9d26d1a97bd548c9",
+    "name": "The Bronx Public",
+    "category": "Bar & grill",
+    "address": "170 W 231st St, Bronx, NY 10463",
+    "phone": "(718) 708-6447",
+    "website": "https://www.thebronxpublic.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "12 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.8782466,
+      "lng": -73.9034416
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11323968838926944457",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:55.921Z"
+  },
+  {
+    "place_id": "0x89c2f58e8ef648f9:0x486aa965edeed1ed",
+    "name": "Reef Al–Yemen Restaurant — مطعم ريف اليمن",
+    "category": "Restaurant",
+    "address": "655 Morris Park Ave, Bronx, NY 10462",
+    "phone": "(347) 621-0071",
+    "website": "https://reefalyemenn7y.com/?utm_source=google_business_profile&utm_medium=button&utm_tracking_link_id=7e52b789-60c7-4997-8b6a-2c81d416cd79",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–3 AM"
+    },
+    "coordinates": {
+      "lat": 40.845069699999996,
+      "lng": -73.86759839999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5218169373510783469",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:55.978Z"
+  },
+  {
+    "place_id": "0x89c28b3db8ae9d07:0x3f3441665ade0937",
+    "name": "Travesias",
+    "category": "Latin American restaurant",
+    "address": "3834 E Tremont Ave, Bronx, NY 10465",
+    "phone": "(718) 828-3834",
+    "website": "https://www.travesiasny.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "3–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.824466199999996,
+      "lng": -73.82057449999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4554337031045384503",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:02.200Z"
+  },
+  {
+    "place_id": "0x89c2f500146dacf7:0xfd6d73458af2b410",
+    "name": "Socotra Restaurant مطعم سقطرى",
+    "category": "Restaurant",
+    "address": "711 Morris Park Ave, Bronx, NY 10462",
+    "phone": "(718) 304-5388",
+    "website": "https://socotra-cuisine.vercel.app/#",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.8454864,
+      "lng": -73.8657471
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18261378806578328592",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:02.218Z"
+  },
+  {
+    "place_id": "0x89c2f48758d05f9f:0xe5a0f6225a206f3a",
+    "name": "Dominick's",
+    "category": "Italian restaurant",
+    "address": "2335 Arthur Ave, Bronx, NY 10458",
+    "phone": "(718) 733-2807",
+    "website": "https://www.facebook.com/Dominicks-Restaurant-102210239822815/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.8542919,
+      "lng": -73.8888824
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16546495658360598330",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:02.266Z"
+  },
+  {
+    "place_id": "0x89c2f4a7e61f4c9b:0x807cfec2da0305f3",
+    "name": "Enzo's Of Williamsbridge",
+    "category": "Italian restaurant",
+    "address": "1998 Williamsbridge Rd, Bronx, NY 10461",
+    "phone": "(718) 409-3828",
+    "website": "http://www.enzosbronxrestaurant.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.854192399999995,
+      "lng": -73.8540129
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9258555046801638899",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:12.570Z"
+  },
+  {
+    "place_id": "0x89c2f480b3e54b4f:0xd60f9eed18d342c5",
+    "name": "Moise's Restaurant",
+    "category": "Italian restaurant",
+    "address": "2389 Arthur Ave, Bronx, NY 10458",
+    "phone": "(718) 220-5735",
+    "website": "https://www.moisesristorante.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.8553469,
+      "lng": -73.8880276
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15424721989928174277",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:12.986Z"
+  },
+  {
+    "place_id": "0x89c2f42d7ef6bb5f:0x3cbde320badc7676",
+    "name": "Bronx Draft House",
+    "category": "Bar",
+    "address": "884 Gerard Ave, Bronx, NY 10452",
+    "phone": "(929) 265-9759",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "12 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.828005999999995,
+      "lng": -73.92442799999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4376904142587459190",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:13.085Z"
+  },
+  {
+    "place_id": "0x89c2f3f73c528d4f:0xed1b1c2b0e0f07b5",
+    "name": "Triple J's Restaurant LLC",
+    "category": "Jamaican restaurant",
+    "address": "3563b Boston Rd, Bronx, NY 10469",
+    "phone": "(347) 202-4682",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "11:30 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.8784594,
+      "lng": -73.844572
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17085280582605146037",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:13.105Z"
+  },
+  {
+    "place_id": "0x89c28b65526297c3:0x4837ab5e75b7c97",
+    "name": "Barrio BX",
+    "category": "Puerto Rican restaurant",
+    "address": "1247 Castle Hill Ave, Bronx, NY 10462",
+    "phone": "(718) 269-3345",
+    "website": "https://order.myordering.online/ordering/barriobx",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.8330953,
+      "lng": -73.8516697
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=325238519790009495",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:13.166Z"
+  },
+  {
+    "place_id": "0x89c2f48a6d3189a9:0xc3bb5ee49d12e789",
+    "name": "El Nuevo Bohío",
+    "category": "Puerto Rican restaurant",
+    "address": "791 E Tremont Ave, Bronx, NY 10460",
+    "phone": "(718) 299-4218",
+    "website": "https://elnuevobohiorestaurant.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "8:30 AM–8:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.844121699999995,
+      "lng": -73.88791669999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14103970994021656457",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:13.211Z"
+  },
+  {
+    "place_id": "0x89c2f50032f72a59:0x9f41a5183716dda6",
+    "name": "Moody Cafe",
+    "category": "Coffee shop",
+    "address": "716 Morris Park Ave Store # A, Bronx, NY 10462",
+    "phone": "(718) 684-2569",
+    "website": "https://www.moodycafee.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "7 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.8452359,
+      "lng": -73.86538809999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11475634848938778022",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:13.316Z"
+  },
+  {
+    "place_id": "0x89c2f4685f4c94e1:0xba297e172876441f",
+    "name": "Casa del Mar Seafood Restaurant",
+    "category": "Restaurant",
+    "address": "1779 Webster Ave, Bronx, NY 10457",
+    "phone": "(917) 473-6670",
+    "website": "http://www.casadelmarbronx.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.8452671,
+      "lng": -73.902795
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13414391603027919903",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:13.335Z"
+  },
+  {
+    "place_id": "0x89c2f4875f6f5a27:0xe1e836a2c981e82c",
+    "name": "Emilia's",
+    "category": "Italian restaurant",
+    "address": "2331 Arthur Ave, Bronx, NY 10458",
+    "phone": "(718) 367-5915",
+    "website": "https://emiliasrestaurant.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.8541479,
+      "lng": -73.8889526
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16278320925923993644",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "email": "emilias2331@aol.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "emilias2331@aol.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:18.311Z"
+  },
+  {
+    "place_id": "0x89c2f4875c185949:0x7373c98a876e379",
+    "name": "Mario's Restaurant of Arthur Avenue",
+    "category": "Italian restaurant",
+    "address": "2342 Arthur Ave, Bronx, NY 10458",
+    "phone": "(718) 584-1188",
+    "website": "https://mariosarthurave.org/?utm_source=google",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.854156499999995,
+      "lng": -73.8884583
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=519950908343640953",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.386Z"
+  },
+  {
+    "place_id": "0x89c2f4874335cded:0x7d4a294c4f2fb6d",
+    "name": "Bronx Little Italy",
+    "category": "Restaurant",
+    "address": "2396 Arthur Ave, Bronx, NY 10458",
+    "phone": "(718) 294-8259",
+    "website": "http://www.bronxlittleitaly.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.855288099999996,
+      "lng": -73.88764739999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=564254613171272557",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "email": "info@bronxlittleitaly.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@bronxlittleitaly.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:18.415Z"
+  },
+  {
+    "place_id": "0x89c2f51a0235f887:0xbeb20bceb7dc93b4",
+    "name": "SPICE UP SWEETS AND RESTAURANT",
+    "category": "Halal restaurant",
+    "address": "2160 Westchester Ave, Bronx, NY 10462",
+    "phone": "(718) 822-8777",
+    "website": "https://www.spiceupsweetsrestaurant.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.834075899999995,
+      "lng": -73.8523864
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13741058395536659380",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.486Z"
+  },
+  {
+    "place_id": "0x89c2f4a02a9e72e7:0x655038b676b3d503",
+    "name": "Dukagjini Burek",
+    "category": "Eastern European restaurant",
+    "address": "758 Lydig Ave, Bronx, NY 10462",
+    "phone": "(718) 822-8955",
+    "website": "http://dukagjiniburek.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "8:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.8543404,
+      "lng": -73.8654543
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7300397352294274307",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.511Z"
+  },
+  {
+    "place_id": "0x89c2f48732ce8061:0x2dddfebfda3223bc",
+    "name": "Tra Di Noi",
+    "category": "Italian restaurant",
+    "address": "622 E 187th St, Bronx, NY 10458",
+    "phone": "(718) 295-1784",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "12–3 PM, 4–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.855011,
+      "lng": -73.886821
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3305077801512739772",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:18.589Z"
+  },
+  {
+    "place_id": "0x89c28b85f2d7afa1:0xd0488f46c1ea72f7",
+    "name": "Sammy's Fish Box",
+    "category": "Seafood restaurant",
+    "address": "41 City Island Ave, Bronx, NY 10464",
+    "phone": "(718) 885-0920",
+    "website": "https://www.sammysfishbox.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 40.8390445,
+      "lng": -73.7837189
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15008403292276028151",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.614Z"
+  },
+  {
+    "place_id": "0x89c2f5630d9955dd:0xb3603dfdcc69be04",
+    "name": "El Cartel Restaurant",
+    "category": "Restaurant",
+    "address": "2542 E Tremont Ave, Bronx, NY 10461",
+    "phone": "(917) 245-5934",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "3 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.842694699999996,
+      "lng": -73.8490022
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12925399090818825732",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:18.679Z"
+  },
+  {
+    "place_id": "0x89c2f5a2489ecc33:0x8b14785c5eaabaea",
+    "name": "RUTA 55 RESTAURANT",
+    "category": "Restaurant",
+    "address": "1316 Lafayette Ave, Bronx, NY 10474",
+    "phone": "(718) 709-3935",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "6:30 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.816753299999995,
+      "lng": -73.8864468
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10021767408926767850",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:21.556Z"
+  },
+  {
+    "place_id": "0x89c2f48055e1d509:0x2b40f5845bb80f76",
+    "name": "Michaelangelo's Restaurant of Arthur Ave",
+    "category": "Italian restaurant",
+    "address": "2477 Arthur Ave, Bronx, NY 10458",
+    "phone": "(718) 220-8455",
+    "website": "http://michaelangelosnyc.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "1–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.857316399999995,
+      "lng": -73.88623199999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3116760890963660662",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "email": "m.angelosbx@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "m.angelosbx@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:21.577Z"
+  },
+  {
+    "place_id": "0x89c2f4e68935c3c7:0xb9deda984df1babe",
+    "name": "CEA - LO Cafe",
+    "category": "Soul food restaurant",
+    "address": "1003 Soundview Ave, Bronx, NY 10472",
+    "phone": "(718) 620-0337",
+    "website": "https://www.cealocafe.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "11 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.825129,
+      "lng": -73.8703834
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13393382689524005566",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "email": "cealocafe456@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "cealocafe456@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:21.619Z"
+  },
+  {
+    "place_id": "0x89c2f47df4e349d3:0x3603dddd61d52cf2",
+    "name": "San Gennaro",
+    "category": "Italian restaurant",
+    "address": "2329 Arthur Ave, Bronx, NY 10458",
+    "phone": "(718) 562-0129",
+    "website": "http://sangennarony.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.854115,
+      "lng": -73.8890469
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3892198445877112050",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:21.714Z"
+  },
+  {
+    "place_id": "0x89c2f5676fc6d599:0xff2e4822f8059c9",
+    "name": "Tandoori Place",
+    "category": "Indian restaurant",
+    "address": "2146 Starling Ave, Bronx, NY 10462",
+    "phone": "(718) 550-4062",
+    "website": "https://www.ordertandooriplace.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "10 AM–3 AM"
+    },
+    "coordinates": {
+      "lat": 40.8359595,
+      "lng": -73.8536453
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1149232102726719945",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:29.266Z"
+  },
+  {
+    "place_id": "0x89c2f541f3df9683:0x4fe1361fd9100833",
+    "name": "Boca Restaurant and Lounge",
+    "category": "Restaurant",
+    "address": "2458 Webster Ave, Bronx, NY 10458",
+    "phone": "(917) 688-1031",
+    "website": "https://bocabronx.com/?utm_source=google",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "4 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 40.8599113,
+      "lng": -73.8928818
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5755941309169797171",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:29.767Z"
+  },
+  {
+    "place_id": "0x89c2f480b91f987f:0x991b05ec76bd86a4",
+    "name": "Ann & Tony’s Restaurant",
+    "category": "Southern Italian restaurant",
+    "address": "2407 Arthur Ave, Bronx, NY 10458",
+    "phone": "(718) 933-1469",
+    "website": "http://www.annandtonysonline.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.85586,
+      "lng": -73.887596
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11032418225336714916",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "email": "info@annandtonysonline.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@annandtonysonline.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:29.788Z"
+  },
+  {
+    "place_id": "0x89c2f5696fec3803:0xd4c16b00c6709df9",
+    "name": "Morris Park Inn",
+    "category": "American restaurant",
+    "address": "1024 Morris Park Ave, Bronx, NY 10461",
+    "phone": "(718) 239-4109",
+    "website": "http://morrisparkinn.com/",
+    "rating": 4.6,
+    "hours": {
+      "Monday": "11 AM–4 AM"
+    },
+    "coordinates": {
+      "lat": 40.8483418,
+      "lng": -73.85517089999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15330652257619320313",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:29.899Z"
+  },
+  {
+    "place_id": "0x89c2f4e9f911e9d9:0x63082da1140b9e66",
+    "name": "Sabrosura 2",
+    "category": "Dominican restaurant",
+    "address": "1808 Westchester Ave, Bronx, NY 10472",
+    "phone": "(718) 502-9878",
+    "website": "https://www.sabrosura2.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.8318192,
+      "lng": -73.8658852
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7136003779417841254",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:30.001Z"
+  },
+  {
+    "place_id": "0x89c2f4be4beffccf:0xfd24248b5e836fd8",
+    "name": "Ajo y Oregano",
+    "category": "Dominican restaurant",
+    "address": "1556 White Plains Rd, Bronx, NY 10462",
+    "phone": "(347) 657-1201",
+    "website": "https://www.ajoyoreganony.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "11:30 AM–9:45 PM"
+    },
+    "coordinates": {
+      "lat": 40.839562199999996,
+      "lng": -73.8636238
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18240744571762077656",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:30.023Z"
+  },
+  {
+    "place_id": "0x89c2f4a7f30afa3b:0x98f4b00302bcf01b",
+    "name": "Pasta Pasta",
+    "category": "Italian restaurant",
+    "address": "2023 Williamsbridge Rd, Bronx, NY 10461",
+    "phone": "(718) 892-9634",
+    "website": "http://pastapastabronx.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.8547872,
+      "lng": -73.8552074
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11021627715059773467",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:30.097Z"
+  },
+  {
+    "place_id": "0x89c2f5d3066f8e15:0x75a31d5d7ca2242a",
+    "name": "San Jose Restaurant",
+    "category": "Mexican restaurant",
+    "address": "109 E 153rd St, Bronx, NY 10451",
+    "phone": "(917) 631-9253",
+    "website": "https://www.getsauce.com/order/site/san-jose-restaurant/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "8 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.824050899999996,
+      "lng": -73.9279403
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8476651211001570346",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "email": "support@getsauce.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "support@getsauce.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:30.117Z"
+  },
+  {
+    "place_id": "0x89c2f3bd47b4743d:0xbc276ce0e34f5e5a",
+    "name": "Flame Bronx",
+    "category": "Asian fusion restaurant",
+    "address": "5740 Broadway Unit 5, Bronx, NY 10463",
+    "phone": "(718) 884-2828",
+    "website": "http://www.flameriverdale.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.8827421,
+      "lng": -73.9015577
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13557924916364271194",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:37.511Z"
+  },
+  {
+    "place_id": "0x89c2f4b2dde3fd95:0xd636b81d01d5f202",
+    "name": "El Nuevo Bohío Tropical",
+    "category": "Dominican restaurant",
+    "address": "20 Westchester Square, Bronx, NY 10461",
+    "phone": "(718) 409-4442",
+    "website": "https://www.elnuevobohio.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "7 AM–8:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.8406962,
+      "lng": -73.8435262
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15435727207583314434",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:37.583Z"
+  },
+  {
+    "place_id": "0x89c2f5fe536bc267:0xce9e7ed353cb4615",
+    "name": "Alameen Bakery and Restaurant ( مطعم ومخبز الأمين)",
+    "category": "Restaurant",
+    "address": "1742 Unionport Rd, Bronx, NY 10462",
+    "phone": "(929) 373-2733",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.8446463,
+      "lng": -73.8676038
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14888476864242468373",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:37.596Z"
+  },
+  {
+    "place_id": "0x89c2f5643d6bf3cd:0x29faf79c669957ec",
+    "name": "Alwaha Restaurant Bronx New York",
+    "category": "Restaurant",
+    "address": "1907 White Plains Rd, Bronx, NY 10462",
+    "phone": "(718) 409-2236",
+    "website": "https://www.alwaharestaurantbronx.com/order/bronx",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "12–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.8477323,
+      "lng": -73.8675042
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3025002350840993772",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:37.612Z"
+  },
+  {
+    "place_id": "0x89c28cb85ba20dc9:0xffc2b2e0cacefb9e",
+    "name": "Sangria Cafe",
+    "category": "Latin American restaurant",
+    "address": "2085 Bartow Ave, Bronx, NY 10475",
+    "phone": "(347) 843-6486",
+    "website": "https://sangriacafe.com/?utm_source=google",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "6 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.8697607,
+      "lng": -73.8277042
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18429489303698471838",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:37.702Z"
+  },
+  {
+    "place_id": "0x89c2f4a2656a13a3:0x1dd2193f36181532",
+    "name": "Grill House",
+    "category": "Middle Eastern restaurant",
+    "address": "1991 Bronxdale Ave #3, Bronx, NY 10462",
+    "phone": "(718) 430-9797",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.849722199999995,
+      "lng": -73.8644444
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2148807731490329906",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:37.766Z"
+  },
+  {
+    "place_id": "0x89c2f4c1f8f949ad:0x55acdca66a31e388",
+    "name": "Willie's Steak House",
+    "category": "American restaurant",
+    "address": "1832 Westchester Ave, Bronx, NY 10472",
+    "phone": "(718) 822-9697",
+    "website": "http://www.williessteakhousebronx.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "4 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.832071299999996,
+      "lng": -73.8648323
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6173551796522443656",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:37.789Z"
+  },
+  {
+    "place_id": "0x89c2f5768469225d:0x9df1aa67a6192002",
+    "name": "The 6 Lounge",
+    "category": "Caribbean restaurant",
+    "address": "1026 Castle Hill Ave, Bronx, NY 10472",
+    "phone": "(718) 210-1840",
+    "website": "https://thesixlounge.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "4 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.828261,
+      "lng": -73.8498834
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11381065095486971906",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:37.883Z"
+  },
+  {
+    "place_id": "0x89c2f5d1a7e5e30f:0xcfc92ba39ebb6dc1",
+    "name": "G Bar",
+    "category": "Italian restaurant",
+    "address": "579 Grand Concourse, Bronx, NY 10451",
+    "phone": "(718) 402-6996",
+    "website": "http://giovanninyc.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.8195112,
+      "lng": -73.927193
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14972546417912671681",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:41.866Z"
+  },
+  {
+    "place_id": "0x89c2f5e257a7ce4b:0x37936a1d843817d8",
+    "name": "Gustitos Latino Restaurant",
+    "category": "Restaurant",
+    "address": "2132 Cruger Ave, Bronx, NY 10462",
+    "phone": "(347) 281-4954",
+    "website": "https://www.gustitoslatinobronx.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.8542486,
+      "lng": -73.8665091
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4004661168667367384",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "8c4075d5481d476e945486754f783364@sentry.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "ino@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "gustitoslatino@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:41.881Z"
+  },
+  {
+    "place_id": "0x89c2f53994bfdd3d:0x6bb4f618e1dd97e",
+    "name": "Zhongzhong Noodles - Bronx",
+    "category": "Chinese noodle restaurant",
+    "address": "657 E 189th St, Bronx, NY 10458",
+    "phone": "(347) 597-4368",
+    "website": "http://zhongzhong.us/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11:30 AM–8:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.856614799999996,
+      "lng": -73.8841991
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=485068665287203198",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:41.985Z"
+  },
+  {
+    "place_id": "0x89c2f48a4d8d7aed:0xcb121eb12f95b866",
+    "name": "Sanbra Door Restaurant",
+    "category": "African restaurant",
+    "address": "861 E Tremont Ave #4, Bronx, NY 10460",
+    "phone": "(718) 294-3300",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "12:30–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.8431293,
+      "lng": -73.88621959999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14632791885636548710",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:46.855Z"
+  },
+  {
+    "place_id": "0x89c2f5d92c484cf5:0x8670445e678a6370",
+    "name": "Arth Aljanatain",
+    "category": "Yemeni restaurant",
+    "address": "700 Rhinelander Ave, Bronx, NY 10462",
+    "phone": "(718) 918-9191",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 40.8473849,
+      "lng": -73.8666736
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9687317970728674160",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:46.882Z"
+  },
+  {
+    "place_id": "0x89c2f4b8118bf12b:0x821a8d81d7c50e77",
+    "name": "Al-Aqsa Restaurant | Halal Food in Bronx",
+    "category": "Halal restaurant",
+    "address": "2107 Starling Ave, Bronx, NY 10462",
+    "phone": "(718) 904-7061",
+    "website": "https://bronx.alaqsarestaurant.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "8 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.836280599999995,
+      "lng": -73.85482139999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9374961163135422071",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "email": "alaqsarestaurant@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "alaqsarestaurant@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:46.902Z"
+  },
+  {
+    "place_id": "0x89c2f4981eebea63:0x6de2eeab47961a4b",
+    "name": "2 Paradise",
+    "category": "Yemeni restaurant",
+    "address": "700 Rhinelander Ave, Bronx, NY 10462",
+    "phone": "(718) 918-9191",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 40.8473849,
+      "lng": -73.8666736
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7918153514278591051",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:46.966Z"
+  },
+  {
+    "place_id": "0x89c2f42d6fa7c529:0x5fa073b6d0527b14",
+    "name": "Yankee Tavern",
+    "category": "Restaurant",
+    "address": "72 E 161st St, Bronx, NY 10451",
+    "phone": "(718) 292-6130",
+    "website": "http://www.yankeetavern.nyc/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "12 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.8272222,
+      "lng": -73.9252778
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6890634658893167380",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:47.015Z"
+  },
+  {
+    "place_id": "0x89c2f4c1923ee3f3:0xb8b62f17e92561ac",
+    "name": "Olivia's",
+    "category": "Puerto Rican restaurant",
+    "address": "1854 Westchester Ave, Bronx, NY 10472",
+    "phone": "(347) 281-9588",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "3 PM–1 AM"
+    },
+    "coordinates": {
+      "lat": 40.8324356,
+      "lng": -73.8637542
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13309877528482374060",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:47.094Z"
+  },
+  {
+    "place_id": "0x89c28b48e684648f:0x32d5a76ae8c4e14f",
+    "name": "Mamajuana Cafe The Bronx",
+    "category": "Latin American restaurant",
+    "address": "3233 E Tremont Ave, Bronx, NY 10461",
+    "phone": "(718) 824-8400",
+    "website": "http://www.mamajuanacafebronx.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "4–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.8357246,
+      "lng": -73.8325907
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3663017949549355343",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:47.113Z"
+  },
+  {
+    "place_id": "0x89c2f486a790bb2d:0x3a28850d575dd740",
+    "name": "Great Wall",
+    "category": "Chinese restaurant",
+    "address": "732 E 187th St, Bronx, NY 10458",
+    "phone": "(718) 365-4294",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "11 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.853590499999996,
+      "lng": -73.88310779999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4190745745615083328",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:47.152Z"
+  },
+  {
+    "place_id": "0x89c2f49f3aa3e4fd:0xc7a3076591998d95",
+    "name": "Cafe Colonial Restaurant",
+    "category": "Latin American restaurant",
+    "address": "2072 White Plains Rd, Bronx, NY 10462",
+    "phone": "(718) 824-1933",
+    "website": "https://cafecolonialnyc.com/?utm_source=google",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "9 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.8526075,
+      "lng": -73.8673579
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14385349767567347093",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:50.787Z"
+  },
+  {
+    "place_id": "0x89c2f4a58d98e995:0x13944b4fad4df15a",
+    "name": "Addeo’s of the Bronx",
+    "category": "Italian restaurant",
+    "address": "1056 Morris Park Ave, Bronx, NY 10461",
+    "phone": "(718) 824-5036",
+    "website": "http://addeosofthebronx.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.8486955,
+      "lng": -73.8542515
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1410835388855873882",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "email": "info@addeopizza.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@addeopizza.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:50.887Z"
+  },
+  {
+    "place_id": "0x89c2f5f90ff15151:0xb26539dfcf6237ee",
+    "name": "Gold Spoon Restaurant & Lounge",
+    "category": "Jamaican restaurant",
+    "address": "1841 Westchester Ave, Bronx, NY 10472",
+    "phone": "(718) 684-1434",
+    "website": "http://goldspoon.getsauce.com/",
+    "rating": 3.6,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.8326511,
+      "lng": -73.8644418
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12854744344818759662",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:50.966Z"
+  },
+  {
+    "place_id": "0x89c2f4c192c108ab:0xea69ffe046ee0ce1",
+    "name": "Isla Cafe",
+    "category": "Puerto Rican restaurant",
+    "address": "1859 Westchester Ave, Bronx, NY 10472",
+    "phone": "(718) 828-3800",
+    "website": "https://www.islacafebx.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "5 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 40.832814,
+      "lng": -73.86394899999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16891313216157519073",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:50.996Z"
+  },
+  {
+    "place_id": "0x89c2f5a20962c44b:0x52d695b5128d591a",
+    "name": "Tasty Choice Shawarma",
+    "category": "Mediterranean restaurant",
+    "address": "704 Morris Park Ave, Bronx, NY 10462",
+    "phone": "(845) 395-3396",
+    "website": "https://tasty-choice.square.site/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.8451478,
+      "lng": -73.865692
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5969122961059043610",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:51.066Z"
+  },
+  {
+    "place_id": "0x89c2f48bab9a9aa7:0x64059c9e44bd5627",
+    "name": "Roy's Pica Pollo",
+    "category": "Dominican restaurant",
+    "address": "880 E Tremont Ave, Bronx, NY 10460",
+    "phone": "(917) 471-8937",
+    "website": "https://www.roysrestaurantny.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "10 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 40.8427224,
+      "lng": -73.8859136
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7207338982248371751",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:51.105Z"
+  },
+  {
+    "place_id": "0x89c2f4ef99315c4d:0x38659e3905eb3cb1",
+    "name": "New Ranch",
+    "category": "American restaurant",
+    "address": "1619 Westchester Ave, Bronx, NY 10472",
+    "phone": "(718) 991-0708",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "7 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 40.8296108,
+      "lng": -73.8747853
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4063828206521367729",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:51.134Z"
+  },
+  {
+    "place_id": "0x89c2f450e2bc3fbd:0x60bce9c3bdb058b",
+    "name": "RICA PARRILLA RESTAURANT",
+    "category": "Latin American restaurant",
+    "address": "855 E 169th St, Bronx, NY 10452",
+    "phone": "(917) 737-8301",
+    "website": "https://ricaparrillarestaurantny.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "8 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.8292814,
+      "lng": -73.8969592
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=435668959385814411",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:51.198Z"
+  },
+  {
+    "place_id": "0x89c2f49825173ddb:0xff2084311d01874a",
+    "name": "Oasis Mediterranean Restaurant",
+    "category": "Yemeni restaurant",
+    "address": "1907 White Plains Rd, Bronx, NY 10462",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "12–11:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.8477323,
+      "lng": -73.8675042
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18383839025401268042",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:52.770Z"
+  },
+  {
+    "place_id": "0x89c28b50d4c9d1af:0xf6f81e669d79eb08",
+    "name": "Shangeri-La Restaurant",
+    "category": "Sushi restaurant",
+    "address": "2893 Buhre Ave, Bronx, NY 10461",
+    "phone": "(718) 828-6080",
+    "website": "https://shangerilany.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.847294399999996,
+      "lng": -73.8326417
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17796007353632025352",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:52.793Z"
+  },
+  {
+    "place_id": "0x89c2f46b4788f753:0x31aecd5ed7ee548b",
+    "name": "Galagala New York Restaurant",
+    "category": "Restaurant",
+    "address": "1745 Townsend Ave, Bronx, NY 10453",
+    "phone": "(347) 271-7133",
+    "website": "https://usmapir.org/details/galagala-new-york-restaurant-ChIJU_e",
+    "rating": 1,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.847138099999995,
+      "lng": -73.9118415
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3580024561039463563",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:52.884Z"
+  },
+  {
+    "place_id": "0x89c2f4c8fd086b6b:0xff87f6e5d5c5ef04",
+    "name": "Sabrosura Restaurant",
+    "category": "Caribbean restaurant",
+    "address": "1200 Castle Hill Ave, Bronx, NY 10462",
+    "phone": "(718) 597-1344",
+    "website": "http://www.sabrosurarestaurant.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.8321162,
+      "lng": -73.8507508
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18412957068522024708",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:52.916Z"
+  },
+  {
+    "place_id": "0x89c2f500344430b1:0x2a576d5b2e7ed974",
+    "name": "Alshibani Seafood",
+    "category": "Yemeni restaurant",
+    "address": "1812 White Plains Rd, Bronx, NY 10462",
+    "phone": "(929) 777-9564",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.8457647,
+      "lng": -73.8660216
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3051027510956317044",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:03.988Z"
+  },
+  {
+    "place_id": "0x89c2f4b7f28d1203:0xe92975b3bb779aef",
+    "name": "Sabor Latino",
+    "category": "Seafood restaurant",
+    "address": "2161 Starling Ave, Bronx, NY 10462",
+    "phone": "(718) 822-0899",
+    "website": "http://www.saborlatinonyc.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.8364852,
+      "lng": -73.8530918
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16801089299687119599",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:04.033Z"
+  },
+  {
+    "place_id": "0x89c2f492989515bb:0x8527032134ac7571",
+    "name": "Caribbean Sunshine Restaurant",
+    "category": "Jamaican restaurant",
+    "address": "1111 E Tremont Ave, Bronx, NY 10460",
+    "phone": "(929) 777-9184",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "9 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.8402605,
+      "lng": -73.87637939999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9594640972288652657",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:04.067Z"
+  },
+  {
+    "place_id": "0x89c2f55a3530e033:0x5c554d098524475a",
+    "name": "Shaking Crab (Bronx)",
+    "category": "Seafood restaurant",
+    "address": "2179 White Plains Rd, Bronx, NY 10462",
+    "phone": "(914) 677-2903",
+    "website": "https://shakingcrabbx.com/?utm_source=google",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "4–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.8559676,
+      "lng": -73.86802519999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6653308727793567578",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:04.111Z"
+  },
+  {
+    "place_id": "0x89c2f4b289b21125:0xde21b21f48eafa3e",
+    "name": "Caridad Williamsbridge",
+    "category": "Spanish restaurant",
+    "address": "1436 Williamsbridge Rd, Bronx, NY 10461",
+    "phone": "(718) 892-8322",
+    "website": "https://www.caridad.nyc/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "10:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.8431572,
+      "lng": -73.84471169999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16006270398088542782",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:04.195Z"
+  },
+  {
+    "place_id": "0x89c2f57a8841fcbf:0x2a79e5998a20c43",
+    "name": "Bora Bora Smoothie Cafe - Morris Park Bronx",
+    "category": "Cafe",
+    "address": "647 Morris Park Ave, Bronx, NY 10462",
+    "phone": "(845) 593-5251",
+    "website": "https://boraborausa.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "7:30 AM–3 AM"
+    },
+    "coordinates": {
+      "lat": 40.845003899999995,
+      "lng": -73.86800029999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=191295616836570179",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:04.286Z"
+  },
+  {
+    "place_id": "0x89c2f48a4541e807:0xea67673b07447461",
+    "name": "North Star Cafe",
+    "category": "American restaurant",
+    "address": "850 E Tremont Ave, Bronx, NY 10460",
+    "phone": "(718) 328-0505",
+    "website": "http://www.northstarcafe.nyc/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "7 AM–7:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.8431163,
+      "lng": -73.88680389999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16890582430698992737",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:04.307Z"
+  },
+  {
+    "place_id": "0x89c2f4894990f8b1:0x67902047e4fb8c85",
+    "name": "Pollo Sabroso Sport Bar",
+    "category": "Dominican restaurant",
+    "address": "855 E 180th St, Bronx, NY 10460",
+    "phone": "(718) 220-9591",
+    "website": "https://www.elnuevovalle2.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "8 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.845740299999996,
+      "lng": -73.8834777
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7462500075709369477",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:04.389Z"
+  },
+  {
+    "place_id": "0x89c2f5edad01775f:0x541c92bbc3cbb26c",
+    "name": "Island Grill NYC",
+    "category": "Jamaican restaurant",
+    "address": "2368 Hoffman St, Bronx, NY 10458",
+    "phone": "(332) 345-0518",
+    "rating": 3.4,
+    "hours": {
+      "Tuesday": "2–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.855084999999995,
+      "lng": -73.88884
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6060880533675291244",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:16.668Z"
+  },
+  {
+    "place_id": "0x89c2f4e998d414e5:0xe463222c90487127",
+    "name": "fouta halal food 2 corp",
+    "category": "West African restaurant",
+    "address": "1762 Westchester Ave, Bronx, NY 10472",
+    "phone": "(718) 792-1700",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "1 PM–4 AM",
+      "Monday": "1 PM–4 AM"
+    },
+    "coordinates": {
+      "lat": 40.8311734,
+      "lng": -73.8678499
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16457035038136496423",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:16.697Z"
+  },
+  {
+    "place_id": "0x89c2f480c6309c69:0x626d47b5cfd9fed5",
+    "name": "Luna Cafe",
+    "category": "Restaurant",
+    "address": "601 E 187th St, Bronx, NY 10458",
+    "phone": "(917) 473-7399",
+    "website": "https://www.lunacafebx.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "7 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.8555914,
+      "lng": -73.887382
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7092403834380222165",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:16.766Z"
+  },
+  {
+    "place_id": "0x89c2f4c832a39abd:0x830518161f551c75",
+    "name": "Estrellita Poblana",
+    "category": "Mexican restaurant",
+    "address": "2231 Westchester Ave, Bronx, NY 10462",
+    "phone": "(718) 518-7425",
+    "website": "https://estrellitapoblana.nyc/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.8345237,
+      "lng": -73.85089959999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9440978677146131573",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:16.791Z"
+  },
+  {
+    "place_id": "0x89c2f5f4eb96a569:0xab80e59257af06e8",
+    "name": "Triple Chocolate Crepes & Waffles",
+    "category": "Creperie",
+    "address": "712 Morris Park Ave, Bronx, NY 10462",
+    "phone": "(929) 614-7444",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 40.845206499999996,
+      "lng": -73.8654533
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12358129794203715304",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:16.815Z"
+  },
+  {
+    "place_id": "0x89c2f5752bf28ebb:0x8bd5fd0717f0aa4d",
+    "name": "Damascus Sweets",
+    "category": "Sweets and dessert buffet",
+    "address": "677 Morris Park Ave, Bronx, NY 10462",
+    "phone": "(347) 621-2791",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "10 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 40.8452458,
+      "lng": -73.8667482
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10076237948219599437",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:16.897Z"
+  },
+  {
+    "place_id": "0x89c2f4c701334717:0x8bc7f223bf46317d",
+    "name": "El Texano Restaurant & Bar",
+    "category": "Mexican restaurant",
+    "address": "2031 Westchester Ave, Bronx, NY 10462",
+    "phone": "(646) 408-6587",
+    "website": "https://www.facebook.com/people/el-texano-restaurant/100063585370228/#",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.8338579,
+      "lng": -73.8566451
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10072285326984229245",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:16.920Z"
+  },
+  {
+    "place_id": "0x89c2f479ecd1cead:0x7635596707b73cfd",
+    "name": "Papaye",
+    "category": "West African restaurant",
+    "address": "2300 Grand Concourse, Bronx, NY 10458",
+    "phone": "(718) 676-0771",
+    "website": "http://papayenyc.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "12–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.857406999999995,
+      "lng": -73.8995036
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8517812569287113981",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:16.994Z"
+  },
+  {
+    "place_id": "0x89c2f51ab18c3727:0x4746944379581d25",
+    "name": "Kabab Curry",
+    "category": "Halal restaurant",
+    "address": "2052 Wallace Ave, Bronx, NY 10462",
+    "phone": "(929) 504-9859",
+    "rating": 4.6,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.8519256,
+      "lng": -73.8647379
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5135955442582166821",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:26.274Z"
+  },
+  {
+    "place_id": "0x89c2f50bb1546233:0x984712f8225070f5",
+    "name": "Taiz Spot 2",
+    "category": "Buffet restaurant",
+    "address": "655 Morris Park Ave, Bronx, NY 10462",
+    "website": "https://www.instagram.com/taizspot2?igsh=MW5xaXo0cHg0Z3hsdQ%3D%3D&utm_source=qr",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "9 AM–3 AM"
+    },
+    "coordinates": {
+      "lat": 40.845069699999996,
+      "lng": -73.86759839999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10972759874048389365",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:26.369Z"
+  },
+  {
+    "place_id": "0x89c2f497cf66f907:0xe294120c3fc1f64a",
+    "name": "Joy Garden",
+    "category": "Chinese restaurant",
+    "address": "687 Morris Park Ave, Bronx, NY 10462",
+    "phone": "(718) 518-1242",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "11:30 AM–11:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.8453175,
+      "lng": -73.8664443
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16326694392943474250",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:26.391Z"
+  },
+  {
+    "place_id": "0x89c2f4bf36664583:0x3d8592222a95c422",
+    "name": "Ellie's Diner",
+    "category": "Diner",
+    "address": "58 Metropolitan Oval, Bronx, NY 10462",
+    "phone": "(718) 239-9870",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.837599999999995,
+      "lng": -73.8599833
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4433110083657122850",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:32.139Z"
+  },
+  {
+    "place_id": "0x89c2f58f7a7f8e89:0xa57c43898bb6ec48",
+    "name": "Halal Brother",
+    "category": "Halal restaurant",
+    "address": "1800 White Plains Rd, Bronx, NY 10462",
+    "phone": "(718) 669-5407",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.845638199999996,
+      "lng": -73.86584669999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11924480171403832392",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:32.163Z"
+  },
+  {
+    "place_id": "0x89c2f4c14aad971d:0x93f5c79f1718f4a",
+    "name": "Lucky Star",
+    "category": "Chinese restaurant",
+    "address": "1924 Cross Bronx Expy, Bronx, NY 10472",
+    "phone": "(718) 863-3900",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.8325253,
+      "lng": -73.859526
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=666352948685672266",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:32.198Z"
+  },
+  {
+    "place_id": "0x89c2f4c1f0f9e4ad:0xf62339af3af8a155",
+    "name": "New No.1",
+    "category": "Chinese restaurant",
+    "address": "1839 Westchester Ave, Bronx, NY 10472",
+    "phone": "(718) 918-2880",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.8324813,
+      "lng": -73.8648702
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17736083182286578005",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:32.228Z"
+  },
+  {
+    "place_id": "0x89c2f4cee6de6db9:0x5dbebfce97fbcfc2",
+    "name": "New Soul Cafe",
+    "category": "Soul food restaurant",
+    "address": "1039 Castle Hill Ave, Bronx, NY 10472",
+    "phone": "(718) 409-5501",
+    "website": "http://www.newsoulcafe.com/",
+    "rating": 3.3,
+    "hours": {
+      "Tuesday": "11 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.8285333,
+      "lng": -73.85050199999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6755047385136353218",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:32.260Z"
+  },
+  {
+    "place_id": "0x89c2f46533892727:0x7b852a01c80543c7",
+    "name": "La Estrella",
+    "category": "Latin American restaurant",
+    "address": "2104 Grand Concourse, Bronx, NY 10457",
+    "phone": "(718) 933-2815",
+    "website": "https://la-estrella.shop/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "8 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.854299999999995,
+      "lng": -73.901647
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8900566425706775495",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:32.280Z"
+  },
+  {
+    "place_id": "0x89c2f34b38b13e63:0xb7744397e004fb07",
+    "name": "Mamma Lorna",
+    "category": "Caribbean restaurant",
+    "address": "3007 Eastchester Rd, Bronx, NY 10469",
+    "phone": "(929) 222-4037",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "8 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.8695795,
+      "lng": -73.8429711
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13219265125816793863",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:32.305Z"
+  },
+  {
+    "place_id": "0x89c28de7c27f563d:0xdd170b4939cade2a",
+    "name": "Bed-Stuy Fish Fry",
+    "category": "Seafood restaurant",
+    "address": "2214 Bartow Ave, Bronx, NY 10475",
+    "phone": "(347) 275-2600",
+    "website": "http://bedstuyfishfry.com/",
+    "rating": 3.3,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.8672298,
+      "lng": -73.8254339
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15931214615976533546",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:32.366Z"
+  },
+  {
+    "place_id": "0x89c2f4c84dcdc179:0x88a5e81975324826",
+    "name": "Melanie's Roti & Grill Restaurant",
+    "category": "Caribbean restaurant",
+    "address": "1248 Castle Hill Ave, Bronx, NY 10462",
+    "phone": "(718) 409-1088",
+    "website": "https://melaniesrotigrillrestaurant.com/?utm_source=google",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.8332961,
+      "lng": -73.8511431
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9846531356353513510",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Bronx, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:32.769Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 126,
+    "places_charged": 17,
+    "places_skipped_closed": 0,
+    "places_no_email": 109,
+    "total_emails_verified": 24,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T07:59:32.799Z",
+    "requests": 196,
+    "delivered": 17,
+    "est_spend_usd": 0.1568,
+    "est_revenue_usd": 0.136,
+    "profit_guard_tripped": true
+  },
+  {
+    "_type": "info",
+    "delivered": 17,
+    "message": "17 leads delivered. This row is informational — it is never billed.",
+    "schedule_tip": "Want this refreshed automatically? Apify Console -> this Actor -> Schedules -> Add schedule -> pick how often (e.g. daily) -> Save. It reruns with the same input on autopilot, no code required.",
+    "review_tip": "Found this useful? A quick Store review helps other buyers find it: https://apify.com/themineworks/maps-leads#reviews",
+    "scraped_at": "2026-09-22T07:59:32.969Z"
+  }
+]

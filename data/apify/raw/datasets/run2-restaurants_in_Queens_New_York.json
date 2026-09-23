@@ -1,0 +1,4162 @@
+[
+  {
+    "place_id": "0x89c25f58368ed953:0x5184e1a5b510a6fe",
+    "name": "Mojo",
+    "category": "Latin American restaurant",
+    "address": "70-20 Austin St, Forest Hills, NY 11375",
+    "phone": "(718) 261-6162",
+    "website": "http://www.mojolatin.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "12–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7205717,
+      "lng": -73.8464128
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5874067915821590270",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "info@mojolatin.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@mojolatin.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:14.950Z"
+  },
+  {
+    "place_id": "0x89c25f207c60bfd1:0xddd7b10a9e31f24d",
+    "name": "The Alcove",
+    "category": "Tapas bar",
+    "address": "41-11 49th St, Sunnyside, NY 11104",
+    "phone": "(347) 813-4159",
+    "website": "https://www.facebook.com/thealcoveny/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.745889,
+      "lng": -73.9151262
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15985440061536727629",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:15.056Z"
+  },
+  {
+    "place_id": "0x89c259c5c8d72da5:0x590e5ded607327f9",
+    "name": "4747LIC",
+    "category": "New American restaurant",
+    "address": "47-25 Vernon Blvd, Long Island City, NY 11101",
+    "phone": "(718) 734-2415",
+    "website": "http://4747lic.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.7448513,
+      "lng": -73.9530698
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6417169793156327417",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:15.079Z"
+  },
+  {
+    "place_id": "0x89c25f03e21479cf:0xdbacf618ebe4433",
+    "name": "Tomoni",
+    "category": "Restaurant",
+    "address": "65-25 Roosevelt Ave, Woodside, NY 11377",
+    "phone": "(929) 498-2465",
+    "website": "https://www.tomoninyc.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "11:30 AM–2:45 PM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.74635,
+      "lng": -73.8981127
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=989331086074856499",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "info@tomoninyc.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@tomoninyc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:15.109Z"
+  },
+  {
+    "place_id": "0x89c25f1d9f22267f:0x6642c8c3cf4df0bc",
+    "name": "Salvaje Social Club NYC",
+    "category": "Bar & grill",
+    "address": "79-11 Northern Blvd, Jackson Heights, NY 11372",
+    "phone": "(929) 799-7729",
+    "website": "https://www.salvajesocialclub.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "4 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 40.755653099999996,
+      "lng": -73.8875948
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7368672683653722300",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:15.149Z"
+  },
+  {
+    "place_id": "0x89c25fce5099dd8b:0x3cea5a445646407a",
+    "name": "Park Side Restaurant",
+    "category": "Italian restaurant",
+    "address": "107-01 Corona Ave., Corona, NY 11368",
+    "phone": "(718) 271-9871",
+    "website": "https://www.parksiderestaurantny.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.743834799999995,
+      "lng": -73.85609339999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4389420036377690234",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:15.172Z"
+  },
+  {
+    "place_id": "0x89c25ed9d4e41707:0x267cbd91aeefe6e6",
+    "name": "SoleLuna",
+    "category": "Italian restaurant",
+    "address": "40-01 Queens Blvd, Sunnyside, NY 11104",
+    "phone": "(929) 296-3942",
+    "website": "http://www.solelunanyc.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.744115,
+      "lng": -73.92404239999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2773299903956248294",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:15.195Z"
+  },
+  {
+    "place_id": "0x89c25f968f117377:0xdae9c4134a9b6535",
+    "name": "Florence Prime Diner",
+    "category": "Diner",
+    "address": "40-13 82nd St, Elmhurst, NY 11373",
+    "phone": "(718) 779-0033",
+    "website": "http://www.florenceprimediner.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "7 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.7472188,
+      "lng": -73.88363989999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15774354756976993589",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [
+      {
+        "email": "booking@patiotime.com",
+        "status": "unverifiable",
+        "mx_found": false,
+        "confidence": 0.3
+      },
+      {
+        "email": "info@patiotime.com",
+        "status": "unverifiable",
+        "mx_found": false,
+        "confidence": 0.3
+      }
+    ],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:15.217Z"
+  },
+  {
+    "place_id": "0x89c25922470c4d77:0x620b242f4e66e953",
+    "name": "Maiella",
+    "category": "Restaurant",
+    "address": "46-10 Center Blvd, Long Island City, NY 11109",
+    "phone": "(718) 606-1770",
+    "website": "https://www.maiellalic.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.7471944,
+      "lng": -73.9566667
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7064780226058185043",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:19.443Z"
+  },
+  {
+    "place_id": "0x89c25f373683ac2b:0xcb4be4fa47f08dfc",
+    "name": "Sanfords",
+    "category": "American restaurant",
+    "address": "30-13 Broadway, Astoria, NY 11106",
+    "phone": "(718) 932-9569",
+    "website": "http://www.sanfordsnyc.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7622946,
+      "lng": -73.92554369999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14649053976552574460",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:19.477Z"
+  },
+  {
+    "place_id": "0x89c25f005c4bc9b9:0x90d81b2e72c965df",
+    "name": "Radici",
+    "category": "Italian restaurant",
+    "address": "100-11 Metropolitan Ave, Forest Hills, NY 11375",
+    "phone": "(718) 535-5663",
+    "website": "https://origininyc.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "12–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7110081,
+      "lng": -73.85273219999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10437122022739371487",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "radicimetropolitan@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "radicimetropolitan@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:19.567Z"
+  },
+  {
+    "place_id": "0x89c25fa73c65b093:0xbe475764624a4ba5",
+    "name": "The Queensboro",
+    "category": "American restaurant",
+    "address": "80-02 Northern Blvd, Jackson Heights, NY 11372",
+    "phone": "(929) 296-0038",
+    "website": "https://www.thequeensboro.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=9843400180154372887",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.7552503,
+      "lng": -73.8870804
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13711023679210146725",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "info@thequeensboro.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@thequeensboro.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:19.718Z"
+  },
+  {
+    "place_id": "0x89c2592375db86bf:0x3f6b7c610c9f020a",
+    "name": "Casa Enrique",
+    "category": "Mexican restaurant",
+    "address": "5-48 49th Ave, Long Island City, NY 11101",
+    "phone": "(347) 448-6040",
+    "website": "https://casaenriquelic.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "5–10:15 PM"
+    },
+    "coordinates": {
+      "lat": 40.7434063,
+      "lng": -73.95438089999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4569883003162919434",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:19.768Z"
+  },
+  {
+    "place_id": "0x89c260cdcaa4af93:0x19c946d78d1f0790",
+    "name": "O Lavrador",
+    "category": "Portuguese restaurant",
+    "address": "138-40 101st Ave, Jamaica, NY 11435",
+    "phone": "(718) 526-1526",
+    "website": "http://www.olavradorrestaurant.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6944016,
+      "lng": -73.8094454
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1858094212866574224",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:19.852Z"
+  },
+  {
+    "place_id": "0x89c25921a47e0469:0x3e1071ca68c934",
+    "name": "Blend on the Water",
+    "category": "Latin American restaurant",
+    "address": "45-40 Center Blvd, Long Island City, NY 11109",
+    "phone": "(718) 606-9851",
+    "website": "http://www.blendonthewater.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "11 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7482671,
+      "lng": -73.95698279999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17469529469274420",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:19.878Z"
+  },
+  {
+    "place_id": "0x89c25fde77074d51:0xfb0ee9f3a909d0de",
+    "name": "Saranrom Thai",
+    "category": "Thai restaurant",
+    "address": "81-10 Broadway, Elmhurst, NY 11373",
+    "phone": "(347) 808-0545",
+    "website": "https://saranromthai.dine.online/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7430963,
+      "lng": -73.8836867
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18090653985916178654",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:19.948Z"
+  },
+  {
+    "place_id": "0x89c25e40ef114373:0x6f82ddc1fcddc54c",
+    "name": "London Lennie's",
+    "category": "Seafood restaurant",
+    "address": "63-88 Woodhaven Blvd, Rego Park, NY 11374",
+    "phone": "(718) 894-8084",
+    "website": "http://www.londonlennies.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "4–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.722142,
+      "lng": -73.8676483
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8035228510423205196",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:32.050Z"
+  },
+  {
+    "place_id": "0x89c25e20a5a74a9f:0xd1bee0e87eb17be6",
+    "name": "Reef Restaurant & Bar",
+    "category": "Seafood restaurant",
+    "address": "108-02 72nd Ave, Forest Hills, NY 11375",
+    "phone": "(718) 487-4564",
+    "website": "http://www.reef-restaurant.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "12–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7195846,
+      "lng": -73.8423739
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15113764688664558566",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:32.144Z"
+  },
+  {
+    "place_id": "0x89c26134b88ee90d:0x5f566a110288941d",
+    "name": "The Sweet Sap",
+    "category": "Asian fusion restaurant",
+    "address": "189-11 Northern Blvd, Flushing, NY 11358",
+    "phone": "(718) 225-1000",
+    "website": "http://www.thesweetsap.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.758106999999995,
+      "lng": -73.79163129999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6869794902889763869",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:32.168Z"
+  },
+  {
+    "place_id": "0x89c25fa9f985239f:0x862a2e490df0c1ee",
+    "name": "Arepa Lady",
+    "category": "Colombian restaurant",
+    "address": "77-17 37th Ave, Jackson Heights, NY 11372",
+    "phone": "(917) 745-1111",
+    "website": "https://www.thearepalady.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7494972,
+      "lng": -73.8882711
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9667590441405563374",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:32.245Z"
+  },
+  {
+    "place_id": "0x89c25ff964b73feb:0x97535a7c44800dc2",
+    "name": "Lime and Salt Restaurant Bar",
+    "category": "Mexican restaurant",
+    "address": "98-102 Queens Blvd, Rego Park, NY 11374",
+    "phone": "(718) 275-1575",
+    "website": "http://limeandsaltregopark.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11:30 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7270476,
+      "lng": -73.8549523
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10904158612565790146",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "catering@limeandsaltregopark.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "catering@limeandsaltregopark.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:40.314Z"
+  },
+  {
+    "place_id": "0x89c25f153007dcad:0xea4c1a2fb3c9fada",
+    "name": "Fogo de Chão Brazilian Steakhouse",
+    "category": "Brazilian restaurant",
+    "address": "92-50 59th Ave, Elmhurst, NY 11373",
+    "phone": "(929) 379-4333",
+    "website": "https://fogodechao.com/location/queens/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7344322,
+      "lng": -73.86749689999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16882897895287290586",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:40.397Z"
+  },
+  {
+    "place_id": "0x89c25fce58cef21b:0xc96ab79755b80566",
+    "name": "Paraiso Colombiano",
+    "category": "Colombian restaurant",
+    "address": "106-20 Corona Ave., Corona, NY 11368",
+    "phone": "(718) 699-5054",
+    "website": "https://paraisocolombianony.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "10 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7436548,
+      "lng": -73.8565053
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14513614609760912742",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:40.747Z"
+  },
+  {
+    "place_id": "0x89c260bcb380e0f7:0x3a485dcb79bad1d1",
+    "name": "Austin's Ale House",
+    "category": "American restaurant",
+    "address": "82-70 Austin St, Kew Gardens, NY 11415",
+    "phone": "(718) 849-3939",
+    "website": "https://austinsteakandalehouse.com/?utm_source=google",
+    "rating": 4.4,
+    "hours": {
+      "Monday": "12 PM–4 AM"
+    },
+    "coordinates": {
+      "lat": 40.7094142,
+      "lng": -73.83004369999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4199709781025018321",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:41.093Z"
+  },
+  {
+    "place_id": "0x89c2614c22a36a57:0xdc7899c061211863",
+    "name": "Cafe Premiata",
+    "category": "Kosher restaurant",
+    "address": "72-08 Main St, Flushing, NY 11367",
+    "phone": "(718) 650-3733",
+    "website": "http://cafepremiata.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7262784,
+      "lng": -73.8219546
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15886616737091754083",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "info@cafepremiata.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@cafepremiata.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:41.168Z"
+  },
+  {
+    "place_id": "0x89c25f753d785aaf:0x104583d45c6fb1da",
+    "name": "Halal Eats",
+    "category": "Halal restaurant",
+    "address": "89-25 Queens Blvd, Elmhurst, NY 11373",
+    "phone": "(718) 309-5170",
+    "website": "http://halaleats.dine.online/?utm_source=website",
+    "rating": 4.8,
+    "hours": {
+      "Monday": "9 AM–4 AM"
+    },
+    "coordinates": {
+      "lat": 40.7347045,
+      "lng": -73.87344949999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1172488226107011546",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:41.292Z"
+  },
+  {
+    "place_id": "0x89c2610a3d87d1bf:0x92b069ababab9ff4",
+    "name": "Rafaelis Palace",
+    "category": "Kosher restaurant",
+    "address": "113-09 Queens Blvd, Forest Hills, NY 11375",
+    "phone": "(718) 500-4923",
+    "website": "http://www.chefrafaeli.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "12–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.717833,
+      "lng": -73.83521809999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10570064511479029748",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "info@chefrafaeli.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@chefrafaeli.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:41.370Z"
+  },
+  {
+    "place_id": "0x89c25f004afdb019:0x667bb4afd99c8eed",
+    "name": "Burmese Bites",
+    "category": "Burmese restaurant",
+    "address": "38-01 31st Avenue, Astoria, NY 11103",
+    "phone": "(917) 560-2480",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "5–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.761785499999995,
+      "lng": -73.9175885
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7384694681367252717",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:41.559Z"
+  },
+  {
+    "place_id": "0x89c261bd1b11f729:0x297af2509e65c787",
+    "name": "PRIME Mēt Steakhouse",
+    "category": "Steak house",
+    "address": "12th Floor, 133-36 37th Ave, Flushing, NY 11354",
+    "phone": "(718) 898-6666",
+    "website": "http://primemetny.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "6 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7602271,
+      "lng": -73.8334674
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2988967730782521223",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "info@primemetny.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@primemetny.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:49.862Z"
+  },
+  {
+    "place_id": "0x89c25fdfce058f15:0x7106759b9e377634",
+    "name": "Art of Grill",
+    "category": "Kosher restaurant",
+    "address": "97-13 Queens Blvd, Rego Park, NY 11374",
+    "phone": "(718) 997-7779",
+    "website": "https://artofgrillsteakhouse.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7298957,
+      "lng": -73.8606057
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8144326287380936244",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "8c4075d5481d476e945486754f783364@sentry.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "e0b4d631da7b4200828051f7f9c783e3@sentry-next.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "7025fe2ce4ed466a9751d9607bc63a44@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:49.961Z"
+  },
+  {
+    "place_id": "0x89c261ad81cd9fef:0x9d5b0b0835e5bfc1",
+    "name": "湘当有料Young and Rich NY",
+    "category": "Chinese restaurant",
+    "address": "36-19 Prince St, Flushing, NY 11354",
+    "phone": "(667) 866-8686",
+    "website": "https://www.youngandrichnyc.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7618164,
+      "lng": -73.83274349999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11338668616727248833",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "youngandrichny@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "youngandrichny@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:50.059Z"
+  },
+  {
+    "place_id": "0x89c25f644f0824e3:0xeff808ddb649c00b",
+    "name": "Luna's Kitchen & Bar",
+    "category": "Girl bar",
+    "address": "77-02AA, Roosevelt Ave, Jackson Heights, NY 11372",
+    "phone": "(347) 448-6113",
+    "website": "https://www.instagram.com/lunaskitchenandbar?igsh=czJoaXJxa3ZkYmV0",
+    "rating": 4.4,
+    "hours": {
+      "Monday": "4 PM–4 AM"
+    },
+    "coordinates": {
+      "lat": 40.7469227,
+      "lng": -73.8885233
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17291580517628100619",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:50.095Z"
+  },
+  {
+    "place_id": "0x89c25f007d432d5d:0xc38c2d57b0dcc1cf",
+    "name": "Mrs. Georgia",
+    "category": "Georgian restaurant",
+    "address": "37-10 31st Avenue, Long Island City, NY 11103",
+    "phone": "(347) 242-2502",
+    "website": "https://mrsgeorgia.nyc/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.7617633,
+      "lng": -73.9184356
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14090687188788101583",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:50.165Z"
+  },
+  {
+    "place_id": "0x89c25fcf549e94c1:0xfdb67438593a8f2",
+    "name": "Burger Queens",
+    "category": "Hamburger restaurant",
+    "address": "96-19 23rd Ave, Flushing, NY 11369",
+    "phone": "(718) 433-9164",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "10:30 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7686182,
+      "lng": -73.8735839
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1142620470170069234",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:50.199Z"
+  },
+  {
+    "place_id": "0x89c25e386d4a864d:0x81f4606b36416b27",
+    "name": "Prestige",
+    "category": "Banquet hall",
+    "address": "91-33 63rd Dr, Rego Park, NY 11374",
+    "phone": "(718) 275-2209",
+    "website": "http://prestigeny.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.727101,
+      "lng": -73.864605
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9364215538798127911",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:50.220Z"
+  },
+  {
+    "place_id": "0x89c25fbe6b6e5915:0xd8d00aded3cfe7",
+    "name": "Cafe Rubio",
+    "category": "Dominican restaurant",
+    "address": "98-05 Northern Blvd, Corona, NY 11368",
+    "phone": "(718) 505-1020",
+    "website": "http://www.caferubiorestaurant.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "12 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 40.757343,
+      "lng": -73.87016799999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=61027340076175335",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "newyork@caferubiorestaurant.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "newyork@caferubiorestaurant.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:50.267Z"
+  },
+  {
+    "place_id": "0x89c25f2c83960bd7:0xca847cf04231acb1",
+    "name": "Angel",
+    "category": "Indian restaurant",
+    "address": "75-18 37th Ave, Jackson Heights, NY 11372",
+    "phone": "(347) 848-0098",
+    "website": "https://www.angelindianrestaurant.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7490108,
+      "lng": -73.8903469
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14592926063931796657",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "info@angelindianrestaurant.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@angelindianrestaurant.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:55.181Z"
+  },
+  {
+    "place_id": "0x89c26011fef54e19:0xa0a12dbd84f6cae6",
+    "name": "Gyu-Kaku Japanese BBQ",
+    "category": "Japanese restaurant",
+    "address": "40-52 Main St Fl 2, Flushing, NY 11354",
+    "phone": "(347) 542-3653",
+    "website": "http://www.gyu-kaku.com/flushing",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7582185,
+      "lng": -73.829914
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11574582809321720550",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:55.218Z"
+  },
+  {
+    "place_id": "0x89c26011bcc30e99:0x82d63c37c85bd204",
+    "name": "Alley 41 蜀巷",
+    "category": "Chinese restaurant",
+    "address": "136-45 41st Ave, Flushing, NY 11355",
+    "phone": "(718) 353-3608",
+    "website": "http://www.alley41.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7591123,
+      "lng": -73.8280121
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9427789080229040644",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:55.264Z"
+  },
+  {
+    "place_id": "0x89c25fd357381f49:0xd9cf7915ede1feaa",
+    "name": "Zaab Zaab",
+    "category": "Thai restaurant",
+    "address": "76-04 Woodside Ave, Elmhurst, NY 11373",
+    "phone": "(631) 526-1664",
+    "website": "https://zaabzaabnyc.com/woodside?utm_source=google",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11:30 AM–3:30 PM, 4:30–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7432642,
+      "lng": -73.8886608
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15694896361501753002",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:55.386Z"
+  },
+  {
+    "place_id": "0x89c25e6583d86613:0xd0192aa127b4105b",
+    "name": "Kantu Peruvian Cuisine Restaurant",
+    "category": "Peruvian restaurant",
+    "address": "105-07 Metropolitan Ave, Forest Hills, NY 11375",
+    "phone": "(347) 531-0873",
+    "website": "https://www.kantuperuvianrestaurant.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.710222,
+      "lng": -73.84808799999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14995063305950990427",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:00.874Z"
+  },
+  {
+    "place_id": "0x89c26183d7c12b65:0x4cbd079c994eb447",
+    "name": "Jiang Nan Flushing",
+    "category": "Chinese restaurant",
+    "address": "133-42 39th Ave STE 101, Flushing, NY 11354",
+    "phone": "(718) 353-8855",
+    "website": "http://jiangnanny.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "11 AM–1:30 AM"
+    },
+    "coordinates": {
+      "lat": 40.7594242,
+      "lng": -73.8327755
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5529584286649201735",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "info@jiangnanus.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@jiangnanus.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:00.943Z"
+  },
+  {
+    "place_id": "0x89c25e1b8cfee155:0xb79c2cd3b059bf5",
+    "name": "Nick's Bistro",
+    "category": "Greek restaurant",
+    "address": "104-20 Metropolitan Ave, Forest Hills, NY 11375",
+    "phone": "(718) 544-6425",
+    "website": "http://nicksbistro.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7099635,
+      "lng": -73.8483043
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=826906193313504245",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "info@nicksbistro.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@nicksbistro.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:00.984Z"
+  },
+  {
+    "place_id": "0x89c25e525af02e4b:0x33bf5aa1345e9723",
+    "name": "Awang Kitchen",
+    "category": "Indonesian restaurant",
+    "address": "84-05 Queens Blvd #1C, Elmhurst, NY 11373",
+    "phone": "(347) 492-9264",
+    "website": "https://awangkitchen.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7374199,
+      "lng": -73.87895189999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3728798664900908835",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "vip@awangkitchen.us",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "vip@awangkitchen.us",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:01.099Z"
+  },
+  {
+    "place_id": "0x89c25f9c5b9235d9:0x11ef9180225604b1",
+    "name": "Spicy Nepal",
+    "category": "Nepalese restaurant",
+    "address": "39-35 47th Ave, Sunnyside, NY 11104",
+    "phone": "(917) 745-0044",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "11:30 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.742068599999996,
+      "lng": -73.925247
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1292411597596525745",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:01.167Z"
+  },
+  {
+    "place_id": "0x89c25f280b21d4fb:0x8160b6523e8c14b8",
+    "name": "Little Colombia",
+    "category": "Colombian restaurant",
+    "address": "32-23 Junction Blvd, East Elmhurst, NY 11369",
+    "phone": "(347) 761-2609",
+    "website": "http://www.latamaleriacolombianausa.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.7580178,
+      "lng": -73.8741454
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9322651693009867960",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "gerencia.latamaleriacolombiana@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "gerencia.latamaleriacolombiana@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:01.185Z"
+  },
+  {
+    "place_id": "0x89c25f63f64ffa11:0x13b3ec3fb5cc9112",
+    "name": "Praga New York",
+    "category": "Restaurant",
+    "address": "63-10 Broadway, Woodside, NY 11377",
+    "phone": "(718) 905-0407",
+    "website": "http://www.praganyc.com/",
+    "rating": 4.5,
+    "hours": {
+      "Monday": "5 PM–4 AM"
+    },
+    "coordinates": {
+      "lat": 40.7497042,
+      "lng": -73.8988947
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1419738065929015570",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:01.258Z"
+  },
+  {
+    "place_id": "0x89c25f3791ecd02f:0x790b5be1d42f2329",
+    "name": "Nana's Kitchen New York",
+    "category": "Colombian restaurant",
+    "address": "90-01 31st Avenue, East Elmhurst, NY 11369",
+    "phone": "(718) 806-1316",
+    "website": "http://nanaskitchennewyorkcity.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "6 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.7601704,
+      "lng": -73.8784981
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8722166128818725673",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:01.280Z"
+  },
+  {
+    "place_id": "0x89c2609e1e3b5dcf:0xf0e81a8ebf9e8eb0",
+    "name": "Rove",
+    "category": "American restaurant",
+    "address": "72-27 Austin St, Forest Hills, NY 11375",
+    "phone": "(347) 233-3183",
+    "website": "https://www.rove7227.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.719123599999996,
+      "lng": -73.8418552
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17359153964102094512",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:03.055Z"
+  },
+  {
+    "place_id": "0x89c259f56f313c93:0xec80605883ce0609",
+    "name": "HUPO琥珀 | Best Szechuan Food in LIC",
+    "category": "Chinese restaurant",
+    "address": "10-07 50th Ave, Long Island City, NY 11101",
+    "phone": "(718) 255-6722",
+    "website": "https://hupo.nyc/?utm_source=google",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "12–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7427366,
+      "lng": -73.953636
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17041726923254662665",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:03.091Z"
+  },
+  {
+    "place_id": "0x89c25f49c657c535:0x56305f38fa882a57",
+    "name": "Amylos Taverna",
+    "category": "Greek restaurant",
+    "address": "33-19 Broadway, Astoria, NY 11106",
+    "phone": "(718) 215-0228",
+    "website": "http://www.amylos.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.761102,
+      "lng": -73.922927
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6210568584469949015",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "amylosgroup@amylos.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "amylosgroup@amylos.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:03.147Z"
+  },
+  {
+    "place_id": "0x89c25e4bd361ce17:0x7bd52593b3738f2c",
+    "name": "LongHorn Steakhouse",
+    "category": "Steak house",
+    "address": "92-30 59th Ave, Elmhurst, NY 11373",
+    "phone": "(718) 335-1371",
+    "website": "https://www.longhornsteakhouse.com/locations/ny/elmhurst/elmhurst/5453?cmpid=br:lh_ag:ie_ch:loc_ca:LHGMB_sn:gmb_gt:elmhurst-ny-5453_pl:locurl_rd:1392",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.734288,
+      "lng": -73.867885
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8923079553005621036",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.022Z"
+  },
+  {
+    "place_id": "0x89c261dd54e62845:0xcba9281abaf415aa",
+    "name": "The Upper Crust Queens",
+    "category": "Kosher restaurant",
+    "address": "67-11 Main St, Flushing, NY 11367",
+    "phone": "(585) 312-7878",
+    "website": "http://uppercrustqueens.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.733725299999996,
+      "lng": -73.8249743
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14675304956034291114",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.050Z"
+  },
+  {
+    "place_id": "0x89c25ef661e292d3:0x4e5d66616e8b1b21",
+    "name": "Connolly's Corner",
+    "category": "American restaurant",
+    "address": "71-15 Grand Ave, Maspeth, NY 11378",
+    "phone": "(718) 565-7383",
+    "website": "http://www.connollyscorner.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12 PM–1 AM"
+    },
+    "coordinates": {
+      "lat": 40.728274899999995,
+      "lng": -73.89188399999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5646782076444941089",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "manager@connollyscorner.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "manager@connollyscorner.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:18.078Z"
+  },
+  {
+    "place_id": "0x89c25e2cf8e13327:0x1c067a53694ca681",
+    "name": "Salute Restaurant",
+    "category": "Kosher restaurant",
+    "address": "63-61 108th St, Forest Hills, NY 11375",
+    "phone": "(718) 275-6860",
+    "website": "http://www.saluterestaurant.net/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.733489999999996,
+      "lng": -73.849491
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2019435981589751425",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.165Z"
+  },
+  {
+    "place_id": "0x89c25854faa8d447:0x100a2b0d8c445c5f",
+    "name": "Carmine's - 44th Street - NYC",
+    "category": "Italian restaurant",
+    "address": "200 W 44th St, New York, NY 10036",
+    "phone": "(212) 221-3800",
+    "website": "https://carminesnyc.com/locations/times-square",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7574754,
+      "lng": -73.9866823
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1155783591561813087",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.185Z"
+  },
+  {
+    "place_id": "0x89c25f1e1fc9e101:0xdd44268447fa9c76",
+    "name": "Bamboo Ya (Forest Hills)",
+    "category": "Japanese restaurant",
+    "address": "69-12 Austin St, Flushing, NY 11375",
+    "phone": "(718) 268-8388",
+    "website": "https://www.bambooyafh.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.721560499999995,
+      "lng": -73.8490444
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15943910930383543414",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.245Z"
+  },
+  {
+    "place_id": "0x89c25e300bc47fd9:0xc7ef729dfe65f10a",
+    "name": "Knish Nosh",
+    "category": "Kosher restaurant",
+    "address": "98-104 Queens Blvd Queens, NY 11374, Rego Park, NY 11374",
+    "phone": "(718) 897-5554",
+    "website": "https://order.knishnoshnyc.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "8:30 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.7270107,
+      "lng": -73.8549254
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14406859755885031690",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.266Z"
+  },
+  {
+    "place_id": "0x89c25faec36eb577:0x78385de3bc6cda8",
+    "name": "Terraza 7",
+    "category": "Live music venue",
+    "address": "40-19 Gleane St, Elmhurst, NY 11373",
+    "phone": "(347) 808-0518",
+    "website": "http://terraza7.com/",
+    "rating": 4.5,
+    "hours": {
+      "Monday": "5 PM–4 AM"
+    },
+    "coordinates": {
+      "lat": 40.7475361,
+      "lng": -73.882025
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=541423569746709928",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "freddycastiblanco@terraza7.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "freddycastiblanco@terraza7.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:18.352Z"
+  },
+  {
+    "place_id": "0x89c25f4099bfe2ed:0x9c54be7ab434dec2",
+    "name": "La Hueca Epa",
+    "category": "Restaurant",
+    "address": "100-15 Astoria Blvd, East Elmhurst, NY 11369",
+    "phone": "(347) 527-2939",
+    "website": "https://lahuecaepany.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "8 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7620964,
+      "lng": -73.8686639
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11264838002179104450",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:26.731Z"
+  },
+  {
+    "place_id": "0x89c2608bd2b5127f:0xe83e3a7666760e97",
+    "name": "Grill Point",
+    "category": "Kosher restaurant",
+    "address": "69-54 Main St, Kew Gardens Hills, NY 11367",
+    "phone": "(718) 261-7077",
+    "website": "https://grillpointnyc.com/locations/queens/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.72983,
+      "lng": -73.8236259
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16734877545554906775",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "grillpointnyc@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "grillpointnyc@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:26.769Z"
+  },
+  {
+    "place_id": "0x89c25f622d9ca947:0x55474de64e0498cc",
+    "name": "Filipiniana Restaurant & Catering",
+    "category": "Filipino restaurant",
+    "address": "84-05 Queens Blvd #1A, Elmhurst, NY 11373",
+    "phone": "(347) 808-8817",
+    "website": "https://order.online/business/filipiniana-11229562",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.737428,
+      "lng": -73.87922929999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6144965868117072076",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:26.854Z"
+  },
+  {
+    "place_id": "0x89c25f751030dc8f:0x1a3c82f9d603e9ee",
+    "name": "Jin Broth",
+    "category": "Korean restaurant",
+    "address": "25-22 Astoria Blvd, Astoria, NY 11102",
+    "phone": "(347) 612-0798",
+    "website": "http://www.jinbroth.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "11 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.770940599999996,
+      "lng": -73.9224091
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1890529953137813998",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "jinbroth@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "jinbroth@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:26.876Z"
+  },
+  {
+    "place_id": "0x89c25f7215f14cf7:0x41444e0edd99ac44",
+    "name": "Tikka n Talk",
+    "category": "Indian restaurant",
+    "address": "70-11 Austin St, Forest Hills, NY 11375",
+    "phone": "(718) 575-2018",
+    "website": "https://www.tikkantalkny.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7209143,
+      "lng": -73.84637699999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4702969736635984964",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "tikkantalkny@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "tikkantalkny@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:26.963Z"
+  },
+  {
+    "place_id": "0x89c25fb09cfb94ab:0xcb517c893c5f19f9",
+    "name": "Sunday Supper",
+    "category": "Italian restaurant",
+    "address": "LaGuardia Airport, Queens Terminal C, Jackson Heights, NY 11372",
+    "phone": "(866) 508-3558",
+    "website": "https://www.otgexp.com/experience_locations/laguardia-airport/",
+    "rating": 2.7,
+    "hours": {
+      "Tuesday": "5 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7702451,
+      "lng": -73.86420919999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14650627991678163449",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:27.058Z"
+  },
+  {
+    "place_id": "0x89c2613d54462677:0xd34ca4393bb48ab2",
+    "name": "Coco Hotpot 皇椰鸡",
+    "category": "Chinese restaurant",
+    "address": "37-20 Prince St, Flushing, NY 11354",
+    "phone": "(718) 684-9888",
+    "website": "https://www.cocohotpotqueens.com/",
+    "rating": 4.6,
+    "hours": {
+      "Monday": "12–6 AM, 11 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.760212599999996,
+      "lng": -73.8330397
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15225725005954583218",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:27.079Z"
+  },
+  {
+    "place_id": "0x89c260992e4161fd:0x83f518d7ec38861d",
+    "name": "Stix",
+    "category": "Uzbeki restaurant",
+    "address": "101-15 Queens Blvd, Forest Hills, NY 11375",
+    "phone": "(718) 275-5566",
+    "website": "http://stixrestaurantnyc.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.726622,
+      "lng": -73.8516662
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9508533503922832925",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "8c4075d5481d476e945486754f783364@sentry.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "98b21aa53d68482b8414e892d9af0e5f@sentry-next.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:27.145Z"
+  },
+  {
+    "place_id": "0x89c261218919b55f:0x9d483a711b840ff3",
+    "name": "Nurlan Uyghur Restaurant",
+    "category": "Uyghur cuisine restaurant",
+    "address": "43-39 Main St, Flushing, NY 11355",
+    "phone": "(347) 542-3324",
+    "website": "https://www.nurlanuyghur.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "10 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7515867,
+      "lng": -73.8259037
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11333372719745208307",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:28.844Z"
+  },
+  {
+    "place_id": "0x89c2619dc9f4c39f:0xe304cc06f435d4ff",
+    "name": "Yasubee Authentic Ramen",
+    "category": "Japanese restaurant",
+    "address": "136-17 39th Ave, Queens, NY 11354",
+    "phone": "(718) 395-8297",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–8:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7607759,
+      "lng": -73.8296874
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16358424076755522815",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:28.866Z"
+  },
+  {
+    "place_id": "0x89c25f9aff90c4b1:0xc6c38231c8ea6896",
+    "name": "Teriyaki One Japanese Grill (Teriyaki & Sushi)",
+    "category": "Japanese restaurant",
+    "address": "88-01 Queens Blvd, Elmhurst, NY 11373",
+    "phone": "(718) 685-2566",
+    "website": "http://teriyakione.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "10:30 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7357181,
+      "lng": -73.8744498
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14322434390304123030",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:28.985Z"
+  },
+  {
+    "place_id": "0x89c25f072c4dd189:0xb49b52e73e3da10d",
+    "name": "Phayul",
+    "category": "Tibetan restaurant",
+    "address": "37-65 74th St., Jackson Heights, NY 11372",
+    "phone": "(718) 424-1869",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "11 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7471617,
+      "lng": -73.89134899999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13014086701352329485",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:37.499Z"
+  },
+  {
+    "place_id": "0x89c25faca4bd25bd:0xb025a46de54aa803",
+    "name": "Queens Seafood Restaurant",
+    "category": "Chinese restaurant",
+    "address": "82-22 45th Ave, Elmhurst, NY 11373",
+    "phone": "(718) 478-3330",
+    "website": "https://www.queensseafood.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7416105,
+      "lng": -73.8820951
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12692731916718876675",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:37.542Z"
+  },
+  {
+    "place_id": "0x89c261614b121fbd:0x40cef57f32431ea3",
+    "name": "Pier 26 kosher restaurant",
+    "category": "Kosher restaurant",
+    "address": "69-26 Main St, Flushing, NY 11367",
+    "phone": "(718) 701-5726",
+    "website": "http://www.pier26restaurant.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "4–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.730506399999996,
+      "lng": -73.8240553
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4669939790282694307",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "trattoriakosher@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "trattoriakosher@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:37.561Z"
+  },
+  {
+    "place_id": "0x89c25f01446eb70d:0xfd863f1a643e7de4",
+    "name": "Jaew hon New York",
+    "category": "Thai restaurant",
+    "address": "71-30 Roosevelt Ave 2nd floor, Jackson Heights, NY 11372",
+    "phone": "(347) 935-3085",
+    "website": "https://www.facebook.com/JaewhonNewYork",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "4 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 40.746396,
+      "lng": -73.8938337
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18268358321058512356",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:37.653Z"
+  },
+  {
+    "place_id": "0x89c25ff7af1b1485:0xb470963c6d6bdcc7",
+    "name": "Uptop New York",
+    "category": "Restaurant",
+    "address": "75-32 Broadway 2nd floor, Elmhurst, NY 11373",
+    "phone": "(929) 424-3001",
+    "website": "http://uptop.nyc/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "2 PM–3:30 AM"
+    },
+    "coordinates": {
+      "lat": 40.7457243,
+      "lng": -73.8896147
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13002057310496611527",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:37.672Z"
+  },
+  {
+    "place_id": "0x89c25f9cbaf88247:0x7d71b97261d48290",
+    "name": "Taste of Himalaya",
+    "category": "South Asian restaurant",
+    "address": "75-16 Broadway, Elmhurst, NY 11373",
+    "phone": "(929) 900-6655",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7458825,
+      "lng": -73.8900237
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9039209828028023440",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:37.706Z"
+  },
+  {
+    "place_id": "0x89c25f80f623b211:0xc0f8ebb76c149830",
+    "name": "Bagel Chef",
+    "category": "Bagel shop",
+    "address": "9717 Queens Blvd, Queens, NY 11374",
+    "phone": "(718) 433-9999",
+    "website": "https://bagelchef.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "6 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.7296537,
+      "lng": -73.8602142
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13905123022531237936",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:37.744Z"
+  },
+  {
+    "place_id": "0x89c25e37246e1e77:0x4fca62df7dde785d",
+    "name": "Bambooya AKa Sushi ya",
+    "category": "Japanese restaurant",
+    "address": "97-11 Queens Blvd, Rego Park, NY 11374",
+    "phone": "(718) 806-1228",
+    "website": "http://www.bambooyarp.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7299174,
+      "lng": -73.8606799
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5749516586320820317",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:37.767Z"
+  },
+  {
+    "place_id": "0x89c2613f8c11bf75:0xc424cffb0632a64f",
+    "name": "Queens College Diner",
+    "category": "Restaurant",
+    "address": "64-36 Kissena Blvd, Kew Gardens Hills, NY 11367",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7370173,
+      "lng": -73.8172936
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14133650207643182671",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:40.925Z"
+  },
+  {
+    "place_id": "0x89c25e37b73f1827:0xcc7531bffc7e51e9",
+    "name": "Tropix Bar & Lounge",
+    "category": "Lounge bar",
+    "address": "95-32 Queens Blvd, Rego Park, NY 11374",
+    "phone": "(718) 275-0024",
+    "website": "http://tropixnyc.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "3:30 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.7302496,
+      "lng": -73.86359
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14732736456657097193",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "tropixbarandlounge@hotmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "tropixbarandlounge@hotmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:40.950Z"
+  },
+  {
+    "place_id": "0x89c25e525a9d15e5:0x9ce5dbd4a958e9a1",
+    "name": "Lahi",
+    "category": "Filipino restaurant",
+    "address": "51-24 Van Loon St, Elmhurst, NY 11373",
+    "phone": "(929) 296-0277",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.7374855,
+      "lng": -73.8794997
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11305684146004224417",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:41.544Z"
+  },
+  {
+    "place_id": "0x89c25900266f2621:0xc11084ca750bebdd",
+    "name": "Canton Harbor",
+    "category": "Chinese restaurant",
+    "address": "5-14 51st Ave, Long Island City, NY 11101",
+    "phone": "(718) 685-2038",
+    "website": "https://www.cantonharbor.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.742264999999996,
+      "lng": -73.9560398
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13911765254029437917",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:41.744Z"
+  },
+  {
+    "place_id": "0x89c25fb918e57ae3:0x4d976cb79af90693",
+    "name": "Jardin De China",
+    "category": "Chinese restaurant",
+    "address": "37-37 Junction Blvd, Corona, NY 11368",
+    "phone": "(718) 476-3755",
+    "website": "https://jardindechina.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:15 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.750640499999996,
+      "lng": -73.8701136
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5591056998238586515",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:41.769Z"
+  },
+  {
+    "place_id": "0x89c25e4ea9028d05:0x50b6fecf5a6042c",
+    "name": "Applebee's Grill + Bar",
+    "category": "Restaurant",
+    "address": "90-15 Queens Blvd, Elmhurst, NY 11373",
+    "phone": "(718) 271-7999",
+    "website": "https://restaurants.applebees.com/en-us/ny/elmhurst/9015-queens-blvd.-98076?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=98076&utm_content=website",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "9 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.734884699999995,
+      "lng": -73.8706174
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=363507258457719852",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:41.807Z"
+  },
+  {
+    "place_id": "0x89c25fc88a7ae247:0xb2d873a9b08de703",
+    "name": "El Trio",
+    "category": "Mexican restaurant",
+    "address": "102-01 44th Ave, Corona, NY 11368",
+    "phone": "(718) 396-0555",
+    "website": "https://eltriorestaurantny.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "6 AM–3 AM"
+    },
+    "coordinates": {
+      "lat": 40.7467658,
+      "lng": -73.8624912
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12887177506369431299",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:41.869Z"
+  },
+  {
+    "place_id": "0x89c25e26d23b47b7:0x89e90b43ea0f18d3",
+    "name": "Narita Japanese Restaurant",
+    "category": "Japanese restaurant",
+    "address": "107-08 70th Rd, Forest Hills, NY 11375",
+    "phone": "(718) 263-2999",
+    "website": "https://mynarita.com/?utm_source=google",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "1–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7207557,
+      "lng": -73.8454995
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9937486439087282387",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:41.887Z"
+  },
+  {
+    "place_id": "0x89c25fa3fc43334f:0x2330e3793619908b",
+    "name": "MalaBarnyc",
+    "category": "Restaurant",
+    "address": "84-19 Northern Blvd L1, Jackson Heights, NY 11372",
+    "phone": "(347) 832-0654",
+    "website": "https://www.instagram.com/malabarnyc/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "4 PM–4 AM",
+      "Monday": "4 PM–4 AM"
+    },
+    "coordinates": {
+      "lat": 40.7560661,
+      "lng": -73.8828422
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2535776699947782283",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:46.193Z"
+  },
+  {
+    "place_id": "0x89c25fc6032601e7:0x31f211cd0fb4d22f",
+    "name": "La Nueva Delicias Peruana",
+    "category": "Peruvian restaurant",
+    "address": "43-07 104th St, Corona, NY 11368",
+    "phone": "(718) 565-1272",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.7476634,
+      "lng": -73.8602916
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3598958624651924015",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:46.240Z"
+  },
+  {
+    "place_id": "0x89c2600e80ab7c75:0x337d723d99545d06",
+    "name": "New York Food Court",
+    "category": "Restaurant",
+    "address": "133-35 Roosevelt Ave, Flushing, NY 11354",
+    "phone": "(929) 316-7777",
+    "website": "http://www.nycfoodcourt.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.758683,
+      "lng": -73.8331742
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3710247276914171142",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:46.270Z"
+  },
+  {
+    "place_id": "0x89c25f4210795bf3:0x63184bc7da5cc591",
+    "name": "Castle Chicken and Loaded Platters",
+    "category": "Halal restaurant",
+    "address": "86-55 Broadway, Elmhurst, NY 11373",
+    "phone": "(718) 433-9241",
+    "website": "http://www.castlechicken.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.737157499999995,
+      "lng": -73.8771853
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7140540530930009489",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:46.290Z"
+  },
+  {
+    "place_id": "0x89c25fa93fade3ef:0x6467e3be6e0b8a67",
+    "name": "SAL Y PIMIENTA BAR",
+    "category": "Bar & grill",
+    "address": "81-10 Roosevelt Ave, Flushing, NY 11372",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "12 PM–4 AM",
+      "Monday": "12 PM–4 AM"
+    },
+    "coordinates": {
+      "lat": 40.747468999999995,
+      "lng": -73.88439799999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7235001733423532647",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:56.230Z"
+  },
+  {
+    "place_id": "0x89c25faa8e599347:0x7179ff2938585e4e",
+    "name": "Tea Cup Cafe",
+    "category": "Thai restaurant",
+    "address": "76-23 Woodside Ave, Elmhurst, NY 11373",
+    "phone": "(718) 426-2222",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "12:30–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7436778,
+      "lng": -73.8881111
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8176847150971903566",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:56.249Z"
+  },
+  {
+    "place_id": "0x89c25fd2733c2727:0x4393710a54ef97bf",
+    "name": "Empanadas Cafe",
+    "category": "Latin American restaurant",
+    "address": "56-27 Van Doren St, Corona, NY 11368",
+    "phone": "(718) 592-7288",
+    "website": "http://www.empanadascafe.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "7 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.7402328,
+      "lng": -73.8531986
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4869359911306237887",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:56.263Z"
+  },
+  {
+    "place_id": "0x89c2600e6c067747:0x2dffd35d97a587af",
+    "name": "39 Prince Cafe",
+    "category": "Chinese restaurant",
+    "address": "39-07 Prince St #1d, Flushing, NY 11354",
+    "phone": "(718) 939-3330",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "9:30 AM–4 AM",
+      "Monday": "9:30 AM–4 AM"
+    },
+    "coordinates": {
+      "lat": 40.759650199999996,
+      "lng": -73.832206
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3314600249697601455",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:56.291Z"
+  },
+  {
+    "place_id": "0x89c260f4260188e5:0xede48bfa47d74e5e",
+    "name": "New Aria Kabab (New York City Halal Grill)",
+    "category": "Afghan restaurant",
+    "address": "72-55 Kissena Blvd, Flushing, NY 11367",
+    "phone": "(718) 793-2984",
+    "website": "https://newariakababnyc.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7276054,
+      "lng": -73.8129525
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17141979988742327902",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:56.344Z"
+  },
+  {
+    "place_id": "0x89c25fa38e82d3c5:0xbedc656d7a68e315",
+    "name": "Arepas La Negra To Go",
+    "category": "Restaurant",
+    "address": "111-14 Corona Ave., Flushing, NY 11368",
+    "phone": "(929) 393-2483",
+    "website": "https://www.instagram.com/arepasstogo/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "5 PM–1 AM"
+    },
+    "coordinates": {
+      "lat": 40.7403992,
+      "lng": -73.8494328
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13752978882962187029",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:56.366Z"
+  },
+  {
+    "place_id": "0x89c25e412d8bf8a5:0x5b5b9b0cc51272bf",
+    "name": "Pollos Mario Woodhaven",
+    "category": "Latin American restaurant",
+    "address": "63-20 Woodhaven Blvd, Rego Park, NY 11374",
+    "phone": "(718) 565-2055",
+    "website": "https://themenustar6.com/webspace/menus.php?code=orderpollosmariowoodhaven.com",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7237163,
+      "lng": -73.869266
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6583025759480345279",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:56.416Z"
+  },
+  {
+    "place_id": "0x89c25e4bdc3827f1:0xb08c7a02646c750f",
+    "name": "Shake Shack",
+    "category": "Hamburger restaurant",
+    "address": "90-15 Queens Blvd Space 1069, Elmhurst, NY 11373",
+    "phone": "(347) 225-0190",
+    "website": "https://www.shakeshack.com/location/queens-center-mall-ny?utm_source=google&utm_medium=listing",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.734251199999996,
+      "lng": -73.8694455
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12721677198108161295",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:56.435Z"
+  },
+  {
+    "place_id": "0x89c25fde2b5a4e63:0xe00d3add768f60e1",
+    "name": "Quisqueya",
+    "category": "Dominican restaurant",
+    "address": "97-01 Roosevelt Ave, Corona, NY 11368",
+    "phone": "(718) 478-0704",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "8:30 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.7493883,
+      "lng": -73.8683949
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16144624962044387553",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:00.720Z"
+  },
+  {
+    "place_id": "0x89c25fd20c7e4407:0x1ee4e9ee75d26564",
+    "name": "Chuang Chef",
+    "category": "Chinese restaurant",
+    "address": "55-27 108th St, Corona, NY 11368",
+    "phone": "(718) 271-8686",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.740469999999995,
+      "lng": -73.853285
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2226161326216078692",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:00.744Z"
+  },
+  {
+    "place_id": "0x89c25853097f95f7:0x9c416b04efefa507",
+    "name": "Cardamom Indian Cuisine",
+    "category": "Indian restaurant",
+    "address": "43-45 43rd street, Queens Blvd, Sunnyside, NY 11104",
+    "phone": "(718) 706-9718",
+    "website": "https://cardamomny.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.7438763,
+      "lng": -73.9212182
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11259398212352451847",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "anilny7@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "anilny7@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:00.761Z"
+  },
+  {
+    "place_id": "0x89c25f41a49305e7:0xd8d57f288880b9df",
+    "name": "Kosher Grill",
+    "category": "Restaurant",
+    "address": "12 Meridian Rd, Corona, NY 11368",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7495749,
+      "lng": -73.8452762
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15624534294297360863",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:00.843Z"
+  },
+  {
+    "place_id": "0x89c25fa393c53c0b:0x6de9ea7839f32d5e",
+    "name": "Yeras",
+    "category": "Restaurant",
+    "address": "86-09 Northern Blvd, Jackson Heights, NY 11372",
+    "phone": "(929) 522-0844",
+    "website": "https://order.online/store/YerasRestaurantandSportsBar-1536641/en-US/?hideModal=true&pickup=true",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "4 PM–4 AM",
+      "Monday": "4 PM–4 AM"
+    },
+    "coordinates": {
+      "lat": 40.7562429,
+      "lng": -73.8812829
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7920119221796941150",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:00.944Z"
+  },
+  {
+    "place_id": "0x89c25faf4ad0f83d:0xb709b8146edfd705",
+    "name": "Pollos Mario",
+    "category": "South American restaurant",
+    "address": "83-02 37th Ave, Jackson Heights, NY 11372",
+    "phone": "(718) 457-8800",
+    "website": "https://www.pollosmario83.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7496515,
+      "lng": -73.8831881
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13189275381630228229",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:00.973Z"
+  },
+  {
+    "place_id": "0x89c2608c6734cdc7:0x3124911da3e5454b",
+    "name": "Annie's Kitchen | Kosher Chinese Food 11367 | Sushi 11367",
+    "category": "Chinese restaurant",
+    "address": "72-24 Main St, Flushing, NY 11367",
+    "phone": "(718) 268-0960",
+    "website": "http://www.anniesk.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7259524,
+      "lng": -73.8217926
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3541114763509843275",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "info@anniesk.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@anniesk.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:01.017Z"
+  },
+  {
+    "place_id": "0x89c25fc87bb70f2d:0x824113a7827e71a9",
+    "name": "Mama Lupe Dominican Food",
+    "category": "Dominican restaurant",
+    "address": "42-19 102nd St, Corona, NY 11368",
+    "phone": "(718) 639-1495",
+    "website": "https://mamalupeny.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "7 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7473205,
+      "lng": -73.8627075
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9385804708586615209",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:01.088Z"
+  },
+  {
+    "place_id": "0x89c25fb395580c55:0x9b291916c4c69f8",
+    "name": "El Guayaquileno",
+    "category": "Ecuadorian restaurant",
+    "address": "94-54 Corona Ave., Elmhurst, NY 11373",
+    "phone": "(718) 760-4982",
+    "website": "http://elguayaquileno.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.7420541,
+      "lng": -73.8682575
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=698780945969080824",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:13.111Z"
+  },
+  {
+    "place_id": "0x89c2609ebdc2b545:0xaf4681b4927eedf",
+    "name": "Fuji Japanese Cuisine",
+    "category": "Japanese restaurant",
+    "address": "113-27 Queens Blvd, Forest Hills, NY 11375",
+    "phone": "(718) 263-3636",
+    "website": "https://www.fuji113.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7175843,
+      "lng": -73.8348159
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=789370301097438943",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:13.147Z"
+  },
+  {
+    "place_id": "0x89c25faf4966aa85:0x5e8fec886c033422",
+    "name": "Barriles Restaurant and Sports Bar",
+    "category": "Restaurant",
+    "address": "83-14 37th Ave, Jackson Heights, NY 11372",
+    "phone": "(347) 649-1511",
+    "website": "http://barrilesrestaurantsportsbar.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.7497055,
+      "lng": -73.88282869999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6813924831906706466",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:20.003Z"
+  },
+  {
+    "place_id": "0x89c25e4bc3a2b003:0x1b2445a846ea9a58",
+    "name": "Queens Center",
+    "category": "Restaurant",
+    "address": "90-15 Queens Blvd, Elmhurst, NY 11373",
+    "phone": "(718) 592-3900",
+    "website": "https://www.shopqueenscenter.com/?utm_source=google&utm_medium=onlinesearch&utm_content=gmp_website_button&utm_campaign=yext",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.7347872,
+      "lng": -73.8688409
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1955764727232240216",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "dawn.simon@macerich.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "dawn.simon@macerich.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "steve.declara@macerich.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "leera.johnson@macerich.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "seline.german@macerich.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "ernie.handanovic@macerich.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:20.028Z"
+  },
+  {
+    "place_id": "0x89c25fc4a018f18f:0x518a6d2ab49d85a7",
+    "name": "Los Tres Potrillos",
+    "category": "Mexican restaurant",
+    "address": "111-16 Roosevelt Ave, Corona, NY 11368",
+    "phone": "(718) 505-1533",
+    "website": "https://lostrespotrillosny.com/",
+    "rating": 3.5,
+    "hours": {
+      "Tuesday": "11 AM–4 AM",
+      "Monday": "11 AM–4 AM"
+    },
+    "coordinates": {
+      "lat": 40.751698,
+      "lng": -73.8551648
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5875628694044509607",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:20.080Z"
+  },
+  {
+    "place_id": "0x89c25e3737b55f43:0xc1b5ae77ee472ccd",
+    "name": "Cafe Bora Bora",
+    "category": "Restaurant",
+    "address": "Rego Park, 97-08 Queens Blvd, Rego Park, NY 11374",
+    "phone": "(718) 275-4900",
+    "website": "https://www.doordash.com/store/199284?utm_source=mx_share",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "7 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7290019,
+      "lng": -73.8602155
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13958254450226703565",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:20.164Z"
+  },
+  {
+    "place_id": "0x89c260100dd5c2af:0x2952f57b3c7438c8",
+    "name": "Happy Lamb Hot Pot, Flushing 快乐小羊",
+    "category": "Hot pot restaurant",
+    "address": "136-59 37th Ave, Flushing, NY 11354",
+    "phone": "(718) 762-8881",
+    "website": "https://happylambhotpot.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "12–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.762194,
+      "lng": -73.82899499999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2977712213289351368",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:20.187Z"
+  },
+  {
+    "place_id": "0x89c25f8b4adf4e99:0xbe8c4b78b8774dc6",
+    "name": "Mister Cangrejo",
+    "category": "Colombian restaurant",
+    "address": "83-17 Northern Blvd, Jackson Heights, NY 11372",
+    "phone": "(718) 205-7000",
+    "website": "http://mistercangrejo.food/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7559283,
+      "lng": -73.88378689999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13730432345808784838",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "a.montano.int@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "a.montano.int@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:20.217Z"
+  },
+  {
+    "place_id": "0x89c2600e8936acd9:0x7186588fb0262c0e",
+    "name": "Asian Jewels",
+    "category": "Chinese restaurant",
+    "address": "133-30 39th Ave, Flushing, NY 11354",
+    "phone": "(718) 359-8600",
+    "website": "http://www.asianjewelsny.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7591397,
+      "lng": -73.8333631
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8180323147323943950",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:20.283Z"
+  },
+  {
+    "place_id": "0x89c25fa9093058a5:0x6fa880cc9aa44e11",
+    "name": "969 NYC Coffee",
+    "category": "Japanese restaurant",
+    "address": "37-61 80th St, Jackson Heights, NY 11372",
+    "phone": "(646) 203-7304",
+    "website": "https://969nyccoffee.shop/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7478142,
+      "lng": -73.88571639999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8045822350553533969",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:20.327Z"
+  },
+  {
+    "place_id": "0x89c25fb3b56d2a11:0x46d92ebf5610c677",
+    "name": "Mi Otra Casa Michelada House",
+    "category": "Mexican restaurant",
+    "address": "91-06 43rd Ave, Elmhurst, NY 11373",
+    "phone": "(718) 429-0510",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "1 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.7432419,
+      "lng": -73.8741375
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5105163051918739063",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:20.867Z"
+  },
+  {
+    "place_id": "0x89c2600395ac0e97:0xe50e8285314b99b6",
+    "name": "Uncle Bill's Diner",
+    "category": "Diner",
+    "address": "30-17 Stratton St, Flushing, NY 11354",
+    "phone": "(718) 661-1770",
+    "website": "http://www.unclebillsdinerflushing.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "6 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.7696355,
+      "lng": -73.8341585
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16505273192928745910",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:20.897Z"
+  },
+  {
+    "place_id": "0x89c25e382036426b:0x7f849474b71a8c35",
+    "name": "UThai",
+    "category": "Thai restaurant",
+    "address": "63-55 Wetherole St, Rego Park, NY 11374",
+    "phone": "(718) 897-1575",
+    "website": "https://uthainyc.com/?utm_source=google",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "11 AM–4 PM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7282553,
+      "lng": -73.863911
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9188632368751742005",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:29.498Z"
+  },
+  {
+    "place_id": "0x89c2616328fa1a91:0x2707b4fc6551bf69",
+    "name": "Lucky Dhaba Indian Restaurant",
+    "category": "Indian restaurant",
+    "address": "114-06 Jamaica Ave, Jamaica, NY 11418",
+    "phone": "(718) 480-6030",
+    "website": "https://luckydhabarestaurant.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "7 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6982845,
+      "lng": -73.8345748
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2812415488440778601",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "luckydhabanewyork@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "luckydhabanewyork@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:29.528Z"
+  },
+  {
+    "place_id": "0x89c25fce1b2f5bd5:0x96010e4af55e5af1",
+    "name": "Asadero La Fogata",
+    "category": "Colombian restaurant",
+    "address": "108-40 Corona Ave., Corona, NY 11368",
+    "phone": "(347) 738-4616",
+    "website": "https://asaderolafogata.shop/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.742329,
+      "lng": -73.854193
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10808936295772871409",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:29.572Z"
+  },
+  {
+    "place_id": "0x89c25e2c115b4945:0x7871da4655e8fd05",
+    "name": "Cho-Sen Garden",
+    "category": "Kosher restaurant",
+    "address": "64-43 108th St, Forest Hills, NY 11375",
+    "phone": "(718) 275-1300",
+    "website": "http://www.chosengarden.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "12–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7318931,
+      "lng": -73.8488138
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8678957952543554821",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:29.697Z"
+  },
+  {
+    "place_id": "0x89c25fa9a2dffb35:0x51272a38276d8ad3",
+    "name": "J & C Delicias",
+    "category": "Colombian restaurant",
+    "address": "37-61 79th St, Jackson Heights, NY 11372",
+    "phone": "(718) 803-0284",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "4 AM–2 AM"
+    },
+    "coordinates": {
+      "lat": 40.747703,
+      "lng": -73.88665499999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5847689061831903955",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:29.731Z"
+  },
+  {
+    "place_id": "0x89c25f00d76b4ff7:0x367202acbf461af2",
+    "name": "Chung Ki Wa",
+    "category": "Korean restaurant",
+    "address": "40-06 74th St., Elmhurst, NY 11373",
+    "phone": "(718) 478-0925",
+    "rating": 3.4,
+    "hours": {
+      "Tuesday": "10 AM–2 AM"
+    },
+    "coordinates": {
+      "lat": 40.746488,
+      "lng": -73.891606
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3923201166359796466",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:29.773Z"
+  },
+  {
+    "place_id": "0x89c25fce368b17e1:0xa503a39362e5a53d",
+    "name": "Linda Azoguenita",
+    "category": "Ecuadorian restaurant",
+    "address": "51-01 108th St, Corona, NY 11368",
+    "phone": "(718) 592-0100",
+    "website": "https://lindaazoguenita.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "5 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7438697,
+      "lng": -73.85494
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11890527294602978621",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:29.806Z"
+  },
+  {
+    "place_id": "0x89c25fa92e9f7169:0xce6f4d06b1e2ae84",
+    "name": "Los Tres Potrillos",
+    "category": "Mexican restaurant",
+    "address": "82-11 Roosevelt Ave, Jackson Heights, NY 11372",
+    "phone": "(718) 803-1400",
+    "website": "http://lostrespotrillosnewyork.com/",
+    "rating": 3.7,
+    "hours": {
+      "Tuesday": "10 AM–3:30 AM"
+    },
+    "coordinates": {
+      "lat": 40.7479575,
+      "lng": -73.8833312
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14875192785377603204",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:29.836Z"
+  },
+  {
+    "place_id": "0x89c2602efab966a1:0xa23be6224fdbfff2",
+    "name": "Tong Sam Gyup Goo Yi",
+    "category": "Korean barbecue restaurant",
+    "address": "162-23 Depot Rd, Flushing, NY 11358",
+    "phone": "(718) 359-4583",
+    "website": "http://www.tongsamgyupgooyi.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "12–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7621369,
+      "lng": -73.8030132
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11690190292813348850",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:33.930Z"
+  },
+  {
+    "place_id": "0x89c25fc0b720487d:0x9f2cbd4d688eb20f",
+    "name": "Ho Mei",
+    "category": "Chinese restaurant",
+    "address": "103-05 37th Ave, Flushing, NY 11368",
+    "phone": "(718) 779-6903",
+    "website": "https://homeiflushing.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.753435599999996,
+      "lng": -73.8642043
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11469750491170124303",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:33.982Z"
+  },
+  {
+    "place_id": "0x89c25fc68b4f96fb:0x2f84888eb46805e3",
+    "name": "El Manantial Restaurant",
+    "category": "Ecuadorian restaurant",
+    "address": "104-21 Roosevelt Ave, Corona, NY 11368",
+    "phone": "(718) 505-0250",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "10 AM–4 AM",
+      "Monday": "10 AM–4 AM"
+    },
+    "coordinates": {
+      "lat": 40.7503171,
+      "lng": -73.8609781
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3424011763201869283",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:34.011Z"
+  },
+  {
+    "place_id": "0x89c25fce59ba78b3:0x23a86e1a41980f7c",
+    "name": "Don Alex Restaurant",
+    "category": "Peruvian restaurant",
+    "address": "106-26 Corona Ave., Corona, NY 11368",
+    "phone": "(718) 271-8687",
+    "website": "http://donalexrestaurantnyc.com/",
+    "rating": 3.6,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7436194,
+      "lng": -73.8563444
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2569424646463557500",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:34.037Z"
+  },
+  {
+    "place_id": "0x89c260240f4edcbb:0x2a889c8883ee11d6",
+    "name": "Bonjuk New York",
+    "category": "Korean restaurant",
+    "address": "153-02 Northern Blvd, Flushing, NY 11354",
+    "phone": "(718) 939-5868",
+    "website": "https://www.bonjukus.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "8 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7646132,
+      "lng": -73.8119394
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3064871656568525270",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:34.062Z"
+  },
+  {
+    "place_id": "0x89c25e2c574d49bf:0x3b7804737f2540b4",
+    "name": "Pizza Palace Cafe",
+    "category": "Pizza restaurant",
+    "address": "63-60 108th St, Forest Hills, NY 11375",
+    "phone": "(718) 997-7492",
+    "website": "https://www.pizzapalacecafe108.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.7332669,
+      "lng": -73.8501672
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4285179939543924916",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:34.083Z"
+  },
+  {
+    "place_id": "0x89c2618a4d2eb2eb:0x9e5defa30fdfba2a",
+    "name": "JUQI",
+    "category": "Chinese restaurant",
+    "address": "133-36 37th Ave G17, Flushing, NY 11354",
+    "phone": "(929) 608-9797",
+    "website": "http://juqiusa.com/",
+    "rating": 3,
+    "hours": {
+      "Tuesday": "11:30 AM–9:20 PM"
+    },
+    "coordinates": {
+      "lat": 40.7602873,
+      "lng": -73.83386639999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11411540514451733034",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:34.144Z"
+  },
+  {
+    "place_id": "0x89c2600c8229b163:0xe5d7bc9fbd82945e",
+    "name": "The Shops at Skyview",
+    "category": "Restaurant",
+    "address": "40-24 College Point Blvd, Flushing, NY 11354",
+    "phone": "(718) 460-2000",
+    "website": "https://theshopsatskyviewny.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "8 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7572609,
+      "lng": -73.8356116
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16561913548943561822",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:34.166Z"
+  },
+  {
+    "place_id": "0x89c25fc87bc95883:0xbaa8cb402ed431d0",
+    "name": "La Espiga",
+    "category": "Mexican restaurant",
+    "address": "42-11 102nd St, Corona, NY 11368",
+    "phone": "(718) 779-7898",
+    "website": "https://www.laespigarestaurant.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "10 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.7474439,
+      "lng": -73.8627719
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13450223763665990096",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "8c4075d5481d476e945486754f783364@sentry.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:36.823Z"
+  },
+  {
+    "place_id": "0x89c25f6966e3688d:0x77b11fbf361ffce9",
+    "name": "Tortas Neza",
+    "category": "Mexican torta restaurant",
+    "address": "104-58 Roosevelt Ave, Flushing, NY 11368",
+    "phone": "(347) 666-1517",
+    "website": "https://tortasnezany.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "12 PM–4 AM",
+      "Monday": "12 PM–4 AM"
+    },
+    "coordinates": {
+      "lat": 40.7502543,
+      "lng": -73.8595942
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8624709667498491113",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:36.895Z"
+  },
+  {
+    "place_id": "0x89c25f3211733ab1:0xff417f95afd9d665",
+    "name": "My Sushi",
+    "category": "Japanese restaurant",
+    "address": "79-20 Eliot Ave, Middle Village, NY 11379",
+    "phone": "(718) 424-0988",
+    "website": "https://www.mysushiny.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.724752099999996,
+      "lng": -73.8793211
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18393122634034959973",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:36.961Z"
+  },
+  {
+    "place_id": "0x89c25f072d864e77:0xc305f1aae5e6e942",
+    "name": "Nepali Bhanchha Ghar",
+    "category": "Nepalese restaurant",
+    "address": "74-15 Roosevelt Ave, Jackson Heights, NY 11372",
+    "phone": "(917) 745-0533",
+    "website": "https://www.bhanchhagharny.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "8 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7471014,
+      "lng": -73.8909012
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14052903928583350594",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:37.001Z"
+  },
+  {
+    "place_id": "0x89c25f256ad0c939:0xc3f4c2e80e72c8d8",
+    "name": "Sweet Yummy House",
+    "category": "Sichuan restaurant",
+    "address": "83-13 Broadway, Queens, NY 11373",
+    "phone": "(718) 878-6603",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "11 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7409797,
+      "lng": -73.87941579999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14120125033643952344",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:46.687Z"
+  },
+  {
+    "place_id": "0x89c25fce449d00dd:0xcf3f49c6115ed135",
+    "name": "Panda Garden",
+    "category": "Chinese restaurant",
+    "address": "107-18 Corona Ave., Corona, NY 11368",
+    "phone": "(718) 699-8781",
+    "website": "http://pandagardenmenu.setrush.net/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.743415999999996,
+      "lng": -73.8556942
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14933736004427632949",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [
+      {
+        "email": "support@pandagardenmenu.setrush.net",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:46.720Z"
+  },
+  {
+    "place_id": "0x89c2606217904e71:0xd16608e60876cf04",
+    "name": "Sushi Tokyo",
+    "category": "Sushi takeaway",
+    "address": "72-51 Main St, Kew Gardens Hills, NY 11367",
+    "phone": "(718) 337-8600",
+    "website": "http://sushitokyo.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "10:30 AM–8:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.725136299999996,
+      "lng": -73.8205171
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15088757385628929796",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:46.749Z"
+  },
+  {
+    "place_id": "0x89c25f0c7677a4b3:0x76e46ceba0372ae2",
+    "name": "Evelia's Tamales",
+    "category": "Mexican restaurant",
+    "address": "P4XJ+P94 Evelia's Tamales, Corona, NY 11368",
+    "phone": "(718) 986-2574",
+    "website": "http://www.eveliastamales.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "4 AM–1 PM"
+    },
+    "coordinates": {
+      "lat": 40.7493939,
+      "lng": -73.8690656
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8567092150426610402",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "eveliastamales@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "eveliastamales@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:46.789Z"
+  },
+  {
+    "place_id": "0x89c25e4bc384c76d:0x200edf56bafc7ecd",
+    "name": "Chick-fil-A",
+    "category": "Fast food restaurant",
+    "address": "90-15 Queens Blvd Ste 7, Elmhurst, NY 11373",
+    "phone": "(718) 271-1755",
+    "website": "https://www.chick-fil-a.com/locations/ny/queens-center-mall?utm_source=google&utm_medium=gmb",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.734566,
+      "lng": -73.8687417
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2310029222484934349",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:46.883Z"
+  },
+  {
+    "place_id": "0x89c25e30ed50d94b:0x33f60ad1c0827e5f",
+    "name": "Masbia of Queens",
+    "category": "Non-profit organization",
+    "address": "105-47 64th Rd, Forest Hills, NY 11375",
+    "phone": "(718) 534-7321",
+    "website": "http://www.masbiaqueens.org/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "3–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.732205,
+      "lng": -73.849874
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3744192036199366239",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:46.906Z"
+  },
+  {
+    "place_id": "0x89c25fc1d5adbb4d:0x450d5a649781f546",
+    "name": "No. 1",
+    "category": "Chinese restaurant",
+    "address": "106-14 Northern Blvd, Flushing, NY 11368",
+    "phone": "(718) 478-1817",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "11 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7575317,
+      "lng": -73.8622547
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4975732551399372102",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:46.968Z"
+  },
+  {
+    "place_id": "0x89c25fac81d09ce7:0x7615035822b1cc43",
+    "name": "Shun Wang",
+    "category": "Chinese restaurant",
+    "address": "81-25 Broadway, Elmhurst, NY 11373",
+    "phone": "(718) 779-3330",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.743224399999995,
+      "lng": -73.8830249
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8508710748060503107",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:46.988Z"
+  },
+  {
+    "place_id": "0x89c25e25bc21ba87:0xb024a9f18ebd225c",
+    "name": "Rosalia's Pizzeria",
+    "category": "Pizza restaurant",
+    "address": "103-15 Queens Blvd, Forest Hills, NY 11375",
+    "phone": "(718) 459-0300",
+    "website": "http://rosaliaspizzaforesthills.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.7247433,
+      "lng": -73.8496397
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12692456504783872604",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:59.055Z"
+  },
+  {
+    "place_id": "0x89c26011f0f45e65:0x73d585635445740d",
+    "name": "Phở Bằng",
+    "category": "Vietnamese restaurant",
+    "address": "41-07 Kissena Blvd, Flushing, NY 11355",
+    "phone": "(718) 939-5520",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "10 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7583829,
+      "lng": -73.8290473
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8346724146063176717",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:59.080Z"
+  },
+  {
+    "place_id": "0x89c25f48ff20832f:0xe7e4f06fb8fa5b8b",
+    "name": "Campeon Del Pollo",
+    "category": "Dominican restaurant",
+    "address": "107-02 Corona Ave., Flushing, NY 11368",
+    "phone": "(718) 271-1455",
+    "website": "http://campeondelpollorestaurant.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "8 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.743479799999996,
+      "lng": -73.8561268
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16709744880086834059",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:59.122Z"
+  },
+  {
+    "place_id": "0x89c25fb9e0732fab:0xdaded8ab34ef8d34",
+    "name": "Don Alex",
+    "category": "Peruvian restaurant",
+    "address": "95-44 Roosevelt Ave, Jackson Heights, NY 11372",
+    "phone": "(718) 424-0144",
+    "website": "http://www.pollosdonalex.com/",
+    "rating": 3.7,
+    "hours": {
+      "Tuesday": "9 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.748984,
+      "lng": -73.8699257
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15771281174937177396",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:59.174Z"
+  },
+  {
+    "place_id": "0x89c25fbbdd467e8d:0x51ab7c6318c99268",
+    "name": "Sueño Americano",
+    "category": "Mexican restaurant",
+    "address": "35-16 Junction Blvd, Jackson Heights, NY 11372",
+    "phone": "(718) 533-0028",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.7528248,
+      "lng": -73.8718702
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5884934103149154920",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:59.207Z"
+  },
+  {
+    "place_id": "0x89c25e378dd97b19:0x5a62c62de39580c9",
+    "name": "Sushi 33",
+    "category": "Sushi restaurant",
+    "address": "63-56 Booth St, Flushing, NY 11374",
+    "phone": "(718) 896-3033",
+    "website": "https://www.regoparksushi33.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–10:45 PM"
+    },
+    "coordinates": {
+      "lat": 40.728673099999995,
+      "lng": -73.8636768
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6512985911525212361",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:59.243Z"
+  },
+  {
+    "place_id": "0x89c25e3538f749d5:0x2c3fa0455975eec6",
+    "name": "New Star",
+    "category": "Chinese restaurant",
+    "address": "97-03 57th Ave, Flushing, NY 11368",
+    "phone": "(718) 699-8166",
+    "website": "https://www.newstarny.com/",
+    "rating": 3.7,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7373614,
+      "lng": -73.8638328
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3188443280915689158",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:59.344Z"
+  },
+  {
+    "place_id": "0x89c25e33d9a2e393:0xb4ece3304dfcb045",
+    "name": "J & D Pizza",
+    "category": "Pizza restaurant",
+    "address": "98-51 63rd Rd, Rego Park, NY 11374",
+    "phone": "(718) 275-4347",
+    "website": "https://www.jndpizza.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7325848,
+      "lng": -73.857596
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13037044817937084485",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:59.381Z"
+  },
+  {
+    "place_id": "0x89c25fcef1f6eb61:0x68c5ed07275d8f29",
+    "name": "Tacos y Quesadillas Mexico",
+    "category": "Mexican restaurant",
+    "address": "104-40 Corona Ave., Corona, NY 11368",
+    "phone": "(718) 271-4260",
+    "website": "https://tacosyquesadillasawilsonny.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "9 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7437997,
+      "lng": -73.8572871
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7549700965337501481",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:13.215Z"
+  },
+  {
+    "place_id": "0x89c25f38fdcca825:0x178e1dcea2b2bc9f",
+    "name": "K's Cafeteria",
+    "category": "Dominican restaurant",
+    "address": "48-03 108th St, Flushing, NY 11368",
+    "phone": "(718) 760-0418",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "7 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.7458228,
+      "lng": -73.8559693
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1697326882895346847",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T08:00:13.347Z"
+  },
+  {
+    "place_id": "0x89c25e4bc937f987:0x23c8b30aac56fad8",
+    "name": "Sarku Japan",
+    "category": "Japanese restaurant",
+    "address": "90-15 Queens Blvd Space #FC-10, Elmhurst, NY 11373",
+    "website": "https://www.sarkujapan.com/",
+    "rating": 3.6,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.734861599999995,
+      "lng": -73.86884189999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2578507645092035288",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:13.378Z"
+  },
+  {
+    "place_id": "0x89c2609ec73985bb:0x71cafd309b91001e",
+    "name": "Forest Hills Bagels",
+    "category": "Bagel shop",
+    "address": "104-41 Queens Blvd, Forest Hills, NY 11375",
+    "phone": "(718) 896-2221",
+    "website": "https://foresthillsbagelny.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "5 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.723675,
+      "lng": -73.84774399999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8199644456791638046",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "email": "info@foresthillsbagelny.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@foresthillsbagelny.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T08:00:13.476Z"
+  },
+  {
+    "place_id": "0x89c25e35389d9aa5:0x6569f3da3eed822",
+    "name": "Vinny's Pizzeria",
+    "category": "Pizza restaurant",
+    "address": "97-01 57th Ave, Corona, NY 11368",
+    "phone": "(718) 699-4433",
+    "website": "https://vinnyspizzeriany.com/?utm_source=gbp",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7373834,
+      "lng": -73.8639824
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=456727499316844578",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:13.541Z"
+  },
+  {
+    "place_id": "0x89c25fce3975cf1b:0x2bf9c436e6f1faa8",
+    "name": "Corona Pizza",
+    "category": "Pizza restaurant",
+    "address": "51-23 108th St, Corona, NY 11368",
+    "phone": "(718) 271-3736",
+    "website": "https://www.coronapizzany.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.743415999999996,
+      "lng": -73.854779
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3168779552913750696",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:13.676Z"
+  },
+  {
+    "place_id": "0x89c25fce118108dd:0x97eb6b2c40496fa2",
+    "name": "El Palacio de Las Empanadas",
+    "category": "Colombian restaurant",
+    "address": "53-02 108th St, Corona, NY 11368",
+    "phone": "(718) 271-1616",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "7:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.7425188,
+      "lng": -73.8547416
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10946961157055410082",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T08:00:13.739Z"
+  },
+  {
+    "place_id": "0x89c25fc70699869f:0xc6807fadbd84eb89",
+    "name": "Angelo's Pizza",
+    "category": "Pizza restaurant",
+    "address": "39-03 103rd St, Corona, NY 11368",
+    "phone": "(718) 335-8637",
+    "website": "https://www.angelospizzacoronamenu.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "10 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7505756,
+      "lng": -73.862803
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14303572800714369929",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:13.819Z"
+  },
+  {
+    "place_id": "0x89c25fc7d6cb999f:0x4442d563fc6dfbae",
+    "name": "El Pollo Peruano",
+    "category": "Peruvian restaurant",
+    "address": "41-19 National St, Flushing, NY 11368",
+    "phone": "(718) 457-5130",
+    "rating": 3.7,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.748166,
+      "lng": -73.862967
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4918728368455547822",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T08:00:13.971Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 163,
+    "places_charged": 33,
+    "places_skipped_closed": 0,
+    "places_no_email": 130,
+    "total_emails_verified": 52,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T08:00:16.617Z",
+    "requests": 270,
+    "delivered": 33,
+    "est_spend_usd": 0.216,
+    "est_revenue_usd": 0.264,
+    "profit_guard_tripped": false
+  },
+  {
+    "_type": "info",
+    "delivered": 33,
+    "message": "33 leads delivered. This row is informational — it is never billed.",
+    "schedule_tip": "Want this refreshed automatically? Apify Console -> this Actor -> Schedules -> Add schedule -> pick how often (e.g. daily) -> Save. It reruns with the same input on autopilot, no code required.",
+    "review_tip": "Found this useful? A quick Store review helps other buyers find it: https://apify.com/themineworks/maps-leads#reviews",
+    "scraped_at": "2026-09-22T08:00:16.737Z"
+  }
+]

@@ -1,0 +1,3367 @@
+[
+  {
+    "place_id": "0x80c2a4c59392b3ab:0x2bfc6c3abfeb1022",
+    "name": "1212 Santa Monica",
+    "category": "New American restaurant",
+    "address": "1212 3rd Street Promenade, Santa Monica, CA 90401",
+    "phone": "(310) 576-9996",
+    "website": "http://1212santamonica.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0178522,
+      "lng": -118.49904629999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3169527237345742882",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:21.624Z"
+  },
+  {
+    "place_id": "0x80c2a4cfdca2f48b:0xebecb3c6ba420afc",
+    "name": "Tar & Roses",
+    "category": "Californian restaurant",
+    "address": "602 Santa Monica Blvd, Santa Monica, CA 90401",
+    "phone": "(310) 587-0700",
+    "website": "https://www.tarandroses.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "5:30–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0179488,
+      "lng": -118.4930091
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17000160359526566652",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:21.702Z"
+  },
+  {
+    "place_id": "0x80c2a4ce43c82bf3:0x2279ecf26be8efe0",
+    "name": "Orto Santa Monica",
+    "category": "Italian restaurant",
+    "address": "502 Santa Monica Blvd, Santa Monica, CA 90401",
+    "phone": "(424) 433-8100",
+    "website": "http://www.ortosantamonica.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "5–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.017187299999996,
+      "lng": -118.49391299999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2484277195408207840",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "ortosantamonica@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "ortosantamonica@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:21.745Z"
+  },
+  {
+    "place_id": "0x80c2a4d0053b10a5:0xdab4779ce253a4fa",
+    "name": "Water Grill",
+    "category": "Seafood restaurant",
+    "address": "1401 Ocean Ave, Santa Monica, CA 90401",
+    "phone": "(424) 340-7679",
+    "website": "https://www.watergrill.com/sm",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.013982399999996,
+      "lng": -118.4976583
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15759352511771944186",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:21.811Z"
+  },
+  {
+    "place_id": "0x80c2a4c5601a3551:0x14e86080ac581292",
+    "name": "UOVO Santa Monica",
+    "category": "Italian restaurant",
+    "address": "1320 2nd St Ste A, Santa Monica, CA 90401",
+    "phone": "(310) 425-0064",
+    "website": "https://www.uovo.la/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0157467,
+      "lng": -118.4982745
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1506560181118964370",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:21.844Z"
+  },
+  {
+    "place_id": "0x80c2a5dcb73af451:0xc9dd4e27e3993b2e",
+    "name": "MUSE Santa Monica",
+    "category": "Modern French restaurant",
+    "address": "108 W Channel Rd, Santa Monica, CA 90402",
+    "phone": "(424) 238-5107",
+    "website": "http://musesantamonica.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0283662,
+      "lng": -118.51896099999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14545868304705731374",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "welcome@musesantamonica.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "welcome@musesantamonica.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:21.865Z"
+  },
+  {
+    "place_id": "0x80c2a5b9bdfd23db:0x5b3314e68a725ec6",
+    "name": "Sugar Palm Santa Monica",
+    "category": "Restaurant",
+    "address": "1819 Ocean Ave, Santa Monica, CA 90401",
+    "phone": "(310) 260-7500",
+    "website": "https://www.viceroyhotelsandresorts.com/santa-monica/sugar-palm-ocean-avenue?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0080458,
+      "lng": -118.49036509999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6571619261661470406",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:21.922Z"
+  },
+  {
+    "place_id": "0x80c2a4d5c8cd8801:0xad01d6d9ad8591f0",
+    "name": "Capo",
+    "category": "Italian restaurant",
+    "address": "1810 Ocean Ave, Santa Monica, CA 90401",
+    "phone": "(310) 394-5550",
+    "website": "http://www.caporestaurant.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "6–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0080021,
+      "lng": -118.49121609999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12466481473945702896",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "caposm1810@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "caposm1810@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:21.948Z"
+  },
+  {
+    "place_id": "0x80c2a4d1c740374b:0xb2d0bf1e3ad83356",
+    "name": "The Curious Palate",
+    "category": "New American restaurant",
+    "address": "395 Santa Monica Pl 3rd Floor, Santa Monica, CA 90401",
+    "phone": "(310) 395-2901",
+    "website": "https://thecuriouspalate.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "11 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0140953,
+      "lng": -118.49325359999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12885008670464160598",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:23.505Z"
+  },
+  {
+    "place_id": "0x80c2a4d9bdd19715:0x4d7e2a6c2d06e304",
+    "name": "The Lobster",
+    "category": "Seafood restaurant",
+    "address": "1602 Ocean Ave, Santa Monica, CA 90401",
+    "phone": "(310) 458-9294",
+    "website": "http://thelobster.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0110642,
+      "lng": -118.4949955
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5583947232086254340",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "info@thelobster.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@thelobster.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:23.528Z"
+  },
+  {
+    "place_id": "0x80c2a5e980fca757:0xb7985c5e443877da",
+    "name": "The Backyard",
+    "category": "Cocktail bar",
+    "address": "1657 Ocean Ave, Santa Monica, CA 90401",
+    "phone": "(424) 238-5081",
+    "website": "https://chezjays.com/backyard",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "4–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.010459,
+      "lng": -118.4932664
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13229425465342064602",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "backyard@chezjays.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "backyard@chezjays.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "peanuts@chezjays.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:23.584Z"
+  },
+  {
+    "place_id": "0x80c2a4cfff8471c5:0x1e448a923b89dc61",
+    "name": "BOA Steakhouse",
+    "category": "Steak house",
+    "address": "101 Santa Monica Blvd, Santa Monica, CA 90401",
+    "phone": "(310) 899-4466",
+    "website": "https://www.boasteak.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "5:30–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0143609,
+      "lng": -118.4979881
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2181020480222911585",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:23.632Z"
+  },
+  {
+    "place_id": "0x80c2bbd8a57b4c27:0xb90b123f4b0fef91",
+    "name": "Fia Restaurant",
+    "category": "Californian restaurant",
+    "address": "2454 Wilshire Blvd, Santa Monica, CA 90403",
+    "phone": "(424) 280-4196",
+    "website": "https://fiarestaurant.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0349451,
+      "lng": -118.47844359999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13333771184812060561",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "info@fiarestaurant.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@fiarestaurant.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "info@fiahospitality.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:23.656Z"
+  },
+  {
+    "place_id": "0x80c2bb7eaad213bf:0x4454878c4debf4a2",
+    "name": "Piccolo Santa Monica",
+    "category": "Italian restaurant",
+    "address": "2127 Lincoln Blvd, Santa Monica, CA 90405",
+    "phone": "(310) 314-0144",
+    "website": "http://www.piccolosantamonica.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "5:30–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0104408,
+      "lng": -118.48035279999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4923709329295275170",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:23.700Z"
+  },
+  {
+    "place_id": "0x80c2a501ef543c79:0x53ea9c0780f481e3",
+    "name": "Sol Agave",
+    "category": "Mexican restaurant",
+    "address": "1733 Ocean Ave, Santa Monica, CA 90401",
+    "phone": "(424) 238-8076",
+    "website": "https://www.solagave.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0092559,
+      "lng": -118.4917479
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6046817005740524003",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:23.759Z"
+  },
+  {
+    "place_id": "0x80c2a5d1c342701b:0x34f336f35c49ddd7",
+    "name": "LouLou Santa Monica",
+    "category": "French restaurant",
+    "address": "395 Santa Monica Pl #300, Santa Monica, CA 90401",
+    "phone": "(323) 859-7089",
+    "website": "http://www.loulousantamonica.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13227518787217168518",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.013339699999996,
+      "lng": -118.4946372
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3815453728166239703",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "info@loulousantamonica.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@loulousantamonica.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:23.782Z"
+  },
+  {
+    "place_id": "0x80c2bb10f0059d11:0xcde5639fa30462a3",
+    "name": "The Upper West",
+    "category": "New American restaurant",
+    "address": "3321 Pico Blvd, Santa Monica, CA 90405",
+    "phone": "(310) 586-1111",
+    "website": "https://theupperwest.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "4:30–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0272988,
+      "lng": -118.45502019999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14836374084727890595",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "info@theupperwest.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@theupperwest.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:25.139Z"
+  },
+  {
+    "place_id": "0x80c2a4d0caa22337:0x6a4f17f7dc28c6b5",
+    "name": "The Albright",
+    "category": "Seafood restaurant",
+    "address": "258 Santa Monica Pier, Santa Monica, CA 90401",
+    "phone": "(310) 394-9683",
+    "website": "https://www.thealbright.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0097652,
+      "lng": -118.4965926
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7660367844498523829",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:25.195Z"
+  },
+  {
+    "place_id": "0x80c2a4d038cd4863:0x3d5b9a91dbeba2d",
+    "name": "North Italia",
+    "category": "Italian restaurant",
+    "address": "1442 2nd St, Santa Monica, CA 90401",
+    "phone": "(310) 382-2460",
+    "website": "https://www.northitalia.com/locations/santa-monica-ca/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0138508,
+      "lng": -118.49622169999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=276331088152803885",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:25.231Z"
+  },
+  {
+    "place_id": "0x80c2a4d116903d0b:0x80515f98ba5c8b59",
+    "name": "The Surfing Fox",
+    "category": "Restaurant",
+    "address": "120 Colorado Ave, Santa Monica, CA 90401",
+    "phone": "(424) 214-1830",
+    "website": "https://www.thesurfingfoxsm.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.011824,
+      "lng": -118.4941119
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9246276619534633817",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:25.271Z"
+  },
+  {
+    "place_id": "0x80c2a5afb3b9de49:0x4a29b85ef9109a88",
+    "name": "Sweet Maple",
+    "category": "Brunch restaurant",
+    "address": "1705 Ocean Ave Unit 110, Santa Monica, CA 90401",
+    "phone": "(424) 268-4190",
+    "website": "https://www.sweetmaplesf.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "8 AM–2:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0097965,
+      "lng": -118.4926433
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5344005150896855688",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:33.218Z"
+  },
+  {
+    "place_id": "0x80c2a4cff7c886d1:0xc1f136f4b073dc47",
+    "name": "Élephante",
+    "category": "Italian restaurant",
+    "address": "1332 2nd St Rooftop, Santa Monica, CA 90401",
+    "phone": "(424) 320-2384",
+    "website": "https://www.elephanterestaurants.com/location/elephante-hours/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.0152447,
+      "lng": -118.4979996
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13975011543267662919",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:33.238Z"
+  },
+  {
+    "place_id": "0x80c2a4d26f54a6c7:0x22bf73150c62222f",
+    "name": "Fritto Misto",
+    "category": "Italian restaurant",
+    "address": "620 Santa Monica Blvd #A, Santa Monica, CA 90401",
+    "phone": "(310) 458-2829",
+    "website": "http://thefrittomisto.com/?y_source=1_MzA2MjAwOTQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0184134,
+      "lng": -118.49238629999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2503846452080550447",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:33.289Z"
+  },
+  {
+    "place_id": "0x80c2a4c44d271f07:0xeebf69fa3d5ec814",
+    "name": "FIG RESTAURANT",
+    "category": "New American restaurant",
+    "address": "101 Wilshire Blvd, Santa Monica, CA 90401",
+    "phone": "(310) 319-3111",
+    "website": "http://www.figsantamonica.com/?utm_source=google+Maps&utm_medium=seo+maps&utm_campaign=seo+maps",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7–11 AM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.018059,
+      "lng": -118.501269
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17203585625070946324",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:33.340Z"
+  },
+  {
+    "place_id": "0x80c2a4c42ac46d69:0x3d4f8657367324a",
+    "name": "The Penthouse",
+    "category": "Californian restaurant",
+    "address": "1111 2nd St, Santa Monica, CA 90403",
+    "phone": "(310) 393-8080",
+    "website": "https://www.penthouserestaurant.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0187028,
+      "lng": -118.5012976
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=276118591787971146",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:33.365Z"
+  },
+  {
+    "place_id": "0x80c2bb6fe0cf38a5:0x6f1b58d0d7d3d70d",
+    "name": "pasjoli",
+    "category": "French restaurant",
+    "address": "2732 Main St, Santa Monica, CA 90405",
+    "phone": "(424) 330-0020",
+    "website": "http://www.pasjoli.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "5–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0001931,
+      "lng": -118.4820912
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8006090416578615053",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "info@pasjoli.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@pasjoli.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "press@pasjoli.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "careers@pasjoli.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:33.386Z"
+  },
+  {
+    "place_id": "0x80c2a50042ce3d77:0x2b534f780cf1261a",
+    "name": "All'antico Vinaio",
+    "category": "Italian restaurant",
+    "address": "316 Santa Monica Blvd, Santa Monica, CA 90401",
+    "phone": "(424) 231-7430",
+    "website": "https://www.allanticovinaiousa.com/location/santa-monica-ca/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10:30 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0158515,
+      "lng": -118.4955313
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3121926343729686042",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:33.581Z"
+  },
+  {
+    "place_id": "0x80c2a4b634213aaf:0x4f73e360367dd2c8",
+    "name": "Golden Bull Restaurant",
+    "category": "Steak house",
+    "address": "170 W Channel Rd, Santa Monica, CA 90402",
+    "phone": "(310) 230-0402",
+    "website": "http://www.goldenbullsantamonica.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0290426,
+      "lng": -118.51774119999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5725169553688613576",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "gm@goldenbullsantamonica.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "gm@goldenbullsantamonica.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:33.599Z"
+  },
+  {
+    "place_id": "0x80c2a4d002f14df1:0x908a78616f7937cf",
+    "name": "Ye Olde King's Head",
+    "category": "British restaurant",
+    "address": "116 Santa Monica Blvd, Santa Monica, CA 90401",
+    "phone": "(310) 451-1402",
+    "website": "https://www.yeoldekingshead.com/",
+    "rating": 4.4,
+    "hours": {
+      "Monday": "8 AM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.0145255,
+      "lng": -118.4972257
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10415269448125069263",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:38.289Z"
+  },
+  {
+    "place_id": "0x80c2bbded5f14215:0x74c77bf03f512a30",
+    "name": "SELINE",
+    "category": "Fine dining restaurant",
+    "address": "3110 Main St Ste 132, Santa Monica, CA 90401",
+    "phone": "(424) 744-8811",
+    "website": "https://www.selinerestaurant.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "6–9 PM"
+    },
+    "coordinates": {
+      "lat": 33.997781599999996,
+      "lng": -118.47965339999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8414830700549712432",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "info@selinerestaurant.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@selinerestaurant.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "press@selinerestaurant.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "careers@selinerestaurant.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:38.365Z"
+  },
+  {
+    "place_id": "0x80c2a4c5dea23f97:0xe02ec0af54dfe828",
+    "name": "Michael's",
+    "category": "New American restaurant",
+    "address": "1147 3rd St, Santa Monica, CA 90403",
+    "phone": "(310) 451-0843",
+    "website": "http://www.michaelssantamonica.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "4–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.018921899999995,
+      "lng": -118.4996072
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16154060772700317736",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:38.401Z"
+  },
+  {
+    "place_id": "0x80c2bb207c719491:0xfa989f62c5546bce",
+    "name": "Local Kitchen and Wine Bar",
+    "category": "Italian restaurant",
+    "address": "1736 Ocean Park Blvd, Santa Monica, CA 90405",
+    "phone": "(310) 396-9007",
+    "website": "http://localkitchenandwinebar.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0129083,
+      "lng": -118.46570279999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18057357952508259278",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "info@localkitchenandwinebar.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@localkitchenandwinebar.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "info@thymecafeandmarket.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:38.508Z"
+  },
+  {
+    "place_id": "0x80c2a495a853fc13:0xa1c36996aa7a3fb3",
+    "name": "Back on the Beach Cafe",
+    "category": "Restaurant",
+    "address": "445 CA-1, Santa Monica, CA 90402",
+    "phone": "(310) 393-8282",
+    "website": "http://www.backonthebeachcafe.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 34.023750299999996,
+      "lng": -118.51294709999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11656276356391124915",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:38.579Z"
+  },
+  {
+    "place_id": "0x80c2a4d6b304c7b5:0xcda066a36d3da4dd",
+    "name": "Chez Jay",
+    "category": "Steak house",
+    "address": "1657 Ocean Ave, Santa Monica, CA 90401",
+    "phone": "(310) 395-1741",
+    "website": "http://www.chezjays.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "2 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.0104635,
+      "lng": -118.49326289999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14816955626147390685",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "peanuts@chezjays.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "peanuts@chezjays.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:38.610Z"
+  },
+  {
+    "place_id": "0x80c2a5c7ad095807:0xbbe7c41d62f9a94e",
+    "name": "Citrin Restaurant",
+    "category": "Restaurant",
+    "address": "1104 Wilshire Blvd Ste A, Santa Monica, CA 90401",
+    "phone": "(310) 395-0881",
+    "website": "http://citrinandmelisse.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "5:30–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.024425199999996,
+      "lng": -118.49131999999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13540006435206310222",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "melisse@citrinandmelisse.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "melisse@citrinandmelisse.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@citrinandmelisse.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:38.693Z"
+  },
+  {
+    "place_id": "0x80c2a4b1830dfd65:0xda230dc69ba83e39",
+    "name": "Forma Restaurant & Cheese Bar Santa Monica",
+    "category": "Italian restaurant",
+    "address": "1610 Montana Ave, Santa Monica, CA 90403",
+    "phone": "(424) 231-2868",
+    "website": "http://formarestaurant.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–8:45 PM"
+    },
+    "coordinates": {
+      "lat": 34.0339425,
+      "lng": -118.4928037
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15718422271119343161",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "formasm@formarestaurant.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "formasm@formarestaurant.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:38.750Z"
+  },
+  {
+    "place_id": "0x80c2bb22a5a27abb:0x51fa039e5ecb8df5",
+    "name": "Lunetta",
+    "category": "New American restaurant",
+    "address": "2420 Pico Blvd, Santa Monica, CA 90405",
+    "phone": "(310) 581-9888",
+    "website": "https://www.lunettasm.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.022429599999995,
+      "lng": -118.4636025
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5907037839979941365",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "info@lunettasm.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@lunettasm.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:42.970Z"
+  },
+  {
+    "place_id": "0x80c2a5677e9bddb9:0x2b0ccdfbc50296b7",
+    "name": "Calabra",
+    "category": "Restaurant",
+    "address": "Proper Hotel (Rooftop, 700 Wilshire Blvd, Santa Monica, CA 90401",
+    "phone": "(424) 390-0737",
+    "website": "https://www.properhotel.com/santa-monica/restaurants-bars/calabra/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0213135,
+      "lng": -118.4950707
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3102080724577195703",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:43.015Z"
+  },
+  {
+    "place_id": "0x80c2a4d05bb261c7:0xe96150e2660d96cb",
+    "name": "Meat On Ocean",
+    "category": "Steak house",
+    "address": "1501 Ocean Ave, Santa Monica, CA 90401",
+    "phone": "(310) 773-3366",
+    "website": "http://www.meatonocean.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0128189,
+      "lng": -118.49610089999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16816811416883140299",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "contactus@meatonocean.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "contactus@meatonocean.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "twalkama@kingsseafood.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:43.044Z"
+  },
+  {
+    "place_id": "0x80c2a5738daa666d:0x78c63b48f3af01e7",
+    "name": "Colapasta Restaurant",
+    "category": "Italian restaurant",
+    "address": "1241 5th St, Santa Monica, CA 90401",
+    "phone": "(310) 310-8336",
+    "website": "http://www.colapasta.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "5–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0191082,
+      "lng": -118.49598719999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8702708514452079079",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:02.066Z"
+  },
+  {
+    "place_id": "0x80c2a4cfefe25233:0x935e6a1032ab7a90",
+    "name": "SUGARFISH by sushi nozawa",
+    "category": "Sushi restaurant",
+    "address": "1345 2nd St, Santa Monica, CA 90401",
+    "phone": "(310) 393-3338",
+    "website": "http://sugarfishsushi.com/our-locations/santa-monica",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0153935,
+      "lng": -118.49723139999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10619041589188328080",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:02.365Z"
+  },
+  {
+    "place_id": "0x80c2a4c5bc18137b:0xd7ab54fb7edd51ca",
+    "name": "Hillstone",
+    "category": "New American restaurant",
+    "address": "202 Wilshire Blvd, Santa Monica, CA 90401",
+    "phone": "(310) 576-7558",
+    "website": "https://hillstonerestaurant.com/locations/santamonica/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.017523,
+      "lng": -118.499814
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15540608378313986506",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "guestservices@hillstone.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "guestservices@hillstone.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:02.567Z"
+  },
+  {
+    "place_id": "0x80c2a5ceb8a6e73f:0x1ad33ab5c4b947d1",
+    "name": "LA PUREPECHA COCINA MEXICANA",
+    "category": "Mexican restaurant",
+    "address": "725 Broadway, Santa Monica, CA 90401",
+    "phone": "(424) 744-8523",
+    "website": "http://lapurepecha.la/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0180721,
+      "lng": -118.4902034
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1932953217436043217",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:02.705Z"
+  },
+  {
+    "place_id": "0x80c2bb4bfd16760d:0xe72ad92abe869aa4",
+    "name": "Blue Daisy",
+    "category": "Brunch restaurant",
+    "address": "609 Broadway, Santa Monica, CA 90401",
+    "phone": "(310) 395-9777",
+    "website": "http://www.bluedaisycafe.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 34.0168707,
+      "lng": -118.4917437
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16657364949391547044",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:02.789Z"
+  },
+  {
+    "place_id": "0x80c2a51fc13fa191:0x315d4fe7627e6226",
+    "name": "XUNTOS",
+    "category": "Tapas bar",
+    "address": "516 Santa Monica Blvd, Santa Monica, CA 90401",
+    "phone": "(424) 744-8727",
+    "website": "http://www.barxuntos.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0174391,
+      "lng": -118.4937028
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3557087135901049382",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "jessica@barxuntos.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "jessica@barxuntos.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "hola@barxuntos.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "tara@elevenelevenpr.co",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:02.810Z"
+  },
+  {
+    "place_id": "0x80c2a4d6caf666e9:0xb14126b7c8e4ad71",
+    "name": "Bruno's Italian Restaurant",
+    "category": "Italian restaurant",
+    "address": "1652 Ocean Ave, Santa Monica, CA 90401",
+    "phone": "(310) 395-5589",
+    "website": "https://brunossantamonica.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0102836,
+      "lng": -118.4939132
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12772532588990737777",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "ristorante@brunossantamonica.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "ristorante@brunossantamonica.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:02.905Z"
+  },
+  {
+    "place_id": "0x80c2a5589e1e6035:0xd219c5a9157aa229",
+    "name": "The Whaler Santa Monica",
+    "category": "Bar & grill",
+    "address": "101 Broadway, Santa Monica, CA 90401",
+    "phone": "(424) 330-0166",
+    "website": "http://www.whalerbeachbar.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "9 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.012999199999996,
+      "lng": -118.49644629999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15139348952383136297",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:02.981Z"
+  },
+  {
+    "place_id": "0x80c2bba9404de739:0x3789bf280c7385ed",
+    "name": "Urban Skillet",
+    "category": "Halal restaurant",
+    "address": "2307 Main St, Santa Monica, CA 90405",
+    "phone": "(424) 744-8553",
+    "website": "https://www.urbanskilletla.com/santamonica",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0048899,
+      "lng": -118.48614939999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4001939922623890925",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:15.171Z"
+  },
+  {
+    "place_id": "0x80c2a508847d5df3:0xf8253d78441b699",
+    "name": "Shoreside Restaurant and Bar",
+    "category": "Restaurant",
+    "address": "1515 Ocean Ave, Santa Monica, CA 90401",
+    "phone": "(310) 458-1515",
+    "website": "https://www.shoresidesantamonica.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "6:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0125175,
+      "lng": -118.4954743
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1117547842643277465",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:15.264Z"
+  },
+  {
+    "place_id": "0x80c2a4d0d472d739:0xf380c2219e98c8b8",
+    "name": "Big Dean's Ocean Front Cafe",
+    "category": "Bar & grill",
+    "address": "1615 Ocean Front Walk, Santa Monica, CA 90401",
+    "phone": "(310) 393-2666",
+    "website": "https://www.bigdeansoceanfrontcafe.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0102915,
+      "lng": -118.4955998
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17546237597885974712",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:15.282Z"
+  },
+  {
+    "place_id": "0x80c2a4d5e4bfb7bf:0x3c695c4fc0cf5c11",
+    "name": "Coast",
+    "category": "Californian restaurant",
+    "address": "1 Pico Blvd, Santa Monica, CA 90405",
+    "phone": "(310) 587-1707",
+    "website": "https://www.shuttersonthebeach.com/dining/coast",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.006775,
+      "lng": -118.49178889999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4353112012437281809",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:15.303Z"
+  },
+  {
+    "place_id": "0x80c2a4d5e4bfb7bf:0xd8f614a8134ac7e7",
+    "name": "1 Pico",
+    "category": "Californian restaurant",
+    "address": "1 Pico Blvd, Santa Monica, CA 90405",
+    "phone": "(866) 527-6612",
+    "website": "https://www.shuttersonthebeach.com/dining/1-pico",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0069444,
+      "lng": -118.4920811
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15633705868573984743",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:15.387Z"
+  },
+  {
+    "place_id": "0x80c2a52ac9a03c89:0x1f9594271b8440e2",
+    "name": "Kafe K",
+    "category": "Restaurant",
+    "address": "2209 Main St b, Santa Monica, CA 90405",
+    "phone": "(310) 399-6369",
+    "website": "https://kafekcalifornia.net/?utm_source=google",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "8 AM–2 PM"
+    },
+    "coordinates": {
+      "lat": 34.0056033,
+      "lng": -118.4870045
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2275888082391941346",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:15.428Z"
+  },
+  {
+    "place_id": "0x80c2a4c98025044b:0x8034526c4fd11983",
+    "name": "Santa Monica Seafood Market & Cafe",
+    "category": "Restaurant",
+    "address": "1000 Wilshire Blvd, Santa Monica, CA 90401",
+    "phone": "(310) 393-5244",
+    "website": "https://smseafoodmarket.com/home/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0236927,
+      "lng": -118.492331
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9238099360792779139",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:15.487Z"
+  },
+  {
+    "place_id": "0x80c2a5b47ee1e5b5:0xaf0ddb1bc20308e",
+    "name": "Palma",
+    "category": "Restaurant",
+    "address": "Proper Hotel, 700 Wilshire Blvd, Santa Monica, CA 90401",
+    "phone": "(310) 620-9990",
+    "website": "https://www.properhotel.com/santa-monica/restaurants-bars/palma/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "7 AM–11:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.021336999999995,
+      "lng": -118.49507299999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=788373690225012878",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:15.514Z"
+  },
+  {
+    "place_id": "0x80c2a5d01553c999:0x86e79e69f63616a0",
+    "name": "The Win~Dow Santa Monica",
+    "category": "Hamburger restaurant",
+    "address": "930 Montana Ave, Santa Monica, CA 90403",
+    "phone": "(310) 564-4303",
+    "website": "https://www.thewin-dow.la/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0288447,
+      "lng": -118.4988887
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9720912498641999520",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:27.596Z"
+  },
+  {
+    "place_id": "0x80c2a4d1df41c621:0x9bfcbab3fe406948",
+    "name": "Benihana - Santa Monica",
+    "category": "Japanese restaurant",
+    "address": "1447 4th St, Santa Monica, CA 90401",
+    "phone": "(310) 260-1423",
+    "website": "https://www.benihana.com/locations/santa-monica/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.015536499999996,
+      "lng": -118.4938373
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11240064052237461832",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:27.664Z"
+  },
+  {
+    "place_id": "0x80c2a4d9fd25bc53:0x96cb1954a986f7c5",
+    "name": "Maria Sol",
+    "category": "Mexican restaurant",
+    "address": "401 Santa Monica Pier, Santa Monica, CA 90401",
+    "phone": "(310) 917-5050",
+    "website": "http://www.mariasol.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "11:30 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.007702699999996,
+      "lng": -118.4997326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10865806377373595589",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:27.684Z"
+  },
+  {
+    "place_id": "0x80e9a53779447efd:0xff90e270ec533cc6",
+    "name": "HiHo Cheeseburger | Santa Monica",
+    "category": "Hamburger restaurant",
+    "address": "1320 2nd St Ste. B, Santa Monica, CA 90401",
+    "phone": "(310) 469-7250",
+    "website": "https://www.hiho.la/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.015715,
+      "lng": -118.4982265
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18415467850947050694",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:27.735Z"
+  },
+  {
+    "place_id": "0x80c2a4d6ca8b34d7:0xd9a83582e144fcfe",
+    "name": "Casa Martin | Ocean Ave",
+    "category": "Mexican restaurant",
+    "address": "1654 Ocean Ave, Santa Monica, CA 90401",
+    "phone": "(310) 663-1732",
+    "website": "http://casamartinsm.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.010185199999995,
+      "lng": -118.4937837
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15683844538559167742",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:35.929Z"
+  },
+  {
+    "place_id": "0x80c2a4d5f1659297:0x4a330093ab068a20",
+    "name": "Terrazza",
+    "category": "Mediterranean restaurant",
+    "address": "1910 Ocean Way, Santa Monica, CA 90405",
+    "phone": "(424) 387-1258",
+    "website": "https://www.hotelcasadelmar.com/dining/terrazza/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "7 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0063618,
+      "lng": -118.4912858
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5346617816848435744",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "reservations@hotelcasadelmar.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "reservations@hotelcasadelmar.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:35.993Z"
+  },
+  {
+    "place_id": "0x80c2a4cfda0b8ef1:0xdc53be44e68cf2ae",
+    "name": "Bruxie",
+    "category": "Chicken restaurant",
+    "address": "1412 3rd Street Promenade, Santa Monica, CA 90401",
+    "phone": "(310) 260-3300",
+    "website": "https://www.bruxie.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0152216,
+      "lng": -118.4958844
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15876242314546180782",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:36.032Z"
+  },
+  {
+    "place_id": "0x80c2bbf034ec6293:0x4221eccb0d8e6b0f",
+    "name": "Augie's On Main - Chicken Restaurant Santa Monica, CA",
+    "category": "Chicken restaurant",
+    "address": "2428 Main St, Santa Monica, CA 90405",
+    "phone": "(310) 310-8171",
+    "website": "https://augiesonmain.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0036233,
+      "lng": -118.4854958
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4765350237584648975",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:36.083Z"
+  },
+  {
+    "place_id": "0x80c2a4d0505f5b37:0xa79dbf9dd6638869",
+    "name": "KazuNori: The Original Hand Roll Bar",
+    "category": "Sushi restaurant",
+    "address": "120 Broadway Ste 104, Santa Monica, CA 90401",
+    "phone": "(424) 999-4594",
+    "website": "https://www.handrollbar.com/santa-monica/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11:30 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0130999,
+      "lng": -118.4958181
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12078020460305156201",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "eat@kazunorisushi.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "eat@kazunorisushi.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "santamonica@kazunorisushi.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "career-foh@kazunorisushi.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "career-boh@kazunorisushi.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:36.098Z"
+  },
+  {
+    "place_id": "0x80c2bad4d097b987:0x9f54d0c69186e0b1",
+    "name": "Urth Caffe Santa Monica",
+    "category": "Coffee shop",
+    "address": "2327 Main St, Santa Monica, CA 90405",
+    "phone": "(310) 314-7040",
+    "website": "https://www.urthcaffe.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0043734,
+      "lng": -118.48578479999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11481030901337874609",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:36.209Z"
+  },
+  {
+    "place_id": "0x80c2a5f2d4033999:0x764458e597118667",
+    "name": "Din Tai Fung",
+    "category": "Taiwanese restaurant",
+    "address": "395 Santa Monica Pl, Santa Monica, CA 90401",
+    "phone": "(310) 737-2088",
+    "website": "https://dtf.com/en/locations/santa-monica",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0132505,
+      "lng": -118.4943821
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8522034137997084263",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:36.234Z"
+  },
+  {
+    "place_id": "0x80c2a4d596abf329:0xb2fa86dcf23f8d15",
+    "name": "Cha Cha Chicken",
+    "category": "Caribbean restaurant",
+    "address": "1906 Ocean Ave, Santa Monica, CA 90405",
+    "phone": "(844) 731-5843",
+    "website": "http://chachachicken.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.007131199999996,
+      "lng": -118.49043499999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12896768766444014869",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "webmaster@chachachicken.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "webmaster@chachachicken.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:36.264Z"
+  },
+  {
+    "place_id": "0x80c2a57b9dfd1bb3:0x9c7f393027e5e511",
+    "name": "Tu Madre",
+    "category": "Mexican restaurant",
+    "address": "606 Broadway #100, Santa Monica, CA 90401",
+    "phone": "(424) 610-9002",
+    "website": "https://www.tumadre.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.016613,
+      "lng": -118.4914482
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11276794870949602577",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:38.943Z"
+  },
+  {
+    "place_id": "0x80c2a5142b92e037:0x8fdf417244195343",
+    "name": "Ugo Trattoria",
+    "category": "Italian restaurant",
+    "address": "1237 3rd Street Promenade, Santa Monica, CA 90401",
+    "phone": "(310) 393-1704",
+    "website": "https://www.cafeugo.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "4:30–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.017737499999996,
+      "lng": -118.4980564
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10367076826254758723",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "info@cafeugo.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@cafeugo.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:39.106Z"
+  },
+  {
+    "place_id": "0x80c2bbb9a7af0ff1:0xd2a33223044f42cb",
+    "name": "Ghisallo",
+    "category": "Pizza restaurant",
+    "address": "1622 Ocean Park Blvd, Santa Monica, CA 90405",
+    "phone": "(310) 399-4060",
+    "website": "https://www.ghisallo.la/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "5–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.011668,
+      "lng": -118.4678168
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15178030295146250955",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "info@peridot-consulting.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@peridot-consulting.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:39.170Z"
+  },
+  {
+    "place_id": "0x80c2bb3257cbe647:0x99fe35b3d2658b8c",
+    "name": "Bludso's BBQ | Santa Monica",
+    "category": "Barbecue restaurant",
+    "address": "1329 Santa Monica Blvd, Santa Monica, CA 90404",
+    "phone": "(310) 310-2775",
+    "website": "https://bludsosbbq.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0241469,
+      "lng": -118.48601719999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11096365578332769164",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:39.303Z"
+  },
+  {
+    "place_id": "0x80c2a50d57e5c681:0x4e752327129e454c",
+    "name": "Luke's Lobster Santa Monica",
+    "category": "Seafood restaurant",
+    "address": "200 Santa Monica Blvd, Santa Monica, CA 90401",
+    "phone": "(424) 298-2080",
+    "website": "https://lukeslobster.com/pages/santa-monica",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0149504,
+      "lng": -118.4968092
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5653463557956584780",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "retail@lukeslobster.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "retail@lukeslobster.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "catering@lukeslobster.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:47.073Z"
+  },
+  {
+    "place_id": "0x80c2a4d0051985f1:0xd93f9aff4d365d4f",
+    "name": "Sushi Roku Santa Monica",
+    "category": "Restaurant",
+    "address": "1401 Ocean Ave, Santa Monica, CA 90401",
+    "phone": "(310) 458-4771",
+    "website": "https://www.sushiroku.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "5–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.014122799999996,
+      "lng": -118.4977416
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15654401251065879887",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:47.208Z"
+  },
+  {
+    "place_id": "0x80c2bad3b5e28ee1:0xa9c91b41350944a6",
+    "name": "Chinois On Main",
+    "category": "Asian fusion restaurant",
+    "address": "2709 Main St, Santa Monica, CA 90405",
+    "phone": "(310) 392-9025",
+    "website": "https://wolfgangpuck.com/dining/chinois-santa-monica/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.000832599999995,
+      "lng": -118.4821831
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12234339829605287078",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:47.235Z"
+  },
+  {
+    "place_id": "0x80c2a4c57966338d:0x848a91fe960f6cfd",
+    "name": "Tender Greens",
+    "category": "Health food restaurant",
+    "address": "201 Arizona Ave, Santa Monica, CA 90401",
+    "phone": "(310) 587-2777",
+    "website": "https://www.tendergreens.com/locations/santa-monica",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0165097,
+      "lng": -118.4985902
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9550606482417872125",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:47.301Z"
+  },
+  {
+    "place_id": "0x80c2a5d4870422db:0x794cf4f608cdec8a",
+    "name": "Monica's",
+    "category": "Restaurant",
+    "address": "1707 4th St, Santa Monica, CA 90401",
+    "phone": "(310) 395-3332",
+    "website": "https://www.hilton.com/en/hotels/smosmhh-hilton-santa-monica/dining/",
+    "rating": 3.6,
+    "hours": {
+      "Tuesday": "6 AM–2 PM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0117276,
+      "lng": -118.48899039999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8740630314366135434",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:47.334Z"
+  },
+  {
+    "place_id": "0x80c2bb9cc6a874b1:0x6c437db39fd5c712",
+    "name": "Chulita",
+    "category": "Mexican restaurant",
+    "address": "533 Rose Ave, Venice, CA 90291",
+    "phone": "(310) 392-4440",
+    "website": "http://www.chulita.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9:30 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 33.99886,
+      "lng": -118.47310999999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7801217189970036498",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:47.365Z"
+  },
+  {
+    "place_id": "0x80c2a4d011ac1661:0x827a219e018b87a7",
+    "name": "Sirena",
+    "category": "Italian restaurant",
+    "address": "1415 Ocean Ave, Santa Monica, CA 90401",
+    "phone": "(424) 722-6845",
+    "website": "https://www.thegeorgian.com/dining/sirena/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "7 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.013784099999995,
+      "lng": -118.49732499999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9401864134603802535",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "events@thegeorgian.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "events@thegeorgian.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@thegeorgian.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:47.390Z"
+  },
+  {
+    "place_id": "0x80c2a4cd75122057:0xef794b2444eedd6a",
+    "name": "Bay Cities Italian Deli & Bakery",
+    "category": "Deli",
+    "address": "1517 Lincoln Blvd, Santa Monica, CA 90401",
+    "phone": "(310) 395-8279",
+    "website": "http://www.baycitiesitaliandeli.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.0179847,
+      "lng": -118.4892019
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17255906066394176874",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:47.479Z"
+  },
+  {
+    "place_id": "0x80c2a53f0bbafaa3:0xdf00ca60dbff0aee",
+    "name": "Mel's Drive-in",
+    "category": "Diner",
+    "address": "1670 Lincoln Blvd, Santa Monica, CA 90404",
+    "phone": "(310) 392-0139",
+    "website": "http://melsdrive-in.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0151556,
+      "lng": -118.48659719999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16069065987814525678",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:59.510Z"
+  },
+  {
+    "place_id": "0x80c2a4cdf106815f:0x9bfe7395e5cb47ce",
+    "name": "The Hive Superfood Eats & Organic Cafe - Santa Monica",
+    "category": "Cafe",
+    "address": "606 Broadway #102, Santa Monica, CA 90401",
+    "phone": "(310) 899-6298",
+    "website": "http://hivehealthyeats.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "8 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 34.0167745,
+      "lng": -118.4911587
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11240548807605962702",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "info@thehivesm.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@thehivesm.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:59.532Z"
+  },
+  {
+    "place_id": "0x80c2a4c99e6ba433:0x85f9f15413580b9d",
+    "name": "Benny's Tacos & Rotisserie Chicken in Santa Monica",
+    "category": "Mexican restaurant",
+    "address": "915 Wilshire Blvd #1811, Santa Monica, CA 90401",
+    "phone": "(310) 451-0200",
+    "website": "https://bennystacos.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0234039,
+      "lng": -118.4934019
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9654012619649452957",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:59.581Z"
+  },
+  {
+    "place_id": "0x80c2bb2b85da6a3b:0xb37353112e376a1b",
+    "name": "SaMo’s Oaxaca",
+    "category": "Mexican restaurant",
+    "address": "1865 Lincoln Blvd Ste 5, Santa Monica, CA 90404",
+    "phone": "(424) 322-8370",
+    "website": "https://somosoaxaca.com/?utm_source=google",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.012775,
+      "lng": -118.4828332
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12930770288365759003",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "samosoaxaca@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "samosoaxaca@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:59.606Z"
+  },
+  {
+    "place_id": "0x80c2a4cda1227851:0x379bf3e008ddac65",
+    "name": "Hermanito Broadway",
+    "category": "Restaurant",
+    "address": "802 Broadway, Santa Monica, CA 90401",
+    "phone": "(310) 862-2300",
+    "website": "http://www.hermanitola.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.018132099999995,
+      "lng": -118.4895303
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4007064437023157349",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:59.706Z"
+  },
+  {
+    "place_id": "0x80c2a5960f37c37f:0x5b13a341e812baed",
+    "name": "dan modern chinese - santa monica",
+    "category": "Chinese restaurant",
+    "address": "1403 2nd St, Santa Monica, CA 90401",
+    "phone": "(424) 322-8000",
+    "website": "https://danmodernchinese.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11:30 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0147148,
+      "lng": -118.4965486
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6562768585470687981",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:59.765Z"
+  },
+  {
+    "place_id": "0x80c2a4cfcc8c3aa1:0x7d9f783cef1bf1bb",
+    "name": "The Cheesecake Factory",
+    "category": "American restaurant",
+    "address": "395 Santa Monica Pl Ste 305, Santa Monica, CA 90401",
+    "phone": "(310) 260-1296",
+    "website": "https://locations.thecheesecakefactory.com/ca/santa-monica-186.html?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.013669,
+      "lng": -118.49409709999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9052085979142943163",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:06.987Z"
+  },
+  {
+    "place_id": "0x80c2a4d03a7462cf:0x3309a88ccae8e6ef",
+    "name": "Espresso Cielo",
+    "category": "Cafe",
+    "address": "1431 2nd St, Santa Monica, CA 90401",
+    "phone": "(310) 260-1268",
+    "website": "https://espressocielo.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 34.014136199999996,
+      "lng": -118.4959123
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3677655893377869551",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:07.015Z"
+  },
+  {
+    "place_id": "0x80c2ba665f94b3f5:0xd54548da8b67ec31",
+    "name": "Hatchet Hall",
+    "category": "New American restaurant",
+    "address": "12517 Washington Blvd, Los Angeles, CA 90066",
+    "phone": "(310) 391-4222",
+    "website": "http://www.hatchethallla.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 33.997003899999996,
+      "lng": -118.4316061
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15367769406950599729",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:07.085Z"
+  },
+  {
+    "place_id": "0x80c2a4d757dff479:0x8222ab79eedd7352",
+    "name": "Pier Burger",
+    "category": "Hamburger restaurant",
+    "address": "330 Santa Monica Pier, Santa Monica, CA 90401",
+    "phone": "(310) 587-2747",
+    "website": "https://www.pierburger.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "8 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.009200899999996,
+      "lng": -118.4973332
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9377245914325676882",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "contactus@pierburger.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "contactus@pierburger.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:07.109Z"
+  },
+  {
+    "place_id": "0x80c2a50ee3a21657:0x152adbfa0bb38dec",
+    "name": "Shake Shack Santa Monica",
+    "category": "Hamburger restaurant",
+    "address": "501 Wilshire Blvd, Santa Monica, CA 90401",
+    "phone": "(424) 328-5141",
+    "website": "https://www.shakeshack.com/location/santa-monica-ca?utm_source=google&utm_medium=listing",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.020198,
+      "lng": -118.497434
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1525273290802957804",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:07.179Z"
+  },
+  {
+    "place_id": "0x80c2a4cfc4670c17:0xc552fab1a532027b",
+    "name": "Downtown Santa Monica",
+    "category": "Shopping mall",
+    "address": "1351 3rd Street Promenade, Santa Monica, CA 90401",
+    "phone": "(310) 393-8355",
+    "website": "http://www.downtownsm.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0160639,
+      "lng": -118.49622719999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14218702614449750651",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "info@downtownsm.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@downtownsm.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:07.201Z"
+  },
+  {
+    "place_id": "0x80c2a4d1eed6be93:0x98b497215aed3584",
+    "name": "Mon Roll House Sushi",
+    "category": "Sushi restaurant",
+    "address": "1509 4th St, Santa Monica, CA 90401",
+    "phone": "(310) 394-3956",
+    "website": "https://monrollhousesushi.toast.site/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.014927,
+      "lng": -118.493145
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11003585959088174468",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:07.282Z"
+  },
+  {
+    "place_id": "0x80c2a53b191044c5:0x722bb035c8cef848",
+    "name": "Mysa Mediterranean Cookhouse",
+    "category": "Mediterranean restaurant",
+    "address": "606 Broadway Ste 101, Santa Monica, CA 90401",
+    "phone": "(310) 458-3366",
+    "website": "https://www.mysacookhouse.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.016681,
+      "lng": -118.4913902
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8226862889371105352",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "support@getbento.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "support@getbento.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:07.401Z"
+  },
+  {
+    "place_id": "0x80c2bb28cd5be9f3:0x1672d7970c476a8a",
+    "name": "Holy Basil Santa Monica",
+    "category": "Thai restaurant",
+    "address": "2828 Santa Monica Blvd, Santa Monica, CA 90404",
+    "website": "https://www.holybasil-la.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "5–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.035007199999995,
+      "lng": -118.4716263
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1617592259925469834",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "holla@holybasildtla.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "holla@holybasildtla.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:13.165Z"
+  },
+  {
+    "place_id": "0x80c2a52ad4ababef:0x5b54ed2819cb72be",
+    "name": "Samosa House",
+    "category": "Indian restaurant",
+    "address": "2301 Main St, Santa Monica, CA 90405",
+    "phone": "(310) 314-0821",
+    "website": "https://www.samosahouse.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0049188,
+      "lng": -118.4863896
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6581145711982375614",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "hello@samosahouse.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@samosahouse.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "contactus@samosahose.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:13.477Z"
+  },
+  {
+    "place_id": "0x80c2a4c92084ac19:0xf2a5b0b4a741ebbe",
+    "name": "Santa Monica Proper Hotel",
+    "category": "Restaurant",
+    "address": "700 Wilshire Blvd, Santa Monica, CA 90401",
+    "phone": "(310) 620-9990",
+    "website": "https://www.properhotel.com/santa-monica/?utm_source=local-listings&utm_medium=organic&utm_campaign=local-listings",
+    "rating": 4.4,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.020865199999996,
+      "lng": -118.4945242
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17484575418282535870",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:13.540Z"
+  },
+  {
+    "place_id": "0x80c2a5c785266ba5:0x61df4ced053e86e",
+    "name": "Regent Santa Monica Beach",
+    "category": "Restaurant",
+    "address": "1700 Ocean Ave, Santa Monica, CA 90401",
+    "phone": "(310) 458-6700",
+    "website": "https://santamonica.regenthotels.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp",
+    "rating": 4.7,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0092602,
+      "lng": -118.49312649999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=440777507647776878",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:13.589Z"
+  },
+  {
+    "place_id": "0x80c2bb09841cf187:0x47e7960effdfcffc",
+    "name": "Mori Nozomi",
+    "category": "Sushi restaurant",
+    "address": "11500 W Pico Blvd, Los Angeles, CA 90064",
+    "phone": "(424) 273-1146",
+    "website": "https://www.morinozomi.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "7–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0333034,
+      "lng": -118.44217619999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5181274887479611388",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "info@morinozomi.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@morinozomi.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:13.666Z"
+  },
+  {
+    "place_id": "0x80c2a5f82aab43c3:0x75acd67222214bed",
+    "name": "Khan Saab Desi Craft Kitchen - Santa Monica",
+    "category": "Halal restaurant",
+    "address": "115 Santa Monica Blvd, Santa Monica, CA 90401",
+    "phone": "(424) 744-8001",
+    "website": "https://khansaabus.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "4–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.014569,
+      "lng": -118.49770679999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8479387984119024621",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:13.722Z"
+  },
+  {
+    "place_id": "0x80c2a55da1305c91:0xfb74d4dc41569114",
+    "name": "Tacos 1986",
+    "category": "Taco restaurant",
+    "address": "135 Colorado Ave, Santa Monica, CA 90401",
+    "phone": "(310) 526-3086",
+    "website": "http://www.tacos1986.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0117918,
+      "lng": -118.4947169
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18119341243272433940",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:13.803Z"
+  },
+  {
+    "place_id": "0x80c2a4d75109b31b:0xa5d029ebe7878245",
+    "name": "Japadog (at Santa Monica Pier)",
+    "category": "Hot dog stand",
+    "address": "200 Santa Monica Pier, Santa Monica, CA 90401",
+    "phone": "(424) 877-0606",
+    "website": "http://japadog.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0090967,
+      "lng": -118.4978472
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11948095904592396869",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:13.866Z"
+  },
+  {
+    "place_id": "0x80c2a4d05dbac58b:0x39589153a1693c95",
+    "name": "Joe's Pizza",
+    "category": "Pizza restaurant",
+    "address": "111 Broadway, Santa Monica, CA 90401",
+    "phone": "(310) 394-9494",
+    "website": "http://joespizza.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0131242,
+      "lng": -118.49621889999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4132212446488771733",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:17.075Z"
+  },
+  {
+    "place_id": "0x80c2a4cda9a155e3:0xe4f82d1f1a74f790",
+    "name": "Sweetfin Poke Santa Monica",
+    "category": "Poke bar",
+    "address": "829 Broadway, Santa Monica, CA 90401",
+    "phone": "(888) 820-3885",
+    "website": "https://www.sweetfin.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0187611,
+      "lng": -118.48947539999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16498986846482921360",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:17.106Z"
+  },
+  {
+    "place_id": "0x80c2bc09e01181c3:0x90833305fd4407f6",
+    "name": "Tempura Endo",
+    "category": "Japanese restaurant",
+    "address": "9777 Santa Monica Blvd, Beverly Hills, CA 90210",
+    "phone": "(310) 708-0224",
+    "website": "http://www.beverlyhills-endo.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5:30–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.0675996,
+      "lng": -118.4090648
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10413222864227665910",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:17.165Z"
+  },
+  {
+    "place_id": "0x80c2bb9123d911d5:0x78b93f41c36c4aaa",
+    "name": "BERBERE by T&T Lifestyle",
+    "category": "Ethiopian restaurant",
+    "address": "508 Santa Monica Blvd, Santa Monica, CA 90401",
+    "phone": "(310) 699-8642",
+    "website": "https://myberbere.com/",
+    "rating": 4.8,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0172749,
+      "lng": -118.4938214
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8699053706926901930",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [
+      {
+        "email": "info@myberbere.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:17.193Z"
+  },
+  {
+    "place_id": "0x80c2bad4d1dffe1b:0x14705097df679dc0",
+    "name": "Thai Vegan",
+    "category": "Thai restaurant",
+    "address": "2400 Main St, Santa Monica, CA 90405",
+    "phone": "(310) 581-4255",
+    "website": "https://smorefood.com/order-online/thai-vegan-santa-monica-90405-10qwj85h?utm_source=gmb&utm_medium=website",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0040674,
+      "lng": -118.48596819999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1472765691368545728",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:26.560Z"
+  },
+  {
+    "place_id": "0x80c2bad332dd2955:0x43af8da4e3fec9f1",
+    "name": "Perry's Café & Beach Rentals - Santa Monica 2400",
+    "category": "Restaurant",
+    "address": "2400 Ocean Front Walk, Santa Monica, CA 90405",
+    "phone": "(310) 452-7609",
+    "website": "https://perryscafe.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10 AM–7:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0022488,
+      "lng": -118.48833549999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4877272660804815345",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "info@perrysbeach.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@perrysbeach.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:26.609Z"
+  },
+  {
+    "place_id": "0x80c2a5a1069802cf:0xb17c1c1c1ff8221a",
+    "name": "Abode",
+    "category": "Restaurant",
+    "address": "1541 Ocean Ave, Santa Monica, CA 90401",
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0120493,
+      "lng": -118.49501289999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12789127948946383386",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:26.673Z"
+  },
+  {
+    "place_id": "0x80c2a56a86bee199:0xb2dcbb2f3f2c39ab",
+    "name": "MIXT Salads",
+    "category": "Salad shop",
+    "address": "401 Santa Monica Blvd, Santa Monica, CA 90401",
+    "website": "https://www.mixt.com/locations/santa-monica/?utm_source=gmb&utm_medium=organic&utm_campaign=website",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0166855,
+      "lng": -118.49520899999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12888382045225236907",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:26.704Z"
+  },
+  {
+    "place_id": "0x80c2a4cfb201948b:0xa42051562a2c0205",
+    "name": "sweetgreen - Healthy Salads, Wraps, and Bowls",
+    "category": "Salad shop",
+    "address": "1343 4th St, Santa Monica, CA 90401",
+    "phone": "(424) 744-8321",
+    "website": "https://www.sweetgreen.com/locations/santa-monica",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.016975599999995,
+      "lng": -118.4955177
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11826542051991486981",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:26.735Z"
+  },
+  {
+    "place_id": "0x80c2a4cf9a893923:0x40c24d1d5cb7b3b2",
+    "name": "McDonald's",
+    "category": "Fast food restaurant",
+    "address": "1540 2nd St, Santa Monica, CA 90405",
+    "phone": "(310) 458-7700",
+    "website": "https://www.mcdonalds.com/us/en-us/location/CA/SANTA-MONICA/1540-2ND-AVE/4271.html?cid=RF:YXT:GMB::Clicks",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "5:30 AM–2 AM",
+      "Monday": "5:30 AM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.012091999999996,
+      "lng": -118.494355
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4666376952414188466",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:26.788Z"
+  },
+  {
+    "place_id": "0x80c2a4ce175d877f:0x960868f849716d76",
+    "name": "Rita's Gate Of India",
+    "category": "Indian restaurant",
+    "address": "1450 5th St, Santa Monica, CA 90401",
+    "phone": "(424) 268-7196",
+    "website": "http://ritasgateofindia.net/",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.016310499999996,
+      "lng": -118.4934361
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10811006321096224118",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:26.814Z"
+  },
+  {
+    "place_id": "0x80c2a4d74b68b703:0x6de7de191da49712",
+    "name": "Smashie's Burgers",
+    "category": "Hamburger restaurant",
+    "address": "380 Santa Monica Pier #3, Santa Monica, CA 90401",
+    "phone": "(310) 260-8744",
+    "website": "https://pacpark.com/restaurants-santa-monica-pier/beach-burger/",
+    "rating": 3.4,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.008705,
+      "lng": -118.4980274
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7919542669207181074",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "guestservices@pacpark.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "guestservices@pacpark.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "events@pacpark.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "jobs@pacpark.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "media@pacpark.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:26.851Z"
+  },
+  {
+    "place_id": "0x80c2a4d57f643d39:0xdfd7e3682fab86d0",
+    "name": "M Street Kitchen",
+    "category": "American restaurant",
+    "address": "2000 Main St, Santa Monica, CA 90405",
+    "phone": "(310) 396-9145",
+    "rating": 4.3,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.006571099999995,
+      "lng": -118.4885463
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16129610627066595024",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:30.555Z"
+  },
+  {
+    "place_id": "0x80c2a4d9e284b0bf:0x41a62de455ab832",
+    "name": "Cosmic Funnel Cake",
+    "category": "Dessert restaurant",
+    "address": "380 Santa Monica Pier #2, Santa Monica, CA 90401",
+    "phone": "(310) 260-8744",
+    "website": "https://pacpark.com/restaurants-santa-monica-pier/funnel-cakes/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "12–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.008739399999996,
+      "lng": -118.4980351
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=295657432332023858",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "guestservices@pacpark.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "guestservices@pacpark.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:30.575Z"
+  },
+  {
+    "place_id": "0x80c2a4d9e284b0bf:0xfa20dd979129cd32",
+    "name": "Scoops Creamery",
+    "category": "Dessert restaurant",
+    "address": "380 Santa Monica Pier #6, Santa Monica, CA 90401",
+    "phone": "(310) 260-8744",
+    "website": "https://pacpark.com/restaurants-santa-monica-pier/scoops-ice-cream-and-treats/",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "12–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0084541,
+      "lng": -118.49807519999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18023649351781961010",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "guestservices@pacpark.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "guestservices@pacpark.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:30.648Z"
+  },
+  {
+    "place_id": "0x80c2bb2b99e8efc7:0xdfd6d51bb5036a46",
+    "name": "El Pollo Loco",
+    "category": "Mexican restaurant",
+    "address": "1906 Lincoln Blvd, Santa Monica, CA 90405",
+    "phone": "(310) 392-9809",
+    "website": "https://restaurants.elpolloloco.com/ca/santa-monica/1906-lincoln-blvd?utm_source=gmb&utm_medium=yext",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0116279,
+      "lng": -118.48342559999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16129313430451743302",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:30.702Z"
+  },
+  {
+    "place_id": "0x80c2a4cea0733ccb:0x227aee1f7f4c9ba8",
+    "name": "Wendy's",
+    "category": "Fast food restaurant",
+    "address": "1340 Lincoln Blvd, Santa Monica, CA 90401",
+    "phone": "(310) 917-1529",
+    "website": "https://locations.wendys.com/united-states/ca/santa-monica/1340-lincoln-blvd?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "8 AM–1 AM",
+      "Monday": "8 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.0198623,
+      "lng": -118.4921528
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2484559963495373736",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:30.727Z"
+  },
+  {
+    "place_id": "0x80c2a4d6d50bd3ad:0xf2af7deb9a3294ea",
+    "name": "Hot Dog on a Stick",
+    "category": "Hot dog restaurant",
+    "address": "1633 Ocean Front Walk, Santa Monica, CA 90401",
+    "phone": "(424) 252-6248",
+    "website": "https://hotdogonastick.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0098461,
+      "lng": -118.4950655
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17487334328960718058",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:30.766Z"
+  },
+  {
+    "place_id": "0x80c2a4d1a6a2fb95:0x18ed8b362d8f266f",
+    "name": "Sbarro",
+    "category": "Pizza restaurant",
+    "address": "395 Santa Monica Pl, Santa Monica, CA 90401",
+    "phone": "(310) 458-2584",
+    "website": "https://sbarro.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "11 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0141707,
+      "lng": -118.49351279999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1796244891199546991",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:30.792Z"
+  },
+  {
+    "place_id": "0x80c2a4d04370e3ad:0x25f020542503cb3",
+    "name": "Ma'kai Restaurant & Lounge",
+    "category": "American restaurant",
+    "address": "101 Broadway, Santa Monica, CA 90401",
+    "rating": 4.1,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0129774,
+      "lng": -118.49646639999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=170857532474014899",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:30.923Z"
+  },
+  {
+    "place_id": "0x80c2a4d9e31c6799:0xf3f1309eb5bbce63",
+    "name": "Wetzel's Pretzels",
+    "category": "Fast food restaurant",
+    "address": "380 Santa Monica Pier Ste 8, Santa Monica, CA 90401",
+    "phone": "(310) 260-8744",
+    "website": "https://pacpark.com/restaurants-santa-monica-pier/wetzels-pretzels/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.008523,
+      "lng": -118.49793869999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17577884278815706723",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "email": "guestservices@pacpark.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "guestservices@pacpark.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:34.144Z"
+  },
+  {
+    "place_id": "0x80c2a4d00dfb4599:0xc2ddaee264c19eaa",
+    "name": "Jack in the Box",
+    "category": "Fast food restaurant",
+    "address": "802 Santa Monica Blvd, Santa Monica, CA 90401",
+    "phone": "(310) 458-3584",
+    "website": "https://locations.jackinthebox.com/us/ca/santa-monica/802-santa-monica-blvd?utm_source=google&utm_medium=local&utm_campaign=google-local",
+    "rating": 3.7,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0195565,
+      "lng": -118.49096349999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14041571500587327146",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:34.179Z"
+  },
+  {
+    "place_id": "0x80c2a4cda4f9b3e7:0x80c0e6def71318ce",
+    "name": "Fresh Brothers Pizza Santa Monica",
+    "category": "Pizza restaurant",
+    "address": "1447 Lincoln Blvd, Santa Monica, CA 90401",
+    "phone": "(310) 656-6888",
+    "website": "https://www.freshbrothers.com/locations/santa-monica/",
+    "rating": 4.2,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0185768,
+      "lng": -118.4896998
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9277669077685573838",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:37.305Z"
+  },
+  {
+    "place_id": "0x80c2a5058a2e8305:0x3be671b2ac76024",
+    "name": "Sushi Gozen",
+    "category": "Japanese restaurant",
+    "address": "1705 Ocean Ave #111, Santa Monica, CA 90401",
+    "phone": "(310) 218-7934",
+    "rating": 4.1,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0102332,
+      "lng": -118.49221299999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=269766394068295716",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Santa Monica, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:37.364Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 125,
+    "places_charged": 40,
+    "places_skipped_closed": 0,
+    "places_no_email": 85,
+    "total_emails_verified": 61,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T07:59:39.293Z",
+    "requests": 225,
+    "delivered": 40,
+    "est_spend_usd": 0.18,
+    "est_revenue_usd": 0.32,
+    "profit_guard_tripped": false
+  },
+  {
+    "_type": "info",
+    "delivered": 40,
+    "message": "40 leads delivered. This row is informational — it is never billed.",
+    "schedule_tip": "Want this refreshed automatically? Apify Console -> this Actor -> Schedules -> Add schedule -> pick how often (e.g. daily) -> Save. It reruns with the same input on autopilot, no code required.",
+    "review_tip": "Found this useful? A quick Store review helps other buyers find it: https://apify.com/themineworks/maps-leads#reviews",
+    "scraped_at": "2026-09-22T07:59:39.482Z"
+  }
+]

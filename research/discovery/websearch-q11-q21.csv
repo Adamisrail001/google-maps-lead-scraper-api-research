@@ -1,0 +1,145 @@
+query_id,query,source,position,provider,url,result_type
+Q11,google maps business scraper,websearch,1,Apify,https://apify.com/compass/crawler-google-places,provider-page
+Q11,google maps business scraper,websearch,2,Octoparse,https://www.octoparse.com/scraping-templates/google-maps-scraper,provider-page
+Q11,google maps business scraper,websearch,3,Maps Scraper & Map data extractor (Chrome extension),https://chromewebstore.google.com/detail/maps-scraper-map-data-ext/ofbhiclojhjkggpnapcnjjjdjlgcikdf,other
+Q11,google maps business scraper,websearch,4,NoDataNoBusiness,https://nodatanobusiness.com/solutions/google-maps-scraper,provider-page
+Q11,google maps business scraper,websearch,5,gosom/google-maps-scraper,https://github.com/gosom/google-maps-scraper,open-source
+Q11,google maps business scraper,websearch,6,G Maps Extractor,https://gmapsextractor.com/,provider-page
+Q11,google maps business scraper,websearch,7,Outscraper,https://outscraper.com/google-maps-scraper/,provider-page
+Q11,google maps business scraper,websearch,8,Gumroad seller (Mohamed Ouazzag),https://mohamedouazzag.gumroad.com/l/ppjjzw,other
+Q11,google maps business scraper,websearch,9,Medium (Datajournal tutorial),https://medium.com/@datajournal/how-to-scrape-google-maps-with-python-510dbcca4e92,other
+Q12,google places api alternative,websearch,1,ScrapingBee,https://www.scrapingbee.com/blog/best-google-places-api/,listicle/comparison
+Q12,google places api alternative,websearch,2,SafeGraph,https://www.safegraph.com/guides/google-places-api-alternatives/,listicle/comparison
+Q12,google places api alternative,websearch,3,Geoapify,https://www.geoapify.com/geoapify-as-a-google-places-api-alternative/,provider-page
+Q12,google places api alternative,websearch,4,TravelTime,https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle/comparison
+Q12,google places api alternative,websearch,5,Medium (Paulo Taylor),https://medium.com/@paulotaylor/google-places-api-alternatives-a-guide-to-save-you-big-money-with-genai-774605e04769,listicle/comparison
+Q12,google places api alternative,websearch,6,Geoapify (on dev.to),https://dev.to/geoapify-maps-api/google-places-api-alternatives-which-poi-api-should-you-use-in-2026-hd4,community
+Q12,google places api alternative,websearch,7,Mappr,https://www.mappr.co/google-places-api-alternatives/,listicle/comparison
+Q12,google places api alternative,websearch,8,Outscraper,https://outscraper.com/google-places-api-alternatives/,listicle/comparison
+Q12,google places api alternative,websearch,9,StackShare,https://stackshare.io/google-places-api,other
+Q13,google maps scraper api alternative,websearch,1,Octoparse,https://www.octoparse.com/scraping-templates/google-maps-scraper,provider-page
+Q13,google maps scraper api alternative,websearch,2,AIMultiple,https://aimultiple.com/google-maps-scraper,listicle/comparison
+Q13,google maps scraper api alternative,websearch,3,Scrapingdog,https://www.scrapingdog.com/blog/best-google-maps-scraper/,listicle/comparison
+Q13,google maps scraper api alternative,websearch,4,Bright Data,https://brightdata.com/blog/web-data/best-google-maps-scrapers,listicle/comparison
+Q13,google maps scraper api alternative,websearch,5,n8n,https://n8n.io/workflows/2063-google-maps-scraper/,other
+Q13,google maps scraper api alternative,websearch,6,ScrapeBadger,https://scrapebadger.com/blog/best-google-maps-scraper-apis-in-2026-tested-compared-and-ranked,listicle/comparison
+Q13,google maps scraper api alternative,websearch,7,LocalProspects,https://localprospects.ai/blog/best-google-maps-scraper-apis-2026,listicle/comparison
+Q13,google maps scraper api alternative,websearch,8,Outscraper,https://outscraper.com/google-maps-scraper/,provider-page
+Q13,google maps scraper api alternative,websearch,9,Outscraper,https://outscraper.com/best-google-maps-scrapers/,listicle/comparison
+Q13,google maps scraper api alternative,websearch,10,StackShare,https://stackshare.io/stackups/google-maps-vs-scraper-api,other
+Q14,alternative to google places api for business data,websearch,1,BizData (via Google Maps Mania blog),https://googlemapsmania.blogspot.com/2026/05/bizdata-api-open-alternative-to-google.html,other
+Q14,alternative to google places api for business data,websearch,2,ScrapingBee,https://www.scrapingbee.com/blog/best-google-places-api/,listicle/comparison
+Q14,alternative to google places api for business data,websearch,3,SafeGraph,https://www.safegraph.com/guides/google-places-api-alternatives/,listicle/comparison
+Q14,alternative to google places api for business data,websearch,4,TravelTime,https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle/comparison
+Q14,alternative to google places api for business data,websearch,5,Geoapify,https://www.geoapify.com/geoapify-as-a-google-places-api-alternative/,provider-page
+Q14,alternative to google places api for business data,websearch,6,BizData (on dev.to),https://dev.to/marketoracle/free-google-places-api-alternative-37-business-categories-no-api-key-2m9e,community
+Q14,alternative to google places api for business data,websearch,7,BizData,https://bizdata-web.vercel.app/,provider-page
+Q14,alternative to google places api for business data,websearch,8,Outscraper,https://outscraper.com/google-places-api-alternatives/,listicle/comparison
+Q14,alternative to google places api for business data,websearch,9,StackShare,https://stackshare.io/densops/vs/google-places-api,other
+Q15,cheaper alternative to google places api,websearch,1,Medium (Paulo Taylor),https://medium.com/@paulotaylor/google-places-api-alternatives-a-guide-to-save-you-big-money-with-genai-774605e04769,listicle/comparison
+Q15,cheaper alternative to google places api,websearch,2,SafeGraph,https://www.safegraph.com/guides/google-places-api-alternatives/,listicle/comparison
+Q15,cheaper alternative to google places api,websearch,3,Geoapify,https://www.geoapify.com/google-maps-api-alternative/,provider-page
+Q15,cheaper alternative to google places api,websearch,4,Geoapify,https://www.geoapify.com/geoapify-as-a-google-places-api-alternative/,provider-page
+Q15,cheaper alternative to google places api,websearch,5,Mappr,https://www.mappr.co/google-places-api-alternatives/,listicle/comparison
+Q15,cheaper alternative to google places api,websearch,6,ScrapingBee,https://www.scrapingbee.com/blog/best-google-places-api/,listicle/comparison
+Q15,cheaper alternative to google places api,websearch,7,TravelTime,https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle/comparison
+Q15,cheaper alternative to google places api,websearch,8,Outscraper,https://outscraper.com/google-places-api-alternatives/,listicle/comparison
+Q15,cheaper alternative to google places api,websearch,9,StackShare,https://stackshare.io/google-places-api,other
+Q16,google maps scraper for thousands of businesses,websearch,1,Datablist,https://www.datablist.com/sources/google-maps-scraper,provider-page
+Q16,google maps scraper for thousands of businesses,websearch,2,Apify,https://apify.com/compass/crawler-google-places,provider-page
+Q16,google maps scraper for thousands of businesses,websearch,3,Omkar Cloud,https://github.com/omkarcloud/google-maps-scraper,open-source
+Q16,google maps scraper for thousands of businesses,websearch,4,Openmart,https://www.openmart.com/product/reviews-scraper,provider-page
+Q16,google maps scraper for thousands of businesses,websearch,5,Openmart,https://www.openmart.com/product/google-maps-scraper,provider-page
+Q16,google maps scraper for thousands of businesses,websearch,6,Livescraper,https://livescraper.com/google-maps-scraper,provider-page
+Q16,google maps scraper for thousands of businesses,websearch,7,Ultimate Web Scraper,https://ultimatewebscraper.com/tools/google-maps-scraper,provider-page
+Q16,google maps scraper for thousands of businesses,websearch,8,Outscraper,https://outscraper.com/google-maps-scraper/,provider-page
+Q16,google maps scraper for thousands of businesses,websearch,9,G Maps Extractor,https://gmapsextractor.com/,provider-page
+Q16,google maps scraper for thousands of businesses,websearch,10,Scrap.io,https://scrap.io/,provider-page
+Q17,bulk google maps scraper,websearch,1,Omkar Cloud,https://github.com/omkarcloud/google-maps-scraper,open-source
+Q17,bulk google maps scraper,websearch,2,Apify,https://apify.com/compass/crawler-google-places,provider-page
+Q17,bulk google maps scraper,websearch,3,gosom/google-maps-scraper,https://github.com/gosom/google-maps-scraper,open-source
+Q17,bulk google maps scraper,websearch,4,Google Maps Scraper Pro,https://gmapsscraperpro.com/bulk-google-maps-scraper/,provider-page
+Q17,bulk google maps scraper,websearch,5,Botsol,https://www.botsol.com/bots/google-maps-crawler,provider-page
+Q17,bulk google maps scraper,websearch,6,NoCode SERP API,https://nocodeserpapi.com/app/google-maps-bulk,provider-page
+Q17,bulk google maps scraper,websearch,7,G Maps Extractor,https://gmapsextractor.com/,provider-page
+Q17,bulk google maps scraper,websearch,8,Outscraper,https://outscraper.com/google-maps-scraper-v2/,provider-page
+Q17,bulk google maps scraper,websearch,9,Outscraper,https://outscraper.com/google-maps-scraper/,provider-page
+Q17,bulk google maps scraper,websearch,10,Map Lead Scraper,https://www.mapleadscraper.com/,provider-page
+Q18,automated google maps lead generation,websearch,1,Artisan,https://www.artisan.co/blog/google-maps-lead-generation,listicle/comparison
+Q18,automated google maps lead generation,websearch,2,n8n,https://n8n.io/workflows/2605-generate-leads-with-google-maps/,other
+Q18,automated google maps lead generation,websearch,3,PhantomBuster,https://phantombuster.com/blog/sales-prospecting/how-to-generate-b2b-leads-from-google-maps/,provider-page
+Q18,automated google maps lead generation,websearch,4,Leads Generator on Google Maps (Chrome extension),https://chromewebstore.google.com/detail/leads-generator-on-google/pnndeikagpndnokododcjjmmaahmjlhb,other
+Q18,automated google maps lead generation,websearch,5,Botster,https://botster.io/blog/google-maps-lead-generation-tools,provider-page
+Q18,automated google maps lead generation,websearch,6,YouTube video,https://www.youtube.com/watch?v=RWiWvPtSqTY,other
+Q18,automated google maps lead generation,websearch,7,Suplex,https://meetsuplex.com/blog/google-maps-lead-generation,provider-page
+Q18,automated google maps lead generation,websearch,8,GMaps Scraper (gmapsscraper.io),https://gmapsscraper.io/blog/google-maps-lead-generation-complete-guide,provider-page
+Q18,automated google maps lead generation,websearch,9,Scrap.io,https://scrap.io/make-com-tutorial-automated-lead-generation-google-maps-no-code-guide-2025,provider-page
+Q19,scrape google maps at scale,websearch,1,Apify (huncho actor),https://apify.com/huncho/google-maps-scraper,provider-page
+Q19,scrape google maps at scale,websearch,2,GroupBWT,https://groupbwt.com/blog/how-to-scrape-data-from-google-maps/,provider-page
+Q19,scrape google maps at scale,websearch,3,Traject Data,https://trajectdata.com/how-to-scrape-google-maps/,provider-page
+Q19,scrape google maps at scale,websearch,4,Apify,https://blog.apify.com/step-by-step-guide-to-scraping-google-maps/,provider-page
+Q19,scrape google maps at scale,websearch,5,Datamam,https://datamam.com/how-to-scrape-google-maps/,provider-page
+Q19,scrape google maps at scale,websearch,6,G Maps Extractor,https://gmapsextractor.com/,provider-page
+Q19,scrape google maps at scale,websearch,7,Outscraper,https://outscraper.com/google-maps-scraper/,provider-page
+Q19,scrape google maps at scale,websearch,8,Medium (Datajournal tutorial),https://medium.com/@datajournal/how-to-scrape-google-maps-with-python-510dbcca4e92,other
+Q19,scrape google maps at scale,websearch,9,Swiftproxy (on dev.to),https://dev.to/swiftproxy_residential/how-to-overcome-barriers-and-scrape-google-maps-like-a-pro-3m87,community
+Q20,extract emails from google maps,websearch,1,Apify (lukaskrivka actor),https://apify.com/lukaskrivka/google-maps-with-contact-details,provider-page
+Q20,extract emails from google maps,websearch,2,Lobstr,https://www.lobstr.io/blog/google-maps-email-extractor,provider-page
+Q20,extract emails from google maps,websearch,3,PhantomBuster,https://phantombuster.com/blog/sales-prospecting/google-maps-email-extractor-for-prospecting/,provider-page
+Q20,extract emails from google maps,websearch,4,n8n,https://n8n.io/workflows/2567-scrape-business-emails-from-google-maps-without-the-use-of-any-third-party-apis/,other
+Q20,extract emails from google maps,websearch,5,G Maps Extractor,https://gmapsextractor.com/articles/how-to-extract-emails-from-google-maps,provider-page
+Q20,extract emails from google maps,websearch,6,Outscraper,https://outscraper.com/extract-emails-from-google-maps/,provider-page
+Q20,extract emails from google maps,websearch,7,GMPlus,https://gmplus.io/guide/how-to-extract-emails-from-goole-maps,provider-page
+Q20,extract emails from google maps,websearch,8,Map Lead Scraper,https://www.mapleadscraper.com/blog/extract-emails-from-google-maps,provider-page
+Q20,extract emails from google maps,websearch,9,GMPlus,https://gmplus.io/,provider-page
+Q21,google maps scraper,websearch,1,Apify,https://apify.com/compass/crawler-google-places,provider-page
+Q21,google maps scraper,websearch,2,gosom/google-maps-scraper,https://github.com/gosom/google-maps-scraper,open-source
+Q21,google maps scraper,websearch,3,Octoparse,https://www.octoparse.com/scraping-templates/google-maps-scraper,provider-page
+Q21,google maps scraper,websearch,4,Maps Scraper & Map data extractor (Chrome extension),https://chromewebstore.google.com/detail/maps-scraper-map-data-ext/ofbhiclojhjkggpnapcnjjjdjlgcikdf,other
+Q21,google maps scraper,websearch,5,n8n,https://n8n.io/workflows/2063-google-maps-scraper/,other
+Q21,google maps scraper,websearch,6,Maps Scraper (mapsscraper.com),https://mapsscraper.com/,provider-page
+Q21,google maps scraper,websearch,7,Outscraper,https://outscraper.com/google-maps-scraper/,provider-page
+Q21,google maps scraper,websearch,8,Medium (Datajournal tutorial),https://medium.com/@datajournal/how-to-scrape-google-maps-with-python-510dbcca4e92,other
+Q21,google maps scraper,websearch,9,Gumroad seller (Mohamed Ouazzag),https://mohamedouazzag.gumroad.com/l/ppjjzw,other
+LST1,best google places api alternative 2026 (scrapingbee.com article),listicle:scrapingbee.com,1,Foursquare Places API,https://www.scrapingbee.com/blog/best-google-places-api/,listicle-mention
+LST1,best google places api alternative 2026 (scrapingbee.com article),listicle:scrapingbee.com,2,Geocode Earth,https://www.scrapingbee.com/blog/best-google-places-api/,listicle-mention
+LST1,best google places api alternative 2026 (scrapingbee.com article),listicle:scrapingbee.com,3,ArcGIS (Esri),https://www.scrapingbee.com/blog/best-google-places-api/,listicle-mention
+LST1,best google places api alternative 2026 (scrapingbee.com article),listicle:scrapingbee.com,4,LocationIQ,https://www.scrapingbee.com/blog/best-google-places-api/,listicle-mention
+LST1,best google places api alternative 2026 (scrapingbee.com article),listicle:scrapingbee.com,5,MapKit JS (Apple),https://www.scrapingbee.com/blog/best-google-places-api/,listicle-mention
+LST1,best google places api alternative 2026 (scrapingbee.com article),listicle:scrapingbee.com,6,ScrapingBee,https://www.scrapingbee.com/blog/best-google-places-api/,listicle-mention
+LST1,best google places api alternative 2026 (scrapingbee.com article),listicle:scrapingbee.com,7,Oxylabs,https://www.scrapingbee.com/blog/best-google-places-api/,listicle-mention
+LST1,best google places api alternative 2026 (scrapingbee.com article),listicle:scrapingbee.com,8,Bright Data,https://www.scrapingbee.com/blog/best-google-places-api/,listicle-mention
+LST1,best google places api alternative 2026 (scrapingbee.com article),listicle:scrapingbee.com,9,Decodo,https://www.scrapingbee.com/blog/best-google-places-api/,listicle-mention
+LST1,best google places api alternative 2026 (scrapingbee.com article),listicle:scrapingbee.com,10,Zyte,https://www.scrapingbee.com/blog/best-google-places-api/,listicle-mention
+LST2,5 best google maps scraper apis 2026 (aimultiple.com article),listicle:aimultiple.com,1,Apify,https://aimultiple.com/google-maps-scraper,listicle-mention
+LST2,5 best google maps scraper apis 2026 (aimultiple.com article),listicle:aimultiple.com,2,Oxylabs,https://aimultiple.com/google-maps-scraper,listicle-mention
+LST2,5 best google maps scraper apis 2026 (aimultiple.com article),listicle:aimultiple.com,3,Octoparse,https://aimultiple.com/google-maps-scraper,listicle-mention
+LST2,5 best google maps scraper apis 2026 (aimultiple.com article),listicle:aimultiple.com,4,SerpApi,https://aimultiple.com/google-maps-scraper,listicle-mention
+LST2,5 best google maps scraper apis 2026 (aimultiple.com article),listicle:aimultiple.com,5,Bright Data,https://aimultiple.com/google-maps-scraper,listicle-mention
+LST3,17 top google places api alternatives (traveltime.com article),listicle:traveltime.com,1,Foursquare Places API,https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle-mention
+LST3,17 top google places api alternatives (traveltime.com article),listicle:traveltime.com,2,Geocode Earth,https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle-mention
+LST3,17 top google places api alternatives (traveltime.com article),listicle:traveltime.com,3,ArcGIS (Esri),https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle-mention
+LST3,17 top google places api alternatives (traveltime.com article),listicle:traveltime.com,4,Sygic Places API,https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle-mention
+LST3,17 top google places api alternatives (traveltime.com article),listicle:traveltime.com,5,HERE Geocoding and Search API,https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle-mention
+LST3,17 top google places api alternatives (traveltime.com article),listicle:traveltime.com,6,Planet OSM (OpenStreetMap),https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle-mention
+LST3,17 top google places api alternatives (traveltime.com article),listicle:traveltime.com,7,LocationIQ,https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle-mention
+LST3,17 top google places api alternatives (traveltime.com article),listicle:traveltime.com,8,MapKit JS (Apple),https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle-mention
+LST3,17 top google places api alternatives (traveltime.com article),listicle:traveltime.com,9,Tripadvisor Content API,https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle-mention
+LST3,17 top google places api alternatives (traveltime.com article),listicle:traveltime.com,10,SafeGraph Places Data,https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle-mention
+LST3,17 top google places api alternatives (traveltime.com article),listicle:traveltime.com,11,OsmAnd,https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle-mention
+LST3,17 top google places api alternatives (traveltime.com article),listicle:traveltime.com,12,Loqate,https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle-mention
+LST3,17 top google places api alternatives (traveltime.com article),listicle:traveltime.com,13,Amazon Location Service,https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle-mention
+LST3,17 top google places api alternatives (traveltime.com article),listicle:traveltime.com,14,Yelp,https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle-mention
+LST3,17 top google places api alternatives (traveltime.com article),listicle:traveltime.com,15,Amadeus Points of Interest API,https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle-mention
+LST3,17 top google places api alternatives (traveltime.com article),listicle:traveltime.com,16,TomTom Search API,https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle-mention
+LST3,17 top google places api alternatives (traveltime.com article),listicle:traveltime.com,17,TravelTime API,https://traveltime.com/blog/google-places-api-alternatives-points-of-interest-data,listicle-mention
+LST4,best google maps scraper apis 2026 (localprospects.ai article),listicle:localprospects.ai,1,LocalProspects,https://localprospects.ai/blog/best-google-maps-scraper-apis-2026,listicle-mention
+LST4,best google maps scraper apis 2026 (localprospects.ai article),listicle:localprospects.ai,2,Apify,https://localprospects.ai/blog/best-google-maps-scraper-apis-2026,listicle-mention
+LST4,best google maps scraper apis 2026 (localprospects.ai article),listicle:localprospects.ai,3,Outscraper,https://localprospects.ai/blog/best-google-maps-scraper-apis-2026,listicle-mention
+LST4,best google maps scraper apis 2026 (localprospects.ai article),listicle:localprospects.ai,4,Scrapingdog,https://localprospects.ai/blog/best-google-maps-scraper-apis-2026,listicle-mention
+LST4,best google maps scraper apis 2026 (localprospects.ai article),listicle:localprospects.ai,5,SerpApi,https://localprospects.ai/blog/best-google-maps-scraper-apis-2026,listicle-mention
+LST4,best google maps scraper apis 2026 (localprospects.ai article),listicle:localprospects.ai,6,Bright Data,https://localprospects.ai/blog/best-google-maps-scraper-apis-2026,listicle-mention
+LST4,best google maps scraper apis 2026 (localprospects.ai article),listicle:localprospects.ai,7,Scrap.io,https://localprospects.ai/blog/best-google-maps-scraper-apis-2026,listicle-mention
+LST4,best google maps scraper apis 2026 (localprospects.ai article),listicle:localprospects.ai,8,DataForSEO,https://localprospects.ai/blog/best-google-maps-scraper-apis-2026,listicle-mention
+LST4,best google maps scraper apis 2026 (localprospects.ai article),listicle:localprospects.ai,9,Lobstr.io,https://localprospects.ai/blog/best-google-maps-scraper-apis-2026,listicle-mention
+LST4,best google maps scraper apis 2026 (localprospects.ai article),listicle:localprospects.ai,10,Oxylabs,https://localprospects.ai/blog/best-google-maps-scraper-apis-2026,listicle-mention

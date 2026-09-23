@@ -1,0 +1,4117 @@
+[
+  {
+    "place_id": "0x89c25bfdae6d0121:0x94b525bfc18d4690",
+    "name": "Elephant District",
+    "category": "Thai restaurant",
+    "address": "9 Old Fulton St, Brooklyn, NY 11201",
+    "phone": "(845) 314-3606",
+    "website": "https://www.elephantdistrict.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7029036,
+      "lng": -73.9938162
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10715512393914205840",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "elephantdistrictbk@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "elephantdistrictbk@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:10.061Z"
+  },
+  {
+    "place_id": "0x89c2594d1000faed:0x6bc4d66d5e1725b8",
+    "name": "Sungold",
+    "category": "Restaurant",
+    "address": "96 Wythe Ave, Brooklyn, NY 11249",
+    "phone": "(718) 362-8100",
+    "website": "https://www.sungoldbk.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "7:30 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7216057,
+      "lng": -73.9589007
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7765567422711932344",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:10.193Z"
+  },
+  {
+    "place_id": "0x89c25b9ee53ad51d:0xac7ed3c8869ae248",
+    "name": "Osteria Brooklyn",
+    "category": "Italian restaurant",
+    "address": "458 Myrtle Ave, Brooklyn, NY 11205",
+    "phone": "(646) 750-9156",
+    "website": "https://www.osteriabrooklyn.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6931526,
+      "lng": -73.9671771
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12429604879794365000",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:10.276Z"
+  },
+  {
+    "place_id": "0x89c25b022789f0ff:0x92337adde1e9f68f",
+    "name": "Lele's Roman",
+    "category": "Roman restaurant",
+    "address": "252 Schermerhorn St, Brooklyn, NY 11217",
+    "phone": "(718) 308-3608",
+    "website": "https://www.lelesroman.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "7–11 AM, 11:30 AM–2:30 PM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6878762,
+      "lng": -73.9838418
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10534899046746289807",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:10.318Z"
+  },
+  {
+    "place_id": "0x89c259ff82c2b9db:0xa3d592735794c548",
+    "name": "Recette",
+    "category": "French restaurant",
+    "address": "103 Havemeyer St, Brooklyn, NY 11211",
+    "phone": "(347) 227-8829",
+    "website": "https://www.recettebrooklyn.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=main_button",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.713221499999996,
+      "lng": -73.95632549999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11805503022309885256",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "recettenyc@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "recettenyc@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:10.357Z"
+  },
+  {
+    "place_id": "0x89c2593e034f10cd:0xffd9be695c144077",
+    "name": "Hole In The Wall",
+    "category": "Restaurant",
+    "address": "292 Bedford Ave, Brooklyn, NY 11249",
+    "phone": "(929) 395-1308",
+    "website": "https://holeinthewallnyc.com/williamsburg-1",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7144191,
+      "lng": -73.96154589999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18435975909343510647",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:10.416Z"
+  },
+  {
+    "place_id": "0x89c25a370129d62d:0x191347799f0cc188",
+    "name": "Henry's End",
+    "category": "American restaurant",
+    "address": "72 Henry St, Brooklyn, NY 11201",
+    "phone": "(718) 834-1776",
+    "website": "https://www.henrysend.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "5–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.6987126,
+      "lng": -73.99264509999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1806866463190729096",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "henrysend@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "henrysend@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:10.458Z"
+  },
+  {
+    "place_id": "0x89c25b5bbc5af40d:0xf36d6853c301338a",
+    "name": "6 Restaurant - NYC",
+    "category": "Fine dining restaurant",
+    "address": "481 Court St, Brooklyn, NY 11231",
+    "phone": "(718) 766-1112",
+    "website": "http://6restaurant.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "5:30–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.676349599999995,
+      "lng": -73.998542
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17540790832641160074",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "info@6restaurant.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@6restaurant.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:10.504Z"
+  },
+  {
+    "place_id": "0x89c25a4f739e4987:0x168b0744e57b02f0",
+    "name": "Boutros",
+    "category": "Middle Eastern restaurant",
+    "address": "185 Atlantic Ave, Brooklyn, NY 11201",
+    "website": "http://boutrosbk.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–3 PM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.690169399999995,
+      "lng": -73.9934583
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1624400083086410480",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:22.654Z"
+  },
+  {
+    "place_id": "0x89c25d006baba75f:0xef9d12e2db7f5d0c",
+    "name": "BKB | Brooklyn Brasserie",
+    "category": "French restaurant",
+    "address": "327 Stuyvesant Ave, Brooklyn, NY 11233",
+    "phone": "(929) 234-3202",
+    "website": "http://bkbnyc.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "4 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.683245899999996,
+      "lng": -73.9318718
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17265977311962815756",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "info@bkbnyc.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@bkbnyc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:22.705Z"
+  },
+  {
+    "place_id": "0x89c25b617aa74fd5:0x1ddc2ebc50fb562d",
+    "name": "Botte Brooklyn",
+    "category": "Italian restaurant",
+    "address": "327 Gold St, Brooklyn, NY 11201",
+    "phone": "(718) 586-5090",
+    "website": "https://botterestaurants.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6944625,
+      "lng": -73.9830314
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2151646108323632685",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:22.812Z"
+  },
+  {
+    "place_id": "0x89c25b54688fe041:0x48c1e0ff0c5e825c",
+    "name": "Levant on Smith",
+    "category": "French restaurant",
+    "address": "223 Smith St, Brooklyn, NY 11201",
+    "phone": "(347) 689-3694",
+    "website": "http://www.levantonsmith.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11:30 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.6842565,
+      "lng": -73.9920157
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5242718827264770652",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:22.891Z"
+  },
+  {
+    "place_id": "0x89c25a459b1b0b01:0x589b3c2e7dff0e72",
+    "name": "Chez Moi",
+    "category": "French restaurant",
+    "address": "135 Atlantic Ave, Brooklyn, NY 11201",
+    "phone": "(347) 227-8337",
+    "website": "http://chezmoiny.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6908092,
+      "lng": -73.99564529999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6384763067107839602",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "info@chezmoiny.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@chezmoiny.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:22.910Z"
+  },
+  {
+    "place_id": "0x89c25a4ddcce1881:0xec7bdbc176522fa0",
+    "name": "French Louie",
+    "category": "French restaurant",
+    "address": "320 Atlantic Ave, Brooklyn, NY 11201",
+    "phone": "(718) 935-1200",
+    "website": "http://frenchlouienyc.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.6880126,
+      "lng": -73.988216
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17040455239046672288",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:23.069Z"
+  },
+  {
+    "place_id": "0x89c25bcce15e13d7:0x78c6e11be93e3c9c",
+    "name": "Vinegar Hill House",
+    "category": "New American restaurant",
+    "address": "72 Hudson Ave, Brooklyn, NY 11201",
+    "phone": "(718) 522-1018",
+    "website": "http://www.vinegarhillhouse.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5:30–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7027648,
+      "lng": -73.9812524
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8702890839933598876",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:23.210Z"
+  },
+  {
+    "place_id": "0x89c25bd0b25ffd2f:0x206b8fb0b7a1a755",
+    "name": "al Badawi",
+    "category": "Middle Eastern restaurant",
+    "address": "151 Atlantic Ave, Brooklyn, NY 11201",
+    "phone": "(718) 689-5888",
+    "website": "http://www.albadawinyc.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.690640699999996,
+      "lng": -73.99500259999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2336118820879574869",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:23.296Z"
+  },
+  {
+    "place_id": "0x89c25b4db5b20f59:0xf5b78456ce1c5d33",
+    "name": "RUA Thai - Thai Restaurant Brooklyn",
+    "category": "Thai restaurant",
+    "address": "204 Smith St, Brooklyn, NY 11201",
+    "phone": "(718) 797-5121",
+    "website": "http://ruathai.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "11:30 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.6847296,
+      "lng": -73.99201219999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17705765968390413619",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "8c4075d5481d476e945486754f783364@sentry.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "18d2f96d279149989b95faf0a4b41882@sentry-next.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:27.172Z"
+  },
+  {
+    "place_id": "0x89c25bf61655d455:0xf1d0ee9b1e2f33bd",
+    "name": "Maison Sun",
+    "category": "Fine dining restaurant",
+    "address": "200-3 Schermerhorn St, Brooklyn, NY 11201",
+    "website": "https://www.maisonsun.nyc/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.6885268,
+      "lng": -73.9854417
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17424689308290200509",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "info@maisonsun.nyc",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@maisonsun.nyc",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:27.216Z"
+  },
+  {
+    "place_id": "0x89c25bb9f1826815:0x6e125b5b4186330f",
+    "name": "Black Iris",
+    "category": "Mediterranean restaurant",
+    "address": "120 Lafayette Ave, Brooklyn, NY 11238",
+    "phone": "(718) 852-9800",
+    "website": "https://blackirisny.com/?utm_source=google",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.687308699999996,
+      "lng": -73.9724778
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7931502341252330255",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:27.297Z"
+  },
+  {
+    "place_id": "0x89c25ba356c5bd8b:0x5ca04dbba8888267",
+    "name": "Sisters",
+    "category": "New American restaurant",
+    "address": "900 Fulton St, Brooklyn, NY 11238",
+    "phone": "(347) 763-2537",
+    "website": "http://sistersbklyn.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.6828778,
+      "lng": -73.9652184
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6674420116144816743",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "sistersbklyn@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "sistersbklyn@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:27.352Z"
+  },
+  {
+    "place_id": "0x89c25a31522d8623:0x9ef2f84b4e42b88a",
+    "name": "Westville Dumbo",
+    "category": "American restaurant",
+    "address": "81 Washington St, Brooklyn, NY 11201",
+    "phone": "(718) 618-5699",
+    "website": "https://westvillenyc.com/locations/westvile-dumbo/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7019271,
+      "lng": -73.9894984
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11453489804675823754",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:37.752Z"
+  },
+  {
+    "place_id": "0x89c25b0b1c49020d:0x5050438fd4dfb8e8",
+    "name": "Em Vietnamese Bistro",
+    "category": "Vietnamese restaurant",
+    "address": "57 Front St, Brooklyn, NY 11201",
+    "phone": "(718) 875-7888",
+    "website": "https://www.emrestaurants.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.7026736,
+      "lng": -73.9911664
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5787199806201903336",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "info@emrestaurants.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@emrestaurants.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:37.789Z"
+  },
+  {
+    "place_id": "0x89c25a370d2c0001:0x1380790e9d09776d",
+    "name": "Tutt Heights Cafe",
+    "category": "Mediterranean restaurant",
+    "address": "47 Hicks St, Brooklyn, NY 11201",
+    "phone": "(718) 722-7777",
+    "website": "http://www.ordertuttcafe.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.700213,
+      "lng": -73.993316
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1405256187410741101",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:37.868Z"
+  },
+  {
+    "place_id": "0x89c25bb1010e73bd:0xce05c1a9dcde1e65",
+    "name": "Chama Mama",
+    "category": "Georgian restaurant",
+    "address": "121 Montague St, Brooklyn, NY 11201",
+    "phone": "(347) 689-2725",
+    "website": "https://www.chamamama.com/location/chama-mama-montague/?utm_source=gmb&utm_medium=organic&utm_campaign=local&utm_id=gmb-brooklyn",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.695003,
+      "lng": -73.994612
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14845484681995886181",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:37.902Z"
+  },
+  {
+    "place_id": "0x89c25b92c3eaca6f:0xeddaf47a8062e004",
+    "name": "Barbalu Bklyn",
+    "category": "Italian restaurant",
+    "address": "68 Bergen St, Brooklyn, NY 11201",
+    "phone": "(347) 294-4287",
+    "website": "http://www.barbalu.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.686743799999995,
+      "lng": -73.9910146
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17139280138888994820",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "barbalubrooklyn@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "barbalubrooklyn@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:37.972Z"
+  },
+  {
+    "place_id": "0x89c25a4a0797b44b:0x1284d6b5d8550a1e",
+    "name": "Brooklyn Bridge Bistro",
+    "category": "Restaurant",
+    "address": "63 Tillary St, Brooklyn, NY 11201",
+    "phone": "(718) 858-0007",
+    "website": "https://www.brooklynbridgebistro.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "10:30 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.696463699999995,
+      "lng": -73.9882724
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1334427466115385886",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:38.054Z"
+  },
+  {
+    "place_id": "0x89c25a4dbb5bd8f5:0x4cd70a1b8be4a774",
+    "name": "Bijan's",
+    "category": "New American restaurant",
+    "address": "81 Hoyt St, Brooklyn, NY 11201",
+    "phone": "(718) 855-5574",
+    "website": "http://www.bijansbrooklyn.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.687971399999995,
+      "lng": -73.9867095
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5536905380302727028",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "bijansnyc@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "bijansnyc@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:38.152Z"
+  },
+  {
+    "place_id": "0x89c25b4e007d423f:0xd95e384fb52fe0c0",
+    "name": "Khaosan",
+    "category": "Thai restaurant",
+    "address": "128 Montague St, Brooklyn, NY 11201",
+    "phone": "(347) 294-0179",
+    "website": "https://khaosannyc.com/?utm_source=google",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "12–4 PM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6945863,
+      "lng": -73.99428019999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15663018469034549440",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:38.331Z"
+  },
+  {
+    "place_id": "0x89c25bb9fcb7a7cd:0x36a77263c3adbea",
+    "name": "Evelina",
+    "category": "Italian restaurant",
+    "address": "211 Dekalb Ave, Brooklyn, NY 11205",
+    "phone": "(929) 298-0209",
+    "website": "http://www.evelinabk.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–3:30 PM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6897385,
+      "lng": -73.970998
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=246140135748066282",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "evelinabookings@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "evelinabookings@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:39.790Z"
+  },
+  {
+    "place_id": "0x89c25bdf032875c1:0x92db4107fac56653",
+    "name": "Meadowsweet",
+    "category": "New American restaurant",
+    "address": "149 Broadway, Brooklyn, NY 11211",
+    "phone": "(718) 384-0673",
+    "website": "http://www.meadowsweetnyc.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.7104256,
+      "lng": -73.96312429999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10582123251964929619",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "info@meadowsweetnyc.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@meadowsweetnyc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:39.841Z"
+  },
+  {
+    "place_id": "0x89c2596170a82793:0x2abc3e89905beb9e",
+    "name": "Aurora Brooklyn",
+    "category": "Italian restaurant",
+    "address": "70 Grand St, Brooklyn, NY 11249",
+    "phone": "(718) 388-5100",
+    "website": "https://aurorabk.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7156519,
+      "lng": -73.9647449
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3079405005767961502",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:39.937Z"
+  },
+  {
+    "place_id": "0x89c25a3119486c07:0x3876fdd40a2c7e49",
+    "name": "Cecconi's DUMBO",
+    "category": "Restaurant",
+    "address": "55 Water St, Brooklyn, NY 11201",
+    "phone": "(718) 650-3900",
+    "website": "http://cecconisdumbo.com/?utm_source=google&utm_medium=organic&utm_campaign=googlemybusiness",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.703487599999995,
+      "lng": -73.9916178
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4068718400521403977",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:52.456Z"
+  },
+  {
+    "place_id": "0x89c25bbcd021f747:0xb097a39101938b5e",
+    "name": "Cornbread Brooklyn",
+    "category": "Soul food restaurant",
+    "address": "409 Eastern Pkwy, Brooklyn, NY 11216",
+    "phone": "(718) 493-7685",
+    "website": "http://www.cornbreadsoul.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.670553,
+      "lng": -73.9544671
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12724819115350657886",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:52.528Z"
+  },
+  {
+    "place_id": "0x89c25a4f04b53d55:0xd5be8779187235fd",
+    "name": "La Vara",
+    "category": "Spanish restaurant",
+    "address": "268 Clinton St, Brooklyn, NY 11201",
+    "phone": "(718) 422-0065",
+    "website": "http://www.lavarany.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "5–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.6878008,
+      "lng": -73.9957434
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15401896729824605693",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "rob@lavarany.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "rob@lavarany.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:52.557Z"
+  },
+  {
+    "place_id": "0x89c25bcb3de6794f:0x262afa733211be7f",
+    "name": "Lavender Room Brooklyn",
+    "category": "Restaurant",
+    "address": "535 Nostrand Ave, Brooklyn, NY 11216",
+    "phone": "(347) 221-1019",
+    "website": "https://lavenderroomnyc.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "4 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.6790606,
+      "lng": -73.9493839
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2750285895131315839",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:52.609Z"
+  },
+  {
+    "place_id": "0x89c25b01de761781:0xb11788052b02a015",
+    "name": "Charm Bar & Restaurant",
+    "category": "Caribbean restaurant",
+    "address": "448 Dean St, Brooklyn, NY 11217",
+    "phone": "(347) 799-2345",
+    "website": "https://charmbarrestaurant.com/?utm_source=google",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "12 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.681884499999995,
+      "lng": -73.97626699999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12760817624955396117",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "charmbarbk@charmbarbk.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "charmbarbk@charmbarbk.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:52.652Z"
+  },
+  {
+    "place_id": "0x89c25b1ec1dee589:0xd51f982a303f3ba8",
+    "name": "Felice Montague",
+    "category": "Italian restaurant",
+    "address": "84 Montague St, Brooklyn, NY 11201",
+    "phone": "(718) 475-9877",
+    "website": "https://www.felicerestaurants.com/felice-montague/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.695172,
+      "lng": -73.9961544
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15357160561322179496",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "montague@felicerestaurants.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "montague@felicerestaurants.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:52.764Z"
+  },
+  {
+    "place_id": "0x89c25b0a3e8d1baf:0x1f62efb58f7aa0f7",
+    "name": "Black Oak on Fifth",
+    "category": "Italian restaurant",
+    "address": "200 5th Ave, Brooklyn, NY 11217",
+    "phone": "(347) 599-0491",
+    "website": "https://blackoakonfifth.com/?utm_source=google",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.676829,
+      "lng": -73.98046099999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2261633525968707831",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:52.860Z"
+  },
+  {
+    "place_id": "0x89c25b692dfe9cc1:0x4caeddec3a211bfe",
+    "name": "Gage & Tollner",
+    "category": "American restaurant",
+    "address": "372 Fulton St, Brooklyn, NY 11201",
+    "phone": "(347) 689-3677",
+    "website": "https://www.gageandtollner.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6913485,
+      "lng": -73.9878195
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5525597799487446014",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:52.903Z"
+  },
+  {
+    "place_id": "0x89c25961f5821591:0xe87bf78ace54ae7d",
+    "name": "Sunday In Brooklyn",
+    "category": "American restaurant",
+    "address": "348 Wythe Ave, Brooklyn, NY 11249",
+    "phone": "(347) 222-6722",
+    "website": "http://sundayinbrooklyn.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "8 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.714199199999996,
+      "lng": -73.9653462
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16752255414473895549",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:59.431Z"
+  },
+  {
+    "place_id": "0x89c25b99d0048785:0x93eb1146812f3a56",
+    "name": "Hart's",
+    "category": "Mediterranean restaurant",
+    "address": "506 Franklin Ave, Brooklyn, NY 11238",
+    "phone": "(718) 636-6228",
+    "website": "http://www.hartsbrooklyn.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "5:30–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.681471599999995,
+      "lng": -73.95589269999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10658631937615149654",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "ciao@hartsbrooklyn.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "ciao@hartsbrooklyn.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:59.485Z"
+  },
+  {
+    "place_id": "0x89c2595f978c306d:0xc4f5e97ed7458852",
+    "name": "The Four Horsemen",
+    "category": "New American restaurant",
+    "address": "295 Grand St, Brooklyn, NY 11211",
+    "phone": "(718) 599-4900",
+    "website": "http://fourhorsemenbk.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "5:30–10:45 PM"
+    },
+    "coordinates": {
+      "lat": 40.7130584,
+      "lng": -73.9573216
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14192506531714795602",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:59.543Z"
+  },
+  {
+    "place_id": "0x89c25bb74b6438ab:0xf53e2bca1d9d60b4",
+    "name": "Miss Ada",
+    "category": "Mediterranean restaurant",
+    "address": "184 Dekalb Ave, Brooklyn, NY 11205",
+    "website": "http://www.missadanyc.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "5:30–9:45 PM"
+    },
+    "coordinates": {
+      "lat": 40.689425,
+      "lng": -73.9723664
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17671610134928646324",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "info@missadanyc.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@missadanyc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:59.631Z"
+  },
+  {
+    "place_id": "0x89c25b2addb1557d:0xadbfa8e9d5ac635c",
+    "name": "Café Brume",
+    "category": "Restaurant",
+    "address": "80 Montague St, Brooklyn, NY 11201",
+    "phone": "(347) 227-2852",
+    "website": "http://brume.nyc/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6951727,
+      "lng": -73.9962429
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12519911211378959196",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:59.674Z"
+  },
+  {
+    "place_id": "0x89c25a323080c221:0x55426c89c4a6a6a3",
+    "name": "Celestine",
+    "category": "Mediterranean restaurant",
+    "address": "1 John St, Brooklyn, NY 11201",
+    "phone": "(718) 522-5356",
+    "website": "http://celestinebk.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.704661699999996,
+      "lng": -73.98796949999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6143592180652353187",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "info@celestinebk.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@celestinebk.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:59.723Z"
+  },
+  {
+    "place_id": "0x89c25b674dbc6297:0x7b95f61e86e0b554",
+    "name": "LORE",
+    "category": "Modern Indian restaurant",
+    "address": "441 7th Ave, Brooklyn, NY 11215",
+    "phone": "(347) 599-0300",
+    "website": "https://www.lorebrooklyn.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "5:30–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.663081999999996,
+      "lng": -73.9844024
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8905294449167349076",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "info@lorebrooklyn.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@lorebrooklyn.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:59.769Z"
+  },
+  {
+    "place_id": "0x89c25a30c9da3783:0x8d7f4ba817ec34f6",
+    "name": "Grimaldi's Pizzeria",
+    "category": "Pizza restaurant",
+    "address": "1 Front St, Brooklyn, NY 11201",
+    "phone": "(718) 858-4300",
+    "website": "https://www.grimaldispizzeria.com/locations/1-front-street-brooklyn/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7026459,
+      "lng": -73.993247
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10195951266718037238",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "rhaunschild@grimaldispizzeria.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "rhaunschild@grimaldispizzeria.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:59.826Z"
+  },
+  {
+    "place_id": "0x89c2595d4ead0653:0x19fa5a8162f13550",
+    "name": "Aska",
+    "category": "Scandinavian restaurant",
+    "address": "47 S 5th St, Brooklyn, NY 11249",
+    "phone": "(934) 732-3710",
+    "website": "http://askanyc.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.7124154,
+      "lng": -73.96652449999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1871908106883118416",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:07.325Z"
+  },
+  {
+    "place_id": "0x89c259fe68162ca9:0xdadfc78daf8776b8",
+    "name": "Fandi Mata",
+    "category": "Eclectic restaurant",
+    "address": "74 Bayard St, Brooklyn, NY 11222",
+    "phone": "(718) 388-8877",
+    "website": "https://www.fandimata.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "5–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7188471,
+      "lng": -73.94925309999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15771543831423973048",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "info@fandimata.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@fandimata.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:07.379Z"
+  },
+  {
+    "place_id": "0x89c2596781ff9537:0x53272e68936b4f72",
+    "name": "Cafe Mogador",
+    "category": "Moroccan restaurant",
+    "address": "133 Wythe Ave, Brooklyn, NY 11249",
+    "phone": "(718) 486-9222",
+    "website": "http://www.cafemogador.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "10 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7197416,
+      "lng": -73.9599664
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5991808855924494194",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "cafemogador101@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "cafemogador101@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:07.453Z"
+  },
+  {
+    "place_id": "0x89c25a30bc7b1347:0x3c9a8513fa18b1c9",
+    "name": "Ignazio's",
+    "category": "Pizza restaurant",
+    "address": "4 Water St, Brooklyn, NY 11201",
+    "phone": "(718) 522-2100",
+    "website": "http://www.ignaziospizzamenu.com/?utm_source=gbp",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "12–8:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.703164699999995,
+      "lng": -73.99372
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4366949109535912393",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:07.552Z"
+  },
+  {
+    "place_id": "0x89c25a3701f39d69:0x66c24e5fc95b67c1",
+    "name": "Noodle Pudding",
+    "category": "Italian restaurant",
+    "address": "38 Henry St, Brooklyn, NY 11201",
+    "phone": "(718) 625-3737",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6998166,
+      "lng": -73.9919979
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7404566910657587137",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:16.016Z"
+  },
+  {
+    "place_id": "0x89c25a37ae856551:0x5ea422294c37e0f",
+    "name": "Bevacco",
+    "category": "Italian restaurant",
+    "address": "60 Henry St, Brooklyn, NY 11201",
+    "phone": "(718) 624-1440",
+    "website": "http://bevacco.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6992833,
+      "lng": -73.9923409
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=426225831032094223",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:16.111Z"
+  },
+  {
+    "place_id": "0x89c25a33eb5d2161:0xf0bbc413625ebba4",
+    "name": "Superfine",
+    "category": "Restaurant",
+    "address": "126 Front St, Brooklyn, NY 11201",
+    "phone": "(718) 243-9005",
+    "website": "https://www.superfine.nyc/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "2 PM–1 AM"
+    },
+    "coordinates": {
+      "lat": 40.7023726,
+      "lng": -73.9875072
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17346673977281395620",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:16.162Z"
+  },
+  {
+    "place_id": "0x89c25a3113433515:0x18dcf412fedc9da7",
+    "name": "Dawn’s Til Dusk",
+    "category": "Restaurant",
+    "address": "33 Main St, Brooklyn, NY 11201",
+    "phone": "(212) 675-4996",
+    "website": "https://dawnstildusk.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7:30 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.703350799999996,
+      "lng": -73.99045269999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1791575114209074599",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "info@onegirlcookies.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@onegirlcookies.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:16.218Z"
+  },
+  {
+    "place_id": "0x89c259675d1bd4ab:0x6cc90beea5de1567",
+    "name": "Sweetwater",
+    "category": "American restaurant",
+    "address": "105 N 6th St, Brooklyn, NY 11211",
+    "phone": "(718) 963-0608",
+    "website": "http://www.sweetwaterny.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–11:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7184799,
+      "lng": -73.9599702
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7838809746027976039",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "info@sweetwaterny.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@sweetwaterny.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:16.270Z"
+  },
+  {
+    "place_id": "0x89c25bfb18dc6efd:0x70bc0ea30bcc145f",
+    "name": "The Simpson",
+    "category": "Caribbean restaurant",
+    "address": "673 Atlantic Ave, Brooklyn, NY 11217",
+    "phone": "(347) 763-2711",
+    "website": "https://www.thesimpsonrestaurantbk.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.6832352,
+      "lng": -73.9736167
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8123383921309914207",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:16.329Z"
+  },
+  {
+    "place_id": "0x89c25b956b95da77:0x846cd7cdecbfba27",
+    "name": "Rustik Tavern",
+    "category": "Restaurant",
+    "address": "471 Dekalb Ave, Brooklyn, NY 11205",
+    "phone": "(347) 406-9700",
+    "website": "https://rustiktavern.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.690751899999995,
+      "lng": -73.95827469999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9542238989931493927",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:16.371Z"
+  },
+  {
+    "place_id": "0x89c25a4d42678ab9:0xa89afb9280539925",
+    "name": "Bacchus",
+    "category": "French restaurant",
+    "address": "409 Atlantic Ave, Brooklyn, NY 11217",
+    "phone": "(718) 852-1572",
+    "website": "https://bacchusbistro.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "5–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.686945099999996,
+      "lng": -73.9842903
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12149299551422093605",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "bacchusinfo@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "bacchusinfo@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:16.398Z"
+  },
+  {
+    "place_id": "0x89c259605e80f6e1:0x1ec710d9c7a9b979",
+    "name": "Le Crocodile",
+    "category": "French restaurant",
+    "address": "80 Wythe Ave, Brooklyn, NY 11249",
+    "phone": "(718) 460-8004",
+    "website": "http://lecrocodile.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "7 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7219482,
+      "lng": -73.9580719
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2217759869046995321",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:24.662Z"
+  },
+  {
+    "place_id": "0x89c2597a6fc65401:0xd6d4e7b492e9aa98",
+    "name": "MADRE",
+    "category": "Eclectic restaurant",
+    "address": "214 Franklin St, Brooklyn, NY 11222",
+    "phone": "(718) 389-8700",
+    "website": "https://madrenyc.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.7330098,
+      "lng": -73.9578772
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15480252581924154008",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "info@madre.nyc",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@madre.nyc",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:24.693Z"
+  },
+  {
+    "place_id": "0x89c2590682ac6995:0x5a0f579116f221db",
+    "name": "HOUSE Brooklyn",
+    "category": "Japanese restaurant",
+    "address": "50 Norman Ave, Brooklyn, NY 11222",
+    "phone": "(929) 675-7887",
+    "website": "https://house-bk.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.7246907,
+      "lng": -73.9536601
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6489501868731015643",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:24.754Z"
+  },
+  {
+    "place_id": "0x89c25a459fe293a1:0xb0b9755dd262528a",
+    "name": "Henry Public",
+    "category": "American restaurant",
+    "address": "329 Henry St, Brooklyn, NY 11201",
+    "phone": "(718) 852-8630",
+    "website": "http://www.henrypublic.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "4–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.6902937,
+      "lng": -73.9962886
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12734338467188855434",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "henrypublicsaloon@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "henrypublicsaloon@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:33.431Z"
+  },
+  {
+    "place_id": "0x89c25b02eb1214f7:0x60793d0d8b81a88c",
+    "name": "Grand Canyon Restaurant",
+    "category": "American restaurant",
+    "address": "143 Montague St, Brooklyn, NY 11201",
+    "phone": "(347) 889-6670",
+    "website": "http://www.grandcanyonrestaurantb.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "7 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6948048,
+      "lng": -73.99358749999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6951654628207470732",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "carretogonzalo@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "carretogonzalo@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:33.482Z"
+  },
+  {
+    "place_id": "0x89c25d94682dff4d:0xae943d66dc6670ab",
+    "name": "Ursula Brooklyn",
+    "category": "Restaurant",
+    "address": "387A Nostrand Ave, Brooklyn, NY 11216",
+    "phone": "(347) 365-4905",
+    "website": "http://www.ursulabk.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.6844653,
+      "lng": -73.9502516
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12579747171146297515",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:33.595Z"
+  },
+  {
+    "place_id": "0x89c25bac5902a3f5:0xd416713099467264",
+    "name": "Time Out Market New York",
+    "category": "Restaurant",
+    "address": "55 Water St, Brooklyn, NY 11201",
+    "phone": "(917) 810-4855",
+    "website": "https://www.timeoutmarket.com/newyork/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7034272,
+      "lng": -73.9921126
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15282526839072256612",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "infonyc@timeoutmarket.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "infonyc@timeoutmarket.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:33.622Z"
+  },
+  {
+    "place_id": "0x89c25942d18e434f:0xc3d459ae3fd0f2cf",
+    "name": "Leuca",
+    "category": "Southern Italian restaurant",
+    "address": "111 N 12th St, Brooklyn, NY 11249",
+    "phone": "(718) 581-5900",
+    "website": "http://leuca.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7220872,
+      "lng": -73.9567658
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14111002137388446415",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "info@leuca.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@leuca.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:33.701Z"
+  },
+  {
+    "place_id": "0x89c25ac1323267e7:0x797a14d683a609e7",
+    "name": "Brooklyn Roots Italian",
+    "category": "Italian restaurant",
+    "address": "8602 3rd Ave, Brooklyn, NY 11209",
+    "phone": "(718) 333-5122",
+    "website": "http://www.brooklynrootsitalian.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "4–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6233607,
+      "lng": -74.0313204
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8753331737312233959",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "brooklynrootsitalian@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "brooklynrootsitalian@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "brooklynrootscatering@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:33.771Z"
+  },
+  {
+    "place_id": "0x89c25b6accba92d1:0xb4c331c60321a5ba",
+    "name": "MangoSeed Restaurant",
+    "category": "Caribbean restaurant",
+    "address": "755 Flatbush Ave, Brooklyn, NY 11226",
+    "phone": "(718) 513-6084",
+    "website": "http://www.mangoseedbrooklyn.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.6545163,
+      "lng": -73.9594101
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13025309273811428794",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "8c4075d5481d476e945486754f783364@sentry.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "hello@mangoseedbrooklyn.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:33.836Z"
+  },
+  {
+    "place_id": "0x89c25b09d9a0749f:0x11a9be95a813cded",
+    "name": "Cheryl's Global Soul",
+    "category": "Soul food restaurant",
+    "address": "236 Underhill Ave, Brooklyn, NY 11238",
+    "phone": "(347) 529-2855",
+    "website": "http://www.cherylsglobalsoul.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.673597,
+      "lng": -73.9674625
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1272757919688150509",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "cherylsglobalfood@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "cherylsglobalfood@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:33.898Z"
+  },
+  {
+    "place_id": "0x89c25b8ee5931ba3:0xc2ad304bb80d15e0",
+    "name": "Peaches HotHouse",
+    "category": "American restaurant",
+    "address": "415 Tompkins Ave, Brooklyn, NY 11216",
+    "phone": "(718) 483-9111",
+    "website": "https://www.bcrestaurantgroup.com/location/peaches-hot-house-bed-stuy/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6833818,
+      "lng": -73.9437578
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14027921516097508832",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:38.351Z"
+  },
+  {
+    "place_id": "0x89c25b14cd90bf05:0xbbb9d8b23e8f393",
+    "name": "Risbo",
+    "category": "French restaurant",
+    "address": "701 Flatbush Ave, Brooklyn, NY 11225",
+    "phone": "(347) 425-9116",
+    "website": "http://www.risbobk.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–3 PM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6560615,
+      "lng": -73.9597866
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=845442575990584211",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "info@risbobk.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@risbobk.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:38.371Z"
+  },
+  {
+    "place_id": "0x89c25ba11161d041:0x4157c2a97bb0eecc",
+    "name": "Muse Thai",
+    "category": "Thai restaurant",
+    "address": "689 Washington Ave, Brooklyn, NY 11238",
+    "phone": "(347) 442-0443",
+    "website": "https://musebklyn.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "12–3:30 PM, 4:30–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6766315,
+      "lng": -73.9633989
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4708445968619597516",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:38.452Z"
+  },
+  {
+    "place_id": "0x89c244993c1cc7d9:0xe9ffcc9d3005459e",
+    "name": "Michael’s",
+    "category": "Italian restaurant",
+    "address": "2929 Avenue R, Brooklyn, NY 11229",
+    "phone": "(718) 998-7851",
+    "website": "http://michaelsofbrooklyn.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.607625299999995,
+      "lng": -73.9428964
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16861420505386010014",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:38.474Z"
+  },
+  {
+    "place_id": "0x89c25ba4c5fcff9d:0x9ceb79b18cc97337",
+    "name": "Belli Ristorante & Bar",
+    "category": "Italian restaurant",
+    "address": "860 Fulton St, Brooklyn, NY 11238",
+    "phone": "(347) 799-1230",
+    "website": "https://www.bellibrooklyn.com/home",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.68327,
+      "lng": -73.96654199999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11307265092921946935",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:38.652Z"
+  },
+  {
+    "place_id": "0x89c25b095fdda21f:0xf6bcb8b7a99a6858",
+    "name": "Mint Heights",
+    "category": "Indian restaurant",
+    "address": "46 Henry St, Brooklyn, NY 11201",
+    "phone": "(347) 916-0325",
+    "website": "https://www.ordermintheights.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–3 PM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6996483,
+      "lng": -73.9921739
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17779288527915870296",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:38.685Z"
+  },
+  {
+    "place_id": "0x89c25a37b9de32c5:0x18f6e2bb14634db5",
+    "name": "Heights Falafel",
+    "category": "Falafel restaurant",
+    "address": "78 Henry St, Brooklyn, NY 11201",
+    "phone": "(718) 488-0808",
+    "website": "https://eat.chownow.com/order/23335/locations/34131",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.6985581,
+      "lng": -73.992706
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1798874394309905845",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:38.737Z"
+  },
+  {
+    "place_id": "0x89c25ba08d96e3b7:0xc4a570870410dc06",
+    "name": "Lowerline",
+    "category": "Creole restaurant",
+    "address": "794 Washington Ave Apt 8, Brooklyn, NY 11238",
+    "phone": "(347) 533-7110",
+    "website": "https://www.lowerlinebk.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6742379,
+      "lng": -73.9632395
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14169855527782243334",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:38.778Z"
+  },
+  {
+    "place_id": "0x89c25bf972e52315:0x3e8d15410d80797",
+    "name": "Nan Xiang Express",
+    "category": "Dumpling restaurant",
+    "address": "148 Lawrence St, Brooklyn, NY 11201",
+    "phone": "(929) 250-2028",
+    "website": "https://nanxiangexpress.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.691733,
+      "lng": -73.986454
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=281705135700707223",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:40.884Z"
+  },
+  {
+    "place_id": "0x89c25bd89ba438e5:0x6e7e611bbdcb7897",
+    "name": "Springbone Kitchen",
+    "category": "Health food restaurant",
+    "address": "55 Prospect St, Brooklyn, NY 11201",
+    "phone": "(929) 675-1933",
+    "website": "http://springbone.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10:30 AM–8:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7008302,
+      "lng": -73.9883345
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7961907963013855383",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:40.902Z"
+  },
+  {
+    "place_id": "0x89c25b007faa29e9:0x6a50ba1f9a1f7abd",
+    "name": "The Common breakfast and brunch in Brooklyn ny",
+    "category": "Restaurant",
+    "address": "Brooklyn, NY 11216",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6781784,
+      "lng": -73.9441579
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7660827611049720509",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:40.924Z"
+  },
+  {
+    "place_id": "0x89c25a30a52e5a0f:0x61b50e8b5a501d9",
+    "name": "Shake Shack Dumbo",
+    "category": "Hamburger restaurant",
+    "address": "2 Water St, Brooklyn, NY 11201",
+    "phone": "(347) 435-2676",
+    "website": "https://www.shakeshack.com/location/dumbo-ny?utm_source=google&utm_medium=listing",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.7030779,
+      "lng": -73.9939529
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=440034349008880089",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:55.104Z"
+  },
+  {
+    "place_id": "0x89c25a507f2fb6e1:0x69da12a8a0f8529f",
+    "name": "Kitchen at Cobble Hill",
+    "category": "Mediterranean restaurant",
+    "address": "254 Court St, Brooklyn, NY 11231",
+    "phone": "(347) 599-1887",
+    "website": "https://www.kitchenatcobblehill.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.6853646,
+      "lng": -73.9946908
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7627429434369790623",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:55.130Z"
+  },
+  {
+    "place_id": "0x89c25a39ee9579c9:0x453c89f8c696e695",
+    "name": "Lobby Lounge",
+    "category": "Restaurant",
+    "address": "60 Furman St 1st Floor, Brooklyn, NY 11201",
+    "phone": "(877) 803-1111",
+    "website": "https://www.1hotels.com/brooklyn-bridge/taste?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "7 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7022854,
+      "lng": -73.9955827
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4989014188796339861",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:55.171Z"
+  },
+  {
+    "place_id": "0x89c25a37d80442e1:0x191a68ea3b55b3b7",
+    "name": "Iron Chef House",
+    "category": "Sushi restaurant",
+    "address": "92 Clark St, Brooklyn, NY 11201",
+    "phone": "(718) 858-8517",
+    "website": "https://www.ironchefhousenewyork.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.697249899999996,
+      "lng": -73.9926217
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1808873555569783735",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:55.265Z"
+  },
+  {
+    "place_id": "0x89c25a450af0570b:0xebbfed9e69f12237",
+    "name": "Hibino",
+    "category": "Japanese restaurant",
+    "address": "333 Henry St, Brooklyn, NY 11201",
+    "phone": "(718) 260-8052",
+    "website": "https://www.hibino-brooklyn.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "12–2:30 PM, 4:30–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.690148,
+      "lng": -73.996342
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16987557584102826551",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "hibino.restaurant@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "hibino.restaurant@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:55.300Z"
+  },
+  {
+    "place_id": "0x89c25a468fffb8cb:0x4b7b4acd4cde74ae",
+    "name": "River Deli",
+    "category": "Italian restaurant",
+    "address": "32 Joralemon St, Brooklyn, NY 11201",
+    "phone": "(718) 254-9200",
+    "website": "http://riverdelirestaurant.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.693654099999996,
+      "lng": -73.9984793
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5439023220598404270",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "riverdelibrooklyn@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "riverdelibrooklyn@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:55.349Z"
+  },
+  {
+    "place_id": "0x89c25e9540f32929:0xe9e262856e34ee99",
+    "name": "Junior's Restaurant & Bakery",
+    "category": "American restaurant",
+    "address": "386 Flatbush Ave Ext, Brooklyn, NY 11201",
+    "phone": "(718) 852-5257",
+    "website": "http://www.juniorscheesecake.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.6901493,
+      "lng": -73.9818736
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16853141080792952473",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:55.470Z"
+  },
+  {
+    "place_id": "0x89c25d0c6065b695:0x5ed90449173eb372",
+    "name": "Good Ol Days Diner",
+    "category": "Diner",
+    "address": "212 Patchen Ave, Brooklyn, NY 11233",
+    "phone": "(347) 384-1401",
+    "website": "http://www.goodoldaysdiner.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "8 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 40.683576699999996,
+      "lng": -73.9263952
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6834498621480547186",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:55.489Z"
+  },
+  {
+    "place_id": "0x89c25b27a18b696d:0x23239965a2cbf627",
+    "name": "Sushi Lin Brooklyn Heights",
+    "category": "Restaurant",
+    "address": "78 Clark St, Brooklyn, NY 11201",
+    "phone": "(347) 422-0656",
+    "website": "https://www.sushilinny.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6974346,
+      "lng": -73.9932686
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2532036077314373159",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "contact@sushilinny.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@sushilinny.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:07.580Z"
+  },
+  {
+    "place_id": "0x89c2594ef13aecb1:0x98f1387f2bfca4ac",
+    "name": "I Cavallini",
+    "category": "Italian restaurant",
+    "address": "284 Grand St, Brooklyn, NY 11211",
+    "website": "http://icavallinibk.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.712952699999995,
+      "lng": -73.9578667
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11020651882002293932",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:07.636Z"
+  },
+  {
+    "place_id": "0x89c25c76372623bd:0x749e704edf140fd9",
+    "name": "Peaches Lewis",
+    "category": "American restaurant",
+    "address": "393 Lewis Ave, Brooklyn, NY 11233",
+    "phone": "(718) 942-4162",
+    "website": "https://www.bcrestaurantgroup.com/location/peaches-kitchen-bar/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6817534,
+      "lng": -73.9346851
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8403277438772318169",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:07.681Z"
+  },
+  {
+    "place_id": "0x89c25b7269b8107f:0xedcb121bcf0ce527",
+    "name": "ATTI",
+    "category": "Korean barbecue restaurant",
+    "address": "294 Livingston St, Brooklyn, NY 11217",
+    "phone": "(917) 909-1122",
+    "website": "http://www.attinyc.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6883963,
+      "lng": -73.9829006
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17134809117908329767",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:07.719Z"
+  },
+  {
+    "place_id": "0x89c25b9fc563de19:0x94dee8df16f6b982",
+    "name": "Cent'Anni",
+    "category": "Italian restaurant",
+    "address": "742 Franklin Ave, Brooklyn, NY 11238",
+    "phone": "(718) 942-5202",
+    "website": "http://www.centannibrooklyn.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "4–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6731225,
+      "lng": -73.95740459999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10727267407303719298",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "info@centannibrooklyn.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@centannibrooklyn.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:07.799Z"
+  },
+  {
+    "place_id": "0x89c25c738f04c733:0x868e66b8ee5af2e7",
+    "name": "L'Antagoniste",
+    "category": "French restaurant",
+    "address": "238 Malcolm X Blvd, Brooklyn, NY 11233",
+    "phone": "(917) 966-5300",
+    "website": "http://lantagoniste.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "5:30–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.6850199,
+      "lng": -73.92961559999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9695799992234210023",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "lantagonistenyc@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "lantagonistenyc@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:07.851Z"
+  },
+  {
+    "place_id": "0x89c25a5b2f9c72a9:0xc7b94417eb22a5b",
+    "name": "Libertador",
+    "category": "Argentinian restaurant",
+    "address": "404 Henry St, Brooklyn, NY 11201",
+    "phone": "(347) 689-3122",
+    "website": "http://libertadornyc.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "4 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.6873049,
+      "lng": -73.9981437
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=899475559609936475",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "libertadorny@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "libertadorny@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:26.661Z"
+  },
+  {
+    "place_id": "0x89c25ab829656bbb:0x4acd31581e9d3d93",
+    "name": "Zona Sur Bar Bistro",
+    "category": "New American restaurant",
+    "address": "4314 4th Ave, Brooklyn, NY 11220",
+    "phone": "(718) 788-1606",
+    "website": "http://www.cafezonasur.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12:30–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6502445,
+      "lng": -74.0090484
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5390018583572856211",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:26.769Z"
+  },
+  {
+    "place_id": "0x89c25940eeb3ffff:0xb204737f07ea317b",
+    "name": "Oxomoco",
+    "category": "Mexican restaurant",
+    "address": "128 Greenpoint Ave, Brooklyn, NY 11222",
+    "phone": "(646) 688-4180",
+    "website": "https://www.oxomoconyc.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–3 PM, 5–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7298214,
+      "lng": -73.95547599999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12827504628088844667",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "hola@oxomoconyc.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "hola@oxomoconyc.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@oxomoconyc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:26.792Z"
+  },
+  {
+    "place_id": "0x89c25d67ef957463:0x6e9cd56dd04a513f",
+    "name": "La Cantine",
+    "category": "French restaurant",
+    "address": "60 St Nicholas Ave, Brooklyn, NY 11237",
+    "phone": "(917) 652-4556",
+    "website": "https://lacantinebushwick.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 40.7066805,
+      "lng": -73.9205728
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7970480108161618239",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:26.892Z"
+  },
+  {
+    "place_id": "0x89c25ba16c1c4235:0x8d61a67370b38b10",
+    "name": "Green Chilli - Best Indian Restaurant in Brooklyn, New York",
+    "category": "Indian restaurant",
+    "address": "524B Nostrand Ave, Brooklyn, NY 11216",
+    "phone": "(347) 365-4497",
+    "website": "https://www.greenchilliny.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "12–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.6808116,
+      "lng": -73.94980199999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10187606846831037200",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:26.921Z"
+  },
+  {
+    "place_id": "0x89c25a4dd8bdadb9:0xb730cbe8deca3eb6",
+    "name": "The Soul Spot",
+    "category": "Soul food restaurant",
+    "address": "302 Atlantic Ave, Brooklyn, NY 11201",
+    "phone": "(718) 596-9933",
+    "website": "http://www.soulspotrestaurant.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.688327099999995,
+      "lng": -73.9888261
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13200274708853571254",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "thesoulspotchef@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "thesoulspotchef@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:26.980Z"
+  },
+  {
+    "place_id": "0x89c25b02e103357f:0xe3c602edef279d01",
+    "name": "Brooklyn Chop House Steakhouse Downtown NYC",
+    "category": "Steak house",
+    "address": "150 Nassau St, New York, NY 10038",
+    "phone": "(212) 619-1200",
+    "website": "https://www.brooklynchophouse.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "12–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.711531699999995,
+      "lng": -74.0058832
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16412809112941206785",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:27.052Z"
+  },
+  {
+    "place_id": "0x89c25a48e15625e3:0xacc57d28f7db2950",
+    "name": "Curry Heights",
+    "category": "Indian restaurant",
+    "address": "151 Remsen St, Brooklyn, NY 11201",
+    "phone": "(718) 260-9000",
+    "website": "http://curryheights.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–9:45 PM"
+    },
+    "coordinates": {
+      "lat": 40.6936496,
+      "lng": -73.9922409
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12449494359846103376",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:27.097Z"
+  },
+  {
+    "place_id": "0x89c25b76e60d7fa5:0xe373c460c14c60ac",
+    "name": "La Ñapa",
+    "category": "Tapas restaurant",
+    "address": "656 Nostrand Ave, Brooklyn, NY 11216",
+    "phone": "(347) 435-0920",
+    "website": "http://lanapamarket.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12:30–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6760053,
+      "lng": -73.9500817
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16389659388770279596",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:39.756Z"
+  },
+  {
+    "place_id": "0x89c25b5a36fdcfed:0xdc326dfe28ec5aef",
+    "name": "Cafe Kestrel",
+    "category": "Restaurant",
+    "address": "293 Van Brunt St, Brooklyn, NY 11231",
+    "website": "http://kesnewyork.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.6787178,
+      "lng": -74.0110368
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15866865375555377903",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:39.791Z"
+  },
+  {
+    "place_id": "0x89c25b906ed50f99:0x4780a2a53461f065",
+    "name": "Bunny",
+    "category": "Turkish restaurant",
+    "address": "449 Nostrand Ave, Brooklyn, NY 11216",
+    "website": "https://www.bunnybedstuy.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "5:30–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.6820926,
+      "lng": -73.9497506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5152296804143984741",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "bunnybedstuy@icloud.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "bunnybedstuy@icloud.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:39.880Z"
+  },
+  {
+    "place_id": "0x89c25bb9fcc5a3f3:0xcebbf75709122735",
+    "name": "Chez Oskar",
+    "category": "French restaurant",
+    "address": "310 Malcolm X Blvd, Brooklyn, NY 11233",
+    "phone": "(718) 852-6250",
+    "website": "http://www.chezoskar.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6822491,
+      "lng": -73.9290779
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14896772145644447541",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "chezoskar310@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "chezoskar310@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:39.952Z"
+  },
+  {
+    "place_id": "0x89c25b4a2ab4da71:0x8266a814fa80df34",
+    "name": "Brooklyn Pantry and Coffee Shop",
+    "category": "Restaurant",
+    "address": "333 Adams St, Brooklyn, NY 11201",
+    "phone": "(212) 897-1872",
+    "website": "https://www.marriott.com/en-us/hotels/nycbk-new-york-marriott-at-the-brooklyn-bridge/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "6:30 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 40.693630999999996,
+      "lng": -73.9880879
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9396382480610680628",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:40.072Z"
+  },
+  {
+    "place_id": "0x89c25bd92a2636bf:0x339ce4674aba271f",
+    "name": "Diner",
+    "category": "American restaurant",
+    "address": "85 Broadway, Brooklyn, NY 11249",
+    "phone": "(718) 486-3077",
+    "website": "http://dinernyc.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "5–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7107326,
+      "lng": -73.9656117
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3719098524587665183",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:40.111Z"
+  },
+  {
+    "place_id": "0x89c25b75664e5cb3:0x180e11fdc75f091d",
+    "name": "95 South Soul Food Restaurant",
+    "category": "Soul food restaurant",
+    "address": "778 Franklin Ave, Brooklyn, NY 11238",
+    "phone": "(347) 750-6180",
+    "website": "https://95southsoulfood.net/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "5–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.671926,
+      "lng": -73.95769949999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1733342688253511965",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:40.183Z"
+  },
+  {
+    "place_id": "0x89c25bfaa9c77f5b:0xd11610b8613608d3",
+    "name": "Fornino",
+    "category": "Pizza restaurant",
+    "address": "55 Water St, Brooklyn, NY 11201",
+    "phone": "(917) 810-4855",
+    "website": "https://www.timeoutmarket.com/newyork/eat-and-drink/fornino/",
+    "rating": 3.3,
+    "hours": {
+      "Tuesday": "8 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7034191,
+      "lng": -73.99160719999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15066247987505531091",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:40.211Z"
+  },
+  {
+    "place_id": "0x89c25c7617830ad9:0x3272e9719f01415f",
+    "name": "Brooklyn Beso",
+    "category": "Latin American restaurant",
+    "address": "370 Lewis Ave, Brooklyn, NY 11233",
+    "phone": "(347) 915-2900",
+    "website": "http://brooklynbeso.com/",
+    "rating": 3.7,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.682942,
+      "lng": -73.93527999999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3635224523449647455",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:50.225Z"
+  },
+  {
+    "place_id": "0x89c2593b8992c24f:0xe68f0cd8328cf850",
+    "name": "Brooklyn Lantern",
+    "category": "New American restaurant",
+    "address": "77 Box St, Brooklyn, NY 11222",
+    "website": "http://bklynlantern.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "8 AM–12 PM"
+    },
+    "coordinates": {
+      "lat": 40.737586,
+      "lng": -73.95340399999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16613511673093617744",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "support@getbento.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "support@getbento.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:50.251Z"
+  },
+  {
+    "place_id": "0x89c25b2636ed8053:0xc527d9b345f3e089",
+    "name": "Dhania",
+    "category": "Indian restaurant",
+    "address": "787 Prospect Pl, Brooklyn, NY 11216",
+    "phone": "(347) 627-3095",
+    "website": "http://httpsdhaniany.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "11:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6744619,
+      "lng": -73.9505166
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14206562913559502985",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:50.292Z"
+  },
+  {
+    "place_id": "0x89c25b392122e925:0xc0571343e738420e",
+    "name": "WARUDE",
+    "category": "Japanese restaurant",
+    "address": "847 Sterling Pl, Brooklyn, NY 11216",
+    "phone": "(718) 704-0900",
+    "website": "https://www.warude.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.6726843,
+      "lng": -73.9505166
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13859567560618951182",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:50.324Z"
+  },
+  {
+    "place_id": "0x89c25b9a883c4187:0x55d6cd2d2eac0feb",
+    "name": "Ali's Trinbago Roti Shop",
+    "category": "Caribbean restaurant",
+    "address": "1267 Fulton St, Brooklyn, NY 11216",
+    "phone": "(347) 789-1835",
+    "website": "https://alistrinbagorotishop.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10:30 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.680572399999996,
+      "lng": -73.95065199999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6185356732180205547",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:56.554Z"
+  },
+  {
+    "place_id": "0x89c25b9c6a2b6765:0x195dacf99a4e7078",
+    "name": "FoodForNegus",
+    "category": "Vegan restaurant",
+    "address": "1031 Bergen St, Brooklyn, NY 11216",
+    "phone": "(347) 365-7918",
+    "website": "http://foodfornegus.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "12–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.676330199999995,
+      "lng": -73.9522824
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1827807211817955448",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:56.601Z"
+  },
+  {
+    "place_id": "0x89c25b62f4df674d:0xcd2ef891a2d8ffe0",
+    "name": "Rayal Lounge",
+    "category": "Restaurant",
+    "address": "1452 Fulton St, Brooklyn, NY 11216",
+    "phone": "(347) 365-2965",
+    "website": "http://rayallounge.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "2 PM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.679909699999996,
+      "lng": -73.94272699999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14785027931089993696",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "rayallounge@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "rayallounge@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:56.692Z"
+  },
+  {
+    "place_id": "0x89c25b9d7af3f74f:0x30bd7938f036f14e",
+    "name": "Sterling Crust",
+    "category": "Jamaican restaurant",
+    "address": "747 Nostrand Ave, Brooklyn, NY 11216",
+    "phone": "(718) 484-9659",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "6:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.6718629,
+      "lng": -73.95019169999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3512096569874116942",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:56.771Z"
+  },
+  {
+    "place_id": "0x89c25b9b19609085:0x2edf34cdae7d8666",
+    "name": "Wholesome Farms Market",
+    "category": "Restaurant",
+    "address": "1306 Atlantic Ave, Brooklyn, NY 11216",
+    "phone": "(718) 872-6299",
+    "website": "https://wholesomefarmsmarket.shop/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "6 AM–3 AM"
+    },
+    "coordinates": {
+      "lat": 40.678215,
+      "lng": -73.94946
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3377476303551563366",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:56.817Z"
+  },
+  {
+    "place_id": "0x89c25ba32ee5d53d:0x9e087d6ac766814e",
+    "name": "Buka",
+    "category": "African restaurant",
+    "address": "1111 Fulton St, Brooklyn, NY 11238",
+    "phone": "(347) 763-0619",
+    "website": "https://bukanewyork.com/?utm_source=google",
+    "rating": 3.6,
+    "hours": {
+      "Tuesday": "12–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.681703299999995,
+      "lng": -73.9570928
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11387489555371688270",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:56.952Z"
+  },
+  {
+    "place_id": "0x89c25b1075f9e787:0x9265b06778570c69",
+    "name": "Gee's Caribbean Restaurant",
+    "category": "Caribbean restaurant",
+    "address": "770 Nostrand Ave, Brooklyn, NY 11216",
+    "phone": "(347) 240-9590",
+    "website": "https://geescaribbean.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.6722892,
+      "lng": -73.9504456
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10549031660632345705",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:56.986Z"
+  },
+  {
+    "place_id": "0x89c25b73d7cf9327:0xb0b63767e838edd4",
+    "name": "Sol Delish",
+    "category": "Chinese restaurant",
+    "address": "1309 Fulton St, Brooklyn, NY 11216",
+    "phone": "(347) 240-6992",
+    "rating": 4.9,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.680575,
+      "lng": -73.9488898
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12733425915853860308",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:57.079Z"
+  },
+  {
+    "place_id": "0x89c25b8228096795:0x7ddc3bce47987eb5",
+    "name": "Jenny's",
+    "category": "Dominican restaurant",
+    "address": "233 Kingston Ave, Brooklyn, NY 11213",
+    "phone": "(718) 604-9376",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "7:30 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 40.6719417,
+      "lng": -73.9417701
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9069189506767814325",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:59:59.809Z"
+  },
+  {
+    "place_id": "0x89c25b9ae4055acb:0xa607bafc1c20c5f1",
+    "name": "Sea House Fish Market",
+    "category": "Seafood restaurant",
+    "address": "541 Nostrand Ave, Brooklyn, NY 11216",
+    "phone": "(718) 398-3266",
+    "website": "https://www.seahouseny.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10:30 AM–8:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.6789397,
+      "lng": -73.9495132
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11963736527099446769",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:59.848Z"
+  },
+  {
+    "place_id": "0x89c25b1c3ca65db1:0x357ac11594fc8c37",
+    "name": "Corto",
+    "category": "Coffee shop",
+    "address": "262 Halsey St, Brooklyn, NY 11216",
+    "phone": "(347) 335-6139",
+    "website": "https://www.cortonyc.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "7:30 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6824187,
+      "lng": -73.943285
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3853604729606933559",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:59.866Z"
+  },
+  {
+    "place_id": "0x89c25b87b46b37c9:0xf9c0e0b419c5c007",
+    "name": "Acoustik Garden Lounge",
+    "category": "Bar & grill",
+    "address": "1515 Atlantic Ave, Brooklyn, NY 11213",
+    "phone": "(718) 484-4088",
+    "website": "https://acoustikgardenlounge.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.678097,
+      "lng": -73.9388357
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17996631175103627271",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "filler@godaddy.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "filler@godaddy.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "acoustikgardenbk@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:59:59.889Z"
+  },
+  {
+    "place_id": "0x89c25bf45d761967:0x2add3130ec3fcacc",
+    "name": "Sajoma",
+    "category": "Caribbean restaurant",
+    "address": "909 Dekalb Ave, Brooklyn, NY 11221",
+    "phone": "(718) 455-7552",
+    "website": "https://sajomarestaurantbk.com/",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "7 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.692845,
+      "lng": -73.94033
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3088679005637823180",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:59.946Z"
+  },
+  {
+    "place_id": "0x89c25b9d0a56afad:0x45fff3ed3ed25823",
+    "name": "Brooklyn Pizza Crew",
+    "category": "Pizza restaurant",
+    "address": "758 Nostrand Ave, Brooklyn, NY 11216",
+    "phone": "(718) 363-1122",
+    "website": "https://www.williamsburgpizza.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11:30 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.6728002,
+      "lng": -73.9505166
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5044018307965016099",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:59:59.978Z"
+  },
+  {
+    "place_id": "0x89c25b92c302cd43:0xf5aa7c07cd47a95c",
+    "name": "Trini Girl",
+    "category": "Caribbean restaurant",
+    "address": "628 Nostrand Ave, Brooklyn, NY 11216",
+    "phone": "(347) 240-6999",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.6771241,
+      "lng": -73.950018
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17702097658283796828",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T08:00:00.005Z"
+  },
+  {
+    "place_id": "0x89c25bb5950fc305:0x330a88bf1482581d",
+    "name": "Memphis Seoul",
+    "category": "Asian fusion restaurant",
+    "address": "569 Lincoln Pl, Brooklyn, NY 11238",
+    "phone": "(347) 349-2561",
+    "website": "http://getmemphisseoul.com/",
+    "rating": 4.1,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6717075,
+      "lng": -73.95790649999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3677902399965648925",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:00.079Z"
+  },
+  {
+    "place_id": "0x89c25b38c188ba1b:0x7636fcf1ebec79d5",
+    "name": "1499 Inkwell",
+    "category": "Bar & grill",
+    "address": "1499 Fulton St, Brooklyn, NY 11216",
+    "phone": "(718) 926-0091",
+    "website": "http://www.1499fultonbk.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.680142599999996,
+      "lng": -73.9413419
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8518273861193333205",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "1499fultonstreet@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "1499fultonstreet@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T08:00:01.454Z"
+  },
+  {
+    "place_id": "0x89c25c1bd39b39fd:0x5664270b94283395",
+    "name": "Tony's Pizza",
+    "category": "Pizza restaurant",
+    "address": "443 Knickerbocker Ave, Brooklyn, NY 11237",
+    "phone": "(718) 455-9664",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–11:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.6992231,
+      "lng": -73.9188171
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6225143515616654229",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T08:00:01.572Z"
+  },
+  {
+    "place_id": "0x89c25b05629265f9:0x4e4585de357ce83e",
+    "name": "Hunter's Spice Grill",
+    "category": "Jamaican restaurant",
+    "address": "1274 Fulton St, Brooklyn, NY 11216",
+    "phone": "(347) 770-8021",
+    "rating": 3.8,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6802997,
+      "lng": -73.9498318
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5640061297778026558",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T08:00:01.784Z"
+  },
+  {
+    "place_id": "0x89c25b85f41a96fb:0xfdb96676ad22867d",
+    "name": "Soldier",
+    "category": "Jamaican restaurant",
+    "address": "1444 Fulton St, Brooklyn, NY 11216",
+    "phone": "(347) 533-6011",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "8 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.6798627,
+      "lng": -73.9430702
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18282756822184134269",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T08:00:01.892Z"
+  },
+  {
+    "place_id": "0x89c25c7fc85cf3cd:0xa17958f28a79131e",
+    "name": "Hong Kong",
+    "category": "Chinese restaurant",
+    "address": "249 Schenectady Ave, Brooklyn, NY 11213",
+    "phone": "(718) 771-9876",
+    "website": "http://www.hongkongbrooklyn.com/",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "11:30 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.6700765,
+      "lng": -73.9335583
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11635428911016907550",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:19.558Z"
+  },
+  {
+    "place_id": "0x89c25b887dd8ea71:0x4220abc1bbb20e40",
+    "name": "Blue cafe",
+    "category": "Dominican restaurant",
+    "address": "1563 Fulton St, Brooklyn, NY 11216",
+    "rating": 4.1,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6799299,
+      "lng": -73.9388006
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4764997254324031040",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T08:00:19.766Z"
+  },
+  {
+    "place_id": "0x89c25b9cee184bb5:0xbd2e4670190277de",
+    "name": "No. 1 Chinese Kitchen",
+    "category": "Chinese restaurant",
+    "address": "661 Nostrand Ave, Brooklyn, NY 11216",
+    "phone": "(718) 604-8300",
+    "website": "http://www.no1chinesekitchen-ny.com/",
+    "rating": 3.6,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.674569999999996,
+      "lng": -73.949928
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13631910569366943710",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:19.885Z"
+  },
+  {
+    "place_id": "0x89c25be2768431df:0xd3c1f9c64f54aedb",
+    "name": "Supreme Pizza NY",
+    "category": "Pizza restaurant",
+    "address": "1276 Fulton St, Brooklyn, NY 11216",
+    "phone": "(347) 295-2882",
+    "website": "https://www.order99centsupremepizza.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "9 AM–4:30 AM",
+      "Monday": "9 AM–4:30 AM"
+    },
+    "coordinates": {
+      "lat": 40.680219799999996,
+      "lng": -73.94979119999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15258751642637741787",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:19.942Z"
+  },
+  {
+    "place_id": "0x89c25b889d0f8b1d:0x6eaea94be02f46e2",
+    "name": "McDonald's",
+    "category": "Fast food restaurant",
+    "address": "1531 Fulton St, Brooklyn, NY 11216",
+    "phone": "(929) 442-5597",
+    "website": "https://www.mcdonalds.com/us/en-us/location/NY/BROOKLYN/1531-FULTON-ST/4346.html?cid=RF:YXT:GMB::Clicks",
+    "rating": 3.2,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.6800949,
+      "lng": -73.9401206
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7975498133468563170",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:20.018Z"
+  },
+  {
+    "place_id": "0x89c25b858ecebf87:0xe3b7c7cd4d52e4fb",
+    "name": "Popeyes Louisiana Kitchen",
+    "category": "Chicken restaurant",
+    "address": "1422 Fulton St, Brooklyn, NY 11216",
+    "phone": "(718) 604-4792",
+    "website": "https://www.popeyes.com/store-locator/store/restaurant_83161",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "12–8 AM, 9 AM–12 AM",
+      "Monday": "12–8 AM, 9 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.6798996,
+      "lng": -73.94384409999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16408803451927192827",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:20.218Z"
+  },
+  {
+    "place_id": "0x89c25c78448dc7a5:0x5a0cea5c26926231",
+    "name": "Golden Krust Caribbean Restaurant",
+    "category": "Caribbean restaurant",
+    "address": "1706 Atlantic Ave, Brooklyn, NY 11213",
+    "phone": "(718) 773-8200",
+    "website": "https://locations.goldenkrust.com/ll/US/NY/Brooklyn/1706-Atlantic-Avenue",
+    "rating": 3.4,
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.677296,
+      "lng": -73.9341041
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6488818844639060529",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:20.278Z"
+  },
+  {
+    "place_id": "0x89c25b9d0b69f21d:0x39790976234bcc58",
+    "name": "Gloria's",
+    "category": "Caribbean restaurant",
+    "address": "987 Nostrand Ave, Brooklyn, NY 11225",
+    "phone": "(718) 778-4852",
+    "website": "https://www.gloriasrestaurantbrooklyn.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.6642571,
+      "lng": -73.950853
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4141351735346842712",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:30.692Z"
+  },
+  {
+    "place_id": "0x89c25b86ac416805:0x86d6a7f137177937",
+    "name": "Cas",
+    "category": "Jamaican restaurant",
+    "address": "135 Kingston Ave, Brooklyn, NY 11213",
+    "phone": "(718) 804-1075",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "7 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.675253399999995,
+      "lng": -73.9414251
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9716137900551665975",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T08:00:30.837Z"
+  },
+  {
+    "place_id": "0x89c25b429c4635c3:0xc701c6db82dea437",
+    "name": "Caribbean Vibes New York",
+    "category": "Caribbean restaurant",
+    "address": "1436 Nostrand Ave, Brooklyn, NY 11226",
+    "phone": "(347) 663-9085",
+    "website": "https://caribbeanvibes9085.wixsite.com/caribbean-vibes",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "7 AM–1 AM"
+    },
+    "coordinates": {
+      "lat": 40.651219,
+      "lng": -73.949916
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14339961334620136503",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "assariedavis@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "assariedavis@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T08:00:30.900Z"
+  },
+  {
+    "place_id": "0x89c25b9ae28267c1:0xd2568d61c203a0a5",
+    "name": "India House",
+    "category": "Indian restaurant",
+    "address": "586 Nostrand Ave, Brooklyn, NY 11216",
+    "phone": "(347) 365-6775",
+    "website": "https://indiahouse.fronteats.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.6787135,
+      "lng": -73.94987259999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15156457046968344741",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:31.700Z"
+  },
+  {
+    "place_id": "0x89c25bb4aa91dfeb:0x1965b25ddb604bcf",
+    "name": "Café d'Avignon - Downtown Brooklyn",
+    "category": "Bakery",
+    "address": "Dekalb Market Hall, 445 Albee Square W, Brooklyn, NY 11201",
+    "phone": "(929) 378-4848",
+    "website": "http://cafedavignon.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.691105799999995,
+      "lng": -73.9831758
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1830064939778198479",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:31.739Z"
+  },
+  {
+    "place_id": "0x89c25b9a9c409e85:0xfda803748eb61bf3",
+    "name": "A&A Bake Doubles and Roti",
+    "category": "Caribbean restaurant",
+    "address": "1337 Fulton St, Brooklyn, NY 11216",
+    "phone": "(347) 425-0016",
+    "website": "https://aabakedoublesandroti.shop/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "7 AM–7:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.680490999999996,
+      "lng": -73.9479489
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18277862886828547059",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:31.810Z"
+  },
+  {
+    "place_id": "0x89c25b88a8686c89:0xdc3feb54232f1c1d",
+    "name": "Soulfood Caterers",
+    "category": "Soul food restaurant",
+    "address": "88a Kingston Ave, Brooklyn, NY 11213",
+    "phone": "(718) 493-7570",
+    "website": "https://soulfoodcaterers.shop/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.6767852,
+      "lng": -73.94164669999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15870662358476987421",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:31.847Z"
+  },
+  {
+    "place_id": "0x89c25be6ee3fa889:0x625c9fa6b71771d2",
+    "name": "Footprints Cafe Nostrand Avenue",
+    "category": "Caribbean restaurant",
+    "address": "588 Nostrand Ave, Brooklyn, NY 11216",
+    "phone": "(917) 477-4857",
+    "website": "https://footprintscafenyc.com/nostrand-avenue?utm_source=google",
+    "rating": 3.2,
+    "hours": {
+      "Tuesday": "7 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.6786786,
+      "lng": -73.94988169999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7087715451959472594",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:31.900Z"
+  },
+  {
+    "place_id": "0x89c25b855c028df9:0xa10b5c881ae0a9da",
+    "name": "Tak King",
+    "category": "Chinese restaurant",
+    "address": "1367 Fulton St, Brooklyn, NY 11216",
+    "phone": "(718) 399-1828",
+    "website": "https://www.takkingny.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.6804227,
+      "lng": -73.9466241
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11604470604486453722",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:43.954Z"
+  },
+  {
+    "place_id": "0x89c244353f830641:0x7236f2dccccf97c0",
+    "name": "Nathan's Famous",
+    "category": "American restaurant",
+    "address": "1310 Surf Ave, Brooklyn, NY 11224",
+    "phone": "(718) 333-2202",
+    "website": "https://www.nathansfamous.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.5752667,
+      "lng": -73.9814806
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8230032399209043904",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:43.978Z"
+  },
+  {
+    "place_id": "0x89c25bb1afe396e7:0x95459b35d3d8aa8",
+    "name": "Brooklyn Moon Cafe",
+    "category": "Caribbean restaurant",
+    "address": "745 Fulton St, Brooklyn, NY 11217",
+    "phone": "(718) 855-7149",
+    "website": "https://www.facebook.com/BrooklynMoonCafe/",
+    "rating": 4.2,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.686647,
+      "lng": -73.974837
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=672260871283378856",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:44.052Z"
+  },
+  {
+    "place_id": "0x89c25bb311fa6ee3:0xf1413145647eece0",
+    "name": "New Banhmi Cafe",
+    "category": "Vietnamese restaurant",
+    "address": "689 Nostrand Ave, Brooklyn, NY 11216",
+    "phone": "(929) 382-8111",
+    "website": "http://www.banhmicafenyc.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "11:30 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.6736632,
+      "lng": -73.95003539999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17384230210735369440",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:44.137Z"
+  },
+  {
+    "place_id": "0x89c25956358cc92b:0xe4eeed1b2bc74f63",
+    "name": "Los Primos",
+    "category": "Caribbean restaurant",
+    "address": "704 Grand St, Brooklyn, NY 11211",
+    "phone": "(718) 486-8449",
+    "website": "https://losprimosbrooklyn.com/",
+    "rating": 3.9,
+    "hours": {
+      "Tuesday": "9:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.711467999999996,
+      "lng": -73.9445361
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16496383186059087715",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "email": "christianduran2343@yahoo.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "christianduran2343@yahoo.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T08:00:44.188Z"
+  },
+  {
+    "place_id": "0x89c25b889d0f8b1d:0x70a4c552860eac71",
+    "name": "Rics Jamaican American Restaurant",
+    "category": "Jamaican restaurant",
+    "address": "1503 Fulton St, Brooklyn, NY 11216",
+    "phone": "(718) 450-3313",
+    "website": "https://instagram.com/ricslounge1557",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "11 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.6801338,
+      "lng": -73.9411884
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8116829386655575153",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Brooklyn, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T08:00:44.335Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 156,
+    "places_charged": 52,
+    "places_skipped_closed": 0,
+    "places_no_email": 104,
+    "total_emails_verified": 63,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T08:00:58.043Z",
+    "requests": 282,
+    "delivered": 52,
+    "est_spend_usd": 0.2256,
+    "est_revenue_usd": 0.416,
+    "profit_guard_tripped": false
+  },
+  {
+    "_type": "info",
+    "delivered": 52,
+    "message": "52 leads delivered. This row is informational — it is never billed.",
+    "schedule_tip": "Want this refreshed automatically? Apify Console -> this Actor -> Schedules -> Add schedule -> pick how often (e.g. daily) -> Save. It reruns with the same input on autopilot, no code required.",
+    "review_tip": "Found this useful? A quick Store review helps other buyers find it: https://apify.com/themineworks/maps-leads#reviews",
+    "scraped_at": "2026-09-22T08:00:58.308Z"
+  }
+]

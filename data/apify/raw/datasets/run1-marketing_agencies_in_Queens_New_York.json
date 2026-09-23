@@ -1,0 +1,5112 @@
+[
+  {
+    "place_id": "0xadefccba69e33f55:0xd6798dbe3c433024",
+    "name": "Alvonso Marketing Agency",
+    "category": "Marketing agency",
+    "address": "30-22 44th St #2L, Astoria, NY 11103",
+    "phone": "(347) 926-8669",
+    "website": "https://alvonso.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7619342,
+      "lng": -73.9124796
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15454539444492906532",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "support@alvonso.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "support@alvonso.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:40.337Z"
+  },
+  {
+    "place_id": "0x89c261029c297025:0xf9c68a239fe4dc5b",
+    "name": "Queens Marketing Agency",
+    "category": "Marketing agency",
+    "address": "141-08 70th Ave, Flushing, NY 11367",
+    "phone": "(732) 301-4442",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.728767,
+      "lng": -73.824321
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17998224846443830363",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:32:40.416Z"
+  },
+  {
+    "place_id": "0x89c25f2fcc5d8a87:0x60f54497b0048d65",
+    "name": "Limelight Digital Agency",
+    "category": "Marketing agency",
+    "address": "81-06 78th Ave, Glendale, NY 11385",
+    "phone": "(347) 853-6977",
+    "website": "https://limelightdigitalagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7053553,
+      "lng": -73.86745119999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6986565815219031397",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:40.486Z"
+  },
+  {
+    "place_id": "0x89c260c0d5265d89:0x3284329b73aa3d01",
+    "name": "Geek In NY",
+    "category": "Marketing agency",
+    "address": "87-01 139th St, Jamaica, NY 11435",
+    "phone": "(212) 842-8084",
+    "website": "https://www.geekinny.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7065524,
+      "lng": -73.8156082
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3640090042064059649",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:40.525Z"
+  },
+  {
+    "place_id": "0x66a0be69094c78bf:0xaf4d80af1307a646",
+    "name": "Astoria Advertising Company",
+    "category": "Marketing agency",
+    "address": "21-17 Broadway, Astoria, NY 11106",
+    "phone": "(917) 994-1256",
+    "website": "https://www.astoriaadvertising.co/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7650447,
+      "lng": -73.93039499999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12631894019271009862",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:40.563Z"
+  },
+  {
+    "place_id": "0x89c25fab29a6363f:0xe8334e6043227707",
+    "name": "Digital Growth Catalyze LLC",
+    "category": "Marketing agency",
+    "address": "33-09 73rd St, Jackson Heights, NY 11372",
+    "phone": "(848) 206-2002",
+    "website": "https://digitalgrowthcatalyze.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.754342,
+      "lng": -73.8935585
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16731803215961683719",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@digitalgrowthcatalyze.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@digitalgrowthcatalyze.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:40.605Z"
+  },
+  {
+    "place_id": "0x89c25f002d85f72b:0xe886ea497187151",
+    "name": "NUESTRO MARKETING",
+    "category": "Marketing agency",
+    "address": "89-15 37th Ave, Jackson Heights, NY 11372",
+    "phone": "(917) 944-0125",
+    "website": "http://nuestromarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.750595499999996,
+      "lng": -73.8773882
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1047208566552293713",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@nuestromarketing.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@nuestromarketing.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:40.683Z"
+  },
+  {
+    "place_id": "0x89c259869319e7af:0x54953953a5ede7bb",
+    "name": "Jives Media",
+    "category": "Marketing agency",
+    "address": "800 6th Ave Ste 36C, New York, NY 10001",
+    "phone": "(929) 265-5595",
+    "website": "https://www.jivesmedia.com/digital-marketing-agency-in-manhattan-ny/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7453911,
+      "lng": -73.9904866
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6094840702144735163",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@jivesmedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@jivesmedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:40.759Z"
+  },
+  {
+    "place_id": "0x89c25d697160fc6f:0xf6fb732aca5eaf3d",
+    "name": "KODU Marketing",
+    "category": "Marketing agency",
+    "address": "28-07 Jackson Ave, Long Island City, NY 11101",
+    "website": "http://www.kodumarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7487193,
+      "lng": -73.9387187
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17796944980105670461",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "support@kodumarketing.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "support@kodumarketing.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:46.221Z"
+  },
+  {
+    "place_id": "0x89c25ed176dc1093:0xfc9882d6d6b47d9b",
+    "name": "WITHIN",
+    "category": "Marketing agency",
+    "address": "43-01 22nd St Suite 602, Long Island City, NY 11101",
+    "phone": "(315) 533-2388",
+    "website": "https://www.within.co/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.749565499999996,
+      "lng": -73.944851
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18201441753254624667",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "hello@within.co",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@within.co",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:46.285Z"
+  },
+  {
+    "place_id": "0x89c25ba3a6cddb8b:0xcc9bfdeda918203d",
+    "name": "inBeat Agency",
+    "category": "Marketing agency",
+    "address": "90 Broad St, New York, NY 10004",
+    "phone": "(212) 466-6915",
+    "website": "https://inbeat.agency/locations/new-york/influencer-marketing",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7038252,
+      "lng": -74.011978
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14743657002313457725",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "hello@inbeat.agency",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@inbeat.agency",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:46.358Z"
+  },
+  {
+    "place_id": "0x89c289869f8099cf:0x4211fe3a6fbf130a",
+    "name": "Social Target Marketing Agency New York",
+    "category": "Marketing agency",
+    "address": "975 Northern Blvd Suite 2, Great Neck, NY 11021",
+    "phone": "(934) 777-4344",
+    "website": "http://www.social-target.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7864601,
+      "lng": -73.7059084
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4760865808043676426",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:46.440Z"
+  },
+  {
+    "place_id": "0xab8f88c3a34b977:0x50e45f183a59b5c2",
+    "name": "Coronado Marketing NYC",
+    "category": "Website designer",
+    "address": "94-11 60th Ave, Elmhurst, NY 11373",
+    "phone": "(646) 597-0485",
+    "website": "https://www.coronadomarketingnyc.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=8607963755456832757",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "10 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.734417,
+      "lng": -73.8661527
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5828888375387076034",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "coronadomarketingnyc@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "coronadomarketingnyc@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:46.479Z"
+  },
+  {
+    "place_id": "0x89c267ac50baded1:0xb527083b4690ae10",
+    "name": "Mobforce Agency",
+    "category": "Marketing agency",
+    "address": "160-04 Cross Bay Blvd, Howard Beach, NY 11414",
+    "phone": "(631) 485-5107",
+    "website": "http://mobforceagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.6572423,
+      "lng": -73.83975439999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13053411095636651536",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:46.538Z"
+  },
+  {
+    "place_id": "0x89c25ba55570b423:0x1681f876ccd2636d",
+    "name": "Brooklyn Digital Boost",
+    "category": "Internet marketing service",
+    "phone": "(646) 801-1701",
+    "website": "https://www.bkdigitalboost.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.6974881,
+      "lng": -73.9796294
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1621850529956258669",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@bkdigitalboost.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@bkdigitalboost.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:46.586Z"
+  },
+  {
+    "place_id": "0x89c28ab27b51f689:0x7958b47bb0e586d0",
+    "name": "Social Media Spot Inc",
+    "category": "Marketing agency",
+    "address": "35-11 9th St, Astoria, NY 11106",
+    "phone": "(347) 467-1200",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.763010099999995,
+      "lng": -73.94059659999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8743937119881627344",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:32:46.689Z"
+  },
+  {
+    "place_id": "0x89c25dfe8be2391d:0xb6fc7b9a41a5e035",
+    "name": "Law Firm Marketing Agency iDesignYours",
+    "category": "Marketing agency",
+    "address": "87-53 98th St, Woodhaven, NY 11421",
+    "phone": "(917) 742-4711",
+    "website": "https://idesignyours.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "10 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.6934484,
+      "lng": -73.8467594
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13185549711490539573",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "idesignyours@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "idesignyours@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:52.646Z"
+  },
+  {
+    "place_id": "0x89c2585f5fee55e7:0xd5f7cbbf19e2368e",
+    "name": "Main Street ROI",
+    "category": "Marketing agency",
+    "phone": "(646) 470-3753",
+    "website": "https://www.mainstreetroi.com/?utm_source=google&utm_medium=google%20my%20business",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.778051999999995,
+      "lng": -73.5683375
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15418015870959629966",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:52.825Z"
+  },
+  {
+    "place_id": "0x89c2599a9eb4b881:0xa23129af8e50424f",
+    "name": "DS&P Digital Marketing & PR Agency",
+    "category": "Marketing agency",
+    "address": "590 Madison Ave 21st floor, New York, NY 10022",
+    "phone": "(888) 722-1998",
+    "website": "https://www.dial911fordesign.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.762169799999995,
+      "lng": -73.9728933
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11687168341986787919",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:52.887Z"
+  },
+  {
+    "place_id": "0x89c27d50f1abe567:0xd6c29385be9ae5c",
+    "name": "Momentum Digital Marketing Agency",
+    "category": "Marketing agency",
+    "address": "2 Birch Ln, Garden City, NY 11530",
+    "phone": "(516) 206-0346",
+    "website": "https://momentumdigital.cloud/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.736360999999995,
+      "lng": -73.64529
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=967193342014762588",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "john@momentum-digital.net",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "john@momentum-digital.net",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "john@momentumdigital.net",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:52.941Z"
+  },
+  {
+    "place_id": "0x89c265c02837d0bd:0x79cafd562781151",
+    "name": "AdVenture Media Group",
+    "category": "Marketing agency",
+    "address": "1074 Broadway, Woodmere, NY 11598",
+    "phone": "(516) 218-3722",
+    "website": "http://www.adventureppc.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "7 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.632502099999996,
+      "lng": -73.7068328
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=548506585647288657",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:01.250Z"
+  },
+  {
+    "place_id": "0x2565cd107814b3cd:0x7fb95772890dcdd7",
+    "name": "Clickmen™ Digital Marketing Agency",
+    "category": "Internet marketing service",
+    "address": "45 Rockefeller Plaza, New York, NY 10111",
+    "phone": "(917) 444-3666",
+    "website": "https://clickmen.us/en/digital-marketing-agency-in-nyc-new-york-ny/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7591523,
+      "lng": -73.9777136
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9203483462945590743",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:01.288Z"
+  },
+  {
+    "place_id": "0x89c25854e6aa136f:0x20cf9222f820b1e6",
+    "name": "Leadige Media Group",
+    "category": "Marketing agency",
+    "address": "1501 Broadway 12th floor, New York, NY 10036",
+    "phone": "(646) 303-7851",
+    "website": "https://leadige.agency/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7572283,
+      "lng": -73.9866322
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2364269008282235366",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "hello@leadige.agency",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@leadige.agency",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:01.342Z"
+  },
+  {
+    "place_id": "0x89c25de4677b07a3:0x8b7b20e25cc49358",
+    "name": "Best Social Media Marketing Services in USA",
+    "category": "Marketing agency",
+    "address": "97-32 95th St 2nd Floor, Ozone Park, NY 11416",
+    "phone": "(917) 383-1734",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.685347199999995,
+      "lng": -73.84565979999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10050663149998478168",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:01.458Z"
+  },
+  {
+    "place_id": "0x89c2591df3444953:0x14defa06da29e8c8",
+    "name": "Elite Solutions Digital Marketing Agency",
+    "category": "Marketing agency",
+    "address": "28-07 Jackson Ave Ste 08 159, Long Island City, NY 11101",
+    "phone": "(718) 412-1242",
+    "website": "https://elitesolutionsdigital.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7487193,
+      "lng": -73.9387187
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1503914232925251784",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@elitesolutionsdigital.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@elitesolutionsdigital.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:01.480Z"
+  },
+  {
+    "place_id": "0x89c25902c92c67df:0x5b3ee4d6938c150e",
+    "name": "DPDK - Brand innovation agency for the bold",
+    "category": "Marketing agency",
+    "address": "185 Wythe Ave, Brooklyn, NY 11249",
+    "phone": "(718) 782-4050",
+    "website": "https://dpdk.com/contact/brand-innovation-agency-new-york?utm_source=google&utm_medium=my-business&utm_campaign=newyork",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7180815,
+      "lng": -73.961806
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6574944116257068302",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@dpdk.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@dpdk.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:01.566Z"
+  },
+  {
+    "place_id": "0x89c262349e83744b:0x5bf46ac09c58f8ea",
+    "name": "Voy Media Advertising & Marketing",
+    "category": "Internet marketing service",
+    "address": "225-16 95th Ave, Bellerose, NY 11001",
+    "phone": "(917) 746-0353",
+    "website": "https://voymedia.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7205446,
+      "lng": -73.7289969
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6626038327258183914",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:01.764Z"
+  },
+  {
+    "place_id": "0x89c25ffb89cd7057:0x12a2740860ceca48",
+    "name": "Go Green Advertising",
+    "category": "Advertising agency",
+    "address": "98-03 Northern Blvd, Corona, NY 11368",
+    "phone": "(212) 810-6668",
+    "website": "http://www.gogreenadvertisign.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "7:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7573213,
+      "lng": -73.870224
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1342763218242554440",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:01.858Z"
+  },
+  {
+    "place_id": "0x89c27e2702668ddf:0xf381e411aa2ed85e",
+    "name": "Thump Local, LLC",
+    "category": "Internet marketing service",
+    "address": "95 Rockaway Ave, Valley Stream, NY 11580",
+    "phone": "(855) 848-6748",
+    "website": "http://www.thumplocal.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.663162,
+      "lng": -73.69846799999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17546556387732936798",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:08.906Z"
+  },
+  {
+    "place_id": "0x89c25f39d51bc757:0x99b992ac562fe1fc",
+    "name": "Royality Marketing Co.",
+    "category": "Marketing agency",
+    "address": "101-21 Nicolls Ave, Flushing, NY 11368",
+    "phone": "(718) 795-7656",
+    "website": "http://www.royalitymarketingco.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.745714,
+      "lng": -73.863176
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11077046027372454396",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:08.928Z"
+  },
+  {
+    "place_id": "0x89c259a61359c9b1:0x37fa32b5cc91b57",
+    "name": "Chatter Buzz - Advertising Agency",
+    "category": "Marketing agency",
+    "address": "246 5th Ave 3rd floor, New York, NY 10001",
+    "phone": "(718) 736-2880",
+    "website": "http://www.chatterbuzzmedia.com/new-york-city-digital-marketing-advertising-agency/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.744765099999995,
+      "lng": -73.9878047
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=252099510791641943",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:08.964Z"
+  },
+  {
+    "place_id": "0x89c25f825e778cb3:0x6e551551213f29f",
+    "name": "GM Marketing Agency",
+    "category": "Marketing agency",
+    "address": "43-03 Skillman Ave, Sunnyside, NY 11104",
+    "phone": "(917) 564-4579",
+    "website": "https://www.gmmarketingagency.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=754230506600852790",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.747039,
+      "lng": -73.920519
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=496892759711675039",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:08.991Z"
+  },
+  {
+    "place_id": "0x89c261e79ed5c279:0x1131f190237132af",
+    "name": "Total Transformation Marketing",
+    "category": "Marketing agency",
+    "address": "80-15 188th St 2nd floor, Jamaica, NY 11423",
+    "phone": "(929) 421-0821",
+    "website": "https://www.totaltransformationmarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.7288528,
+      "lng": -73.780638
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1239036973875802799",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:09.075Z"
+  },
+  {
+    "place_id": "0x89c25f8e037fb0f9:0x790c2b23e13842b6",
+    "name": "Generify Marketing",
+    "category": "Marketing agency",
+    "phone": "(646) 325-7114",
+    "website": "https://generifymarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.85650559999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8722394011412218550",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [
+      {
+        "email": "admin@generifymarketing.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:09.173Z"
+  },
+  {
+    "place_id": "0x89c25954289e91d7:0x85720f8d55e153c6",
+    "name": "Vector Design",
+    "category": "Advertising agency",
+    "phone": "(917) 590-5711",
+    "website": "https://www.vectordesign.us/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.686003899999996,
+      "lng": -73.8783995
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9615765254095066054",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@vectordesign.us",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@vectordesign.us",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:09.198Z"
+  },
+  {
+    "place_id": "0xa60533706ae90fd5:0x21c859be6b2a5684",
+    "name": "Mirch Media Inc: Digital Marketing, Web Development, and IT Solutions in New York City",
+    "category": "Marketing agency",
+    "address": "110-69 63rd Ave, Forest Hills, NY 11375",
+    "phone": "(855) 506-4724",
+    "website": "http://www.mirchmedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.7365297,
+      "lng": -73.84615629999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2434294272970348164",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:09.265Z"
+  },
+  {
+    "place_id": "0x89c2598b44e52311:0x5da7727fbff0259b",
+    "name": "Voy Media",
+    "category": "Marketing agency",
+    "address": "143 W 29th St Ste 204, New York, NY 10001",
+    "website": "https://voymedia.com/advertising-agency-new-york/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.747541399999996,
+      "lng": -73.99161389999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6748488459644577179",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:16.432Z"
+  },
+  {
+    "place_id": "0x2acade1ee5d7a29f:0xcccb33aba2ce337",
+    "name": "Digital Marketing Agency LLC",
+    "category": "Marketing agency",
+    "address": "85-11 159th St, Jamaica, NY 11432",
+    "phone": "(347) 797-6843",
+    "website": "https://www.digitalmarketingagencyllc.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7120907,
+      "lng": -73.8012239
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=922309088517088055",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:16.453Z"
+  },
+  {
+    "place_id": "0x229619f6daaacf0f:0x350c33d42bdb095f",
+    "name": "Savio Agency",
+    "category": "Marketing agency",
+    "website": "https://savio.agency/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3822487170092566879",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:16.475Z"
+  },
+  {
+    "place_id": "0x89c2595f8ebd609f:0x174869b3f738af1b",
+    "name": "MarketSmiths",
+    "category": "Marketing agency",
+    "address": "320 Roebling St Ste. 747, Brooklyn, NY 11211",
+    "phone": "(347) 620-4099",
+    "website": "http://www.marketsmiths.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7088025,
+      "lng": -73.9611585
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1677707082863259419",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@marketsmiths.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@marketsmiths.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:26.073Z"
+  },
+  {
+    "place_id": "0x89c25e4874a35645:0xa8dcfe3e05c24e2a",
+    "name": "Fusing Marketing",
+    "category": "Marketing agency",
+    "address": "34-18 Northern Blvd #505, Long Island City, NY 11101",
+    "phone": "(866) 523-3059",
+    "website": "http://fusingmarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7517984,
+      "lng": -73.9291393
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12167879835586285098",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:26.141Z"
+  },
+  {
+    "place_id": "0x89c25941d8e192fb:0x1af39e4c239ab91",
+    "name": "VMGROUPE",
+    "category": "Advertising agency",
+    "address": "50 W 17th St 3rd Floor, New York, NY 10011",
+    "phone": "(347) 273-1984",
+    "website": "https://vmgroupe.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7387496,
+      "lng": -73.9947456
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=121379369636178833",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "newbusiness@vmgroupe.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "newbusiness@vmgroupe.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "careers@vmgroupe.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:26.167Z"
+  },
+  {
+    "place_id": "0x89c25b77440348b1:0x96e8e68180fe70b3",
+    "name": "Unique Marketing",
+    "category": "Marketing agency",
+    "address": "199 Water St #35D, New York, NY 10038",
+    "phone": "(929) 930-2393",
+    "website": "https://umarketing.us/?utm_source=gmb&utm_medium=phone",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.706936999999996,
+      "lng": -74.0044856
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10874194744175390899",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:26.240Z"
+  },
+  {
+    "place_id": "0x89c25988509b84b7:0xd56e5c5df962c777",
+    "name": "Organic Digital Marketing",
+    "category": "Marketing agency",
+    "address": "444E East 86th St, New York, NY 10128",
+    "phone": "(646) 693-2401",
+    "website": "https://www.digital-marketing-usa.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.775972499999995,
+      "lng": -73.9478532
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15379331336202536823",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:26.263Z"
+  },
+  {
+    "place_id": "0x89c2598a7672325f:0xa13a4a00919176c2",
+    "name": "Vab Media Digital Agency, LLC",
+    "category": "Internet marketing service",
+    "address": "394 Broadway, New York, NY 10013",
+    "phone": "(510) 909-7386",
+    "website": "http://www.vabulous.com/",
+    "rating": 4.8,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7182981,
+      "lng": -74.0022812
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11617679555058300610",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:26.276Z"
+  },
+  {
+    "place_id": "0x89c259a82eb22401:0x87570fbbf2002e10",
+    "name": "eBrandz",
+    "category": "Internet marketing service",
+    "address": "171 Madison Ave #1006, New York, NY 10016",
+    "phone": "(212) 685-6060",
+    "website": "http://www.ebrandz.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7471083,
+      "lng": -73.9831343
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9752280817987497488",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "sales@ebrandz.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@ebrandz.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:26.308Z"
+  },
+  {
+    "place_id": "0x89c259a66b4e9445:0x6c644162e6c91c82",
+    "name": "MusicPromoToday",
+    "category": "Marketing agency",
+    "address": "1178 Broadway Fl 4 #144, New York, NY 10001",
+    "phone": "(646) 650-5557",
+    "website": "http://musicpromotoday.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7452688,
+      "lng": -73.9883569
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7810439546801822850",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:26.988Z"
+  },
+  {
+    "place_id": "0x89c25903ec565b8b:0xa0a0348213ef99f0",
+    "name": "McCann New York",
+    "category": "Advertising agency",
+    "address": "622 3rd Ave, New York, NY 10017",
+    "phone": "(646) 865-2000",
+    "website": "http://www.mccannny.com/",
+    "rating": 4.6,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7497798,
+      "lng": -73.9757003
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11574308775627037168",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:32.441Z"
+  },
+  {
+    "place_id": "0x6d8c5e4a5610dfeb:0x180db339a7b1a15a",
+    "name": "Born Social",
+    "category": "Marketing agency",
+    "address": "Ninth Floor, 109 N 12th St 9th Floor, Brooklyn, NY 11249",
+    "phone": "(646) 665-4667",
+    "website": "https://www.bornsocial.co/contact-offices-new-york",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7222958,
+      "lng": -73.95688849999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1733238491815453018",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "melbourne@bornsocial.co",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "melbourne@bornsocial.co",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "newyork@bornsocial.co",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "hello@bornsocial.co",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:32.541Z"
+  },
+  {
+    "place_id": "0x89c25e3069352e5d:0xbb2ca17edae1ded5",
+    "name": "Full Service Marketing Solutions for Local Businesses",
+    "category": "Marketing agency",
+    "address": "98-12 66th Avenue Rego Park Queens, Rego Park, NY 11374",
+    "phone": "(877) 311-2010",
+    "website": "https://qualitylocalmarketing.com/contact-us/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.727984899999996,
+      "lng": -73.8553064
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13487332550277979861",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:32.600Z"
+  },
+  {
+    "place_id": "0x89c25a16c0fb6d65:0xd1c38433e65fa9fc",
+    "name": "Blue Ocean Global Technology",
+    "category": "Marketing agency",
+    "address": "70 Pine St #1324, New York, NY 10005",
+    "phone": "(202) 276-7589",
+    "website": "https://www.blueoceanglobaltech.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7064496,
+      "lng": -74.007757
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15115070132828744188",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@blueoceanglobaltech.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@blueoceanglobaltech.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:32.661Z"
+  },
+  {
+    "place_id": "0x89c25b52d14c3e4b:0xa32e9849fa40bf4a",
+    "name": "9AM Performance Marketing Agency",
+    "category": "Marketing agency",
+    "address": "90 Broad St 2nd Floor, New York, NY 10004",
+    "phone": "(646) 553-1938",
+    "website": "https://nine.am/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7037765,
+      "lng": -74.01190319999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11758503120609525578",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "hello@nine.am",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@nine.am",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:32.699Z"
+  },
+  {
+    "place_id": "0x89c25b04d6b7e3a1:0xad6ab6289e1d4513",
+    "name": "BD Grow",
+    "category": "Marketing agency",
+    "address": "49 Elizabeth St Second Floor, New York, NY 10013",
+    "phone": "(516) 888-9798",
+    "website": "https://bdgrow.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7171917,
+      "lng": -73.9969374
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12496000401660527891",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@bdgrow.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@bdgrow.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:32.782Z"
+  },
+  {
+    "place_id": "0x89c25bb27d2a3763:0xed31dfc67024a0db",
+    "name": "PR Brand Marketing",
+    "category": "Marketing agency",
+    "address": "634 Montgomery St, Brooklyn, NY 11225",
+    "phone": "(929) 210-9118",
+    "website": "http://www.prbrandmarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6647743,
+      "lng": -73.9438121
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17091688104225710299",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@prbrandmarketing.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@prbrandmarketing.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:32.861Z"
+  },
+  {
+    "place_id": "0x89c25fb3fb893443:0xcaf6f5674a94b3e2",
+    "name": "#1 SMS, Email & Social Media Marketing Consultant",
+    "category": "Marketing consultant",
+    "address": "93-16 43rd Ave, Elmhurst, NY 11373",
+    "phone": "(347) 320-1614",
+    "website": "http://mxdfeelings.live/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.743885999999996,
+      "lng": -73.87180959999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14625146663913960418",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:32.908Z"
+  },
+  {
+    "place_id": "0x89c2597b595fd741:0x93668d7c4e54cde7",
+    "name": "FIRST Global Brand Experience Agency",
+    "category": "Advertising agency",
+    "address": "630 9th Ave #310, New York, NY 10036",
+    "phone": "(212) 810-4100",
+    "website": "https://firstagency.com/?utm_source=GBP&utm_medium=organic",
+    "rating": 4.9,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7599514,
+      "lng": -73.9911887
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10621332336229535207",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:36.355Z"
+  },
+  {
+    "place_id": "0x89c25900c6c04877:0x2bd31146a1ffca74",
+    "name": "Thrive Internet Marketing Agency",
+    "category": "Marketing agency",
+    "address": "260 Madison Ave 8th floor, New York, NY 10016",
+    "phone": "(315) 930-1001",
+    "website": "https://thriveagency.com/nyc-digital-marketing-agency/?utm_source=GMBlisting&utm_medium=organic",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7506832,
+      "lng": -73.9811227
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3157886758780127860",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:36.373Z"
+  },
+  {
+    "place_id": "0x89c25e18a743c7bb:0x2351021f269ce6b",
+    "name": "ValueHits Digital Marketing Agency USA - SEO, PPC, Social Media Services",
+    "category": "Internet marketing service",
+    "address": "70-26 Groton St, Forest Hills, NY 11375",
+    "phone": "(347) 960-6628",
+    "website": "https://www.valuehits.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.716153999999996,
+      "lng": -73.8488244
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=159051099828506219",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "sales@valuehits.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@valuehits.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:43.843Z"
+  },
+  {
+    "place_id": "0x83fb5ed31de2cb6d:0xa6ec0b4c6b18ebbd",
+    "name": "Think Wild Digital Agency",
+    "category": "Marketing agency",
+    "phone": "(917) 905-1559",
+    "website": "http://www.thinkwilddigital.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12028001127641967549",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:43.963Z"
+  },
+  {
+    "place_id": "0x89c25ff6ce56f18d:0x3e9a2f2a6485da30",
+    "name": "NTL OF NYC",
+    "category": "Internet marketing service",
+    "phone": "(212) 470-5220",
+    "website": "https://ntlofnyc.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 33.4552328,
+      "lng": -98.134621
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4510969835886598704",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:43.986Z"
+  },
+  {
+    "place_id": "0x89c287f6cb6456af:0x138188b09236678",
+    "name": "Fat Guy Media",
+    "category": "Website designer",
+    "address": "436 Willis Ave Ste 1, Williston Park, NY 11596",
+    "phone": "(516) 535-5353",
+    "website": "https://fatguymedia.com/?utm_campaign=GMB&utm_source=GMB",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "8:30 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.755350899999996,
+      "lng": -73.6442868
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=87847178166560376",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:44.014Z"
+  },
+  {
+    "place_id": "0x89c259039475bfbf:0xc81605a2d7cf0e9c",
+    "name": "Horizon Media, Inc.",
+    "category": "Advertising agency",
+    "address": "75 Varick St, New York, NY 10013",
+    "phone": "(212) 220-5000",
+    "website": "http://www.horizonmedia.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.723341,
+      "lng": -74.0064156
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14417717454036733596",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:44.081Z"
+  },
+  {
+    "place_id": "0x49dc156770f56ccb:0x17af202ceaac59c1",
+    "name": "All Construction Marketing",
+    "category": "Internet marketing service",
+    "phone": "(917) 444-5669",
+    "website": "https://allconstructionmarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.6974881,
+      "lng": -73.9796294
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1706618161084520897",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@allconstructionmarketing.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@allconstructionmarketing.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:44.106Z"
+  },
+  {
+    "place_id": "0x89c25ee1c21b07b9:0xdca0c47c00eccfe9",
+    "name": "Siteber",
+    "category": "Marketing agency",
+    "address": "56-21 43rd Ave, Woodside, NY 11377",
+    "phone": "(347) 669-0398",
+    "website": "https://siteber.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7 AM–11:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.743542,
+      "lng": -73.9081212
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15897922721488359401",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:44.192Z"
+  },
+  {
+    "place_id": "0x6e4304ecfa6bc143:0xe5faa7872536e937",
+    "name": "Marshali Marketing",
+    "category": "Marketing agency",
+    "phone": "(212) 470-9114",
+    "website": "https://marshalimarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 50.4996,
+      "lng": -121.9883
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16571741977749940535",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:44.226Z"
+  },
+  {
+    "place_id": "0x89c259ab39b741b9:0x6a20a07d853087c1",
+    "name": "Amra & Elma",
+    "category": "Marketing agency",
+    "address": "1441 Broadway 6th floor, New York, NY 10018",
+    "phone": "(646) 518-7743",
+    "website": "https://www.amraandelma.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.754971,
+      "lng": -73.98716329999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7647288628241008577",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@amraandelma.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@amraandelma.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:51.043Z"
+  },
+  {
+    "place_id": "0x89c260e73f07df1f:0xc6e21d796359d90f",
+    "name": "Pack and Soft Digital Marketing Agency | Jamaica, New York",
+    "category": "Internet marketing service",
+    "address": "86-04 162nd St, Jamaica, NY 11432",
+    "phone": "(217) 310-1011",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.710844,
+      "lng": -73.802014
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14331049371441420559",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:51.158Z"
+  },
+  {
+    "place_id": "0x89c25e1b8baa853b:0x6525be028bcfbcdc",
+    "name": "Kaykov Media",
+    "category": "Marketing agency",
+    "address": "77-40 164th St, Fresh Meadows, NY 11366",
+    "phone": "(718) 478-4200",
+    "website": "http://kaykovmedia.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7231743,
+      "lng": -73.8050998
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7288440490113875164",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@kaykovmedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@kaykovmedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "info@borisk10.sg-host.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:51.179Z"
+  },
+  {
+    "place_id": "0x89c25e5300000001:0xcb252919453eb86b",
+    "name": "Target Marketing & Advertising",
+    "category": "Marketing agency",
+    "address": "61-43 186th St, Fresh Meadows, NY 11365",
+    "phone": "(856) 517-9749",
+    "website": "http://www.tmasite.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7390782,
+      "lng": -73.7876333
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14638151352350324843",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:51.272Z"
+  },
+  {
+    "place_id": "0xa1b55f4b4cb6c941:0x67bf374f2752216b",
+    "name": "Olip Agency",
+    "category": "Marketing agency",
+    "phone": "(929) 625-3132",
+    "website": "https://olipagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7475754719559950699",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:51.367Z"
+  },
+  {
+    "place_id": "0x89c25f9b1dac97c3:0xd2584a4920156668",
+    "name": "Bespoke Creative NYC",
+    "category": "Marketing agency",
+    "phone": "(917) 626-7682",
+    "website": "http://bespokecreativenyc.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15156946223846745704",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:51.390Z"
+  },
+  {
+    "place_id": "0x89c261884baedd27:0x8d9be3d8db0b9d63",
+    "name": "Web Design at NY",
+    "category": "Marketing agency",
+    "address": "61-34 173rd St, Flushing, NY 11365",
+    "phone": "(844) 336-3700",
+    "website": "https://www.webdesignatny.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.737034699999995,
+      "lng": -73.79674179999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10203999901265403235",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "webdesignatny@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "webdesignatny@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@webdesignatny.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:51.408Z"
+  },
+  {
+    "place_id": "0x89c259a33daffb89:0xe5179429ddb8e387",
+    "name": "FATFREE",
+    "category": "Marketing agency",
+    "address": "72-61 113th St, Flushing, NY 11375",
+    "phone": "(212) 627-7185",
+    "website": "https://www.fatfree.co/",
+    "rating": 3.7,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.720563899999995,
+      "lng": -73.83589599999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16507825866684294023",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:51.475Z"
+  },
+  {
+    "place_id": "0x89c261d1784a9fbd:0x2664861e28ba133a",
+    "name": "Media Work Designs",
+    "category": "Marketing agency",
+    "address": "192nd St #192, Fresh Meadows, NY 11365",
+    "phone": "(917) 714-5261",
+    "website": "http://mediaworkdesigns.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.732819899999996,
+      "lng": -73.7798528
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2766483535202751290",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:57.929Z"
+  },
+  {
+    "place_id": "0xa317492a81b8ae77:0xa366c9f68b1c18bb",
+    "name": "Rwork Media",
+    "category": "Marketing agency",
+    "website": "http://www.rworkmedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11774320336539752635",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:57.960Z"
+  },
+  {
+    "place_id": "0x89c2604f8e847d6b:0x9274d219a748b3dc",
+    "name": "JRA Media",
+    "category": "Marketing agency",
+    "phone": "(718) 635-0338",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10553290834458489820",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:57.989Z"
+  },
+  {
+    "place_id": "0x89c25fb1a492a381:0xe9cadef0f6288cf0",
+    "name": "OneLittleWeb",
+    "category": "Marketing agency",
+    "address": "Princeton Court, 35-06 73rd St Apt 3K, Jackson Heights, NY 11372",
+    "phone": "(646) 401-0020",
+    "website": "https://onelittleweb.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7506494,
+      "lng": -73.89324529999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16846522482636131568",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:58.061Z"
+  },
+  {
+    "place_id": "0x5a8c41674a52569:0x919a7a1678818e68",
+    "name": "Nova Reach Digital | AI Powered Marketing Automation in NY",
+    "category": "Marketing agency",
+    "address": "1600 Broadway, New York, NY 10019",
+    "phone": "(332) 201-6244",
+    "website": "https://novareach.digital/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.760245399999995,
+      "lng": -73.9843654
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10491832518842617448",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:18.550Z"
+  },
+  {
+    "place_id": "0x89c259ec5f38a261:0x7638f7050f09f8b",
+    "name": "darling agency | creative, design and advertising",
+    "category": "Marketing agency",
+    "address": "420 W 14th St 5th Floor, New York, NY 10014",
+    "phone": "(212) 242-2000",
+    "website": "http://www.darling.nyc/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "9:30 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7412103,
+      "lng": -74.00673859999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=532426893516906379",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@darling.nyc",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@darling.nyc",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "hello@darling.nyc",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:18.581Z"
+  },
+  {
+    "place_id": "0x89c258f52d8a984f:0xf2bb8451229cd7c3",
+    "name": "Digital NYC Agency",
+    "category": "Marketing agency",
+    "address": "157 Columbus Ave 4th fl, New York, NY 10023",
+    "phone": "(212) 301-0575",
+    "website": "https://www.digitalnycagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.774285,
+      "lng": -73.9807173
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17490719061831374787",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:18.754Z"
+  },
+  {
+    "place_id": "0x89c2674eefeb3557:0x3d8117c8c7f9e4e8",
+    "name": "Reach Above Media - Affordable Web Designer | SEO",
+    "category": "Marketing agency",
+    "address": "103-20 117th St, South Richmond Hill, NY 11419",
+    "phone": "(347) 996-6555",
+    "website": "https://www.reachabovemedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.686813699999995,
+      "lng": -73.82664
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4431849659425219816",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:18.854Z"
+  },
+  {
+    "place_id": "0x89c25fb1d8b33493:0x56d6197cdd69f479",
+    "name": "Good Influence Marketing & Yugapps",
+    "category": "Internet marketing service",
+    "address": "88-36 Elmhurst Ave #02j, Elmhurst, NY 11373",
+    "phone": "(347) 618-9098",
+    "website": "https://semrush.sjv.io/jrm4v0",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7463982,
+      "lng": -73.877236
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6257216756359230585",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:18.872Z"
+  },
+  {
+    "place_id": "0x89c25b10d53dbae9:0xff3a26d42d5d8c33",
+    "name": "5Boro Digital",
+    "category": "Internet marketing service",
+    "address": "99 Wall St ste. 3031, New York, NY 10005",
+    "phone": "(914) 200-3610",
+    "website": "https://5borodigital.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7049014,
+      "lng": -74.00724439999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18391054721056869427",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:18.950Z"
+  },
+  {
+    "place_id": "0x89c2592ec34d52b7:0xe0d9d30d1ac9bb40",
+    "name": "NoGood - Growth Marketing Agency",
+    "category": "Marketing agency",
+    "address": "491 Broadway, New York, NY 10012",
+    "website": "https://nogood.io/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "6 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.7220902,
+      "lng": -74.000013
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16202213187679533888",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:18.970Z"
+  },
+  {
+    "place_id": "0x2671d83bea4d6fb9:0x460e8e7557c61aa4",
+    "name": "What's Next Agency",
+    "category": "Marketing consultant",
+    "phone": "(516) 605-7128",
+    "website": "http://whatsnextagency.us/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5048128866963823268",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:19.094Z"
+  },
+  {
+    "place_id": "0x8833e6f5f270e787:0xe4bbb6be39067421",
+    "name": "A Dying Art Company, Ltd",
+    "category": "Marketing agency",
+    "phone": "(330) 980-0759",
+    "website": "http://www.adyingartcompanyltd.com/",
+    "rating": 4.9,
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16481968189409227809",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:31.247Z"
+  },
+  {
+    "place_id": "0x89c25945034ca73d:0xb763934204b0c8cc",
+    "name": "NU Media",
+    "category": "Marketing agency",
+    "address": "589 8th Ave Fl 8, New York, NY 10018",
+    "phone": "(212) 868-0868",
+    "website": "http://www.nu.marketing/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7553099,
+      "lng": -73.99142839999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13214567643390986444",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:31.272Z"
+  },
+  {
+    "place_id": "0x89c2598a217a7457:0x3f9a6637dc99520",
+    "name": "The Charles Group NYC",
+    "category": "Marketing agency",
+    "address": "200 Broadway Ste 307, New York, NY 10038",
+    "phone": "(212) 226-8929",
+    "website": "http://www.thecharlesgrp.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7105274,
+      "lng": -74.00899369999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=286442997557073184",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:31.373Z"
+  },
+  {
+    "place_id": "0x89c2599c8cbdf873:0x163270a1d0d806b3",
+    "name": "RIOT – Creative Agency & Production Studio",
+    "category": "Marketing agency",
+    "address": "438 W 37th St #5a, New York, NY 10018",
+    "phone": "(424) 296-1444",
+    "website": "https://riot.nyc/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.755935,
+      "lng": -73.996854
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1599464657965811379",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:31.423Z"
+  },
+  {
+    "place_id": "0x89c259f2f2813e5d:0xc26d1f011f96efa1",
+    "name": "SocialQ Agency",
+    "category": "Marketing agency",
+    "address": "413 W 14th St #211, New York, NY 10014",
+    "website": "http://socialq.us/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.741595499999995,
+      "lng": -74.0061877
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14009888105504894881",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:31.543Z"
+  },
+  {
+    "place_id": "0x89c25936df9f9e2b:0xd715dfea989a58ef",
+    "name": "Union Square Advertising",
+    "category": "Marketing agency",
+    "address": "1250 Broadway 36th Floor, New York, NY 10001",
+    "phone": "(646) 475-8189",
+    "website": "https://unionsquareadvertising.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9:30 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.747683099999996,
+      "lng": -73.98786969999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15498539891341023471",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:31.573Z"
+  },
+  {
+    "place_id": "0x89c2f7a9e85839f3:0x3e22fbcb9590e4e0",
+    "name": "Marz Agency",
+    "category": "Marketing agency",
+    "address": "21 Grand Ave #618, Palisades Park, NJ 07650",
+    "phone": "(201) 273-9006",
+    "website": "https://marzagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.8453991,
+      "lng": -74.005364
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4477417831365928160",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:31.641Z"
+  },
+  {
+    "place_id": "0x54950b4a37cc2209:0x88062ccea3186179",
+    "name": "HASHI®",
+    "category": "Marketing agency",
+    "phone": "(646) 477-7177",
+    "website": "http://www.hashi.agency/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "7 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9801570905029632377",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:31.661Z"
+  },
+  {
+    "place_id": "0x89c258fe0d1322a9:0x539e9caa7598f7f0",
+    "name": "Best Marketing NYC",
+    "category": "Internet marketing service",
+    "address": "20 E 46th St rm 200, New York, NY 10017",
+    "phone": "(845) 320-2304",
+    "website": "https://www.bestmarketingnyc.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.7552871,
+      "lng": -73.977932
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6025425607399634928",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:43.757Z"
+  },
+  {
+    "place_id": "0x89c265e965b6714b:0xed32d924fe697220",
+    "name": "Pay Per Lead Marketing Agency",
+    "category": "Media company",
+    "address": "822 Newburg Ave, Valley Stream, NY 11581",
+    "website": "https://www.payperlead.com/valley-stream-new-york",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6492873,
+      "lng": -73.7265049
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17091962288734827040",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:43.788Z"
+  },
+  {
+    "place_id": "0x89c25a1160c1bd89:0x3e8730637ff1e8a8",
+    "name": "Big Drop Inc - Web Design Company",
+    "category": "Marketing agency",
+    "address": "169 Madison St Suite 15613, New York, NY 10038",
+    "phone": "(212) 244-3767",
+    "website": "https://www.bigdropinc.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7128279,
+      "lng": -73.9910738
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4505623156113926312",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:55.563Z"
+  },
+  {
+    "place_id": "0x89c25991e38038a3:0xb7ed0750b9b2ff3d",
+    "name": "CarnsMedia",
+    "category": "Marketing agency",
+    "address": "433 Broadway, New York, NY 10013",
+    "phone": "(917) 626-1111",
+    "website": "http://carnsmedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.72022,
+      "lng": -74.001564
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13253257321715531581",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:55.582Z"
+  },
+  {
+    "place_id": "0x89c267bc20cb1507:0x63cbcb8d60b5ef20",
+    "name": "Advertising Agency Queens",
+    "category": "Advertising agency",
+    "address": "138-11 225th St, Jamaica, NY 11413",
+    "phone": "(718) 808-8483",
+    "website": "https://myadwordsagency.com/",
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.6721882,
+      "lng": -73.74782019999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7191065038100492064",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:55.640Z"
+  },
+  {
+    "place_id": "0x89c25bce8b6112c7:0x9bb4f9074033fa4e",
+    "name": "Socium Media",
+    "category": "Marketing agency",
+    "address": "5 Crosby St, New York, NY 10013",
+    "website": "https://www.sociummedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7197611,
+      "lng": -74.0002433
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11219866381223983694",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:55.659Z"
+  },
+  {
+    "place_id": "0x89c259b3e9f89539:0xfba6ea797c7f340a",
+    "name": "R/GA",
+    "category": "Advertising agency",
+    "address": "1 Dock 72 Wy 14th floor, Brooklyn, NY 11205",
+    "phone": "(212) 946-4000",
+    "website": "https://rga.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7004905,
+      "lng": -73.972166
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18133438757154534410",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:55.741Z"
+  },
+  {
+    "place_id": "0x89c28a754ba4c419:0xb964613500de692c",
+    "name": "Creative Marketing Plus",
+    "category": "Advertising agency",
+    "address": "208-06 Estates Dr Second Floor, Bayside, NY 11360",
+    "phone": "(917) 828-6382",
+    "website": "http://www.creativemarketingplus.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.786167999999996,
+      "lng": -73.7849015
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13358909274963470636",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "rharrow@creativemarketingplus.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "rharrow@creativemarketingplus.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:55.760Z"
+  },
+  {
+    "place_id": "0x89c25a350fefa0bf:0x459f762ff4f2cd41",
+    "name": "Auster Agency",
+    "category": "Marketing agency",
+    "address": "1 Main St, Brooklyn, NY 11201",
+    "website": "http://www.austeragency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.703679699999995,
+      "lng": -73.9903229
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5016858458259115329",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "connect@austeragency.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "connect@austeragency.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:55.859Z"
+  },
+  {
+    "place_id": "0x8d306fb1e6f992c3:0x8b75512db819d176",
+    "name": "New York SEO Company - Marketing Blink",
+    "category": "Marketing agency",
+    "address": "222 Broadway 19th floor, New York, NY 10038",
+    "phone": "(201) 885-7677",
+    "website": "https://marketingblink.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.710968,
+      "lng": -74.0084713
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10049027400351207798",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:55.980Z"
+  },
+  {
+    "place_id": "0x89c2614b5625c211:0x3e620d85a46eb58d",
+    "name": "Stagger Media - NYC Digital Marketing Agency",
+    "category": "Internet marketing service",
+    "phone": "(833) 782-4437",
+    "website": "https://www.staggermedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.686003899999996,
+      "lng": -73.8737029
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4495170245709706637",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@staggermedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@staggermedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:08.067Z"
+  },
+  {
+    "place_id": "0x89c25a18440df38d:0xd83d8b5eb7f10ea8",
+    "name": "Suka Creative Agency",
+    "category": "Marketing agency",
+    "address": "222 Broadway 19th floor, New York, NY 10038",
+    "phone": "(212) 219-0082",
+    "website": "https://sukacreative.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7106472,
+      "lng": -74.0081795
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15581763524700999336",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@sukacreative.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@sukacreative.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:08.119Z"
+  },
+  {
+    "place_id": "0x89c25b48748a48bd:0x9a5f13f65c2e240e",
+    "name": "Public Adjusting Marketing | New York",
+    "category": "Marketing agency",
+    "address": "40 Wall St Fl 28, New York, NY 10005",
+    "phone": "(646) 397-1129",
+    "website": "https://publicadjustingmarketing.com/public-adjusting-marketing-new-york-city/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7061419,
+      "lng": -74.0098381
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11123631553457824782",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:08.197Z"
+  },
+  {
+    "place_id": "0x89c259f2a5736ad9:0xbdc1dff0cd748d0",
+    "name": "Saatchi & Saatchi Advertising Agency",
+    "category": "Advertising agency",
+    "address": "375 Hudson St, New York, NY 10014",
+    "phone": "(212) 463-2000",
+    "website": "http://saatchiny.com/ny-us/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.7284631,
+      "lng": -74.0076526
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=854591010562853072",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:08.257Z"
+  },
+  {
+    "place_id": "0x89c26439c3278ba1:0xa33bd137853599cf",
+    "name": "Tenlee Media",
+    "category": "Internet marketing service",
+    "address": "55 Atlantic Ave, Lynbrook, NY 11563",
+    "phone": "(212) 457-1554",
+    "website": "https://tenleemedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6551597,
+      "lng": -73.67198069999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11762224888196471247",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "tracking@tenleemedia.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "tracking@tenleemedia.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@tenleemedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "service@tenleemedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:08.286Z"
+  },
+  {
+    "place_id": "0x89c25fb2232c2c0d:0xee0e64ccd764d801",
+    "name": "Tech Smart marketing",
+    "category": "Marketing agency",
+    "address": "108-09 53rd Ave, Corona, NY 11368",
+    "phone": "(718) 271-5290",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7429935,
+      "lng": -73.8539706
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17153758861650614273",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:08.360Z"
+  },
+  {
+    "place_id": "0x89c26181afdd5467:0x775a956b0a85db01",
+    "name": "Creative 360 Pro",
+    "category": "Marketing agency",
+    "address": "51 Frances St, Clifton, NJ 07014",
+    "phone": "(973) 563-1729",
+    "website": "https://creative360pro.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.8375555,
+      "lng": -74.1355134
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8600350725387967233",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "hello@creative360pro.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@creative360pro.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:08.383Z"
+  },
+  {
+    "place_id": "0x89c2598934e5840d:0x3ce7ebd7d19ab4a",
+    "name": "Mekanism New York",
+    "category": "Marketing agency",
+    "address": "250 Hudson St 2nd Floor, New York, NY 10013",
+    "phone": "(212) 226-2772",
+    "website": "https://mekanism.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.724994599999995,
+      "lng": -74.0072895
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=274295979628931914",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "newbusiness@mekanism.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "newbusiness@mekanism.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "jobs@mekanism.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "press@mekanism.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:08.478Z"
+  },
+  {
+    "place_id": "0x89c25b21e7d3c801:0x9b5b86a6b72900d0",
+    "name": "Marketing House NYC",
+    "category": "Marketing agency",
+    "address": "1 Liberty St 3rd Floor, New York, NY 10006",
+    "phone": "(646) 980-6465",
+    "website": "https://www.marketinghouse.nyc/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–4:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7096693,
+      "lng": -74.01097229999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11194689349355110608",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:09.204Z"
+  },
+  {
+    "place_id": "0x8cef0f28ee5f01b3:0xaedec5b2600e66be",
+    "name": "1k Marketing Consulting",
+    "category": "Marketing consultant",
+    "address": "130 Water St, New York, NY 10005",
+    "phone": "(212) 301-6631",
+    "website": "https://1k.marketing/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7056932,
+      "lng": -74.00712279999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12600726177335633598",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "contact@1k.marketing",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@1k.marketing",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:20.246Z"
+  },
+  {
+    "place_id": "0x89c25a11676927c9:0x517c3ad5357e476",
+    "name": "Sosemo",
+    "category": "Marketing agency",
+    "address": "26 Broadway Suite 300, New York, NY 10004",
+    "phone": "(646) 760-2030",
+    "website": "https://www.sosemo.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.705202199999995,
+      "lng": -74.0131655
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=366977043849012342",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "malta@sosemo.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "malta@sosemo.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "sales@sosemo.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "press@sosemo.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:20.341Z"
+  },
+  {
+    "place_id": "0x89c25b8743055815:0x5b2fbf4975fc3b51",
+    "name": "Hummingbird Marketing Agency",
+    "category": "Marketing agency",
+    "address": "14 Wall St #2075, New York, NY 10005",
+    "phone": "(212) 618-1205",
+    "website": "http://www.hbmka.com/",
+    "rating": 3.7,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7076193,
+      "lng": -74.01059479999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6570680703589825361",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "marketing@hbmka.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "marketing@hbmka.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:20.388Z"
+  },
+  {
+    "place_id": "0x6097901f8a25034d:0x6252556dce2c6508",
+    "name": "CHIQUE MEDIA",
+    "category": "Internet marketing service",
+    "phone": "(833) 424-4783",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7084819093906023688",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:20.464Z"
+  },
+  {
+    "place_id": "0x87f6277ee0c381b9:0x57c19f9b828c4785",
+    "name": "TDMA",
+    "category": "Marketing agency",
+    "address": "13 Crosby St, New York, NY 10013",
+    "phone": "(612) 293-8159",
+    "website": "https://splinternetmarketing.com/local-pros/ny/new-york/tdma/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.719977,
+      "lng": -74.000075
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6323510842063865733",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:20.498Z"
+  },
+  {
+    "place_id": "0x89c2c7cbe45f6bf1:0x31917ee25a9b919a",
+    "name": "Pillar Digital Marketing Agency",
+    "category": "Marketing agency",
+    "address": "55 Bank St N802, White Plains, NY 10606",
+    "phone": "(914) 228-7575",
+    "website": "https://pillardigitalmarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 41.029314299999996,
+      "lng": -73.7751349
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3571775490129367450",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:20.601Z"
+  },
+  {
+    "place_id": "0x89c25bf8fc713c33:0x21242a23af307629",
+    "name": "Digital Marketing Agency NYC - Mack",
+    "category": "Internet marketing service",
+    "address": "5 Hanover Square 12th Floor, New York, NY 10004",
+    "phone": "(929) 207-5837",
+    "website": "https://mackmediagroup.com/newyork-digitalmarketingagency?utm_campaign=GMB&utm_medium=digital_marketing_nyc",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.705075799999996,
+      "lng": -74.0091604
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2388080035164616233",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:20.640Z"
+  },
+  {
+    "place_id": "0x89c25e3b1d388f35:0x4baee605a11d5ce5",
+    "name": "Robert Merola",
+    "category": "Website designer",
+    "address": "269-10 Grand Central Parkway Service Rd Apt 11C, Queens, NY 11005",
+    "phone": "(917) 689-2271",
+    "website": "https://meroladesign.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.757180999999996,
+      "lng": -73.71441399999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5453549110644530405",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "rob@meroladesign.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "rob@meroladesign.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:20.706Z"
+  },
+  {
+    "place_id": "0x89c25b4e5ff0187d:0xed6ce432fba8dd52",
+    "name": "Elatre Creative Digital Marketing Agency",
+    "category": "Marketing agency",
+    "address": "99 Wall St #3679, New York, NY 10005",
+    "phone": "(646) 755-2633",
+    "website": "https://elatre.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7049014,
+      "lng": -74.00724439999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17108299992095317330",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@elatre.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@elatre.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:30.741Z"
+  },
+  {
+    "place_id": "0x89c25b9f4de4aa8f:0x9a31537af3e8d998",
+    "name": "Social Media Agency NYC",
+    "category": "Marketing agency",
+    "address": "76 Bowery #32, New York, NY 10013",
+    "phone": "(929) 552-6169",
+    "website": "https://socialmedianyc.agency/",
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 40.7169033,
+      "lng": -73.9960699
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11110753543242963352",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:30.956Z"
+  },
+  {
+    "place_id": "0x89c25a16fe479063:0xf45bce1cd67f292a",
+    "name": "Thought Media™",
+    "category": "Marketing agency",
+    "address": "30 Wall St 8th floor, New York, NY 10005",
+    "phone": "(800) 916-3864",
+    "website": "https://thoughtmedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7070319,
+      "lng": -74.0098964
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17607893791388150058",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:30.978Z"
+  },
+  {
+    "place_id": "0x89c25b8395e13f75:0x7ccd7b614f39ebbb",
+    "name": "Andrew's Lead Company",
+    "category": "Marketing consultant",
+    "website": "https://andrewsleadco.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM",
+      "Monday": "9 AM–5 AM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8992979688799988667",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:31.058Z"
+  },
+  {
+    "place_id": "0x89c25b3a06d24475:0xad5498588bf1c2f5",
+    "name": "Internet Marketing Firm Net SEO",
+    "category": "Internet marketing service",
+    "address": "125 Maiden Ln, New York, NY 10038",
+    "phone": "(833) 762-7202",
+    "website": "https://www.internetmarketingfirm.net/new-york-internet-marketing/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.706035899999996,
+      "lng": -74.0063866
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12489775172677649141",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:31.095Z"
+  },
+  {
+    "place_id": "0x89c27d525a7e7b9d:0xef67f0648d7b908e",
+    "name": "NOM Media",
+    "category": "Marketing agency",
+    "address": "425 Oak St, Garden City, NY 11530",
+    "phone": "(516) 585-3432",
+    "website": "https://www.nommedia.co/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7280016,
+      "lng": -73.609376
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17251021212327055502",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "discovery@nommedia.co",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "discovery@nommedia.co",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:31.242Z"
+  },
+  {
+    "place_id": "0x89c2598a27bf236b:0xabfc3ce62d4689ed",
+    "name": "Spherical",
+    "category": "Marketing agency",
+    "address": "200 Centre St 3rd Floor, New York, NY 10013",
+    "website": "https://spherical.co/?utm_source=local-listings&utm_medium=organic&utm_campaign=local-listings",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7188138,
+      "lng": -73.9990613
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12392847233916504557",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:31.375Z"
+  },
+  {
+    "place_id": "0xa8790aef1c02d74b:0x4b4ce6ceb04ef12f",
+    "name": "B2B PRINT HUB",
+    "category": "Marketing agency",
+    "phone": "(929) 528-2911",
+    "website": "https://www.b2bprinthub.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.8193196,
+      "lng": -73.05764549999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5425965426470220079",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:31.414Z"
+  },
+  {
+    "place_id": "0x89c259a518efcc75:0x133f53c12047ef55",
+    "name": "Yard NYC",
+    "category": "Advertising agency",
+    "address": "25 Broadway Fl 2, New York, NY 10004",
+    "phone": "(212) 625-8372",
+    "website": "http://www.yardnyc.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.7057809,
+      "lng": -74.01397229999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1386919299188780885",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "jarrod@yardnyc.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "jarrod@yardnyc.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "katherine@yardnyc.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:37.935Z"
+  },
+  {
+    "place_id": "0x8644b577ffb0a953:0x6cbc7686ea88ca86",
+    "name": "Social Haús Creative Media",
+    "category": "Marketing agency",
+    "phone": "(646) 820-7859",
+    "website": "https://socialhausemedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 35.4966405,
+      "lng": -85.8192615
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7835267773550348934",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@socialhausmedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@socialhausmedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:37.969Z"
+  },
+  {
+    "place_id": "0x8663d0f33f80030d:0xbfad0937d6492245",
+    "name": "LVS Marketing",
+    "category": "Marketing agency",
+    "phone": "(917) 672-1979",
+    "website": "https://www.lvsmarketing.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13811705767638147653",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@lvsmarketing.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@lvsmarketing.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:46.672Z"
+  },
+  {
+    "place_id": "0x26d48e5d285747d9:0x9f8c2a8a0eb3b946",
+    "name": "Rekreate Lab",
+    "category": "Website designer",
+    "phone": "(347) 255-7175",
+    "website": "https://rekreatelab.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6974881,
+      "lng": -73.9796294
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11496610721210546502",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:47.041Z"
+  },
+  {
+    "place_id": "0x89c2611453f627a1:0x80c0f90fcb565f44",
+    "name": "Cadets marketing llc",
+    "category": "Marketing consultant",
+    "phone": "(209) 312-1482",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6507535,
+      "lng": -73.8711404
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9277689078614482756",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:47.342Z"
+  },
+  {
+    "place_id": "0x898814b92d0a83b:0xb0aa884a31cd9a28",
+    "name": "ZSI Marketing",
+    "category": "Marketing agency",
+    "phone": "(833) 711-4030",
+    "website": "https://marketing.zsi.ai/",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7563148,
+      "lng": -73.8845836
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12730137148960643624",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:47.475Z"
+  },
+  {
+    "place_id": "0x89c25fab2b5103c3:0x4954da8a1f36a586",
+    "name": "Muhamed Digital Marketing",
+    "category": "Marketing agency",
+    "website": "https://muhamed.ueniweb.com/",
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.6507535,
+      "lng": -73.8711404
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5284088549576451462",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:47.540Z"
+  },
+  {
+    "place_id": "0x89c25e4df2aa9d6d:0xbde57c8a143e4bfc",
+    "name": "New York Backdrop Banners",
+    "category": "Print shop",
+    "address": "86-35 Queens Blvd, Elmhurst, NY 11373",
+    "phone": "(718) 915-7368",
+    "website": "http://www.newyorkbackdropbanners.com/",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.736401099999995,
+      "lng": -73.8762254
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13683479975322078204",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:47.551Z"
+  },
+  {
+    "place_id": "0x4e99750d1402e115:0xe9762e7c278f700",
+    "name": "DB Digital Marketing",
+    "category": "Marketing agency",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1051417785553975040",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:47.589Z"
+  },
+  {
+    "place_id": "0x808581e9a12555c7:0xe08604aff1829972",
+    "name": "Jives Media",
+    "category": "Marketing agency",
+    "address": "100 Van Ness Ave Unit 2213, San Francisco, CA 94102",
+    "phone": "(650) 420-7455",
+    "website": "https://www.jivesmedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 37.7766427,
+      "lng": -122.4192126
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16178623865092741490",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@jivesmedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@jivesmedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:47.656Z"
+  },
+  {
+    "place_id": "0x44096d03fd4194ad:0xfedf664673b04156",
+    "name": "Lumen Leads",
+    "category": "Marketing agency",
+    "phone": "(350) 900-6113",
+    "website": "https://lumenleads.live/",
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18365510258214846806",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:58.245Z"
+  },
+  {
+    "place_id": "0x89c261189b3897ed:0x5d0cbd5a64077fd0",
+    "name": "Fabulous Opportunities & Online Offers",
+    "category": "Internet marketing service",
+    "phone": "(315) 658-7417",
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6704942141170745296",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:58.269Z"
+  },
+  {
+    "place_id": "0x89c25e956d84b5cf:0xd86459ba2a19c21c",
+    "name": "Andy's Italian Ices NYC Commissary",
+    "category": "Marketing agency",
+    "address": "58-19 Maspeth Ave, Maspeth, NY 11378",
+    "phone": "(855) 762-6397",
+    "website": "http://www.andysitalianicesnyc.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.723304299999995,
+      "lng": -73.9112095
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15592686465968620060",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:58.306Z"
+  },
+  {
+    "place_id": "0x404fd0a8ce2cd78b:0xa20e85ff698f1e46",
+    "name": "Kingdom Body",
+    "category": "Marketing agency",
+    "phone": "(315) 544-8135",
+    "website": "https://app.thekingdombody.com/",
+    "hours": {
+      "Tuesday": "7 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 32.778774,
+      "lng": -79.74554859999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11677418215852416582",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:58.362Z"
+  },
+  {
+    "place_id": "0xa9bdf553006e06b1:0xc50bba1e9333c79d",
+    "name": "Empire Digital",
+    "category": "Marketing agency",
+    "phone": "(347) 924-0466",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14198646890697050013",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:58.397Z"
+  },
+  {
+    "place_id": "0x4bc53b0d496ed8e5:0xa952763dc9af84a2",
+    "name": "VitalLife Marketing",
+    "category": "Marketing agency",
+    "phone": "(646) 956-7032",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.351710499999996,
+      "lng": -78.22562599999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12200944348248900770",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:58.416Z"
+  },
+  {
+    "place_id": "0x89c25f929e196555:0xa05b644c0d3db3bd",
+    "name": "TCP Marketing/10K/Month",
+    "category": "Internet marketing service",
+    "phone": "(646) 266-3534",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11554939546751579069",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:58.460Z"
+  },
+  {
+    "place_id": "0x68e2cb5f1e327859:0xf872df746a058f42",
+    "name": "The New York Thrive",
+    "category": "Marketing agency",
+    "phone": "(347) 263-6686",
+    "website": "https://www.nythrive.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17902617159839092546",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:58.570Z"
+  },
+  {
+    "place_id": "0x89c261161ea81313:0xf36bc78b04c4d84a",
+    "name": "Content Marketing For Small Businesses | Alivia Massimillo",
+    "category": "Marketing agency",
+    "website": "https://aliviamassimillo.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.818909,
+      "lng": -73.05752199999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17540332573618919498",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:02.464Z"
+  },
+  {
+    "place_id": "0x68fed04fcec715c1:0xf8bebbf17b70b4ac",
+    "name": "Sin Dee NYC",
+    "category": "Media company",
+    "phone": "(347) 527-1093",
+    "website": "http://www.sindeenyc.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17923970212813649068",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:02.483Z"
+  },
+  {
+    "place_id": "0x6ada50950e3ec5c5:0x51be973deef8c9d2",
+    "name": "JG Marketing",
+    "category": "Marketing agency",
+    "phone": "(347) 256-1545",
+    "hours": {
+      "Tuesday": "4–10 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5890311654905268690",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:02.501Z"
+  },
+  {
+    "place_id": "0x6dade1e34847bef:0xb2c087de24ca9b53",
+    "name": "JT Marketing",
+    "category": "Marketing agency",
+    "phone": "(347) 551-2004",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12880444322449365843",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:02.556Z"
+  },
+  {
+    "place_id": "0x298ad6614e729895:0xbc933d479523c9f9",
+    "name": "Avia Digital",
+    "category": "Marketing agency",
+    "phone": "(917) 590-0736",
+    "website": "https://aviadigitalco.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7036855,
+      "lng": -73.8783995
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13588271878361041401",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:08.489Z"
+  },
+  {
+    "place_id": "0x89c25fca8f29d8cd:0x1f63facd46547a9f",
+    "name": "SD PRINTING & DESIGN INC.",
+    "category": "Commercial printer",
+    "address": "97-22 Christie Ave, Corona, NY 11368",
+    "phone": "(718) 393-2928",
+    "website": "http://www.sdprintingdesign.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.7403687,
+      "lng": -73.86453279999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2261927197425302175",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "letrerofast@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "letrerofast@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:08.532Z"
+  },
+  {
+    "place_id": "0x89c25fe19d82f5d7:0xcf8fa57848bc90c0",
+    "name": "NYC Restaurant Marketing Agency -Duqmarketing",
+    "category": "Marketing agency",
+    "phone": "(347) 352-4937",
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14956354823555682496",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:08.564Z"
+  },
+  {
+    "place_id": "0x4c59538b60d8bbdf:0xfe3a33011bb4b850",
+    "name": "Rococo Marketing",
+    "category": "Internet marketing service",
+    "phone": "(929) 832-7429",
+    "website": "https://www.instagram.com/rococomarketing/",
+    "hours": {
+      "Tuesday": "8:30 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18319010514135726160",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:08.653Z"
+  },
+  {
+    "place_id": "0x89c25f90ceeeb64b:0x278d17e73040c2b2",
+    "name": "Staples Print & Marketing Services",
+    "category": "Print shop",
+    "address": "51-10 Broadway, Woodside, NY 11377",
+    "phone": "(718) 932-9673",
+    "website": "https://stores.staples.com/ny/woodside/51-10-broadway/print-and-marketing-services?cmpid=st_ll_goo&cid=LS:RETAIL:G&utm_source=google&utm_medium=organic&utm_campaign=Google_Business_Listing",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "8 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.753880599999995,
+      "lng": -73.9089467
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2849960420909826738",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:08.672Z"
+  },
+  {
+    "place_id": "0x89c244c3ffffff89:0x99aa2903f7f61b57",
+    "name": "QCR Technologies Inc.",
+    "category": "Marketing agency",
+    "phone": "(929) 346-6529",
+    "website": "https://www.qcrtechnologies.com/",
+    "rating": 3,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11072707730865527639",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@qcrtechnologies.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@qcrtechnologies.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:08.692Z"
+  },
+  {
+    "place_id": "0xa1c4137798a69145:0xf80b3051077a6ddf",
+    "name": "Adwin Digital",
+    "category": "Website designer",
+    "phone": "(917) 470-2855",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.6507535,
+      "lng": -73.8711404
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17873432670725893599",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:08.852Z"
+  },
+  {
+    "place_id": "0x2ddea851c1910327:0xf1eaa15bbeb70973",
+    "name": "Infinity Software & Consulting LLC",
+    "category": "Software company",
+    "phone": "(646) 543-3890",
+    "website": "http://www.infinitysoftx.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17431922723104688499",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "infinitysoft151@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "infinitysoft151@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:08.891Z"
+  },
+  {
+    "place_id": "0x4c3a4c521ad88ef7:0x2e7da231fb05e61a",
+    "name": "Villa Media Co.",
+    "category": "Internet marketing service",
+    "phone": "(929) 685-2692",
+    "hours": {
+      "Tuesday": "3–9 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3350012033382082074",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:12.434Z"
+  },
+  {
+    "place_id": "0x89c25f1fbcff2ebd:0x8db468f56e9a9246",
+    "name": "Mission Atlas",
+    "category": "Website designer",
+    "phone": "(347) 724-6120",
+    "website": "https://www.missionatlas.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.825517,
+      "lng": -72.951719
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10210901658487657030",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "seattle@missionatlas.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "seattle@missionatlas.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "nyc@missionatlas.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "la@missionatlas.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "miami@missionatlas.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "chicago@missionatlas.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:12.461Z"
+  },
+  {
+    "place_id": "0x89c25e116c3c24b9:0x1bd07f4ec494834c",
+    "name": "Staples Print & Marketing Services",
+    "category": "Print shop",
+    "address": "90-30 Metropolitan Ave Ste 3, Rego Park, NY 11374",
+    "phone": "(718) 459-1295",
+    "website": "https://stores.staples.com/ny/rego-park/9030-metropolitan-ave-suite-3/print-and-marketing-services?cmpid=st_ll_goo&cid=LS:RETAIL:G&utm_source=google&utm_medium=organic&utm_campaign=Google_Business_Listing",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "8 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.711018599999996,
+      "lng": -73.8583106
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2004241810462114636",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:12.506Z"
+  },
+  {
+    "place_id": "0x89c25f98fcbebccd:0x4faff797955d2eaf",
+    "name": "SocialProofNow",
+    "category": "Internet marketing service",
+    "phone": "(877) 977-6632",
+    "website": "https://socialproofnow.com/",
+    "rating": 2.3,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5742080280338706095",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:12.522Z"
+  },
+  {
+    "place_id": "0xce9a31a25caeec9:0x9442df14f069fced",
+    "name": "Markitude",
+    "category": "Marketing consultant",
+    "phone": "(347) 730-1296",
+    "website": "https://markitude.tech/",
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10683346547102055661",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "markitude.tech@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "markitude.tech@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:12.557Z"
+  },
+  {
+    "place_id": "0x89c25e163a6fffff:0xd8cf60912ee9e490",
+    "name": "Branding and Marketing Group, Inc.",
+    "category": "Marketing consultant",
+    "phone": "(917) 687-3900",
+    "website": "http://www.drjohntantillo.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15622811809045144720",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "doc@johntantillo.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "doc@johntantillo.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:12.592Z"
+  },
+  {
+    "place_id": "0x2e8aa93b4f4d7431:0x76b21de08552d32b",
+    "name": "Leya Y Photography",
+    "category": "Marketing consultant",
+    "phone": "(212) 597-2677",
+    "website": "http://leyayphotography.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8552931492476670763",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "leya@leyayphotography.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "leya@leyayphotography.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:12.658Z"
+  },
+  {
+    "place_id": "0x89c261b198f784d3:0xfa2026ddc9fc45f5",
+    "name": "Marketing Portal",
+    "category": "Local government office",
+    "address": "61-43 186th St, Fresh Meadows, NY 11365",
+    "phone": "(718) 303-2270",
+    "website": "https://www.marketingportal.com/contacts",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7390782,
+      "lng": -73.7876333
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18023448442755106293",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@marketingportal.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@marketingportal.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:12.693Z"
+  },
+  {
+    "place_id": "0x1326cb7da22673b:0xb89b266f3a398870",
+    "name": "Tables Hub - Local Restaurant Marketing Agency",
+    "category": "Marketing agency",
+    "phone": "(917) 302-2005",
+    "website": "https://tableshub.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6843589,
+      "lng": -73.8783995
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13302268183528966256",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:24.773Z"
+  },
+  {
+    "place_id": "0x4a3c4c9a381d2863:0x5d6d374f51ad2907",
+    "name": "Sherpa5 | AI Lab",
+    "category": "Marketing agency",
+    "phone": "(646) 394-9812",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 33.9233097,
+      "lng": -99.09108599999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6732097831801006343",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:24.791Z"
+  },
+  {
+    "place_id": "0xa9e14b9dc4424b4b:0xab6940e421212865",
+    "name": "Lumen Leads",
+    "category": "Marketing agency",
+    "phone": "(350) 900-6113",
+    "website": "https://lumenleads.live/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12351474801592838245",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:24.921Z"
+  },
+  {
+    "place_id": "0x89c25ec1d9ccf523:0x225845008c6e9cef",
+    "name": "Newspaper Advertising Department",
+    "category": "Advertising service",
+    "address": "54-60-, 54-86 58th St, Maspeth, NY 11378",
+    "phone": "(800) 515-8000",
+    "rating": 2.3,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.728428199999996,
+      "lng": -73.9126635
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2474803863898463471",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:33.640Z"
+  },
+  {
+    "place_id": "0x89c2597b01a80507:0xda7d6d0a9c5784ff",
+    "name": "Power Digital Marketing",
+    "category": "Internet marketing service",
+    "address": "407 Broome St 6th Floor, New York, NY 10013",
+    "phone": "(619) 501-1211",
+    "website": "https://powerdigitalmarketing.com/",
+    "rating": 2.6,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.720742099999995,
+      "lng": -73.99813069999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15743859764697203967",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:33.972Z"
+  },
+  {
+    "place_id": "0x89c2590057a3552f:0x939565f83cfde80d",
+    "name": "Sun & Moon Marketing Communications",
+    "category": "Advertising agency",
+    "address": "75 Broad St, New York, NY 10004",
+    "phone": "(212) 686-9600",
+    "website": "http://smmcnyc.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7046172,
+      "lng": -74.01123249999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10634518211954862093",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "hello@paceadv.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@paceadv.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:34.061Z"
+  },
+  {
+    "place_id": "0x89c259dad1cef473:0x815ddb93c35f9c69",
+    "name": "Found | Digital Marketing Agency New York",
+    "category": "Internet marketing service",
+    "address": "68 Greene St, New York, NY 10012",
+    "phone": "(212) 796-6926",
+    "website": "https://www.found.co.uk/digital-marketing-agency-new-york/?utm_source=local&utm_medium=organic&utm_campaign=us",
+    "hours": {
+      "Tuesday": "9 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7230858,
+      "lng": -74.0006774
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9321848231411293289",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@found.co.uk",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@found.co.uk",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:34.142Z"
+  },
+  {
+    "place_id": "0x89e82609107d0471:0xe8ccf76813eb9a97",
+    "name": "Thinkhouse",
+    "category": "Marketing agency",
+    "address": "20 Connelly Rd, Huntington, NY 11743",
+    "phone": "(631) 282-8226",
+    "website": "https://www.thinkhouse.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.8772168,
+      "lng": -73.3748605
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16775054738431122071",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:34.189Z"
+  },
+  {
+    "place_id": "0x89c2590a298be0d7:0x3339cdde44024336",
+    "name": "P3 Media",
+    "category": "E commerce agency",
+    "address": "85 Delancey St, New York, NY 10002",
+    "phone": "(844) 792-3995",
+    "website": "http://www.pthreemedia.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.718740499999996,
+      "lng": -73.9897616
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3691207724114264886",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "contact@pthreemedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@pthreemedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:34.260Z"
+  },
+  {
+    "place_id": "0x89c25a1698031faf:0x6c45dcf2aff80a7e",
+    "name": "OLIVER Agency",
+    "category": "Advertising agency",
+    "phone": "(212) 847-1275",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "8:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7801884864381717118",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:34.308Z"
+  },
+  {
+    "place_id": "0x8e2ace85a8a43edb:0x686fb96d37d8311e",
+    "name": "MarketiXpert",
+    "category": "Marketing agency",
+    "phone": "+91 81405 60108",
+    "website": "https://www.marketixpert.tech/",
+    "hours": {
+      "Tuesday": "9:30 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 14.157641199999999,
+      "lng": -74.9524576
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7525437381098877214",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:34.428Z"
+  },
+  {
+    "place_id": "0x89c261c622e360bb:0x1aa240a1c094908e",
+    "name": "Adwords Agency Queens",
+    "category": "Marketing agency",
+    "phone": "(718) 808-8751",
+    "website": "https://myadwordsagency.com/",
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.6507535,
+      "lng": -73.8711404
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1919167454678126734",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:43.310Z"
+  },
+  {
+    "place_id": "0x89c25b0047c8d90b:0x326fb1ac52de0890",
+    "name": "EMW Creative - Digital Marketing Agency",
+    "category": "Internet marketing service",
+    "address": "40 Ann St, New York, NY 10038",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.7104158,
+      "lng": -74.00718719999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3634318777994053776",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:43.409Z"
+  },
+  {
+    "place_id": "0x89e9d55e3488d1e1:0xdb861b25aecc8811",
+    "name": "SEO Company Long Island | Local Media Solutions",
+    "category": "Internet marketing service",
+    "address": "175 Broadhollow Rd Suite# 168, Melville, NY 11747",
+    "phone": "(516) 673-3800",
+    "website": "https://www.localmediasolutions.net/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.787140099999995,
+      "lng": -73.415083
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15818360589845825553",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "sales@localmediasolutions.net",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@localmediasolutions.net",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:43.439Z"
+  },
+  {
+    "place_id": "0x89c25bdb0a22d415:0x623e64cf22f0de6",
+    "name": "Vertacomai LLC",
+    "category": "Marketing agency",
+    "phone": "(570) 798-7443",
+    "website": "https://www.vertacomai.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=442450406567513574",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:43.573Z"
+  },
+  {
+    "place_id": "0x89c25a3d49500e11:0xba81ab55f074b531",
+    "name": "RISE-",
+    "category": "Marketing agency",
+    "phone": "(917) 426-5409",
+    "website": "https://www.risethrough.io/",
+    "rating": 3,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -79.5417226
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13439211148645020977",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:43.596Z"
+  },
+  {
+    "place_id": "0x89c25a1fb9e67b37:0x1c0e17303c174743",
+    "name": "4 EON Inc",
+    "category": "Marketing agency",
+    "address": "60 Hudson St #1809, New York, NY 10013",
+    "phone": "(212) 913-9596",
+    "website": "http://www.4eon.net/",
+    "rating": 3,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7177206,
+      "lng": -74.00867629999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2021578778669958979",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@4eon.net",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@4eon.net",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:43.708Z"
+  },
+  {
+    "place_id": "0x89c259a79d0d4a0b:0x98a55bfb8ce3db6e",
+    "name": "CB/I Digital",
+    "category": "Internet marketing service",
+    "address": "85 Broad St 17th floor, New York, NY 10004",
+    "phone": "(929) 232-2848",
+    "website": "https://www.cbidigital.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7040881,
+      "lng": -74.0112022
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10999298800880966510",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@cbidigital.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@cbidigital.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:43.814Z"
+  },
+  {
+    "place_id": "0x89c25a112eb40b29:0x93a86a410d4b5c1a",
+    "name": "BlueSwitch eCommerce Agency | Shopify Platinum Partner",
+    "category": "Marketing agency",
+    "address": "29 Broadway, New York, NY 10006",
+    "phone": "(212) 742-2770",
+    "website": "https://www.blueswitch.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.7060465,
+      "lng": -74.0134465
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10639870947291257882",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "info@blueswitch.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@blueswitch.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:43.870Z"
+  },
+  {
+    "place_id": "0x26b0d099af180743:0x24a0e0cb862d8f9c",
+    "name": "Q4 Scaling",
+    "category": "Marketing agency",
+    "phone": "(929) 235-8092",
+    "website": "https://q4scaling.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.778051999999995,
+      "lng": -73.5683375
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2639356546373226396",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "contact@q4scaling.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@q4scaling.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:49.545Z"
+  },
+  {
+    "place_id": "0x89c25bcdad6533e5:0x68cc33478ec754c5",
+    "name": "SolutionFlows",
+    "category": "Internet marketing service",
+    "address": "111 Broadway, New York, NY 10006",
+    "phone": "(347) 948-9085",
+    "website": "https://www.solutionflows.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.708522699999996,
+      "lng": -74.0112146
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7551467057624601797",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "hello@solutionflows.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@solutionflows.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:49.606Z"
+  },
+  {
+    "place_id": "0x84ad982a5f90b529:0x235e4797be56a730",
+    "name": "Skylinkx Marketing LLC",
+    "category": "Marketing agency",
+    "phone": "(929) 672-2017",
+    "website": "https://skylinkxllc.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.7058384,
+      "lng": -74.0080675
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2548553156197263152",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:49.695Z"
+  },
+  {
+    "place_id": "0x886464303f6c362f:0x694bae9738d5a674",
+    "name": "ARTMAGIC LABS",
+    "category": "Marketing agency",
+    "website": "https://artmagiclabs.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7587349961752553076",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:49.764Z"
+  },
+  {
+    "place_id": "0x89c25f39a0a0d8a9:0xccb09fcc600f910",
+    "name": "LaVilla Labs",
+    "category": "Design agency",
+    "phone": "(646) 907-9838",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=921841529985759504",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:37:03.059Z"
+  },
+  {
+    "place_id": "0x2786675689a7085f:0x7d6781f2c81daaec",
+    "name": "DNF Marketing",
+    "category": "Marketing agency",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9036334057081645804",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:37:03.165Z"
+  },
+  {
+    "place_id": "0x8f842a1f2783d14b:0xc9b3d272363e37da",
+    "name": "North Star Web Design 北极星科技",
+    "category": "Marketing agency",
+    "phone": "(631) 931-6363",
+    "website": "http://nstars.net/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14534191810432874458",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "email": "moonh14134@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "moonh14134@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:37:03.186Z"
+  },
+  {
+    "place_id": "0x6245db27c59808c9:0xd97d426e21d4409a",
+    "name": "US Dragon Direct Sales Ltd.",
+    "category": "Marketing consultant",
+    "phone": "(646) 894-9684",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15671755319100588186",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:37:03.268Z"
+  },
+  {
+    "place_id": "0x89c25f8005d1b9d7:0x39708124fc56fac4",
+    "name": "BROOKLYN MADE CORP.",
+    "category": "Promotional products supplier",
+    "phone": "(718) 587-0633",
+    "website": "https://brooklynmadeco.espwebsite.com/",
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 41.0759484,
+      "lng": -73.858556
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4138950053405850308",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:37:03.288Z"
+  },
+  {
+    "place_id": "0x28946db9a4f3e6d9:0x20e1753a19947f19",
+    "name": "Gather & Growth Media",
+    "category": "Marketing agency",
+    "phone": "(929) 302-9215",
+    "website": "https://www.gatherngrowth.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 33.3133735,
+      "lng": -77.00938839999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2369303771371306777",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:37:03.355Z"
+  },
+  {
+    "place_id": "0x89c25fd05acbb879:0xe82ceb18f9adb103",
+    "name": "EEI Marketing",
+    "category": "Marketing agency",
+    "phone": "(929) 344-9199",
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.419584,
+      "lng": -73.6705386
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16730005208275202307",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:37:03.377Z"
+  },
+  {
+    "place_id": "0xe589e508a244e9b:0x1b16c223e7bc9386",
+    "name": "Site for Christ",
+    "category": "Marketing agency",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1951960947979228038",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:37:03.461Z"
+  },
+  {
+    "place_id": "0x8cb9f52ababadb2f:0x29992eeb2d1e5b2d",
+    "name": "Queens Customs NYC",
+    "category": "Promotional products supplier",
+    "phone": "(646) 504-0608",
+    "website": "https://www.queenscustomsnyc.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6971415,
+      "lng": -73.979506
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2997478614600932141",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:37:07.571Z"
+  },
+  {
+    "place_id": "0x4564fb7f51dba24f:0x99f1194c11e06ea2",
+    "name": "JK ALPHA SERVICES LLC",
+    "category": "Internet marketing service",
+    "phone": "(347) 761-5614",
+    "website": "http://jkalphaservices.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11092675171698372258",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:37:07.640Z"
+  },
+  {
+    "place_id": "0x8a05791ff22dc5e7:0x8ac6bf3ebf1fedf6",
+    "name": "Elvis Digital Services",
+    "category": "Marketing agency",
+    "phone": "(929) 487-9314",
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.6507535,
+      "lng": -73.8711404
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9999890298838183414",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Queens, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:37:07.665Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 200,
+    "places_charged": 64,
+    "places_skipped_closed": 0,
+    "places_no_email": 136,
+    "total_emails_verified": 83,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T07:37:08.475Z",
+    "requests": 312,
+    "delivered": 64,
+    "est_spend_usd": 0.2496,
+    "est_revenue_usd": 0.512,
+    "profit_guard_tripped": false
+  },
+  {
+    "_type": "info",
+    "delivered": 64,
+    "message": "64 leads delivered. This row is informational — it is never billed.",
+    "schedule_tip": "Want this refreshed automatically? Apify Console -> this Actor -> Schedules -> Add schedule -> pick how often (e.g. daily) -> Save. It reruns with the same input on autopilot, no code required.",
+    "review_tip": "Found this useful? A quick Store review helps other buyers find it: https://apify.com/themineworks/maps-leads#reviews",
+    "scraped_at": "2026-09-22T07:37:08.681Z"
+  }
+]

@@ -1,0 +1,2164 @@
+[
+  {
+    "place_id": "0x89c24b1e2f2115fd:0x417a061679316043",
+    "name": "Zero BS Digital Marketing",
+    "category": "Marketing agency",
+    "address": "98 Redwood Loop, Staten Island, NY 10309",
+    "phone": "(917) 979-9978",
+    "website": "https://www.zerobsdigital.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.5471134,
+      "lng": -74.2137623
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4718090253216342083",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "info@zerobsdigital.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@zerobsdigital.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:43.765Z"
+  },
+  {
+    "place_id": "0x89c24ef9fe4bded3:0xf6fe779374fb7973",
+    "name": "Tom&Co.",
+    "category": "Website designer",
+    "address": "18 Hervey St, Staten Island, NY 10309",
+    "phone": "(718) 273-3070",
+    "website": "https://tomco.co/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.553239999999995,
+      "lng": -74.2169937
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17797794252621314419",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:44.052Z"
+  },
+  {
+    "place_id": "0x89c24fa8f12b6627:0x88df394a9a260578",
+    "name": "Flowium",
+    "category": "Marketing agency",
+    "address": "57 Beach St Ste 306, Staten Island, NY 10304",
+    "phone": "(347) 683-5586",
+    "website": "http://flowium.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6282263,
+      "lng": -74.0779737
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9862664701541221752",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:44.074Z"
+  },
+  {
+    "place_id": "0x89c24b7c330fb813:0x83c9b2159b03da82",
+    "name": "PPC Digital Marketing Agency Staten Island",
+    "category": "Marketing agency",
+    "phone": "(929) 265-5727",
+    "website": "https://myadwordsagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.565944099999996,
+      "lng": -74.1278185
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9496317095152179842",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:44.122Z"
+  },
+  {
+    "place_id": "0x89c24bcb6ceb024b:0xadbaa3ed6c7297a3",
+    "name": "Insight Media",
+    "category": "Marketing agency",
+    "address": "847 Annadale Rd, Staten Island, NY 10312",
+    "phone": "(718) 710-0428",
+    "website": "https://insightsolutionsmedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.5411438,
+      "lng": -74.1769856
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12518498354351740835",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "info@insightsolutionsmedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@insightsolutionsmedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:44.155Z"
+  },
+  {
+    "place_id": "0x89c24c515b7fdca9:0x24d74c3282b986ba",
+    "name": "Smash Media",
+    "category": "Website designer",
+    "address": "395 Hillman Ave, Staten Island, NY 10314",
+    "phone": "(646) 201-3586",
+    "website": "http://www.smashmedianyc.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–2 PM"
+    },
+    "coordinates": {
+      "lat": 40.6129183,
+      "lng": -74.1613181
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2654674285183469242",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:44.210Z"
+  },
+  {
+    "place_id": "0x89c24c45355f6289:0xac04d966be17e71",
+    "name": "Relevant Public Relations, LLC",
+    "category": "Marketing agency",
+    "address": "1150 South Ave Ste 303, Staten Island, NY 10314",
+    "phone": "(718) 682-1509",
+    "website": "http://www.relevantpr.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "7 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.611982999999995,
+      "lng": -74.177753
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=774704444358098545",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:44.236Z"
+  },
+  {
+    "place_id": "0x89c24b1f830f5a21:0xe07727f86c3002ed",
+    "name": "Reach Media Corp.",
+    "category": "Marketing agency",
+    "address": "Staten Island, NY 10312",
+    "phone": "(347) 695-7957",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.578618899999995,
+      "lng": -74.1538753
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16174440534644884205",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:32:44.294Z"
+  },
+  {
+    "place_id": "0x89c24b7e471130ff:0x37fff04d6a431ed3",
+    "name": "XOMD | Digital Marketing Agency",
+    "category": "Marketing agency",
+    "address": "26 Serrell Ave, Staten Island, NY 10312",
+    "phone": "(833) 611-1477",
+    "website": "http://www.xomd.net/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.547469199999995,
+      "lng": -74.16799999999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4035208006433185491",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:48.974Z"
+  },
+  {
+    "place_id": "0x89c24ab2df9ae39b:0xcdacbc54096b9979",
+    "name": "Mindsaw",
+    "category": "Internet marketing service",
+    "address": "900 South Ave, Staten Island, NY 10314",
+    "phone": "(718) 227-2300",
+    "website": "https://mindsaw.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-website-link",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 40.617025,
+      "lng": -74.172657
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14820427542890781049",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:48.999Z"
+  },
+  {
+    "place_id": "0x89c24f026a743533:0xd4e57001332f816e",
+    "name": "World Media Marketing Agency, Inc.",
+    "category": "Marketing agency",
+    "address": "653 Hylan Blvd, Staten Island, NY 10305",
+    "phone": "(646) 504-4185",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.603482,
+      "lng": -74.075553
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15340790856163492206",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:32:49.072Z"
+  },
+  {
+    "place_id": "0x89c24e6e7f55e583:0x485f8a130668494b",
+    "name": "Valpak of Staten Island & Greater Brooklyn",
+    "category": "Advertising agency",
+    "address": "4553 Arthur Kill Rd, Staten Island, NY 10309",
+    "phone": "(718) 448-0101",
+    "website": "http://www.valpaksi.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.532055199999995,
+      "lng": -74.2395061
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5215038707834833227",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "inquiry@valpaksi.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "inquiry@valpaksi.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:49.094Z"
+  },
+  {
+    "place_id": "0x89c24d339267b737:0x6f179fa2f06218fd",
+    "name": "Marketing Company Staten Island",
+    "category": "Marketing agency",
+    "phone": "(516) 344-8748",
+    "website": "http://myadwordsagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.5646056,
+      "lng": -74.1468185
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8005042384840825085",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:49.187Z"
+  },
+  {
+    "place_id": "0x89c24f05965cd4db:0x9638f10969bb4922",
+    "name": "Joya Digital",
+    "category": "Marketing agency",
+    "address": "141 Freedom Ave, Staten Island, NY 10314",
+    "website": "https://joyadigital.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.5952802,
+      "lng": -74.1633446
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10824666727115868450",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "info@joyadigital.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@joyadigital.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:49.271Z"
+  },
+  {
+    "place_id": "0x89c24d34442eac01:0xb9fcf69ad22c825f",
+    "name": "Adwords Company Staten Island",
+    "category": "Marketing agency",
+    "phone": "(516) 344-8748",
+    "website": "https://myadwordsagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.600807499999995,
+      "lng": -74.159099
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13401857735959282271",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:49.339Z"
+  },
+  {
+    "place_id": "0x89c24b74abf6f15d:0x38190153ba5ad13f",
+    "name": "Social Media Marketing Agency Staten Island",
+    "category": "Marketing agency",
+    "phone": "(929) 265-5727",
+    "website": "http://myadwordsagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.5518064,
+      "lng": -74.1497495
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4042263599662158143",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:49.382Z"
+  },
+  {
+    "place_id": "0x89c24fb4acd49b5b:0xd29053f26e70a1a1",
+    "name": "aWHERE Media",
+    "category": "Marketing agency",
+    "address": "243 Wardwell Ave #8D, Staten Island, NY 10314",
+    "phone": "(848) 863-9973",
+    "website": "http://www.awheremedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 40.6173776,
+      "lng": -74.1327357
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15172719445311267233",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:56.658Z"
+  },
+  {
+    "place_id": "0x89c24fcaad07688f:0xce93005a2ebd078d",
+    "name": "Advantage Marketing Co",
+    "category": "Marketing",
+    "address": "480 Bay St, Staten Island, NY 10304",
+    "phone": "(718) 447-3311",
+    "website": "https://www.advantagemc.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10:30 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6304283,
+      "lng": -74.07715329999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14885241580720818061",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:56.685Z"
+  },
+  {
+    "place_id": "0x89c24e9943e80bcf:0xd855609f6bcf9381",
+    "name": "First Page Solutions Inc",
+    "category": "Internet marketing service",
+    "address": "95 Browning Ave, Staten Island, NY 10314",
+    "phone": "(888) 707-6826",
+    "website": "http://www.firstpagesolutions.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.5999088,
+      "lng": -74.1169534
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15588471923037672321",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:56.763Z"
+  },
+  {
+    "place_id": "0x89c24b0aedb1395d:0x981f709f6a076e1d",
+    "name": "Christine Fiorenza Advertising",
+    "category": "Advertising agency",
+    "address": "12 Eltingville Blvd, Staten Island, NY 10312",
+    "phone": "(347) 581-5022",
+    "website": "https://www.christinefiorenza.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9:30 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.544837199999996,
+      "lng": -74.1650303
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10961603848024059421",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:56.796Z"
+  },
+  {
+    "place_id": "0x89c24f9f811d164d:0xa40f3737340b5a08",
+    "name": "Moe digital marketing",
+    "category": "Marketing agency",
+    "address": "441 Castleton Ave, Staten Island, NY 10301",
+    "phone": "(347) 358-7853",
+    "hours": {
+      "Tuesday": "9 AM–2 PM"
+    },
+    "coordinates": {
+      "lat": 40.634138799999995,
+      "lng": -74.09700699999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11821728257106729480",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:11.332Z"
+  },
+  {
+    "place_id": "0x89c24c2a3fa8cf99:0x7bd20ac37f25bad6",
+    "name": "BetterBizWorks, LLC",
+    "category": "Website designer",
+    "address": "1855 Victory Blvd, Staten Island, NY 10314",
+    "phone": "(347) 619-0100",
+    "website": "http://betterbizworks.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6131546,
+      "lng": -74.1253377
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8922205646542453462",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:11.375Z"
+  },
+  {
+    "place_id": "0x89c2495b47089837:0x6303262b4a1bb5fe",
+    "name": "Charge Media Group - Internet Digital Marketing Company Staten Island | Web Designer | Best SEO Company | PPC Management",
+    "category": "Internet marketing service",
+    "address": "611 Midland Ave, Staten Island, NY 10306",
+    "phone": "(917) 379-2589",
+    "website": "https://chargemediagroup.com/",
+    "rating": 1,
+    "hours": {
+      "Tuesday": "7 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.571778599999995,
+      "lng": -74.09161139999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7134588202053776894",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:11.479Z"
+  },
+  {
+    "place_id": "0x6a43f5b1e2d7a13f:0xb2e61127b35dc37b",
+    "name": "Waypoint Agency",
+    "category": "Internet marketing service",
+    "phone": "(718) 569-8123",
+    "website": "https://waypoint.agency/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12891009845605286779",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:11.981Z"
+  },
+  {
+    "place_id": "0x89c24e7049b15dbd:0x50a43c16d30a0dc1",
+    "name": "G Baez Marketing",
+    "category": "Marketing agency",
+    "address": "241 Harvest Ave, Staten Island, NY 10310",
+    "phone": "(718) 644-6864",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.6272229,
+      "lng": -74.1138388
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5810835487942380993",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:12.073Z"
+  },
+  {
+    "place_id": "0x89c24d4621fa8477:0x1d270aeade131138",
+    "name": "Black Op Digital Marketing",
+    "category": "Marketing agency",
+    "address": "1110 South Ave Ste 303, Staten Island, NY 10314",
+    "phone": "(646) 974-1585",
+    "website": "https://blackopdigital.com/",
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.6139964,
+      "lng": -74.1769329
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2100659755056042296",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "ian.dahlberg@blackopdigital.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "ian.dahlberg@blackopdigital.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "sales@blackopdigital.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:12.214Z"
+  },
+  {
+    "place_id": "0x865c69d0f28653d5:0x19d7f02f87c8a2f6",
+    "name": "Louie Logos Graphic & Web Design Studio",
+    "category": "Website designer",
+    "phone": "(646) 543-4778",
+    "website": "http://louielogos.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1862221057873191670",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:12.493Z"
+  },
+  {
+    "place_id": "0x89c24bac9d9c73f7:0xa012d4376d4f5974",
+    "name": "Ivy Branding and Marketing Group",
+    "category": "Marketing agency",
+    "address": "12 Eltingville Blvd, Staten Island, NY 10312",
+    "phone": "(718) 356-2867",
+    "hours": {
+      "Tuesday": "8:30 AM–4:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.544832799999995,
+      "lng": -74.1650344
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11534514930171468148",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:12.521Z"
+  },
+  {
+    "place_id": "0x885da6db3789d9f:0x50ab8fe61924ec30",
+    "name": "Highlighting Staten Island",
+    "category": "Marketing agency",
+    "phone": "(917) 716-1496",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.5646056,
+      "lng": -74.1468185
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5812897962478857264",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:19.503Z"
+  },
+  {
+    "place_id": "0x89c24ffb5831bf0b:0x9d272944454f3fd0",
+    "name": "Current Level Marketing",
+    "category": "Website designer",
+    "address": "2218 Hylan Blvd, Staten Island, NY 10306",
+    "phone": "(718) 593-4052",
+    "website": "https://currentlvl.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.5762366,
+      "lng": -74.1032919
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11324065161243738064",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:19.524Z"
+  },
+  {
+    "place_id": "0x89c2494d00f205f9:0x55448fe35a4df6d4",
+    "name": "StatenWeb",
+    "category": "Website designer",
+    "address": "2744 Hylan Blvd Suite 535, Staten Island, NY 10306",
+    "phone": "(718) 569-8123",
+    "website": "https://statenweb.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "7 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.564457499999996,
+      "lng": -74.11385059999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6144193998275606228",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "notices@statenweb.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "notices@statenweb.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "contact@statenweb.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:19.613Z"
+  },
+  {
+    "place_id": "0x89c24fd2be6b6165:0xf6fff7f17ad83b41",
+    "name": "ISwift Marketing Group inc",
+    "category": "Marketing agency",
+    "address": "61 Bay St, Staten Island, NY 10305",
+    "phone": "(929) 598-7312",
+    "website": "https://iswiftmarketing.com/contact-us",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6406323,
+      "lng": -74.0754551
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17798216868911659841",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "admin@nowtrueconsulting.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "admin@nowtrueconsulting.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:19.688Z"
+  },
+  {
+    "place_id": "0x89c24d3033ddd571:0x46afd56f59ebd3eb",
+    "name": "Website Design Agency Staten Island | Website Design Services",
+    "category": "Marketing agency",
+    "phone": "(516) 344-8748",
+    "website": "http://myadwordsagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.6293495,
+      "lng": -74.1374469
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5093524377806033899",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:19.776Z"
+  },
+  {
+    "place_id": "0x89c24fcfc3f3f6c3:0x5d4f71a666ce3438",
+    "name": "Online Marketing Agency Staten Island",
+    "category": "Marketing agency",
+    "phone": "(929) 265-5727",
+    "website": "http://myadwordsagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.5646056,
+      "lng": -74.1468185
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6723717728190739512",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:19.798Z"
+  },
+  {
+    "place_id": "0x89c24b384bd30acd:0x1fbbe2ab4e34d684",
+    "name": "Mustang Rd Marketing",
+    "category": "Marketing consultant",
+    "address": "88 E Macon Ave, Staten Island, NY 10312",
+    "website": "https://mustang-rd-marketing.ueniweb.com/?utm_campaign=gmb",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.5583561,
+      "lng": -74.1627827
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2286670461200029316",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:19.872Z"
+  },
+  {
+    "place_id": "0x89c24ff9212686d9:0xb8e4102cf8889c89",
+    "name": "Advertising Agency Staten Island",
+    "category": "Marketing agency",
+    "phone": "(929) 265-5727",
+    "website": "https://myadwordsagency.com/",
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.5970629,
+      "lng": -74.07669589999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13322791383003077769",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:19.905Z"
+  },
+  {
+    "place_id": "0x89c24c8d5bbba685:0xef3ce8350cfd3294",
+    "name": "Staten Island Media Group",
+    "address": "1441 South Ave, Staten Island, NY 10314",
+    "phone": "(718) 816-2804",
+    "website": "https://www.statenislandmediagroup.com/contact/",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6042323,
+      "lng": -74.1822202
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17238908788216246932",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:22.651Z"
+  },
+  {
+    "place_id": "0x89c24e6bf55daaab:0x66e39594ae9a3402",
+    "name": "ImpressionMedia",
+    "category": "Marketing agency",
+    "address": "480 Forest Ave, Staten Island, NY 10310",
+    "website": "http://impressionmedia.in/",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6302585,
+      "lng": -74.1063432
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7413933877399008258",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "info@impressionmedia.in",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@impressionmedia.in",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "careers@impressionmedia.in",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "media@impressionmedia.in",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:22.708Z"
+  },
+  {
+    "place_id": "0x89c24ee96e6cff15:0xf5f7200cc12580d2",
+    "name": "webdesignluxe.com is almost here!",
+    "category": "Marketing agency",
+    "address": "66 Mark St, Staten Island, NY 10304",
+    "phone": "(888) 999-0000",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.5957983,
+      "lng": -74.0935882
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17723670097692033234",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:22.761Z"
+  },
+  {
+    "place_id": "0x89c24d4b35e243d7:0x5530800760d1c682",
+    "name": "We're Live Consulting",
+    "category": "Internet marketing service",
+    "address": "45 Jardine Ave, Staten Island, NY 10314",
+    "phone": "(917) 829-0403",
+    "website": "http://www.wereliveconsulting.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.5952366,
+      "lng": -74.1827148
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6138547061283473026",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:37.244Z"
+  },
+  {
+    "place_id": "0x89c24c3ba137eff5:0xfab4d0e770b11908",
+    "name": "REGAM AGENCY",
+    "category": "Marketing agency",
+    "address": "820 Westwood Ave, Staten Island, NY 10314",
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.60546,
+      "lng": -74.138949
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18065293697736579336",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:37.268Z"
+  },
+  {
+    "place_id": "0x89c24fb74a7800c1:0x8c5fb30dc0932942",
+    "name": "The Website Wizard",
+    "category": "Marketing agency",
+    "address": "698 Forest Ave, Staten Island, NY 10310",
+    "phone": "(212) 287-6079",
+    "website": "https://forms.gle/x5z7MFnSZVAt3dVY8",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6292324,
+      "lng": -74.1124571
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10115000159744239938",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:37.292Z"
+  },
+  {
+    "place_id": "0x89c24ff1f74b3ba1:0x33f183cc4d1f5740",
+    "name": "Yourgateway.co",
+    "category": "Marketing agency",
+    "address": "32 Delaware St, Staten Island, NY 10304",
+    "hours": {
+      "Tuesday": "2:30–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.5943657,
+      "lng": -74.10094029999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3742917678812059456",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:37.316Z"
+  },
+  {
+    "place_id": "0x89c24dd04f0e4d27:0x512f970ce782d848",
+    "name": "BillboardConnection",
+    "category": "Advertising agency",
+    "address": "1324 Forest Ave #258, Staten Island, NY 10302",
+    "phone": "(908) 291-7941",
+    "website": "http://billboardconnection.com/",
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.626025999999996,
+      "lng": -74.13376
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5850060522657077320",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:37.356Z"
+  },
+  {
+    "place_id": "0x89c24bbeacbb0001:0x6ef0509c7976578c",
+    "name": "Horizon Media Marketing",
+    "category": "Marketing agency",
+    "address": "208 Giffords Ln, Staten Island, NY 10308",
+    "phone": "(929) 241-6352",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.5563844,
+      "lng": -74.15293199999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7993977971565549452",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:37.379Z"
+  },
+  {
+    "place_id": "0x89c24e57bdfb7a9d:0x63a9c9bd668a956d",
+    "name": "PerfekTech Solutions",
+    "category": "Website designer",
+    "address": "558 Richmond Rd, Staten Island, NY 10306",
+    "phone": "(718) 804-5501",
+    "website": "http://perfektech.com/",
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.613068299999995,
+      "lng": -74.08715579999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7181492896125326701",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:37.434Z"
+  },
+  {
+    "place_id": "0x89c24e7e4f1681a9:0x5e2bb6d41c57d9f2",
+    "name": "Reciprocal Results Inc.",
+    "category": "Advertising agency",
+    "address": "193 Rice Ave, Staten Island, NY 10314",
+    "phone": "(718) 370-3977",
+    "website": "http://www.reciprocalresults.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6177612,
+      "lng": -74.1204553
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6785718285688625650",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "roy@reciprocalresults.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "roy@reciprocalresults.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@reciprocalresults.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:37.472Z"
+  },
+  {
+    "place_id": "0x89c24f2f00d4790b:0x27a177a1a45580c0",
+    "name": "Marketing Services Staten Island",
+    "category": "Marketing agency",
+    "phone": "(516) 344-8748",
+    "website": "http://myadwordsagency.com/",
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.633334999999995,
+      "lng": -74.11729199999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2855695174860112064",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:49.684Z"
+  },
+  {
+    "place_id": "0x89c24d52aa8c98e5:0xa742064dab531a00",
+    "name": "KRYIA CONSULTING",
+    "category": "Marketing agency",
+    "address": "42 Degroot Pl, Staten Island, NY 10310",
+    "phone": "(646) 479-7863",
+    "website": "https://krystledaniels.ueniweb.com/?utm_campaign=gmb",
+    "hours": {
+      "Tuesday": "8 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 40.6352045,
+      "lng": -74.12493649999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12052202483453467136",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:49.720Z"
+  },
+  {
+    "place_id": "0x89c25b52d14c3e4b:0xa32e9849fa40bf4a",
+    "name": "9AM Performance Marketing Agency",
+    "category": "Marketing agency",
+    "address": "90 Broad St 2nd Floor, New York, NY 10004",
+    "phone": "(646) 553-1938",
+    "website": "https://nine.am/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7037765,
+      "lng": -74.01190319999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11758503120609525578",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "hello@nine.am",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@nine.am",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:49.753Z"
+  },
+  {
+    "place_id": "0x89c24c37e3be1b45:0x5fd30cafb78476a9",
+    "name": "Aaron Max Design",
+    "category": "Print shop",
+    "address": "5B Montauk Pl, Staten Island, NY 10314",
+    "website": "http://www.aaronmaxdesign.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6108829,
+      "lng": -74.1471979
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6904876602526824105",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:49.823Z"
+  },
+  {
+    "place_id": "0x89c24fade0231105:0xac172f3a8ff6dca9",
+    "name": "Creative Media",
+    "category": "Commercial printer",
+    "address": "66 Willow Ave, Staten Island, NY 10305",
+    "phone": "(718) 556-4200",
+    "website": "http://cmediaonline.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.618032899999996,
+      "lng": -74.071174
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12400432027557878953",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:49.843Z"
+  },
+  {
+    "place_id": "0x89c2490e7dd33e81:0x5f3dc0af7b909f34",
+    "name": "Mint Media - Web Design & Development",
+    "category": "Website designer",
+    "address": "2493 Richmond Rd, Staten Island, NY 10306",
+    "phone": "+1 438-797-7319",
+    "website": "https://www.mintmediaservices.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.575339799999995,
+      "lng": -74.1214956
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6862853267107389236",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:49.873Z"
+  },
+  {
+    "place_id": "0x89c24d649e5d81e1:0x225090ed8ad842ff",
+    "name": "AdsWithSpice",
+    "category": "Marketing consultant",
+    "address": "20 President St, Staten Island, NY 10314",
+    "phone": "(718) 576-2280",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6038742,
+      "lng": -74.1369105
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2472635545337479935",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:49.894Z"
+  },
+  {
+    "place_id": "0x89c245888bb984b7:0x20c5a723310a17e7",
+    "name": "Click Boost Pro - Home Services Marketing Agency",
+    "category": "Marketing agency",
+    "address": "3808 Seagate Ave, Brooklyn, NY 11224",
+    "phone": "(862) 829-1166",
+    "website": "https://clickboostpro.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.575451,
+      "lng": -74.0055102
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2361477349214132199",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:49.913Z"
+  },
+  {
+    "place_id": "0x4431846c8d084df1:0xed3291abef339882",
+    "name": "Plutus Media Agency - Website Design, SEO, and PPC",
+    "category": "Marketing agency",
+    "address": "1614 Neptune Ave, Brooklyn, NY 11224",
+    "phone": "(718) 400-6751",
+    "website": "https://www.plutusmedia.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.578702,
+      "lng": -73.9845869
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17091883703463024770",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "info@plutusadvertising.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@plutusadvertising.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:02.005Z"
+  },
+  {
+    "place_id": "0x89c24e772756293b:0x97404263436fc0c2",
+    "name": "R&L Press Inc",
+    "category": "Commercial printer",
+    "address": "896 Forest Ave, Staten Island, NY 10310",
+    "phone": "(718) 447-8557",
+    "website": "http://www.rlpressinc.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6284397,
+      "lng": -74.1192016
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10898784092337193154",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "info@rlpressinc.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@rlpressinc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:02.062Z"
+  },
+  {
+    "place_id": "0x89c24fade0231105:0xdab5270a433f3138",
+    "name": "Prompt Direct",
+    "category": "Marketing agency",
+    "address": "66 Willow Ave, Staten Island, NY 10305",
+    "phone": "(718) 447-6206",
+    "website": "http://www.promptdirectinc.com/",
+    "rating": 3,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6183996,
+      "lng": -74.0708745
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15759545396084289848",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:16.696Z"
+  },
+  {
+    "place_id": "0x89c25854e6aa136f:0x20cf9222f820b1e6",
+    "name": "Leadige Media Group",
+    "category": "Marketing agency",
+    "address": "1501 Broadway 12th floor, New York, NY 10036",
+    "phone": "(646) 303-7851",
+    "website": "https://leadige.agency/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7572283,
+      "lng": -73.9866322
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2364269008282235366",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "hello@leadige.agency",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@leadige.agency",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:16.728Z"
+  },
+  {
+    "place_id": "0x89c24bcb997b7f4d:0xa4712db0d88e584b",
+    "name": "Magicx",
+    "category": "Marketing agency",
+    "address": "248 Rose Ave, Staten Island, NY 10306",
+    "phone": "(718) 554-1383",
+    "website": "http://www.magicxstudios.com/",
+    "rating": 2.3,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.571672899999996,
+      "lng": -74.115331
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11849302332159187019",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:16.785Z"
+  },
+  {
+    "place_id": "0x89c24cf8ecb85c97:0x2b185fde76d97a83",
+    "name": "Advertise on Arabic TV",
+    "category": "Advertising agency",
+    "address": "1110 South Ave #403, Staten Island, NY 10314",
+    "phone": "(718) 227-7222",
+    "website": "http://www.reachmediatv.com/",
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6145983,
+      "lng": -74.1766938
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3105337352153299587",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:16.841Z"
+  },
+  {
+    "place_id": "0x89c24f515cd50953:0x3bdf46088fbe6e9d",
+    "name": "Amanah Studios",
+    "category": "Website designer",
+    "address": "58 Foch Ave, Staten Island, NY 10305",
+    "phone": "(212) 789-1077",
+    "website": "http://amanahstudios.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.5942156,
+      "lng": -74.0712965
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4314243970629529245",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "support@amanahstudios.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "support@amanahstudios.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:16.879Z"
+  },
+  {
+    "place_id": "0x89c24d1e5ccb649b:0xaa39995a22c11d0f",
+    "name": "Staten Solutions",
+    "category": "Website designer",
+    "address": "34 Clermont Pl, Staten Island, NY 10314",
+    "phone": "(347) 249-9323",
+    "website": "https://statensolutions.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "7 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.611624,
+      "lng": -74.1284233
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12266003672529444111",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:16.911Z"
+  },
+  {
+    "place_id": "0x89c24dc3aa772689:0xdf6cdf4d6a57810",
+    "name": "Metro Signs of S.I. Inc.",
+    "category": "Sign shop",
+    "address": "1646 Castleton Ave, Staten Island, NY 10302",
+    "phone": "(718) 273-3519",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8:30 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.635909999999996,
+      "lng": -74.138696
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1006218018220767248",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:16.990Z"
+  },
+  {
+    "place_id": "0x89c24f22474eb1b1:0xace5cac3702ba138",
+    "name": "ABCopywriting",
+    "category": "Marketing agency",
+    "address": "407 Father Capodanno Blvd, Staten Island, NY 10305",
+    "phone": "(917) 294-9274",
+    "website": "http://ab-copywriting.ru/",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.5876762,
+      "lng": -74.0696341
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12458586884939686200",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "admin@ab-copywriting.ru",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "admin@ab-copywriting.ru",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:17.015Z"
+  },
+  {
+    "place_id": "0x8beb0896fe547231:0x48450729948a5e8b",
+    "name": "WayDigit",
+    "category": "Software company",
+    "address": "57 Beach St Ste 306-b, Staten Island, NY 10304",
+    "website": "https://waydigit.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6282065,
+      "lng": -74.0779556
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5207576419290996363",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "info@waydigit.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@waydigit.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:21.806Z"
+  },
+  {
+    "place_id": "0x89c24fb5292bc78d:0xdbff84b35bc4f009",
+    "name": "Sign Art",
+    "category": "Sign shop",
+    "address": "651 Bay St, Staten Island, NY 10304",
+    "phone": "(718) 442-5941",
+    "website": "https://www.nycsigns.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.626123799999995,
+      "lng": -74.0751193
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15852535119241080841",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:21.904Z"
+  },
+  {
+    "place_id": "0x89c24c717819aaab:0xad81d7ef4b2b899f",
+    "name": "RocketLeads",
+    "category": "Marketing agency",
+    "address": "357 Travis Ave, Staten Island, NY 10314",
+    "phone": "(800) 434-3890",
+    "website": "https://rocketleads.app/contacts/",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.5886535,
+      "lng": -74.1540558
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12502511463315507615",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "info@rocketleads.app",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@rocketleads.app",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:21.939Z"
+  },
+  {
+    "place_id": "0x89c24dd04f588825:0x1cbb942c10b298f9",
+    "name": "Atlantique LLC DBAs Atlantique Network",
+    "category": "Multimedia and electronic book publisher",
+    "address": "1324 Forest Ave, Staten Island, NY 10302",
+    "website": "http://www.atlantiquellc.com/",
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.626039899999995,
+      "lng": -74.1337909
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2070411370686486777",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "info@atlantiquellc.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@atlantiquellc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:31.150Z"
+  },
+  {
+    "place_id": "0x89c249465b094663:0x77b39df806522beb",
+    "name": "US Presort",
+    "category": "Direct mail advertising",
+    "address": "3801 Victory Blvd #1, Staten Island, NY 10314",
+    "phone": "(718) 980-6556",
+    "website": "http://uspresort.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 40.597141199999996,
+      "lng": -74.1831263
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8625411399928130539",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:31.195Z"
+  },
+  {
+    "place_id": "0x89c24b109326524d:0xcae627d33e1a2ad3",
+    "name": "Josh dicounts",
+    "category": "Marketing agency",
+    "address": "4 Dina Ct, Staten Island, NY 10306",
+    "phone": "(718) 614-2608",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.5648882,
+      "lng": -74.1410906
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14620417028538378963",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:31.238Z"
+  },
+  {
+    "place_id": "0x89c24e6041bb6c6f:0x1ff6e0f7a949250c",
+    "name": "X4DC",
+    "category": "Website designer",
+    "phone": "(718) 273-3070",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6154134,
+      "lng": -74.10713249999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2303275613748274444",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:31.259Z"
+  },
+  {
+    "place_id": "0x89c24e0add3dac41:0x97b1fb5033d9655a",
+    "name": "The Sign Guy",
+    "category": "Sign shop",
+    "address": "139 Woodruff Ln, Staten Island, NY 10310",
+    "phone": "(718) 619-0153",
+    "website": "https://www.nycsigns.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.6377187,
+      "lng": -74.1218116
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10930794092490745178",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "sales@signsvisual.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@signsvisual.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "info@signsvisual.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:31.375Z"
+  },
+  {
+    "place_id": "0x89c25941d8e192fb:0x1af39e4c239ab91",
+    "name": "VMGROUPE",
+    "category": "Advertising agency",
+    "address": "50 W 17th St 3rd Floor, New York, NY 10011",
+    "phone": "(347) 273-1984",
+    "website": "https://vmgroupe.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.7387496,
+      "lng": -73.9947456
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=121379369636178833",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "newbusiness@vmgroupe.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "newbusiness@vmgroupe.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "careers@vmgroupe.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:31.772Z"
+  },
+  {
+    "place_id": "0x89c24d5b44695705:0x3e7aa370caa47503",
+    "name": "Adwords Agency Staten Island",
+    "category": "Marketing agency",
+    "phone": "(516) 344-8748",
+    "website": "https://myadwordsagency.com/",
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.6323739,
+      "lng": -74.17166639999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4502090482341672195",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:31.987Z"
+  },
+  {
+    "place_id": "0x89c24d90ef68cdcb:0x34d12059d951f3b",
+    "name": "Eagle Emblems & Graphics",
+    "category": "Graphic designer",
+    "address": "Staten Island, NY 10302",
+    "phone": "(877) 262-9673",
+    "website": "http://www.eagleemblems.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "11 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.6311495,
+      "lng": -74.13866279999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=237866170648436539",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "eagleemblemsandgraphics@yahoo.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "eagleemblemsandgraphics@yahoo.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:32.044Z"
+  },
+  {
+    "place_id": "0x89c24f01675d6497:0xe9996839b8d8cf1d",
+    "name": "Staples Print & Marketing Services",
+    "category": "Print shop",
+    "address": "1885 Hylan Blvd, Staten Island, NY 10305",
+    "phone": "(718) 987-5063",
+    "website": "https://stores.staples.com/ny/staten-island/1885-hylan-blvd./print-and-marketing-services?cmpid=st_ll_goo&cid=LS:RETAIL:G&utm_source=google&utm_medium=organic&utm_campaign=Google_Business_Listing",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.5838494,
+      "lng": -74.0962168
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16832599679397580573",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:42.496Z"
+  },
+  {
+    "place_id": "0x89c24f1eaaaaaaab:0xfa9f24bb07713936",
+    "name": "Tech Products, Inc.",
+    "category": "Manufacturer",
+    "address": "105 Willow Ave, Staten Island, NY 10305",
+    "phone": "(718) 442-4900",
+    "website": "http://www.techproducts.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "8 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.6178307,
+      "lng": -74.0729258
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18059193416481323318",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:42.527Z"
+  },
+  {
+    "place_id": "0x89c24ee308f5405f:0x10bace55c868fd68",
+    "name": "Edge Signs & Awnings",
+    "category": "Awning supplier",
+    "address": "2744 Hylan Blvd #125, Staten Island, NY 10306",
+    "phone": "(718) 447-1949",
+    "website": "http://www.edgesigns.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "7 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.5644831,
+      "lng": -74.11383579999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1205502718104894824",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "edgesign@aol.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "edgesign@aol.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:42.550Z"
+  },
+  {
+    "place_id": "0x89c2495949d43b6b:0x9855fbf85101121a",
+    "name": "Sacramento Marketing & SEO Agency",
+    "category": "Skin care clinic",
+    "address": "357 New Dorp Ln, Staten Island, NY 10305",
+    "website": "https://yamcha.cloud/",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.571164599999996,
+      "lng": -74.11053
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10976956710714937882",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:42.596Z"
+  },
+  {
+    "place_id": "0x89c24d001a33a889:0x223b4a08be9310ce",
+    "name": "Spectrum Mobile",
+    "category": "Internet marketing service",
+    "address": "Staten Island, NY 10314",
+    "phone": "(332) 232-1569",
+    "website": "https://www.spectrum.com/internet-service/new-york/staten-island",
+    "hours": {
+      "Tuesday": "6 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.5952366,
+      "lng": -74.1827148
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2466646622332981454",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:42.621Z"
+  },
+  {
+    "place_id": "0x89c24b0074dcc5e1:0x46325338adc9616",
+    "name": "Spectrum Mobile",
+    "category": "Internet marketing service",
+    "address": "Staten Island, NY 10306",
+    "phone": "(205) 379-8387",
+    "website": "https://www.spectrum.com/internet-service/new-york/staten-island",
+    "hours": {
+      "Tuesday": "6 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.5729336,
+      "lng": -74.12986839999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=316137302149338646",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:42.695Z"
+  },
+  {
+    "place_id": "0x89c24dc73381ec6b:0x4c2375ed8a9764c4",
+    "name": "decurrere",
+    "category": "Marketing consultant",
+    "address": "65 St Josephs Ave, Staten Island, NY 10302",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.6349144,
+      "lng": -74.14202949999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5486358434160272580",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:42.775Z"
+  },
+  {
+    "place_id": "0x89c24fa56db4f465:0x5cc46479d4d740ea",
+    "name": "Think n Color Marketing and Advertising Inc",
+    "category": "Marketing agency",
+    "phone": "(718) 650-8530",
+    "website": "http://www.thinkncolor.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 41.902259,
+      "lng": -75.7700406
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6684578221349355754",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "email": "brands@thinkncolor.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "brands@thinkncolor.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:42.814Z"
+  },
+  {
+    "place_id": "0x89c186629f62a0db:0xdfc1e7915c8d22e5",
+    "name": "The Dynamic Design Group",
+    "category": "Marketing agency",
+    "address": "8 Brielle Ave, Staten Island, NY 08730",
+    "phone": "(877) 867-8118",
+    "hours": {},
+    "coordinates": {
+      "lat": 40.599095299999995,
+      "lng": -74.12324459999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16123422752472113893",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:44.421Z"
+  },
+  {
+    "place_id": "0x89c24dde25811d75:0x44e33d401c61065d",
+    "name": "Major League Screen Printing",
+    "category": "Screen printer",
+    "address": "25 Rector St, Staten Island, NY 10310",
+    "phone": "(718) 390-0969",
+    "website": "https://www.sportswearcollection.com/majorleague",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.636580699999996,
+      "lng": -74.1277033
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4963878559855740509",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:44.446Z"
+  },
+  {
+    "place_id": "0xa704f6ad537238b7:0x8ebb47eef2400aa6",
+    "name": "Go To Marketing",
+    "category": "Marketing agency",
+    "phone": "(586) 961-3601",
+    "website": "https://gotoomarketing.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 42.352595,
+      "lng": -83.09911509999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10284893265622731430",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Staten Island, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:44.490Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 87,
+    "places_charged": 23,
+    "places_skipped_closed": 0,
+    "places_no_email": 64,
+    "total_emails_verified": 30,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T07:34:52.299Z",
+    "requests": 131,
+    "delivered": 23,
+    "est_spend_usd": 0.1048,
+    "est_revenue_usd": 0.184,
+    "profit_guard_tripped": false
+  },
+  {
+    "_type": "info",
+    "delivered": 23,
+    "message": "23 leads delivered. This row is informational — it is never billed.",
+    "schedule_tip": "Want this refreshed automatically? Apify Console -> this Actor -> Schedules -> Add schedule -> pick how often (e.g. daily) -> Save. It reruns with the same input on autopilot, no code required.",
+    "review_tip": "Found this useful? A quick Store review helps other buyers find it: https://apify.com/themineworks/maps-leads#reviews",
+    "scraped_at": "2026-09-22T07:34:52.409Z"
+  }
+]

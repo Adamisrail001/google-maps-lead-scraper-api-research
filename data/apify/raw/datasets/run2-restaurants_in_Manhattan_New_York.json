@@ -1,0 +1,427 @@
+[
+  {
+    "place_id": "0x89c25bc797d635a1:0x60b055910436a0a4",
+    "name": "Manhatta",
+    "category": "New American restaurant",
+    "address": "28 Liberty St 60th floor, New York, NY 10005",
+    "phone": "(212) 230-5788",
+    "website": "https://www.manhattarestaurant.com/restaurant-menu/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "11:30 AM–2 PM, 5–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.707997399999996,
+      "lng": -74.00888259999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6967162704871465124",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Manhattan, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:22.174Z"
+  },
+  {
+    "place_id": "0x89c258f64b8364bd:0x1aa365dedf436f88",
+    "name": "Marea",
+    "category": "Italian restaurant",
+    "address": "240 Central Park S, New York, NY 10019",
+    "phone": "(212) 582-5100",
+    "website": "https://www.marearestaurant.com/new-york?utm_source=GoogleBusinessProfile&utm_medium=organic&utm_campaign=google826",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "12–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7674251,
+      "lng": -73.9811137
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1919489874092846984",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Manhattan, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:22.674Z"
+  },
+  {
+    "place_id": "0x89c25854faa8d447:0x100a2b0d8c445c5f",
+    "name": "Carmine's - 44th Street - NYC",
+    "category": "Italian restaurant",
+    "address": "200 W 44th St, New York, NY 10036",
+    "phone": "(212) 221-3800",
+    "website": "https://carminesnyc.com/locations/times-square",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:30 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7574754,
+      "lng": -73.9866823
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1155783591561813087",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Manhattan, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:22.700Z"
+  },
+  {
+    "place_id": "0x89c25930bc53d1a3:0xe92edb888b740614",
+    "name": "Osteria La Baia",
+    "category": "Italian restaurant",
+    "address": "129 W 52nd St, New York, NY 10019",
+    "phone": "(917) 671-9898",
+    "website": "https://www.labaianyc.com/?y_source=1_MTAwNTA2Mjg0My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "8–11 AM, 11:30 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7618881,
+      "lng": -73.9809702
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16802608639267571220",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Manhattan, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:22.874Z"
+  },
+  {
+    "place_id": "0x89c258fbc4a06f31:0xb0f62a18b16739cc",
+    "name": "The Modern",
+    "category": "Fine dining restaurant",
+    "address": "9 W 53rd St, New York, NY 10019",
+    "phone": "(212) 333-1220",
+    "website": "https://www.themodernnyc.com/the-modern/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12–2:30 PM, 5–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.761081,
+      "lng": -73.976753
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12751425680490052044",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Manhattan, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:22.899Z"
+  },
+  {
+    "place_id": "0x89c259415ce95bc3:0x22b594a98bb52798",
+    "name": "Felice 56",
+    "category": "Italian restaurant",
+    "address": "15 W 56th St, New York, NY 10019",
+    "phone": "(646) 437-7272",
+    "website": "https://www.felicerestaurants.com/felice-56/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "7 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 40.7628591,
+      "lng": -73.97538999999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2501068623988467608",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Manhattan, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:22.927Z"
+  },
+  {
+    "place_id": "0x89c2596790d044a9:0x71ac280e082c1af5",
+    "name": "MOE EATS NYC",
+    "category": "Restaurant",
+    "address": "120 W 49th St, New York, NY 10020",
+    "phone": "(646) 547-6759",
+    "website": "https://www.moeeatsnyc.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 40.7597437,
+      "lng": -73.982321
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8190965863011850997",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Manhattan, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:23.014Z"
+  },
+  {
+    "place_id": "0x89c25947ea10b457:0x6548e99cd73a1e6b",
+    "name": "Le Bernardin",
+    "category": "French restaurant",
+    "address": "155 W 51st St, New York, NY 10019",
+    "phone": "(212) 554-1515",
+    "website": "https://www.le-bernardin.com/home",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "12–2:30 PM, 5–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7614218,
+      "lng": -73.9817558
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7298340055988969067",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Manhattan, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:23.076Z"
+  },
+  {
+    "place_id": "0x89c258fb1466d69b:0x58ecf24f96cc68e0",
+    "name": "Monkey Bar",
+    "category": "American restaurant",
+    "address": "60 E 54th St, New York, NY 10022",
+    "phone": "(212) 404-0365",
+    "website": "https://nycmonkeybar.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11:45 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.759898199999995,
+      "lng": -73.9732046
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6407762793487689952",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Manhattan, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:28.659Z"
+  },
+  {
+    "place_id": "0x89c2594b4a30ae29:0x5cf0745813544694",
+    "name": "Carla",
+    "category": "Mexican restaurant",
+    "address": "331 W 51st St, New York, NY 10019",
+    "phone": "(929) 404-4082",
+    "website": "https://www.carlanyc.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "4:30–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.763627,
+      "lng": -73.98686099999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6696980567530161812",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Manhattan, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:28.686Z"
+  },
+  {
+    "place_id": "0x89c258559cf7e8dd:0xe8e4d0b8fc803cc",
+    "name": "Amor Loco",
+    "category": "Mexican restaurant",
+    "address": "134 W 46th St, New York, NY 10036",
+    "phone": "(917) 261-5650",
+    "website": "http://amorloconyc.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "11:30 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.757894199999996,
+      "lng": -73.98391769999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1048860475276133324",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Manhattan, New York",
+    "email": "8c4075d5481d476e945486754f783364@sentry.io",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "8c4075d5481d476e945486754f783364@sentry.io",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@amorloconyc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      },
+      {
+        "email": "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:28.731Z"
+  },
+  {
+    "place_id": "0x89c258fb9bf4bef1:0x472ca37882106ca8",
+    "name": "Empellon",
+    "category": "Mexican restaurant",
+    "address": "510 Madison Ave, New York, NY 10022",
+    "phone": "(212) 380-1215",
+    "website": "https://www.empellon.com/restaurants/empellon/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.7597022,
+      "lng": -73.9746995
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5128653813641669800",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Manhattan, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:28.874Z"
+  },
+  {
+    "place_id": "0x89c259a67765432b:0xb69ca2cc7e7de7c8",
+    "name": "The Smith",
+    "category": "American restaurant",
+    "address": "1150 Broadway, New York, NY 10010",
+    "phone": "(212) 685-4500",
+    "website": "https://thesmithrestaurant.com/location/nomad/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "8 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7442419,
+      "lng": -73.9886085
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13158571210448955336",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Manhattan, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:28.974Z"
+  },
+  {
+    "place_id": "0x89c258f62fec73a7:0x5e24118dffac8a65",
+    "name": "Per Se",
+    "category": "Fine dining restaurant",
+    "address": "10 Columbus Cir, New York, NY 10019",
+    "phone": "(212) 823-9335",
+    "website": "https://www.thomaskeller.com/perseny",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "4:30–9 PM"
+    },
+    "coordinates": {
+      "lat": 40.768217799999995,
+      "lng": -73.9828988
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6783566240304368229",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Manhattan, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:29.168Z"
+  },
+  {
+    "place_id": "0x89c259aed4c31329:0xa97e4ff291d7209b",
+    "name": "Duomo51",
+    "category": "Italian restaurant",
+    "address": "25 W 51st St 7th floor, New York, NY 10019",
+    "phone": "(646) 398-8098",
+    "website": "http://www.duomo51.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "6:30 AM–10:30 PM"
+    },
+    "coordinates": {
+      "lat": 40.7600348,
+      "lng": -73.9782136
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12213287142722838683",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Manhattan, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:29.196Z"
+  },
+  {
+    "place_id": "0x89c258f79e07aa35:0x98ad2e3e482c1c17",
+    "name": "Trattoria Dell'Arte",
+    "category": "Italian restaurant",
+    "address": "900 7th Ave, New York, NY 10106",
+    "phone": "(212) 245-9800",
+    "website": "http://www.trattoriadellarte.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "12–11 PM"
+    },
+    "coordinates": {
+      "lat": 40.7653677,
+      "lng": -73.9803759
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11001500309769690135",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in Manhattan, New York",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:29.222Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 20,
+    "places_charged": 1,
+    "places_skipped_closed": 0,
+    "places_no_email": 15,
+    "total_emails_verified": 5,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T07:57:29.250Z",
+    "requests": 26,
+    "delivered": 1,
+    "est_spend_usd": 0.0208,
+    "est_revenue_usd": 0.008,
+    "profit_guard_tripped": true
+  },
+  {
+    "_type": "info",
+    "delivered": 1,
+    "message": "1 leads delivered. This row is informational — it is never billed.",
+    "schedule_tip": "Want this refreshed automatically? Apify Console -> this Actor -> Schedules -> Add schedule -> pick how often (e.g. daily) -> Save. It reruns with the same input on autopilot, no code required.",
+    "review_tip": "Found this useful? A quick Store review helps other buyers find it: https://apify.com/themineworks/maps-leads#reviews",
+    "scraped_at": "2026-09-22T07:57:29.349Z"
+  }
+]

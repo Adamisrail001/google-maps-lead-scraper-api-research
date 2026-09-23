@@ -1,0 +1,125 @@
+query_id,query,source,position,provider,url,result_type
+Q01,best google maps lead scraper,websearch,1,Map Lead Scraper (GitHub org),https://github.com/Google-Maps-Scraper/Map-Lead-Scraper,open-source
+Q01,best google maps lead scraper,websearch,2,Omkar Cloud,https://github.com/omkarcloud/google-maps-scraper,open-source
+Q01,best google maps lead scraper,websearch,3,Bright Data,https://brightdata.com/blog/web-data/best-google-maps-scrapers,listicle/comparison
+Q01,best google maps lead scraper,websearch,4,Maps Scraper (mapsscraper.net),https://mapsscraper.net/,provider-page
+Q01,best google maps lead scraper,websearch,5,Oppora,https://oppora.ai/blog/google-maps-lead-scraper/,listicle/comparison
+Q01,best google maps lead scraper,websearch,6,Leads-Sniper,https://www.leads-sniper.com/products/google-maps-scraper,provider-page
+Q01,best google maps lead scraper,websearch,7,Outscraper,https://outscraper.com/best-google-maps-scrapers/,listicle/comparison
+Q01,best google maps lead scraper,websearch,8,Outscraper,https://outscraper.com/google-maps-scraper/,provider-page
+Q01,best google maps lead scraper,websearch,9,AlternativeTo,https://alternativeto.net/software/map-lead-scraper,other
+Q02,google maps lead scraper,websearch,1,Apify,https://apify.com/compass/crawler-google-places,provider-page
+Q02,google maps lead scraper,websearch,2,Omkar Cloud,https://github.com/omkarcloud/google-maps-scraper,open-source
+Q02,google maps lead scraper,websearch,3,MapsLeads.net,https://chromewebstore.google.com/detail/maps-scraper-leads-extrac/ghokiciomljbacchbkfhmnlmflbponlf,provider-page
+Q02,google maps lead scraper,websearch,4,gosom/google-maps-scraper,https://github.com/gosom/google-maps-scraper,open-source
+Q02,google maps lead scraper,websearch,5,Maps Scraper & Map Data Extractor (Chrome extension),https://chromewebstore.google.com/detail/maps-scraper-map-data-ext/ofbhiclojhjkggpnapcnjjjdjlgcikdf?hl=fr,provider-page
+Q02,google maps lead scraper,websearch,6,Map Lead Scraper,https://www.mapleadscraper.com/,provider-page
+Q02,google maps lead scraper,websearch,7,Outscraper,https://outscraper.com/google-maps-scraper/,provider-page
+Q02,google maps lead scraper,websearch,8,Scrap.io,https://scrap.io/,provider-page
+Q02,google maps lead scraper,websearch,9,AlternativeTo,https://alternativeto.net/software/map-lead-scraper,other
+Q03,google maps business leads api,websearch,1,Apify (actor: mrdoe),https://apify.com/mrdoe/google-maps-business-leads/api,provider-page
+Q03,google maps business leads api,websearch,2,Apify (actor: mighty_monk),https://apify.com/mighty_monk/google-maps-business-leads/api,provider-page
+Q03,google maps business leads api,websearch,3,Apify (actor: aetheragent),https://apify.com/aetheragent/google-maps-business-leads/api,provider-page
+Q03,google maps business leads api,websearch,4,Apify (actor: gmaps-leads deprecated),https://apify.com/gmaps-leads/google-maps-leads-extractor-api,provider-page
+Q03,google maps business leads api,websearch,5,Apify (actor: mrprince90),https://apify.com/mrprince90/google-maps-lead-intelligence/api,provider-page
+Q03,google maps business leads api,websearch,6,Apify (actor: excitable_pickle),https://apify.com/excitable_pickle/google-maps-lead-extractor/api,provider-page
+Q03,google maps business leads api,websearch,7,Apify (actor: apricot_blackberry),https://apify.com/apricot_blackberry/google-maps-business-scraper/api,provider-page
+Q03,google maps business leads api,websearch,8,Apify (actor: primesieve),https://apify.com/primesieve/gmaps-leads-scraper/api,provider-page
+Q03,google maps business leads api,websearch,9,Apify (actor: arched_friend),https://apify.com/arched_friend/google-maps-lead-finder/api,provider-page
+Q04,google maps lead generation api,websearch,1,Apify (actor: gmaps-leads deprecated),https://apify.com/gmaps-leads/google-maps-leads-extractor-api,provider-page
+Q04,google maps lead generation api,websearch,2,kaymen99/google-maps-lead-generator,https://github.com/kaymen99/google-maps-lead-generator,open-source
+Q04,google maps lead generation api,websearch,3,Artisan,https://www.artisan.co/blog/google-maps-lead-generation,other
+Q04,google maps lead generation api,websearch,4,Apify (actor: ahmedraza1026),https://apify.com/ahmedraza1026/apify-google-leads/api/python,provider-page
+Q04,google maps lead generation api,websearch,5,Apify (actor: strange-advanced-marketing),https://apify.com/strange-advanced-marketing/google-maps-lead-generator,provider-page
+Q04,google maps lead generation api,websearch,6,Medium (Grace Vaughn),https://medium.com/@gracevaughn/the-simple-google-maps-api-hack-that-generates-high-quality-local-business-leads-automatically-b40853e5d7fe,other
+Q04,google maps lead generation api,websearch,7,n8n,https://n8n.io/workflows/2605-generate-leads-with-google-maps/,other
+Q04,google maps lead generation api,websearch,8,StackShare,https://stackshare.io/adsleadz/vs/google-maps-lead-generation-tool,other
+Q04,google maps lead generation api,websearch,9,StackShare,https://stackshare.io/stackups/369-ai-vs-google-maps-lead-generation-tool,other
+Q05,google maps scraper for leads,websearch,1,Apify,https://apify.com/compass/crawler-google-places,provider-page
+Q05,google maps scraper for leads,websearch,2,Omkar Cloud,https://github.com/omkarcloud/google-maps-scraper,open-source
+Q05,google maps scraper for leads,websearch,3,gosom/google-maps-scraper,https://github.com/gosom/google-maps-scraper,open-source
+Q05,google maps scraper for leads,websearch,4,GeoLeadScraper (ozhehkovski),https://github.com/ozhehkovski/geoleadscraper,open-source
+Q05,google maps scraper for leads,websearch,5,Leads-Sniper,https://www.leads-sniper.com/products/google-maps-scraper,provider-page
+Q05,google maps scraper for leads,websearch,6,G Maps Extractor,https://gmapsextractor.com/,provider-page
+Q05,google maps scraper for leads,websearch,7,Outscraper,https://outscraper.com/google-maps-scraper/,provider-page
+Q05,google maps scraper for leads,websearch,8,Map Lead Scraper,https://www.mapleadscraper.com/,provider-page
+Q05,google maps scraper for leads,websearch,9,AlternativeTo,https://alternativeto.net/software/map-lead-scraper,other
+Q06,google maps scraper api,websearch,1,ScraperAPI,https://www.scraperapi.com/solutions/structured-data/google-maps-scraper-api/,provider-page
+Q06,google maps scraper api,websearch,2,AIMultiple,https://aimultiple.com/google-maps-scraper,listicle/comparison
+Q06,google maps scraper api,websearch,3,Apify,https://apify.com/compass/crawler-google-places,provider-page
+Q06,google maps scraper api,websearch,4,Scrapingdog,https://www.scrapingdog.com/google-maps-api/,provider-page
+Q06,google maps scraper api,websearch,5,gosom/google-maps-scraper,https://github.com/gosom/google-maps-scraper,open-source
+Q06,google maps scraper api,websearch,6,Bright Data,https://brightdata.com/products/web-scraper/google-maps,provider-page
+Q06,google maps scraper api,websearch,7,n8n,https://n8n.io/workflows/2063-google-maps-scraper/,other
+Q06,google maps scraper api,websearch,8,G Maps Extractor,https://gmapsextractor.com/,provider-page
+Q06,google maps scraper api,websearch,9,Outscraper,https://outscraper.com/google-maps-scraper/,provider-page
+Q07,google maps business data api,websearch,1,Zyla API Hub,https://zylalabs.com/api-marketplace/data/google+maps+business+data+api/1998,provider-page
+Q07,google maps business data api,websearch,2,Apify (actor: tropical_prune),https://apify.com/tropical_prune/google-maps-business-data/api,provider-page
+Q07,google maps business data api,websearch,3,Apify (actor: truefetch),https://apify.com/truefetch/google-maps-business-listing/api,provider-page
+Q07,google maps business data api,websearch,4,Apify (actor: lafuan),https://apify.com/lafuan/google-maps-scraper/api,provider-page
+Q07,google maps business data api,websearch,5,Apify (actor: agents),https://apify.com/agents/google-maps-search,provider-page
+Q07,google maps business data api,websearch,6,Apify (actor: compass deprecated),https://apify.com/compass/google-places-api,provider-page
+Q07,google maps business data api,websearch,7,Google (Business Profile API),https://developers.google.com/my-business,provider-page
+Q07,google maps business data api,websearch,8,BizIQ,https://biziq.com/blog/boost-your-sales-with-google-maps-business-api/,other
+Q07,google maps business data api,websearch,9,AlternativeTo,https://alternativeto.net/software/google-maps-api-for-business,other
+Q08,scrape google maps businesses api,websearch,1,ScraperAPI,https://www.scraperapi.com/solutions/structured-data/google-maps-scraper-api/,provider-page
+Q08,scrape google maps businesses api,websearch,2,Scrapingdog,https://www.scrapingdog.com/google-maps-api/,provider-page
+Q08,scrape google maps businesses api,websearch,3,AIMultiple,https://aimultiple.com/google-maps-scraper,listicle/comparison
+Q08,scrape google maps businesses api,websearch,4,gosom/google-maps-scraper,https://github.com/gosom/google-maps-scraper,open-source
+Q08,scrape google maps businesses api,websearch,5,Omkar Cloud,https://github.com/omkarcloud/google-maps-scraper,open-source
+Q08,scrape google maps businesses api,websearch,6,Apify,https://apify.com/compass/crawler-google-places,provider-page
+Q08,scrape google maps businesses api,websearch,7,Tendem,https://tendem.ai/blog/scrape-google-maps-guide,other
+Q08,scrape google maps businesses api,websearch,8,Outscraper,https://outscraper.com/google-maps-scraper/,provider-page
+Q08,scrape google maps businesses api,websearch,9,AlternativeTo,https://alternativeto.net/feature/google-maps-scraping,other
+Q09,google maps data extraction api,websearch,1,GM Data Extract,https://sites.google.com/view/gm-data-extract/home,provider-page
+Q09,google maps data extraction api,websearch,2,Scrapingdog,https://www.scrapingdog.com/google-maps-api/,provider-page
+Q09,google maps data extraction api,websearch,3,Apify,https://apify.com/compass/crawler-google-places,provider-page
+Q09,google maps data extraction api,websearch,4,Apify (actor: compass),https://apify.com/compass/google-maps-extractor,provider-page
+Q09,google maps data extraction api,websearch,5,Bright Data,https://brightdata.com/products/serp-api/google-search/maps,provider-page
+Q09,google maps data extraction api,websearch,6,G Maps Extractor,https://gmapsextractor.com/,provider-page
+Q09,google maps data extraction api,websearch,7,G Maps Extractor,https://gmapsextractor.com/articles/how-to-extract-data-from-google-maps,other
+Q09,google maps data extraction api,websearch,8,Scrap.io,https://scrap.io/ultimate-guide-extract-google-maps-data-javascript-api,other
+Q09,google maps data extraction api,websearch,9,Outscraper,https://outscraper.com/google-maps-scraper/,provider-page
+Q10,api to scrape google maps,websearch,1,Scrapingdog,https://www.scrapingdog.com/google-maps-api/,provider-page
+Q10,api to scrape google maps,websearch,2,AIMultiple,https://aimultiple.com/google-maps-scraper,listicle/comparison
+Q10,api to scrape google maps,websearch,3,ScraperAPI,https://www.scraperapi.com/solutions/structured-data/google-maps-scraper-api/,provider-page
+Q10,api to scrape google maps,websearch,4,Apify,https://apify.com/compass/crawler-google-places,provider-page
+Q10,api to scrape google maps,websearch,5,gosom/google-maps-scraper,https://github.com/gosom/google-maps-scraper,open-source
+Q10,api to scrape google maps,websearch,6,ScraperAPI,https://www.scraperapi.com/blog/google-maps-scraper/,other
+Q10,api to scrape google maps,websearch,7,Bright Data,https://brightdata.com/products/web-scraper/google-maps,provider-page
+Q10,api to scrape google maps,websearch,8,n8n,https://n8n.io/workflows/2063-google-maps-scraper/,other
+Q10,api to scrape google maps,websearch,9,Scrap.io,https://scrap.io/google-maps-scraping-complete-guide-api-reviews-extraction,other
+LST1,listicle extraction,listicle:oppora.ai,1,Oppora,https://oppora.ai/blog/google-maps-lead-scraper/,listicle/comparison
+LST1,listicle extraction,listicle:oppora.ai,2,Outscraper,https://oppora.ai/blog/google-maps-lead-scraper/,listicle/comparison
+LST1,listicle extraction,listicle:oppora.ai,3,Bright Data,https://oppora.ai/blog/google-maps-lead-scraper/,listicle/comparison
+LST1,listicle extraction,listicle:oppora.ai,4,PhantomBuster,https://oppora.ai/blog/google-maps-lead-scraper/,listicle/comparison
+LST1,listicle extraction,listicle:oppora.ai,5,Apify,https://oppora.ai/blog/google-maps-lead-scraper/,listicle/comparison
+LST1,listicle extraction,listicle:oppora.ai,6,Octoparse,https://oppora.ai/blog/google-maps-lead-scraper/,listicle/comparison
+LST1,listicle extraction,listicle:oppora.ai,7,ScrapeHero Cloud,https://oppora.ai/blog/google-maps-lead-scraper/,listicle/comparison
+LST1,listicle extraction,listicle:oppora.ai,8,Oxylabs,https://oppora.ai/blog/google-maps-lead-scraper/,listicle/comparison
+LST1,listicle extraction,listicle:oppora.ai,9,ParseHub,https://oppora.ai/blog/google-maps-lead-scraper/,listicle/comparison
+LST1,listicle extraction,listicle:oppora.ai,10,WebHarvy,https://oppora.ai/blog/google-maps-lead-scraper/,listicle/comparison
+LST2,listicle extraction,listicle:aimultiple.com,1,Bright Data,https://aimultiple.com/google-maps-scraper,listicle/comparison
+LST2,listicle extraction,listicle:aimultiple.com,2,Oxylabs,https://aimultiple.com/google-maps-scraper,listicle/comparison
+LST2,listicle extraction,listicle:aimultiple.com,3,SerpApi,https://aimultiple.com/google-maps-scraper,listicle/comparison
+LST2,listicle extraction,listicle:aimultiple.com,4,Apify,https://aimultiple.com/google-maps-scraper,listicle/comparison
+LST2,listicle extraction,listicle:aimultiple.com,5,Octoparse,https://aimultiple.com/google-maps-scraper,listicle/comparison
+LST3,listicle extraction,listicle:scrap.io,1,Scrap.io,https://scrap.io/google-maps-scraping-complete-guide-api-reviews-extraction,listicle/comparison
+LST3,listicle extraction,listicle:scrap.io,2,Google Maps API (Place Details),https://scrap.io/google-maps-scraping-complete-guide-api-reviews-extraction,listicle/comparison
+LST3,listicle extraction,listicle:scrap.io,3,Playwright,https://scrap.io/google-maps-scraping-complete-guide-api-reviews-extraction,listicle/comparison
+LST3,listicle extraction,listicle:scrap.io,4,Selenium,https://scrap.io/google-maps-scraping-complete-guide-api-reviews-extraction,listicle/comparison
+LST3,listicle extraction,listicle:scrap.io,5,gosom/google-maps-scraper,https://scrap.io/google-maps-scraping-complete-guide-api-reviews-extraction,listicle/comparison
+LST3,listicle extraction,listicle:scrap.io,6,Outscraper,https://scrap.io/google-maps-scraping-complete-guide-api-reviews-extraction,listicle/comparison
+LST3,listicle extraction,listicle:scrap.io,7,Apify,https://scrap.io/google-maps-scraping-complete-guide-api-reviews-extraction,listicle/comparison
+LST3,listicle extraction,listicle:scrap.io,8,G Maps Extractor,https://scrap.io/google-maps-scraping-complete-guide-api-reviews-extraction,listicle/comparison
+LST3,listicle extraction,listicle:scrap.io,9,Chrome extensions (generic),https://scrap.io/google-maps-scraping-complete-guide-api-reviews-extraction,listicle/comparison
+LST3,listicle extraction,listicle:scrap.io,10,Bright Data,https://scrap.io/google-maps-scraping-complete-guide-api-reviews-extraction,listicle/comparison
+LST3,listicle extraction,listicle:scrap.io,11,HasData,https://scrap.io/google-maps-scraping-complete-guide-api-reviews-extraction,listicle/comparison
+LST3,listicle extraction,listicle:scrap.io,12,Octoparse,https://scrap.io/google-maps-scraping-complete-guide-api-reviews-extraction,listicle/comparison
+LST3,listicle extraction,listicle:scrap.io,13,Make.com,https://scrap.io/google-maps-scraping-complete-guide-api-reviews-extraction,listicle/comparison
+LST3,listicle extraction,listicle:scrap.io,14,n8n,https://scrap.io/google-maps-scraping-complete-guide-api-reviews-extraction,listicle/comparison
+LST4,listicle extraction,listicle:tendem.ai,1,Google Places API,https://tendem.ai/blog/scrape-google-maps-guide,listicle/comparison
+LST4,listicle extraction,listicle:tendem.ai,2,Beautiful Soup,https://tendem.ai/blog/scrape-google-maps-guide,listicle/comparison
+LST4,listicle extraction,listicle:tendem.ai,3,Selenium,https://tendem.ai/blog/scrape-google-maps-guide,listicle/comparison
+LST4,listicle extraction,listicle:tendem.ai,4,Playwright,https://tendem.ai/blog/scrape-google-maps-guide,listicle/comparison
+LST4,listicle extraction,listicle:tendem.ai,5,Tendem,https://tendem.ai/blog/scrape-google-maps-guide,listicle/comparison

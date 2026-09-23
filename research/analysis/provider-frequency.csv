@@ -1,0 +1,41 @@
+provider,websearch_queries,websearch_pct,ahrefs_serps,listicles,llm_samples,reddit_threads,total_signals
+Apify,18,86,2,4,5,3,32
+Outscraper,16,76,2,3,4,2,27
+Bright Data,5,24,1,5,5,1,17
+Scrapingdog,5,24,1,1,4,1,12
+gosom (open source),8,38,3,0,0,1,12
+G Maps Extractor,8,38,1,0,1,1,11
+Octoparse,3,14,1,2,2,3,11
+Scrap.io,5,24,1,2,2,1,11
+SerpApi,1,5,0,2,5,3,11
+Oxylabs,0,0,0,4,3,1,8
+n8n (workflow),7,33,1,0,0,0,8
+Omkar Cloud (open source),6,29,0,0,0,1,7
+PhantomBuster,2,10,0,1,3,1,7
+ScrapingBee,3,14,0,1,2,1,7
+Lobstr.io,1,5,0,1,4,0,6
+ScraperAPI,3,14,1,0,2,0,6
+Chrome extension (various),4,19,1,0,0,0,5
+DataForSEO,0,0,0,1,4,0,5
+Map Lead Scraper,5,24,0,0,0,0,5
+SafeGraph,3,14,1,1,0,0,5
+TravelTime,3,14,1,1,0,0,5
+Leads Sniper,2,10,1,0,0,1,4
+Artisan,2,10,1,0,0,0,3
+LocalProspects,1,5,0,1,0,1,3
+Botsol,1,5,0,0,0,1,2
+Crawlbase,0,0,0,0,2,0,2
+HasData,0,0,0,0,1,1,2
+Mappr,2,10,0,0,0,0,2
+MapsLeads.net (extension),1,5,1,0,0,0,2
+Oppora,1,5,0,1,0,0,2
+ScrapeHero,0,0,0,1,1,0,2
+Tendem,1,5,0,1,0,0,2
+Traject Data,1,5,0,0,1,0,2
+BizData,1,5,0,0,0,0,1
+Datablist,1,5,0,0,0,0,1
+Geoapify,0,0,1,0,0,0,1
+Livescraper,1,5,0,0,0,0,1
+NoDataNoBusiness,1,5,0,0,0,0,1
+Openmart,1,5,0,0,0,0,1
+Zyla API Hub,1,5,0,0,0,0,1

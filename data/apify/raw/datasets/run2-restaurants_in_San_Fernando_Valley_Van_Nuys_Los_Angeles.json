@@ -1,0 +1,1184 @@
+[
+  {
+    "place_id": "0x80c2978fd53c8495:0xf86cee4a7d5930f9",
+    "name": "Garcia Bros Cafe",
+    "category": "Breakfast restaurant",
+    "address": "14308 Victory Blvd, Van Nuys, CA 91401",
+    "phone": "(818) 855-1748",
+    "website": "https://www.garciabroscafe.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "8 AM–2 PM"
+    },
+    "coordinates": {
+      "lat": 34.1864463,
+      "lng": -118.44470589999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17900944622588866809",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:34.390Z"
+  },
+  {
+    "place_id": "0x80c297f7990bdc87:0x50d0ce6aebf018ce",
+    "name": "Kaiyu Sushi",
+    "category": "Japanese restaurant",
+    "address": "15333 Sherman Way Unit J, Van Nuys, CA 91406",
+    "phone": "(818) 908-3368",
+    "website": "http://www.kaiyusushi.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "11:30 AM–9:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.201388099999996,
+      "lng": -118.46725819999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5823381276810287310",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:34.600Z"
+  },
+  {
+    "place_id": "0x80c297002c754997:0xe9acf75da549e405",
+    "name": "Bangkok Ladle - Thai Noodles & Cuisine",
+    "category": "Thai restaurant",
+    "address": "15333 Sherman Way Ste B, Van Nuys, CA 91406",
+    "phone": "(818) 272-3260",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "11:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.2014607,
+      "lng": -118.4674701
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16838105088408544261",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:34.623Z"
+  },
+  {
+    "place_id": "0x80c29b4f1033e94f:0xbeab73eeb1e0c0a9",
+    "name": "Lulu's Restaurant and Sports Bar",
+    "category": "Californian restaurant",
+    "address": "16900 Roscoe Blvd, Van Nuys, CA 91406",
+    "phone": "(818) 988-0707",
+    "website": "https://www.lulusrestaurant.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "7:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.2209836,
+      "lng": -118.50145359999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13739202557247537321",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "email": "mikecamorlinga@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "mikecamorlinga@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:34.693Z"
+  },
+  {
+    "place_id": "0x80c2962880056005:0xe82948749b50fa1f",
+    "name": "NORMS Restaurant",
+    "category": "Family restaurant",
+    "address": "13636 Sherman Way, Van Nuys, CA 91405",
+    "phone": "(818) 780-5060",
+    "website": "https://norms.com/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.2009478,
+      "lng": -118.4304141
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16728981956503599647",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:34.854Z"
+  },
+  {
+    "place_id": "0x80c2970350525987:0x455ad0d04777383d",
+    "name": "Everytable",
+    "category": "Restaurant",
+    "address": "7048 Sepulveda Blvd, Van Nuys, CA 91405",
+    "phone": "(213) 315-1095",
+    "website": "https://everytable.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.1989166,
+      "lng": -118.4651021
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4997536329491757117",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "email": "support@everytable.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "support@everytable.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:34.988Z"
+  },
+  {
+    "place_id": "0x80c297215fce9719:0x3e95293a224cd0ae",
+    "name": "Assam Indian Kitchen",
+    "category": "Indian restaurant",
+    "address": "6322 Van Nuys Blvd, Van Nuys, CA 91401",
+    "phone": "(818) 849-6986",
+    "website": "https://assamindiankitchenca.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "12 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.1854066,
+      "lng": -118.4484509
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4509555931541721262",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:35.176Z"
+  },
+  {
+    "place_id": "0x80c297ab2f7924a1:0x2799987417c337c0",
+    "name": "Kobee Factory",
+    "category": "Syrian restaurant",
+    "address": "14110 Oxnard St, Sherman Oaks, CA 91401",
+    "phone": "(818) 909-2593",
+    "website": "http://kobeefactoryla.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "10 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.1792276,
+      "lng": -118.440461
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2853479463298217920",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:35.193Z"
+  },
+  {
+    "place_id": "0x80c297d8c7b035f5:0x1d1eaaaa1dee06f7",
+    "name": "Wanna Smash",
+    "category": "Hamburger restaurant",
+    "address": "6350 Van Nuys Blvd, Van Nuys, CA 91401",
+    "phone": "(818) 582-3428",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.185826,
+      "lng": -118.448528
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2098302124024530679",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:42.538Z"
+  },
+  {
+    "place_id": "0x80c29718635d89c5:0x1ac2501af383396f",
+    "name": "AYCE GOGI Van Nuys",
+    "category": "Korean restaurant",
+    "address": "7128 Van Nuys Blvd, Van Nuys, CA 91405",
+    "phone": "(818) 465-3050",
+    "website": "http://www.aycegogi.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.2000514,
+      "lng": -118.44791
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1928191667152828783",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:42.557Z"
+  },
+  {
+    "place_id": "0x80c297488b2fa93b:0x42c12efcea4f3114",
+    "name": "Mercado Buenos Aires",
+    "category": "Argentinian restaurant",
+    "address": "7540 Sepulveda Blvd, Van Nuys, CA 91405",
+    "phone": "(818) 786-0522",
+    "website": "https://www.mercadobuenosairesusa.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "7:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.20792,
+      "lng": -118.46581259999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4810177540806095124",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:42.616Z"
+  },
+  {
+    "place_id": "0x80c2979c357eba15:0x8544a5070d4d3f0f",
+    "name": "Chef M",
+    "category": "Pizza restaurant",
+    "address": "13611 Sherman Way, Van Nuys, CA 91405",
+    "phone": "(818) 616-4746",
+    "website": "https://www.doordash.com/store/chef-m-los-angeles-614747/1879573/?preview=1",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "10 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.201399599999995,
+      "lng": -118.4293543
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9602981755167260431",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:42.657Z"
+  },
+  {
+    "place_id": "0x80c2973191a79d23:0xa018625f2eec35f5",
+    "name": "Gev's Kitchen",
+    "category": "Armenian restaurant",
+    "address": "7335 Van Nuys Blvd #110, Van Nuys, CA 91405",
+    "phone": "(818) 653-8709",
+    "website": "http://gevskitchen.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.203834799999996,
+      "lng": -118.44937139999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11536078606458172917",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:42.684Z"
+  },
+  {
+    "place_id": "0x80c297034fed0db9:0x8f91057751223faa",
+    "name": "Cea-Lo L.A",
+    "category": "Restaurant",
+    "address": "5150 Sepulveda Blvd, Sherman Oaks, CA 91403",
+    "phone": "(818) 290-3448",
+    "website": "http://cealo-la.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.1642048,
+      "lng": -118.4658312
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10345055829067186090",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "email": "cealo456@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "cealo456@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:42.721Z"
+  },
+  {
+    "place_id": "0x80c29718bb036ecd:0xaba59cfe6d43b929",
+    "name": "The Great White Hut",
+    "category": "Hamburger restaurant",
+    "address": "6235 Van Nuys Blvd, Van Nuys, CA 91401",
+    "phone": "(734) 808-3532",
+    "website": "https://greatwhitehut.com/van-nuys?utm_source=google",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "7:30 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.1835276,
+      "lng": -118.4489656
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12368464568211716393",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:42.773Z"
+  },
+  {
+    "place_id": "0x80c29720964af2d7:0x23ee12164377bc96",
+    "name": "All Valley Eats",
+    "category": "Restaurant",
+    "address": "14435 Victory Blvd, Van Nuys, CA 91401",
+    "website": "http://www.allvalleyeats.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "5:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.1869358,
+      "lng": -118.4476796
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2589026722615114902",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:42.873Z"
+  },
+  {
+    "place_id": "0x80c2978fad4e4ed5:0x6d4cf62fdc753265",
+    "name": "El Cocinero Restaurant",
+    "category": "Vegan restaurant",
+    "address": "6265 Sepulveda Blvd Unit 12, Van Nuys, CA 91411",
+    "phone": "(818) 317-5654",
+    "website": "https://www.elcocinerorestaurant.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "11 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.184457699999996,
+      "lng": -118.46663509999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7875940533786718821",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:45.949Z"
+  },
+  {
+    "place_id": "0x80c2972309ba278d:0xfda826988a3cc06d",
+    "name": "Ay Papa Que Rico - Van Nuys, CA",
+    "category": "Latin American restaurant",
+    "address": "7456 Van Nuys Blvd, Van Nuys, CA 91405",
+    "phone": "(818) 988-8367",
+    "website": "https://fromtherestaurant.com/ay-papa-que-rico-arleta/g",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "10 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.206339,
+      "lng": -118.44850749999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18277901524279279725",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:45.968Z"
+  },
+  {
+    "place_id": "0x80c29788a3e15a65:0x9f6d75096ca92d8b",
+    "name": "Macondo Kitchen 🇨🇴",
+    "category": "Colombian restaurant",
+    "address": "15333 Sherman Way Ste w, Van Nuys, CA 91406",
+    "phone": "(818) 285-8683",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.2018214,
+      "lng": -118.46716789999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11487966907830185355",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:45.988Z"
+  },
+  {
+    "place_id": "0x80c29762f9abf31f:0xac546ab6fbeba7d",
+    "name": "Chelo - Taste of Persia",
+    "category": "Persian restaurant",
+    "address": "6321 Van Nuys Blvd, Van Nuys, CA 91401",
+    "phone": "(818) 809-2391",
+    "website": "http://www.tasteofchelo.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10872002482320627191",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "11 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.1853481,
+      "lng": -118.44891489999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=776104212919401085",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "email": "mastoory@tasteofchelo.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "mastoory@tasteofchelo.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:46.054Z"
+  },
+  {
+    "place_id": "0x80c2999d01211a95:0x2e0704365a3cea2",
+    "name": "Best Ball | Food Drinks Sports",
+    "category": "Sports bar",
+    "address": "6331 Woodley Ave, Van Nuys, CA 91406",
+    "phone": "(818) 853-8871",
+    "website": "http://bestball.bar/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "7:30 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.183196099999996,
+      "lng": -118.49218979999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=207289017629396642",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:51.864Z"
+  },
+  {
+    "place_id": "0x80c29772829430ad:0x36186b3041fc24c",
+    "name": "Lido Pizza",
+    "category": "Italian restaurant",
+    "address": "15232 Victory Blvd, Van Nuys, CA 91411",
+    "phone": "(818) 781-2551",
+    "website": "http://chichispizza.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.186374,
+      "lng": -118.4651933
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=243623958281175628",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:51.878Z"
+  },
+  {
+    "place_id": "0x80c296f900000001:0x97261961d4581635",
+    "name": "Little Ocha of the Valley",
+    "category": "Thai restaurant",
+    "address": "13724 Sherman Way, Van Nuys, CA 91405",
+    "phone": "(818) 650-8434",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.2010095,
+      "lng": -118.4322753
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10891420656807188021",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:51.970Z"
+  },
+  {
+    "place_id": "0x80c29741213928bb:0x5e4aaca5ccab3e30",
+    "name": "Costa Grande",
+    "category": "Mexican restaurant",
+    "address": "7139 Sepulveda Blvd, Van Nuys, CA 91405",
+    "phone": "(818) 779-0131",
+    "website": "http://lacostagrande.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.200283,
+      "lng": -118.467119
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6794432815945170480",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:51.995Z"
+  },
+  {
+    "place_id": "0x80c2977c49cd266f:0x8aca33432f3e95ef",
+    "name": "Baked Belly Buster",
+    "category": "American restaurant",
+    "address": "14435 Victory Blvd Ste 204, Van Nuys, CA 91401",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10:30 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.1869358,
+      "lng": -118.4476796
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10000862286178063855",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:52.068Z"
+  },
+  {
+    "place_id": "0x80c290b403811f89:0xec2f2382faabcba1",
+    "name": "Corner Grille",
+    "category": "Korean restaurant",
+    "address": "8261 Sepulveda Blvd, Van Nuys, CA 91402",
+    "phone": "(818) 810-6396",
+    "website": "https://cornergrillepc.com/?utm_source=google",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.2212223,
+      "lng": -118.4683606
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17018860562314677153",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:52.105Z"
+  },
+  {
+    "place_id": "0x80c290b4f99f4561:0x1e43aade6eb40424",
+    "name": "Dr. Hogly Wogly's Tyler Texas BBQ",
+    "category": "Barbecue restaurant",
+    "address": "8136 Sepulveda Blvd, Panorama City, CA 91402",
+    "phone": "(818) 780-6701",
+    "website": "http://hoglywogly.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "Closed"
+    },
+    "coordinates": {
+      "lat": 34.2189674,
+      "lng": -118.4665146
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2180774516894204964",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:52.153Z"
+  },
+  {
+    "place_id": "0x80c29705cdb47a4b:0x5850dcf8cc2bafd7",
+    "name": "Puro Sabor Peruvian Restaurant",
+    "category": "Peruvian restaurant",
+    "address": "6366 Van Nuys Blvd, Van Nuys, CA 91401",
+    "phone": "(818) 908-0818",
+    "website": "http://purosaborperuvianfood.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.1862174,
+      "lng": -118.44853649999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6363829234609926103",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:52.253Z"
+  },
+  {
+    "place_id": "0x80c2970055ad6aa1:0xe6f7a9eae4c00d96",
+    "name": "El Flako Breakfast Burritos",
+    "category": "Mexican restaurant",
+    "address": "7241 Sepulveda Blvd, Van Nuys, CA 91405",
+    "phone": "(747) 316-9589",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "5 AM–1 PM"
+    },
+    "coordinates": {
+      "lat": 34.2027395,
+      "lng": -118.4667164
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16642957774296190358",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:57:57.091Z"
+  },
+  {
+    "place_id": "0x80c296f8f6d369cd:0xab3243544c1e7363",
+    "name": "Lusy's Mediterranean Cafe & Grill",
+    "category": "Mediterranean restaurant",
+    "address": "14435 Victory Blvd, Van Nuys, CA 91401",
+    "phone": "(818) 997-4330",
+    "website": "https://www.lusyscuisine.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "10 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.1869358,
+      "lng": -118.4476796
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12335996358654587747",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:57.196Z"
+  },
+  {
+    "place_id": "0x80c297ad58473d0d:0xb6946c34a9222675",
+    "name": "Nat's Early Bite",
+    "category": "Breakfast restaurant",
+    "address": "14115 Burbank Blvd, Sherman Oaks, CA 91401",
+    "phone": "(818) 781-3040",
+    "website": "http://www.natsearlybite.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "7 AM–2 PM"
+    },
+    "coordinates": {
+      "lat": 34.1722971,
+      "lng": -118.44056189999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13156259384887748213",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:57.247Z"
+  },
+  {
+    "place_id": "0x80c2970501276641:0x92a47d83fa7599b1",
+    "name": "Machu-Picchu Peruvian Restaurant",
+    "category": "Peruvian restaurant",
+    "address": "6465 Van Nuys Blvd, Van Nuys, CA 91401",
+    "phone": "(818) 997-3394",
+    "website": "http://machupicchu-la.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.1881105,
+      "lng": -118.44893859999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10566708631514225073",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:57.274Z"
+  },
+  {
+    "place_id": "0x80c299ef3b8308c3:0xe4bece2917a2e711",
+    "name": "Millie's Restaurant & Bakery",
+    "category": "American restaurant",
+    "address": "16840 Vanowen St, Van Nuys, CA 91406",
+    "phone": "(818) 785-3894",
+    "website": "http://milliesrestaurantandbakery.net/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.1935895,
+      "lng": -118.50029769999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16482838362108126993",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:57.308Z"
+  },
+  {
+    "place_id": "0x80c297090168ad75:0xe3c527ae62cf31cc",
+    "name": "MacLeod Ale Brewing Co.",
+    "category": "Brewery",
+    "address": "14741 Calvert St, Van Nuys, CA 91411",
+    "phone": "(213) 542-0064",
+    "website": "https://www.macleodale.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "5–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.1820301,
+      "lng": -118.45460059999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16412568046957179340",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:57.326Z"
+  },
+  {
+    "place_id": "0x80c296e026a340c3:0xb319333ada4184c7",
+    "name": "Metapan Restaurant",
+    "category": "Salvadoran restaurant",
+    "address": "14043 Sherman Way, Van Nuys, CA 91405",
+    "phone": "(818) 782-9100",
+    "website": "https://metapanrestaurant.shop/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "9 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.201467799999996,
+      "lng": -118.4392972
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12905402535069713607",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:57:57.345Z"
+  },
+  {
+    "place_id": "0x80c297e8a1890851:0xaa13e5827efa5e8",
+    "name": "Victory Caffe- Van Nuys",
+    "category": "Breakfast restaurant",
+    "address": "14909 Vanowen St, Van Nuys, CA 91405",
+    "phone": "(747) 264-0929",
+    "website": "http://www.victorycaffe.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "6:30 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.1942816,
+      "lng": -118.457916
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=765961959977756136",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "email": "victorycaffevn@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "victorycaffevn@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:57:57.379Z"
+  },
+  {
+    "place_id": "0x80c29746ba83c39f:0xc93290bfc8deb8",
+    "name": "Fresh Grill Mediterranean",
+    "category": "Mediterranean restaurant",
+    "address": "15355 Sherman Way Ste o, Van Nuys, CA 91406",
+    "phone": "(818) 855-1501",
+    "website": "https://order.online/store/fresh-grill-mediterranean-los-angeles-189887/?hideModal=true&pickup=true&utm_medium=wp_plugin&utm_source=sdk&visitorId=19409eb930277f77c",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.201987599999995,
+      "lng": -118.46790569999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=56632067593133752",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:09.411Z"
+  },
+  {
+    "place_id": "0x80c2976d0c16d5c7:0x8ad4a3d823328cde",
+    "name": "Sam Woo Village BBQ",
+    "category": "Chinese restaurant",
+    "address": "6450 Sepulveda Blvd, Van Nuys, CA 91411",
+    "phone": "(818) 988-6813",
+    "website": "https://samwoovillagebbqgo.site/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.1877752,
+      "lng": -118.4654456
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10003800820995493086",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:09.454Z"
+  },
+  {
+    "place_id": "0x80c299897529fcaf:0x5fd56ef6f97693ec",
+    "name": "Evergreen Restaurant",
+    "category": "Korean restaurant",
+    "address": "17621 Sherman Way, Van Nuys, CA 91406",
+    "phone": "(818) 708-0099",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.2014783,
+      "lng": -118.51691539999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6905547610668831724",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:09.496Z"
+  },
+  {
+    "place_id": "0x80c2971f183e8ee7:0x59629749771b5992",
+    "name": "Emily's House Restaurant",
+    "category": "Restaurant",
+    "address": "6700 Lennox Ave, Van Nuys, CA 91405",
+    "phone": "(323) 432-0047",
+    "website": "http://emilyshouserestaurant.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "5 PM–1 AM",
+      "Monday": "5 PM–1 AM"
+    },
+    "coordinates": {
+      "lat": 34.1923222,
+      "lng": -118.44518579999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6440876758879918482",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:09.553Z"
+  },
+  {
+    "place_id": "0x80c290b7234cb13f:0x9c953c3f4834bc59",
+    "name": "Kountry Folks Restaurant",
+    "category": "Breakfast restaurant",
+    "address": "8501 Sepulveda Blvd, North Hills, CA 91343",
+    "phone": "(747) 529-4088",
+    "website": "https://kountryfolksla.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "6 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 34.2248989,
+      "lng": -118.46798109999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11282990683938667609",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.157Z"
+  },
+  {
+    "place_id": "0x80c297413c9cb987:0xfd44ce199a3103fe",
+    "name": "WaBa Grill",
+    "category": "Asian fusion restaurant",
+    "address": "7135 Sepulveda Blvd, Van Nuys, CA 91405",
+    "phone": "(818) 616-3272",
+    "website": "https://locations.wabagrill.com/ll/us/ca/van-nuys/7135-sepulveda-blvd/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.200283899999995,
+      "lng": -118.4664737
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18249938199368500222",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.180Z"
+  },
+  {
+    "place_id": "0x80c297d477c7f86f:0x4c10d11ea629fc3a",
+    "name": "GG'S FOODHOUSE | International Restaurant- Mediterranean Food, Authentic Food in Van Nuys, LA,CA",
+    "category": "Restaurant",
+    "address": "14419 Sherman Way, Van Nuys, CA 91405",
+    "phone": "(818) 922-2181",
+    "website": "https://www.ggsfoodhouse.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.201449,
+      "lng": -118.4470906
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5481110676076887098",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "email": "info@ggsfoodhouse.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@ggsfoodhouse.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:18.221Z"
+  },
+  {
+    "place_id": "0x80c297783d3301e9:0xcc05a28c499f1230",
+    "name": "Ramen Izakaya Van Nuys",
+    "category": "Ramen restaurant",
+    "address": "13727 Victory Blvd, Valley Glen, CA 91401",
+    "phone": "(818) 387-8285",
+    "website": "http://www.ramenizakaya.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "11 AM–9:45 PM"
+    },
+    "coordinates": {
+      "lat": 34.1868388,
+      "lng": -118.4321983
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14701335282035135024",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.274Z"
+  },
+  {
+    "place_id": "0x80c291e56d634715:0x12841e8a997a8d9a",
+    "name": "Catch 818 Mariscos",
+    "category": "Seafood restaurant",
+    "address": "7900 Woodley Ave, Van Nuys, CA 91406",
+    "phone": "(818) 453-8407",
+    "website": "https://catch818mariscos.site/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "10 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.2141632,
+      "lng": -118.4834082
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1334224970237775258",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.315Z"
+  },
+  {
+    "place_id": "0x80c2907f4a348ed1:0x9d5e8bc33c0e7c59",
+    "name": "CF Food Kitchen",
+    "category": "American restaurant",
+    "address": "16205 Devonshire St, Granada Hills, CA 91344",
+    "phone": "(747) 239-8392",
+    "website": "http://cffoodkitchen.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "12–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.257769599999996,
+      "lng": -118.4853722
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11339654582407953497",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "email": "cffoodkitchen@yahoo.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "cffoodkitchen@yahoo.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:58:18.344Z"
+  },
+  {
+    "place_id": "0x80c29723749e6f2d:0x5b1956fc2529f46c",
+    "name": "Cali Viejo Restaurant",
+    "category": "Salvadoran restaurant",
+    "address": "7363 Van Nuys Blvd, Van Nuys, CA 91405",
+    "phone": "(818) 994-2930",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "9 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.2046916,
+      "lng": -118.44897879999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6564373572824462444",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:58:18.475Z"
+  },
+  {
+    "place_id": "0x80c296f90b8a9305:0x229bb43089b8605f",
+    "name": "The Rancherito",
+    "category": "Mexican restaurant",
+    "address": "6455 Woodman Ave, Van Nuys, CA 91401",
+    "phone": "(818) 994-7715",
+    "website": "http://orderelrancheritomex-restaurant.mobile-webview7.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "7:30 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.1883185,
+      "lng": -118.43146159999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2493784939241693279",
+    "business_status": "UNKNOWN",
+    "query_used": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:58:18.541Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 57,
+    "places_charged": 7,
+    "places_skipped_closed": 0,
+    "places_no_email": 41,
+    "total_emails_verified": 7,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T07:58:18.576Z",
+    "requests": 75,
+    "delivered": 7,
+    "est_spend_usd": 0.06,
+    "est_revenue_usd": 0.056,
+    "profit_guard_tripped": true
+  },
+  {
+    "_type": "info",
+    "delivered": 7,
+    "message": "7 leads delivered. This row is informational — it is never billed.",
+    "schedule_tip": "Want this refreshed automatically? Apify Console -> this Actor -> Schedules -> Add schedule -> pick how often (e.g. daily) -> Save. It reruns with the same input on autopilot, no code required.",
+    "review_tip": "Found this useful? A quick Store review helps other buyers find it: https://apify.com/themineworks/maps-leads#reviews",
+    "scraped_at": "2026-09-22T07:58:18.673Z"
+  }
+]

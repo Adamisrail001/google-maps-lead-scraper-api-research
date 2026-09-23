@@ -1,0 +1,14 @@
+# Secrets & internal-only files
+.env
+prompt.txt
+.claude/
+
+# Scratch space — superseded one-off scripts (contain hardcoded API keys), not evidence of record
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+
+# GitHub 100MB limit: oversized raw evidence tracked as .gz (original kept locally)
+data/lobstr/raw/results/run2-page1.json

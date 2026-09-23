@@ -1,0 +1,5010 @@
+[
+  {
+    "place_id": "0x80c2c7fd3e99d105:0xa6396fa5849abf9a",
+    "name": "inBeat Marketing Agency LA",
+    "category": "Marketing agency",
+    "address": "700 Flower St Ste 1000, Los Angeles, CA 90017",
+    "phone": "(323) 689-5089",
+    "website": "https://inbeat.agency/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.048164199999995,
+      "lng": -118.2585713
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11977727440653565850",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "hello@inbeat.agency",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@inbeat.agency",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:44.936Z"
+  },
+  {
+    "place_id": "0x80c2c7c90cb3901f:0x201edab52a091f9a",
+    "name": "The Los Angeles SEO Company",
+    "category": "Internet marketing service",
+    "address": "811 Wilshire Blvd Fl 17 SUITE 1537, Los Angeles, CA 90017",
+    "phone": "(818) 296-3687",
+    "website": "https://www.thelosangelesseo.company/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–11:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0497638,
+      "lng": -118.25818539999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2314527730144190362",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:45.039Z"
+  },
+  {
+    "place_id": "0x80c2c7539be1e417:0xfc52b2e7f3d694c6",
+    "name": "SeedX Inc.",
+    "category": "Marketing agency",
+    "address": "1420 S Figueroa St #204, Los Angeles, CA 90015",
+    "phone": "(646) 859-2328",
+    "website": "http://www.seedx.us/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "6 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0381931,
+      "lng": -118.26914459999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18181791354946229446",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "hello@seedx.us",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@seedx.us",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:45.082Z"
+  },
+  {
+    "place_id": "0x880cd7751bbbffff:0xbc374f04d71a8840",
+    "name": "SPICY TRIBE | Advertising Agency | 종합 광고 대행사 ATL & BTL | 온라인 마케팅 및 전시/행사 전문",
+    "category": "Marketing agency",
+    "address": "3060 W Olympic Blvd #722, Los Angeles, CA 90006",
+    "phone": "(224) 875-0441",
+    "website": "http://www.spicytribe.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.052143199999996,
+      "lng": -118.3026106
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13562395685056841792",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "hi@spicytribe.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "hi@spicytribe.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:45.169Z"
+  },
+  {
+    "place_id": "0x80c2c7b03fd80485:0x73b2a3f60c671c22",
+    "name": "VIBE",
+    "category": "Marketing agency",
+    "address": "800 Wilshire Blvd #200, Los Angeles, CA 90017",
+    "phone": "(562) 383-0169",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0494491,
+      "lng": -118.25864659999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8336906137381575714",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:32:45.219Z"
+  },
+  {
+    "place_id": "0x80c2c7817a36e3df:0xd4ecc39fa7cd49d",
+    "name": "Iconier Digital Marketing Agency",
+    "category": "Internet marketing service",
+    "address": "355 S Grand Ave Ste 2450, Los Angeles, CA 90071",
+    "phone": "(702) 238-5098",
+    "website": "https://www.iconier.com/digital-marketing-agency-los-angeles/?utm_source=google&utm_medium=organic&utm_campaign=gbp_los_angeles&utm_content=website",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0522789,
+      "lng": -118.2527006
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=958928320064181405",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "contact@iconier.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@iconier.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:45.249Z"
+  },
+  {
+    "place_id": "0x80c2c794d1e02bc1:0xffe5d338cd86b8df",
+    "name": "Market My Market - Legal Marketing Agency",
+    "category": "Marketing agency",
+    "address": "601 S Figueroa St #4050, Los Angeles, CA 90017",
+    "phone": "(213) 375-0970",
+    "website": "https://www.marketmymarket.com/?utm_campaign=gmb",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8:30 AM–5:30 AM",
+      "Monday": "8:30 AM–5:30 AM"
+    },
+    "coordinates": {
+      "lat": 34.050807,
+      "lng": -118.2593048
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18439376490258151647",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:45.305Z"
+  },
+  {
+    "place_id": "0x80c2c73518b7bd9b:0xe58d666890563a0c",
+    "name": "Social Media Relations",
+    "category": "Marketing agency",
+    "address": "120 E 8th St Ste 607, Los Angeles, CA 90014",
+    "phone": "(747) 291-6899",
+    "website": "http://www.smrelations.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0419637,
+      "lng": -118.252708
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16540989605685901836",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:45.407Z"
+  },
+  {
+    "place_id": "0x80c2c7b3b5dc6de3:0x9da46108e3752a22",
+    "name": "Thrive Internet Marketing Agency",
+    "category": "Marketing agency",
+    "address": "515 Flower St 36th floor, Los Angeles, CA 90071",
+    "phone": "(323) 431-9662",
+    "website": "https://thriveagency.com/los-angeles-digital-marketing-agency/?utm_source=GMBlisting&utm_medium=organic",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.051400799999996,
+      "lng": -118.2569403
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11359310850938972706",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:57.436Z"
+  },
+  {
+    "place_id": "0x80c2c71a94b209a1:0x52d00e4ad9961b2c",
+    "name": "Blacksmith Digital Marketing Agency",
+    "category": "Marketing agency",
+    "address": "555W W 5th St, Los Angeles, CA 90013",
+    "phone": "(855) 255-7585",
+    "website": "https://blacksmith.agency/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0502359,
+      "lng": -118.2530833
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5967285220906769196",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:57.499Z"
+  },
+  {
+    "place_id": "0x80c2c78e9ea0c2a7:0x434adda4fa9cb36a",
+    "name": "Bananas Marketing Agency",
+    "category": "Marketing agency",
+    "address": "515 Flower St Fl 19, Los Angeles, CA 90071",
+    "phone": "(866) 824-4370",
+    "website": "https://bananasmarketing.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.051400799999996,
+      "lng": -118.2569403
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4848931649466708842",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:57.591Z"
+  },
+  {
+    "place_id": "0x89c6c631bebffff9:0x8cd4eb9ceaf35b4b",
+    "name": "96ANDX",
+    "category": "Marketing agency",
+    "address": "695 S Santa Fe Ave, Los Angeles, CA 90021",
+    "phone": "(310) 948-9743",
+    "website": "https://96andx.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0351851,
+      "lng": -118.23044209999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10147994919561812811",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "hello@96andx.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@96andx.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:57.626Z"
+  },
+  {
+    "place_id": "0x80c296db0bbaf3ab:0xd44b04ee7177d781",
+    "name": "Sunlight Media LLC",
+    "category": "Marketing agency",
+    "address": "777 S Alameda St 2nd Floor, Los Angeles, CA 90021",
+    "phone": "(323) 868-3581",
+    "website": "https://sunlightmedia.org/?utm_source=google&utm_medium=gbp&utm_campaign=local_profile",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0345357,
+      "lng": -118.24167879999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15297325981446428545",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:32:57.717Z"
+  },
+  {
+    "place_id": "0x80c2c7b17096f7c7:0x82dd2a48107f25de",
+    "name": "BlackGrid Digital",
+    "category": "Marketing agency",
+    "address": "Figueroa at Wilshire, 601 S Figueroa St #4050, Los Angeles, CA 90017",
+    "phone": "(310) 936-2578",
+    "website": "https://blackgridseo.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0508331,
+      "lng": -118.25931949999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9429739683786466782",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "hello@blackgridseo.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@blackgridseo.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:57.813Z"
+  },
+  {
+    "place_id": "0x80c2c78f11043d05:0x37cb0d5274f59884",
+    "name": "Good Kids | LA Creative Agency",
+    "category": "Advertising agency",
+    "address": "453 S Spring St Ste, Los Angeles, CA 90013",
+    "phone": "(888) 499-6766",
+    "website": "https://www.goodkids.ca/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 34.047787,
+      "lng": -118.2495256
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4020321740159031428",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@goodkids.ca",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@goodkids.ca",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:58.038Z"
+  },
+  {
+    "place_id": "0x6bf1ba2761063461:0xdbb38cf2eaf9e10a",
+    "name": "SEOBerg",
+    "category": "Marketing agency",
+    "address": "445 S Figueroa St 31st Floor, Los Angeles, CA 90071",
+    "phone": "(323) 393-3238",
+    "website": "https://seoberg.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.053098999999996,
+      "lng": -118.25729749999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15831152090089644298",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "support@seoberg.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "support@seoberg.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:32:58.142Z"
+  },
+  {
+    "place_id": "0x80c2c795a9fb11c7:0x426636d498ff4f3e",
+    "name": "Coalition",
+    "category": "Internet marketing service",
+    "address": "515 Flower St 18th Floor, Suite #4081, Los Angeles, CA 90071",
+    "phone": "(310) 827-3890",
+    "website": "https://coalitiontechnologies.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0509019,
+      "lng": -118.25724129999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4784571940855566142",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:02.968Z"
+  },
+  {
+    "place_id": "0x80c2c7289900e009:0xe367d7418b5752b8",
+    "name": "JV Media Web",
+    "category": "Marketing agency",
+    "address": "445 S Figueroa St Ste 31, Los Angeles, CA 90071",
+    "phone": "(888) 859-6225",
+    "website": "https://jvmediaweb.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0536155,
+      "lng": -118.2568651
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16386302445721440952",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:03.014Z"
+  },
+  {
+    "place_id": "0x80c2bb6d4cb9bbe9:0x66b3f4e959b6cc2c",
+    "name": "Eclipse Marketing - Los Angeles SEO Agency",
+    "category": "Internet marketing service",
+    "address": "10250 Constellation Blvd #2300, Los Angeles, CA 90067",
+    "phone": "(213) 645-2282",
+    "website": "https://eclipsemarketing.io/los-angeles-ca-seo-agency/?utm_campaign=gmb",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "6 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.0571801,
+      "lng": -118.4175088
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7400527895769566252",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@eclmedia.agency",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@eclmedia.agency",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:03.043Z"
+  },
+  {
+    "place_id": "0x80c2bb7776779e8b:0xb13c3f156c0e1527",
+    "name": "Branding Los Angeles",
+    "category": "Marketing agency",
+    "address": "2462 Overland Ave, Los Angeles, CA 90064",
+    "phone": "(310) 479-6444",
+    "website": "https://brandinglosangeles.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0408843,
+      "lng": -118.42386139999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12771152004555609383",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:03.114Z"
+  },
+  {
+    "place_id": "0x80c2c7b0466a6d6b:0x3971157bc06beb5c",
+    "name": "MarketZest Digital Marketing Agency",
+    "category": "Marketing agency",
+    "address": "1010 Wilshire Blvd APT 315, Los Angeles, CA 90017",
+    "phone": "(240) 237-0001",
+    "website": "http://www.marketzest.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0517567,
+      "lng": -118.26245109999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4139113153783655260",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:13.409Z"
+  },
+  {
+    "place_id": "0x82abe098a242668b:0x512a698d8daaef0c",
+    "name": "American Guerrilla Marketing",
+    "category": "Marketing agency",
+    "address": "611 Wilshire Blvd #900, Los Angeles, CA 90017",
+    "phone": "(213) 328-4480",
+    "website": "https://americanguerrillamarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0483839,
+      "lng": -118.25630179999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5848603122782105356",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:13.458Z"
+  },
+  {
+    "place_id": "0x80c2bf19c586d6c3:0x6bcac0a8af714bcd",
+    "name": "Amplify - Global Brand Experience Agency in Los Angeles (LA)",
+    "category": "Marketing agency",
+    "address": "Bradbury Building, 304 S Broadway, Los Angeles, CA 90013",
+    "phone": "(323) 842-0517",
+    "website": "http://www.weareamplify.com/",
+    "hours": {
+      "Tuesday": "9:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0505072,
+      "lng": -118.2478199
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7767232338084318157",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "sophy@weareamplify.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "sophy@weareamplify.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "maddiek@weareamplify.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "lara@weareamplify.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "jennie@weareamplify.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "lee@weareamplify.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:13.482Z"
+  },
+  {
+    "place_id": "0x80c2c77bddb01e1f:0x1a33d7ccfe1452e8",
+    "name": "Student Marketing Agency",
+    "category": "Internet marketing service",
+    "phone": "(323) 553-4452",
+    "website": "https://studentmarketing.agency/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "7 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1888089944234414824",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:13.615Z"
+  },
+  {
+    "place_id": "0x80c2b09940bdad15:0x702304fa8f7c3019",
+    "name": "Deutsch",
+    "category": "Marketing agency",
+    "address": "12901 W Jefferson Blvd, Los Angeles, CA 90066",
+    "phone": "(310) 862-3000",
+    "website": "https://deutschla.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 33.976479,
+      "lng": -118.4215433
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8080307630628417561",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:13.660Z"
+  },
+  {
+    "place_id": "0x80c2b09ab57164af:0x7bbbdefb2ac59c26",
+    "name": "Modern Practice | Award-Winning Digital Marketing Agency for Doctors",
+    "category": "Internet marketing service",
+    "address": "6060 Center Dr 10th Floor, Los Angeles, CA 90045",
+    "phone": "(310) 818-3030",
+    "website": "http://www.modernpractice.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 33.976024699999996,
+      "lng": -118.3909061
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8915965057645780006",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:13.714Z"
+  },
+  {
+    "place_id": "0x80c2db5c1a48dec7:0x375222b7936b77a3",
+    "name": "JH SEO Agency | Los Angeles SEO Experts - Digital Marketing, Ads Management, & Web Development",
+    "category": "Internet marketing service",
+    "address": "957 S Gramercy Dr Apt 103, Los Angeles, CA 90019",
+    "phone": "(213) 894-9220",
+    "website": "https://jhseoagency.com/los-angeles-search-engine-optimization-company/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0537682,
+      "lng": -118.31249389999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3986286792023963555",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:13.815Z"
+  },
+  {
+    "place_id": "0x80c2c7936a475faf:0xf7c19dfea3ef7b60",
+    "name": "HYPE Agency",
+    "category": "Marketing agency",
+    "address": "633 W 5th St, Los Angeles, CA 90071",
+    "phone": "(833) 497-3001",
+    "website": "http://hypeagency.us/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0508565,
+      "lng": -118.2545384
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17852724114870991712",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "contact@ponzhost.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@ponzhost.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:13.846Z"
+  },
+  {
+    "place_id": "0x80c2bf205ed6e6e5:0x5285c70d4d007a32",
+    "name": "Kobe Digital",
+    "category": "Internet marketing service",
+    "address": "7083 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(310) 734-4030",
+    "website": "http://www.kobedigital.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "6 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.1018384,
+      "lng": -118.34440079999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5946377742952987186",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:17.436Z"
+  },
+  {
+    "place_id": "0x80c2b09c12ea8369:0x653f811c16cc5af5",
+    "name": "Ignition Creative",
+    "category": "Marketing agency",
+    "address": "1201 W 5th St Ste T-1100, Los Angeles, CA 90017",
+    "phone": "(310) 315-6300",
+    "website": "http://ignitioncreative.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0547362,
+      "lng": -118.2604944
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7295691879005051637",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "hello@ignitioncreative.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@ignitioncreative.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:17.486Z"
+  },
+  {
+    "place_id": "0x80c2c7b722b8173d:0x477a5dfb38d0d491",
+    "name": "Konnect Agency",
+    "category": "Marketing agency",
+    "address": "523 W 6th St Ste 600, Los Angeles, CA 90014",
+    "phone": "(213) 988-8344",
+    "website": "https://www.konnectagency.com/los-angeles/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0486546,
+      "lng": -118.2547171
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5150532457422967953",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:17.533Z"
+  },
+  {
+    "place_id": "0x80c2c64ad47a77ad:0x74656ed81186caca",
+    "name": "ITJGroup",
+    "category": "Marketing agency",
+    "address": "Heron Building, 510 W 6th St Ste 1105, Los Angeles, CA 90014",
+    "phone": "(951) 790-9207",
+    "website": "http://www.itjgroup.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0478869,
+      "lng": -118.2546004
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8387231755333454538",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@itjgroup.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@itjgroup.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:17.560Z"
+  },
+  {
+    "place_id": "0x80c2c647c470e907:0xe0ca184fd82b53d1",
+    "name": "First Page Advertising",
+    "category": "Internet marketing service",
+    "address": "355 S Grand Ave Ste 2450, Los Angeles, CA 90071",
+    "phone": "(310) 914-5050",
+    "website": "http://www.firstpage.us/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.052103699999996,
+      "lng": -118.25284239999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16197785740999611345",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:17.608Z"
+  },
+  {
+    "place_id": "0xc999024f9f64a19:0x4a79c3837300aff7",
+    "name": "MRLA Media",
+    "category": "Internet marketing service",
+    "address": "3223 W 6th St Ste 101, Los Angeles, CA 90020",
+    "phone": "(424) 256-6075",
+    "website": "https://www.mrla-media.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0638444,
+      "lng": -118.2927246
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5366535400326213623",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "johnnyla@mrla-media.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "johnnyla@mrla-media.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:17.653Z"
+  },
+  {
+    "place_id": "0x80c2c7cd17c3347b:0xf9bdbaabd164accb",
+    "name": "Honorable Marketing",
+    "category": "Internet marketing service",
+    "address": "555 W 5th St 35th floor, Los Angeles, CA 90013",
+    "phone": "(323) 716-2021",
+    "website": "http://www.hashtag-smart.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.050126,
+      "lng": -118.25307939999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17995744933157579979",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:17.756Z"
+  },
+  {
+    "place_id": "0x80c2c78a5985340d:0xb5fb75287727731e",
+    "name": "NITRO PLUG Digital Marketing",
+    "category": "Internet marketing service",
+    "address": "811 Wilshire Blvd, Los Angeles, CA 90017",
+    "phone": "(888) 983-1230",
+    "website": "http://nitroplug.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0496927,
+      "lng": -118.25820689999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13113203556677546782",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:17.829Z"
+  },
+  {
+    "place_id": "0x71783b3d27bc277:0x17462f38856a1108",
+    "name": "Dancing Chicken Media",
+    "category": "Marketing agency",
+    "address": "555 S Olive St Ste Suite 3300, Los Angeles, CA 90017",
+    "phone": "(424) 395-3280",
+    "website": "https://www.dancingchicken.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0483851,
+      "lng": -118.25412209999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1677079831045083400",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:21.916Z"
+  },
+  {
+    "place_id": "0x80c2c7802c79dc6f:0x6fcfaf8278ca80c3",
+    "name": "Beyond AMZ SEO Marketing",
+    "category": "Marketing agency",
+    "address": "355 S Grand Ave Ste 2450, Los Angeles, CA 90071",
+    "phone": "+1 672-713-4453",
+    "website": "http://workzyo.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0522789,
+      "lng": -118.2527006
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8056851233296253123",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:43.319Z"
+  },
+  {
+    "place_id": "0x80c2c7af1cbf18e9:0x736c4750541f2797",
+    "name": "StartGrowScale.ai",
+    "category": "Marketing agency",
+    "address": "633 W 5th St Fl 26, Los Angeles, CA 90071",
+    "phone": "(213) 719-5167",
+    "website": "http://www.startgrowscale.ai/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0511567,
+      "lng": -118.254446
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8317101022180747159",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:43.415Z"
+  },
+  {
+    "place_id": "0x80c2c64a10f0fa1b:0x5e72054342d77e7b",
+    "name": "FLUX Branding",
+    "category": "Branding agency",
+    "address": "1308 Factory Pl Loft 202, Los Angeles, CA 90013",
+    "phone": "(310) 597-9339",
+    "website": "http://www.fluxbranding.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.038915599999996,
+      "lng": -118.23553589999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6805507773352607355",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:43.517Z"
+  },
+  {
+    "place_id": "0x80c2c64a59a81e33:0x3d3a247054d0f2df",
+    "name": "Formula Internet",
+    "category": "Internet marketing service",
+    "address": "453 S Spring St #1014, Los Angeles, CA 90013",
+    "phone": "(310) 913-4949",
+    "website": "https://formulainternet.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0477632,
+      "lng": -118.24951499999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4411878849840739039",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "mark@formulainternet.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "mark@formulainternet.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:43.553Z"
+  },
+  {
+    "place_id": "0x80c2c6562e78aa75:0x520428eecac23e1f",
+    "name": "Sakura Marketing Firm",
+    "category": "Marketing agency",
+    "address": "930 Figueroa Terrace, Los Angeles, CA 90012",
+    "phone": "(213) 985-7898",
+    "website": "https://sakuramarketingfirm.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0672924,
+      "lng": -118.2443248
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5909893617085988383",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:43.658Z"
+  },
+  {
+    "place_id": "0x80c2c64a6fbcf467:0xb1422bb4d2e6610c",
+    "name": "Hawthorne Advertising",
+    "category": "Advertising agency",
+    "address": "1201 W 5th St t230, Los Angeles, CA 90017",
+    "phone": "(310) 844-0606",
+    "website": "https://www.hawthorneadvertising.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0547362,
+      "lng": -118.2604944
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12772819548808569100",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "cj_and_kck@hawthorneadvertising.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "cj_and_kck@hawthorneadvertising.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:43.739Z"
+  },
+  {
+    "place_id": "0x80c2bf46bb62f14f:0xd6d0f2f9e64bfa90",
+    "name": "TOP Agency Los Angeles - Marketing Agency",
+    "category": "Marketing agency",
+    "address": "7083 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(213) 465-4616",
+    "website": "https://topagency.com/los-angeles-marketing/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.101426,
+      "lng": -118.34476799999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15479139074396912272",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:43.815Z"
+  },
+  {
+    "place_id": "0x80dd313d6c75308d:0x77954a902ebab85a",
+    "name": "Palm & Ocean Hospitality Marketing",
+    "category": "Marketing agency",
+    "address": "6121 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": "(949) 874-5904",
+    "website": "http://www.palmandocean.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.098471499999995,
+      "lng": -118.3233011
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8616875445163047002",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:43.918Z"
+  },
+  {
+    "place_id": "0x80c2c7054c33f54b:0xefc928fa94227551",
+    "name": "Tegra",
+    "category": "Marketing agency",
+    "address": "811 W 7th St f12, Los Angeles, CA 90017",
+    "phone": "(888) 598-0440",
+    "website": "https://tegra.co/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0491692,
+      "lng": -118.25896639999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17278386502075839825",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "hello@tegra.co",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@tegra.co",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:56.019Z"
+  },
+  {
+    "place_id": "0x80c2c761596f8a55:0xaf504d5dedff68ba",
+    "name": "Intrepid Digital",
+    "category": "Marketing agency",
+    "address": "515 Flower Street 18th and 19th Floors, Los Angeles, CA 90071",
+    "phone": "(323) 763-9706",
+    "website": "https://www.intrepidonline.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8:30 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0508972,
+      "lng": -118.2572534
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12632682020594477242",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "friends.of@intrepidonline.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "friends.of@intrepidonline.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:56.083Z"
+  },
+  {
+    "place_id": "0x80d954f7c31aebb1:0xafd3f97086aa5e6e",
+    "name": "Small & Mighty Marketing",
+    "category": "Marketing agency",
+    "address": "609 S Grand Ave #409, Los Angeles, CA 90017",
+    "phone": "(415) 810-9794",
+    "website": "http://smallandmightymarketing.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.048679899999996,
+      "lng": -118.2556317
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12669744438414302830",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:56.149Z"
+  },
+  {
+    "place_id": "0x80c2c7b033a6b0f1:0xc322f73a9f17117",
+    "name": "Ai SEO Agency in Los Angeles Digital PR AI Marketing Firm 3iSEO",
+    "category": "Internet marketing service",
+    "phone": "(213) 640-7601",
+    "website": "https://3iseo.com/seo-los-angeles/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=878817051109585175",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:56.216Z"
+  },
+  {
+    "place_id": "0x80c2bebeda9e9a33:0x6c01a0e35aef98e7",
+    "name": "Intensify - eCommerce Advertising Agency In Los Angeles",
+    "category": "Marketing agency",
+    "address": "1235 Kings Rd #204, West Hollywood, CA 90069",
+    "phone": "(310) 916-9876",
+    "website": "https://www.intensifynow.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.092636999999996,
+      "lng": -118.373111
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7782678529416599783",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:56.243Z"
+  },
+  {
+    "place_id": "0x80c2bffb89a44e79:0xe6d4feeeb20198d4",
+    "name": "Draft Creative",
+    "category": "Marketing agency",
+    "address": "1370 N St Andrews Pl, Los Angeles, CA 90028",
+    "phone": "(424) 326-3320",
+    "website": "https://www.draftcreativegroup.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0965865,
+      "lng": -118.31057679999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16633199624928205012",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "sarah@draftcreativegroup.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "sarah@draftcreativegroup.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@draftcreativegroup.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:56.324Z"
+  },
+  {
+    "place_id": "0x80c2bf2058efec9f:0x4a768b9eebadfef2",
+    "name": "Just Digital Inc.",
+    "category": "Marketing agency",
+    "address": "10250 Constellation Blvd #2300, Los Angeles, CA 90067",
+    "phone": "(424) 210-7128",
+    "website": "http://justdigitalinc.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0571801,
+      "lng": -118.4175088
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5365629520733667058",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@justdigitalinc.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@justdigitalinc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:56.414Z"
+  },
+  {
+    "place_id": "0x80c2becdcf02e6f3:0x3117338b67772189",
+    "name": "LikeSocialBiz",
+    "category": "Internet marketing service",
+    "address": "7950 Sunset Blvd, Los Angeles, CA 90046",
+    "phone": "(310) 272-9734",
+    "website": "https://likesocialbiz.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "7 AM–11 PM"
+    },
+    "coordinates": {
+      "lat": 34.0975158,
+      "lng": -118.36332499999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3537352706152145289",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:56.471Z"
+  },
+  {
+    "place_id": "0x80c2c7b71b21a7e7:0x17fdfe50386f8629",
+    "name": "Attorney Marketing Network",
+    "category": "Marketing agency",
+    "address": "555 W 5th St 35th floor, Los Angeles, CA 90013",
+    "phone": "(888) 830-5089",
+    "website": "https://www.attorneymarketingnetwork.com/?utm_source=GMB%20Los%20Angeles&utm_medium=organic&utm_campaign=Google%20My%20Business",
+    "rating": 4.9,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.050128,
+      "lng": -118.253295
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1728817452477810217",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "sales@attorneymarketingnetwork.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@attorneymarketingnetwork.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:06.208Z"
+  },
+  {
+    "place_id": "0x80c2c76b818ada11:0x30be53f66c1dc98b",
+    "name": "Affordable Marketing",
+    "category": "Branding agency",
+    "address": "915 Wilshire Blvd, Los Angeles, CA 90017",
+    "phone": "(949) 247-2117",
+    "website": "https://affordable-marketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0509887,
+      "lng": -118.2600873
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3512337077236517259",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:06.259Z"
+  },
+  {
+    "place_id": "0x80c2bb850a646a55:0x3200b9e1781bcb9a",
+    "name": "405 Ads SEO Los Angeles",
+    "category": "Internet marketing service",
+    "address": "10576 Eastborne Ave, Los Angeles, CA 90024",
+    "phone": "(877) 496-2256",
+    "website": "https://405ads.com/seo-los-angeles/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.054638499999996,
+      "lng": -118.4296713
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3603084079930264474",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:20.417Z"
+  },
+  {
+    "place_id": "0x80c2be54d9319bb7:0x2a2f6a6f259af2ad",
+    "name": "Go Big LA",
+    "category": "Internet marketing service",
+    "address": "7190 Sunset Blvd #28, Los Angeles, CA 90046",
+    "phone": "(415) 488-6127",
+    "website": "https://converze.media/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0977844,
+      "lng": -118.3293006
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3039765299103199917",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@simplicitymedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@simplicitymedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:20.440Z"
+  },
+  {
+    "place_id": "0x80c2c763bfacc927:0x6e47897fe2e1c406",
+    "name": "Thrivent Global | Digital Marketing Company & Agency in USA",
+    "category": "Marketing agency",
+    "address": "N Los Angeles St, Los Angeles, CA 90012",
+    "website": "https://www.thriventglobal.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0540764,
+      "lng": -118.2402094
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7946471249878828038",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:20.555Z"
+  },
+  {
+    "place_id": "0x80c2c706950b3517:0xdc9751a3a9acccbb",
+    "name": "AAP Digital",
+    "category": "Marketing agency",
+    "address": "550 S Hill St #1550, Los Angeles, CA 90013",
+    "phone": "(909) 670-8405",
+    "website": "http://www.aapdigital.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0475472,
+      "lng": -118.25246039999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15895263173195648187",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@aapdigital.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@aapdigital.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:20.576Z"
+  },
+  {
+    "place_id": "0x80c2bb7e045263b1:0xcb1385261dbe98e5",
+    "name": "HawkSEM",
+    "category": "Marketing agency",
+    "address": "10940 Wilshire Blvd, Los Angeles, CA 90024",
+    "phone": "(800) 316-2220",
+    "website": "https://hawksem.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0581719,
+      "lng": -118.44507809999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14633186013011155173",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:20.656Z"
+  },
+  {
+    "place_id": "0x89b657944a50d531:0x9459953391a8eb0f",
+    "name": "The True Marketing Agency",
+    "category": "Marketing agency",
+    "address": "6677 Santa Monica Blvd, Los Angeles, CA 90038",
+    "phone": "(866) 970-3567",
+    "website": "http://thetruemarketingagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.091073,
+      "lng": -118.33595729999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10689739239260220175",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "contact@thetruemarketingagency.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@thetruemarketingagency.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:20.715Z"
+  },
+  {
+    "place_id": "0x80c2c7b251ae5831:0x813a972b4dad48e6",
+    "name": "MMW",
+    "category": "Marketing agency",
+    "address": "515 Flower St 36th Floor, Los Angeles, CA 90071",
+    "phone": "(213) 290-6508",
+    "website": "http://mmwagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.052481,
+      "lng": -118.256169
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9311921391784511718",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@mmwagency.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@mmwagency.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:20.778Z"
+  },
+  {
+    "place_id": "0x80c2b99c37976077:0x48bfc0e27c457fdc",
+    "name": "Create",
+    "category": "Marketing agency",
+    "address": "4201 Wilshire Blvd 6th Floor, Los Angeles, CA 90010",
+    "phone": "(310) 280-2999",
+    "website": "https://www.createadvertising.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0620338,
+      "lng": -118.31962
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5242120570262618076",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@createadvertising.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@createadvertising.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "jobs@createadvertising.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:20.875Z"
+  },
+  {
+    "place_id": "0x80c2bb8edca20fe7:0xc35d347931b4c80",
+    "name": "Promotion LA Inc Digital Marketing Agency",
+    "category": "Internet marketing service",
+    "phone": "(310) 405-7598",
+    "website": "https://promotionla.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 35.83745,
+      "lng": -119.95766449999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=879841606584978560",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@domain.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@domain.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:26.830Z"
+  },
+  {
+    "place_id": "0x80c2bba1a4db6099:0x9347357867aadfe1",
+    "name": "PurpleZ Marketing Agency",
+    "category": "Marketing agency",
+    "address": "11601 Wilshire Blvd 5th Floor, Los Angeles, CA 90025",
+    "phone": "(800) 213-7303",
+    "website": "https://purplez.com/?utm_medium=LA_organic&utm_source=business-profile&utm_campaign=website-link",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0509694,
+      "lng": -118.4599885
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10612509838173462497",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@purplez.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@purplez.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:26.935Z"
+  },
+  {
+    "place_id": "0x80c2bb674c9cd981:0x84b14a97608c3063",
+    "name": "Canesta Digital Marketing",
+    "category": "Marketing agency",
+    "address": "11755 Wilshire Blvd 11th floor, Los Angeles, CA 90025",
+    "phone": "(213) 325-6603",
+    "website": "https://www.canesta.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.048875599999995,
+      "lng": -118.4620338
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9561505497904590947",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@canesta.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@canesta.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:27.029Z"
+  },
+  {
+    "place_id": "0x80c2c75d58565c87:0xc815cfde1cea119b",
+    "name": "Dot Com Media",
+    "category": "Internet marketing service",
+    "address": "323 W 8th St 4th floor, Los Angeles, CA 90014",
+    "phone": "(888) 380-3050",
+    "website": "http://www.dcmmoguls.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0443272,
+      "lng": -118.25520639999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14417658334971302299",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:27.128Z"
+  },
+  {
+    "place_id": "0x80c2bb67331204af:0x1d5aecf7fa22c1a1",
+    "name": "LaV1 - Los Angeles Digital Marketing & SEO",
+    "category": "Internet marketing service",
+    "address": "6230 Wilshire Blvd #1109, Los Angeles, CA 90048",
+    "phone": "(213) 842-0774",
+    "website": "https://lav1.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.062906399999996,
+      "lng": -118.3648401
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2115263524801528225",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:27.254Z"
+  },
+  {
+    "place_id": "0x26f4055893f82f4b:0x38e379f92bbe8eac",
+    "name": "360 Social Media Marketing",
+    "category": "Marketing agency",
+    "address": "550 S Hill St #660, Los Angeles, CA 90013",
+    "phone": "(323) 301-3201",
+    "website": "http://360smm.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "12–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.047325799999996,
+      "lng": -118.2527229
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4099254196925009580",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:27.297Z"
+  },
+  {
+    "place_id": "0x80c2c7b4a9aed9d3:0x369b0fa01929a412",
+    "name": "Directive",
+    "category": "Advertising agency",
+    "address": "The Gas Company Tower, 555 W 5th St Fl 35, Los Angeles, CA 90013",
+    "phone": "(213) 271-1517",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.050240599999995,
+      "lng": -118.25330679999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3934755879729603602",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:27.319Z"
+  },
+  {
+    "place_id": "0x80c2c7ae50b7d8ed:0xc30ba14d17d24261",
+    "name": "SEO Service in Los Angeles",
+    "category": "Internet marketing service",
+    "address": "267 N Fremont Ave, Los Angeles, CA 90012",
+    "phone": "(424) 777-9776",
+    "website": "https://www.seoserviceinlosangeles.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.060369,
+      "lng": -118.250574
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14054504414623973985",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:27.343Z"
+  },
+  {
+    "place_id": "0x80c2ba5ea177361d:0xec786e3be5914fab",
+    "name": "Ignite Marketing",
+    "category": "Marketing agency",
+    "address": "6060 Manchester Ave Ste 310, Los Angeles, CA 90045",
+    "phone": "(424) 328-1077",
+    "website": "https://findignite.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 33.9596106,
+      "lng": -118.39070509999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17039490393689903019",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:29.226Z"
+  },
+  {
+    "place_id": "0x80c29c3f433a8d6f:0x7f7024dc52649eec",
+    "name": "COLAB | Digital Marketing Agency Los Angeles",
+    "category": "Internet marketing service",
+    "address": "21300 Victory Blvd #830, Woodland Hills, CA 91367",
+    "phone": "(855) 265-2252",
+    "website": "https://colablosangeles.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.1878263,
+      "lng": -118.5957718
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9182880168902172396",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:29.256Z"
+  },
+  {
+    "place_id": "0x80c2c7f72c1be1ef:0xb00971968e80c974",
+    "name": "Real Gym Leads",
+    "category": "Marketing agency",
+    "address": "408 S Spring St, Los Angeles, CA 90013",
+    "phone": "(310) 600-3593",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0485257,
+      "lng": -118.2483072
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12684794716915550580",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:29.282Z"
+  },
+  {
+    "place_id": "0x80c2bb8b8b3d2dfd:0xd579b0a27a5e981a",
+    "name": "Simply Branded",
+    "category": "Marketing agency",
+    "address": "3415 S Sepulveda Blvd Ste. 1000, Los Angeles, CA 90034",
+    "phone": "(323) 419-5989",
+    "website": "http://simply-branded.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8:30 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0205136,
+      "lng": -118.4242055
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15382520214144849946",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@simply-branded.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@simply-branded.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:37.318Z"
+  },
+  {
+    "place_id": "0x80c2c763b0683999:0x1321d8b6eb7be000",
+    "name": "F&D Marketing Agency",
+    "category": "Marketing agency",
+    "address": "777 S Figueroa St Ste 655, Los Angeles, CA 90017",
+    "phone": "(424) 600-2314",
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0484454,
+      "lng": -118.2613875
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1378621241098493952",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:37.529Z"
+  },
+  {
+    "place_id": "0x80c2c7597607eb7f:0x43a3bf97a6be1949",
+    "name": "Turbo Raide Los Angeles",
+    "category": "Marketing consultant",
+    "address": "N Los Angeles St, Los Angeles, CA 90012",
+    "phone": "(213) 334-5555",
+    "website": "https://taxisturbola.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.054084599999996,
+      "lng": -118.2402156
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4873949879803451721",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:37.571Z"
+  },
+  {
+    "place_id": "0x80c2c739e5554763:0xef35b1e7166f8258",
+    "name": "LA Goes Global",
+    "category": "Marketing agency",
+    "address": "315 W 5th St #806, Los Angeles, CA 90013",
+    "phone": "(213) 277-7074",
+    "website": "https://www.lagoesglobal.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0485277,
+      "lng": -118.25108999999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17236878754902409816",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:37.593Z"
+  },
+  {
+    "place_id": "0x80c2c7979d319363:0xea95a32d51fa072b",
+    "name": "Advanced Marketing",
+    "category": "Marketing agency",
+    "address": "2206 Beverly Blvd #102, Los Angeles, CA 90057",
+    "phone": "(310) 428-6389",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0669794,
+      "lng": -118.2717756
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16903596191449220907",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:37.638Z"
+  },
+  {
+    "place_id": "0x80c2b938e62c7c5f:0x457d807d2b20e6df",
+    "name": "SIX DEGREES LA",
+    "category": "Marketing agency",
+    "address": "5150 Wilshire Blvd #250, Los Angeles, CA 90036",
+    "phone": "(323) 807-4606",
+    "website": "http://www.sixdegreesla.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.061949,
+      "lng": -118.34217819999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5007299635788703455",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@sixdegreesla.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@sixdegreesla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:37.676Z"
+  },
+  {
+    "place_id": "0x80c2c7b442ff6a21:0x85434e70c21f7108",
+    "name": "Blacklist Marketing",
+    "category": "Marketing agency",
+    "address": "600 Wilshire Blvd, Los Angeles, CA 90017",
+    "phone": "(818) 355-2815",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0479589,
+      "lng": -118.2564953
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9602605076684173576",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:37.770Z"
+  },
+  {
+    "place_id": "0x80c2bb80abbf66a9:0xc690f79065bedc8e",
+    "name": "Los Angeles SEO Inc",
+    "category": "Internet marketing service",
+    "address": "640 S San Vicente Blvd Suite 478, Los Angeles, CA 90048",
+    "phone": "(310) 475-6560",
+    "website": "https://losangelesseoinc.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0654344,
+      "lng": -118.372368
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14308208215710424206",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:37.813Z"
+  },
+  {
+    "place_id": "0x80c2c724379d7831:0xfe3f84be90183e35",
+    "name": "Kyngdom digital",
+    "category": "Internet marketing service",
+    "address": "506 S Spring St Suite 13308, Los Angeles, CA 90013",
+    "phone": "(858) 293-5510",
+    "website": "https://unitscaledigital.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.047139699999995,
+      "lng": -118.2497111
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18320507763162627637",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [
+      {
+        "email": "hello@unitscaledigital.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:43.384Z"
+  },
+  {
+    "place_id": "0x80c2bbfe61556ac5:0x89f85f7bd9347997",
+    "name": "EZ Marketing Agency",
+    "category": "Internet marketing service",
+    "address": "8605 Santa Monica Blvd, West Hollywood, CA 90069",
+    "website": "https://ezmarketing.agency/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0880315,
+      "lng": -118.3794221
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9941801162950080919",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:43.416Z"
+  },
+  {
+    "place_id": "0x89c25ba3a6cddb8b:0xcc9bfdeda918203d",
+    "name": "inBeat Agency",
+    "category": "Marketing agency",
+    "address": "90 Broad St, New York, NY 10004",
+    "phone": "(212) 466-6915",
+    "website": "https://inbeat.agency/locations/new-york/influencer-marketing",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7038252,
+      "lng": -74.011978
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14743657002313457725",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "hello@inbeat.agency",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@inbeat.agency",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:43.439Z"
+  },
+  {
+    "place_id": "0x80c2c78b44df5ec5:0x83dc5e135d08bab5",
+    "name": "Internet Marketing Firm Net SEO",
+    "category": "Internet marketing service",
+    "address": "518 S Broadway, Los Angeles, CA 90013",
+    "phone": "(833) 762-7202",
+    "website": "https://www.internetmarketingfirm.net/california-internet-marketing/los-angeles-digital-marketing-company/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0473827,
+      "lng": -118.2508807
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9501572751103146677",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:43.559Z"
+  },
+  {
+    "place_id": "0x80c2c7001ecaf0bd:0x61b9bde63cb25a7f",
+    "name": "Los Angeles Logo Designs",
+    "category": "Marketing agency",
+    "address": "445 S Figueroa St #2980, Los Angeles, CA 90071",
+    "phone": "(909) 274-0124",
+    "website": "https://www.losangeleslogodesigns.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.053336,
+      "lng": -118.257044
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7041868288928930431",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:43.616Z"
+  },
+  {
+    "place_id": "0x80c2c7b157a3eb3b:0x959f9c0a5a419e2a",
+    "name": "Remnant Marketing",
+    "category": "Internet marketing service",
+    "address": "355 S Grand Ave #2450 - 929, Los Angeles, CA 90071",
+    "website": "https://www.remnantmarketingseo.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0521592,
+      "lng": -118.2527537
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10781507601226112554",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "hello@remnantdigitalpublishing.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@remnantdigitalpublishing.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:43.658Z"
+  },
+  {
+    "place_id": "0x80c2ba87d77c8f09:0xc1b448bf07828fce",
+    "name": "True North Social",
+    "category": "Marketing agency",
+    "address": "5855 Green Valley Cir #109, Culver City, CA 90230",
+    "phone": "(310) 694-5655",
+    "website": "https://truenorthsocial.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 33.9835338,
+      "lng": -118.3885141
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13957861130429960142",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:43.715Z"
+  },
+  {
+    "place_id": "0x80c2c719b7882a83:0xdd19c569d369cfc6",
+    "name": "eMaximize",
+    "category": "Marketing agency",
+    "address": "355 S Grand Ave, Los Angeles, CA 90071",
+    "phone": "(310) 706-4051",
+    "website": "https://emaximize.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0521592,
+      "lng": -118.2527537
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15931982215109005254",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@emaximize.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@emaximize.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:43.747Z"
+  },
+  {
+    "place_id": "0x80c2c7609a8d1e3f:0x4953d04828e78a24",
+    "name": "KultreMedia",
+    "category": "Internet marketing service",
+    "address": "506 S Spring St, Los Angeles, CA 90013",
+    "phone": "(310) 331-8742",
+    "website": "https://kultremedia.com/?y_source=1_NzI3MjYyMzYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0470387,
+      "lng": -118.2494267
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5283795796178209316",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:49.996Z"
+  },
+  {
+    "place_id": "0x80c2c76112e533d7:0xd718402c643812d1",
+    "name": "Firmelist",
+    "category": "Internet marketing service",
+    "address": "506 S Spring St, Los Angeles, CA 90013",
+    "website": "http://www.firmelist.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.046995599999995,
+      "lng": -118.2494608
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15499208676999697105",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:50.033Z"
+  },
+  {
+    "place_id": "0x80c2c64ad417650b:0xdc36dcceb91df081",
+    "name": "Ideal Brand Marketing",
+    "category": "Marketing agency",
+    "address": "550 S Hill St, Los Angeles, CA 90013",
+    "phone": "(213) 627-8363",
+    "website": "http://www.idealbrandmarketing.com/",
+    "rating": 3.7,
+    "hours": {
+      "Tuesday": "9:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0475559,
+      "lng": -118.2524339
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15868113117513642113",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:50.066Z"
+  },
+  {
+    "place_id": "0x80c2c7e66f56a9f9:0xfc725dc2b1dac2ff",
+    "name": "M16 Marketing - Los Angeles Web Design and SEO Company",
+    "category": "Marketing agency",
+    "address": "601 S Figueroa St, Los Angeles, CA 90017",
+    "phone": "(310) 295-6868",
+    "website": "https://m16marketing.com/locations/los-angeles-seo-company/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.050534299999995,
+      "lng": -118.259335
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18190704935691797247",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:50.114Z"
+  },
+  {
+    "place_id": "0x80c2a4d5a6acab15:0x1961d680269ed3d6",
+    "name": "Kastner Los Angeles",
+    "category": "Advertising agency",
+    "address": "3107 S La Cienega Blvd, Los Angeles, CA 90016",
+    "phone": "(310) 458-2000",
+    "website": "https://kastnerla.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0302249,
+      "lng": -118.3735655
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1828978769581233110",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:07.254Z"
+  },
+  {
+    "place_id": "0x80c2c7b3e65040e9:0x7afdab4f2fe54ab7",
+    "name": "Future Solutions Media",
+    "category": "Marketing agency",
+    "address": "800 W 6th St #450b, Los Angeles, CA 90017",
+    "phone": "(800) 480-5132",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0477535,
+      "lng": -118.2540015
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8862427998329326263",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:07.280Z"
+  },
+  {
+    "place_id": "0x80c2bebb1eb6c269:0x4db54fa41946b64f",
+    "name": "ADvance Media",
+    "category": "Marketing agency",
+    "address": "201 N Westmoreland Ave Unit 113, Los Angeles, CA 90004",
+    "phone": "(949) 868-9725",
+    "website": "https://www.advancemedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "6 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.07467,
+      "lng": -118.28846229999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5599469277922375247",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:07.312Z"
+  },
+  {
+    "place_id": "0x80c2c7ae1a32a7f1:0x764ba0775cd775d9",
+    "name": "Brandastic",
+    "category": "Marketing agency",
+    "address": "555 W 5th St 35th floor, Los Angeles, CA 90013",
+    "phone": "(888) 339-5275",
+    "website": "https://brandastic.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0500954,
+      "lng": -118.2531648
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8524083154247972313",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:07.346Z"
+  },
+  {
+    "place_id": "0x80c2bb73722e0299:0xccb60f47325ecd43",
+    "name": "Platinum Web Studio",
+    "category": "Marketing agency",
+    "address": "700 N San Vicente Blvd, West Hollywood, CA 90069",
+    "phone": "(424) 600-9191",
+    "website": "https://platinumwebstudio.com/van-nuys-marketing-agency",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0835522,
+      "lng": -118.3818953
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14750994427960806723",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "platinumwebstudio@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "platinumwebstudio@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "info@platinumwebstudio.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:07.373Z"
+  },
+  {
+    "place_id": "0x80c2bd8e0f36a833:0x59b8f7f0d67db5ad",
+    "name": "Digital Marketing 1on1 SEO Los Angeles",
+    "category": "Internet marketing service",
+    "address": "1100 Glendon Ave Fl 17, Los Angeles, CA 90024",
+    "phone": "(818) 538-4805",
+    "website": "https://www.marketing1on1.com/digital-marketing-seo-los-angeles/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0605878,
+      "lng": -118.4437986
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6465189878853121453",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:07.632Z"
+  },
+  {
+    "place_id": "0x80c2c7b2cbd95e8d:0xe9c1de9bf00ba71c",
+    "name": "Maitre agency",
+    "category": "Marketing agency",
+    "address": "119 W 23rd St, Los Angeles, CA 90007",
+    "phone": "(646) 490-1459",
+    "rating": 3,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0281845,
+      "lng": -118.2674424
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16843988842670958364",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:07.666Z"
+  },
+  {
+    "place_id": "0x80c2ea0da35fefb5:0xdea9731f2deb6707",
+    "name": "Studio 3 Marketing",
+    "category": "Marketing agency",
+    "address": "1800 S Brand Blvd Ste 301, Glendale, CA 91204",
+    "phone": "(888) 351-3514",
+    "website": "https://www.studio3marketing.com/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=gmb",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.1231479,
+      "lng": -118.25466139999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16044481725235685127",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:07.755Z"
+  },
+  {
+    "place_id": "0x80c2c1207dc43e67:0x68e8c51cb341ba53",
+    "name": "AB MEDIA USA",
+    "category": "Marketing agency",
+    "address": "111 N Louise St #101, Glendale, CA 91206",
+    "phone": "(844) 400-4440",
+    "website": "http://abmediausa.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.1468633,
+      "lng": -118.25306959999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7559508701598562899",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:19.929Z"
+  },
+  {
+    "place_id": "0x8dd2131a5599ecd9:0x135fc522d6b50934",
+    "name": "Kickstart Marketing Agency",
+    "category": "Marketing agency",
+    "phone": "(858) 786-0088",
+    "website": "https://kickstartma.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 33.4360484,
+      "lng": -117.7869496
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1396051162929891636",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:19.984Z"
+  },
+  {
+    "place_id": "0x80c295afc089341b:0xd098315c5afca7c6",
+    "name": "Beaver Branding Agency Los Angeles",
+    "category": "Marketing agency",
+    "address": "3029 San Fernando Rd #120, Burbank, CA 91504",
+    "phone": "(747) 277-9705",
+    "website": "https://beaverbranding.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.2153671,
+      "lng": -118.3640401
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15030818029082290118",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:20.105Z"
+  },
+  {
+    "place_id": "0x80c2b14d4591d47d:0x369b9a22bc33335e",
+    "name": "Team One",
+    "category": "Advertising agency",
+    "address": "13031 W Jefferson Blvd #800, Los Angeles, CA 90094",
+    "phone": "(310) 437-2500",
+    "website": "http://www.teamone-usa.com/",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "8:30 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 33.975387,
+      "lng": -118.4267612
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3934908173415297886",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:20.147Z"
+  },
+  {
+    "place_id": "0x80c2bf205f2a7bab:0x478b2df6232d06c2",
+    "name": "Supercool Creative Agency & Video Production Company",
+    "category": "Marketing agency",
+    "address": "7083 Hollywood Blvd First Floor, Los Angeles, CA 90028",
+    "phone": "(323) 609-3715",
+    "website": "https://supercoolcreative.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.101827,
+      "lng": -118.344382
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5155264733631022786",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "supercool@supercoolcreative.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "supercool@supercoolcreative.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:20.174Z"
+  },
+  {
+    "place_id": "0x80c2bb07cd3f0e41:0x55ddabe2db84be16",
+    "name": "Top Growth Marketing INC",
+    "category": "Marketing agency",
+    "website": "http://topgrowthmarketing.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6187290453910797846",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:28.645Z"
+  },
+  {
+    "place_id": "0x80c2c7b4a84d7e63:0xc7d0e43cecc61f05",
+    "name": "Creative27",
+    "category": "Software company",
+    "address": "633 W 5th St, Los Angeles, CA 90071",
+    "phone": "(310) 906-2727",
+    "website": "https://creative27.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.05108,
+      "lng": -118.254353
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14398258959025053445",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "hello@creative27.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@creative27.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:28.676Z"
+  },
+  {
+    "place_id": "0x80c2bbf36089a26b:0xb315d0dace58c259",
+    "name": "LawRank",
+    "category": "Internet marketing service",
+    "phone": "(833) 529-7265",
+    "website": "https://lawrank.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 33.4360484,
+      "lng": -117.7869496
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12904449945483395673",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:28.733Z"
+  },
+  {
+    "place_id": "0x89c25b77440348b1:0x96e8e68180fe70b3",
+    "name": "Unique Marketing",
+    "category": "Marketing agency",
+    "address": "199 Water St #35D, New York, NY 10038",
+    "phone": "(929) 930-2393",
+    "website": "https://umarketing.us/?utm_source=gmb&utm_medium=phone",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 40.706936999999996,
+      "lng": -74.0044856
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10874194744175390899",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:28.840Z"
+  },
+  {
+    "place_id": "0xa619c8994fe8195f:0xc0a855605c8d2d51",
+    "name": "FiveStarMe",
+    "category": "Internet marketing service",
+    "address": "453 S Spring St Ste 400, Los Angeles, CA 90013",
+    "phone": "(833) 702-6874",
+    "website": "http://www.datamarkdigital.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.047787,
+      "lng": -118.2495256
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13882439723727531345",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:28.862Z"
+  },
+  {
+    "place_id": "0x80c2c64bc665a389:0x7bf5166271686f61",
+    "name": "FASTSIGNS",
+    "category": "Sign shop",
+    "address": "333 S Spring St Ste F2, Los Angeles, CA 90013",
+    "phone": "(213) 460-2286",
+    "website": "https://www.fastsigns.com/los-angeles-financial-district-ca/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0494313,
+      "lng": -118.24796219999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8932070048024522593",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:28.910Z"
+  },
+  {
+    "place_id": "0x80c2c7165fbd7875:0x7d2c9812e4dca5b6",
+    "name": "Shyft Digitally",
+    "category": "Marketing agency",
+    "address": "453 S Spring St Ste 400, Los Angeles, CA 90013",
+    "phone": "(888) 710-6603",
+    "website": "https://www.shyftdigitally.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.047787,
+      "lng": -118.2495256
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9019751360632759734",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:28.932Z"
+  },
+  {
+    "place_id": "0x80c2c64a4a62dfd3:0x514405b073f87a42",
+    "name": "3 Collective",
+    "category": "Public relations firm",
+    "address": "Continental Building, 408 S Spring St #204, Los Angeles, CA 90013",
+    "phone": "(213) 617-3640",
+    "website": "http://the3collective.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0485597,
+      "lng": -118.2481581
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5855811670906534466",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:28.965Z"
+  },
+  {
+    "place_id": "0x80c2c75e4bf5cf4b:0x17e75ded1ad276a3",
+    "name": "JEMSU",
+    "category": "Internet marketing service",
+    "address": "445 S Figueroa St Ste 3100, Los Angeles, CA 90071",
+    "phone": "(323) 214-3410",
+    "website": "https://jemsu.com/los-angeles-seo/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0536155,
+      "lng": -118.2568651
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1722448655431136931",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:41.019Z"
+  },
+  {
+    "place_id": "0x80c2c7ce6fcb8efb:0x76f83ebe220a8d66",
+    "name": "Storyforma | Video Production & Marketing | Los Angeles",
+    "category": "Marketing agency",
+    "address": "460 S Spring St, Los Angeles, CA 90013",
+    "website": "https://storyforma.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0475743,
+      "lng": -118.249297
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8572670877035564390",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:41.065Z"
+  },
+  {
+    "place_id": "0x80c2c77ecffe5fa3:0xa069e937302e80d3",
+    "name": "TECH DRIVEN AGENCY",
+    "category": "Marketing agency",
+    "address": "445 S Figueroa St #2220, Los Angeles, CA 90071",
+    "phone": "(888) 200-7344",
+    "website": "https://techdrivenagency.com/",
+    "hours": {
+      "Tuesday": "8:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.053458299999996,
+      "lng": -118.25695259999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11559026341863915731",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:41.085Z"
+  },
+  {
+    "place_id": "0x87c0fd86423d24eb:0x464d71cc2b3ac4b7",
+    "name": "Music Marketing Maneuvers",
+    "category": "Music management and promotion",
+    "address": "506 S Spring St Suite 13308, Los Angeles, CA 90013",
+    "phone": "(786) 584-6435",
+    "website": "https://www.musicmarketingmaneuvers.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0471398,
+      "lng": -118.2497111
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5065830277574214839",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:41.112Z"
+  },
+  {
+    "place_id": "0x80c2c723820fab83:0x82bb9598e3ece042",
+    "name": "National Enterprise SEO",
+    "category": "Internet marketing service",
+    "address": "333 S Hope St c3, Los Angeles, CA 90071",
+    "website": "https://techdriftz.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0534675,
+      "lng": -118.2530973
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9420287529467043906",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:41.135Z"
+  },
+  {
+    "place_id": "0x80c2bffab68b19cb:0xdc285c27f43a2821",
+    "name": "iMeLife Marketing Agency",
+    "category": "Marketing agency",
+    "address": "555 Flower St Fl 51 STE 16A, Los Angeles, CA 90071",
+    "phone": "(800) 633-5718",
+    "website": "https://imelife.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.050922899999996,
+      "lng": -118.25725299999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15864031014083504161",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:41.170Z"
+  },
+  {
+    "place_id": "0x80c2c762b19014e5:0xfac5e054e492a4a1",
+    "name": "SEO Company in Los Angeles",
+    "category": "Internet marketing service",
+    "address": "718 N Figueroa St, Los Angeles, CA 90012",
+    "phone": "(424) 777-9766",
+    "website": "https://www.seocompanyinlosangeles.com/",
+    "hours": {
+      "Tuesday": "7 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.063928,
+      "lng": -118.24533509999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18070095735110673569",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "cs@seocompanyinlosangeles.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "cs@seocompanyinlosangeles.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:41.204Z"
+  },
+  {
+    "place_id": "0x80c2be4e27728d83:0x2c198f60513500aa",
+    "name": "Social Control, LLC",
+    "category": "Marketing agency",
+    "address": "515 Flower Street 18th floor, Los Angeles, CA 90071",
+    "phone": "(818) 309-7455",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.051400799999996,
+      "lng": -118.2569403
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3177728655928656042",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:41.314Z"
+  },
+  {
+    "place_id": "0x89c258c741910ab1:0x7b88198b45022808",
+    "name": "Digital Drew SEM",
+    "category": "Advertising agency",
+    "address": "110 E 28th St 10th Floor, New York, NY 10016",
+    "phone": "(917) 513-0533",
+    "website": "https://www.digitaldrewsem.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.742924599999995,
+      "lng": -73.98347509999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8901392749446703112",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:44.319Z"
+  },
+  {
+    "place_id": "0x80c8b80b7f021d6d:0x5ab5a90cd6449949",
+    "name": "Colman Media",
+    "category": "Internet marketing service",
+    "address": "555 Flower St, Los Angeles, CA 90071",
+    "phone": "(213) 557-4252",
+    "website": "https://colmanmedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.050774,
+      "lng": -118.257516
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6536316306797664585",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:44.415Z"
+  },
+  {
+    "place_id": "0x89c259869319e7af:0x54953953a5ede7bb",
+    "name": "Jives Media",
+    "category": "Marketing agency",
+    "address": "800 6th Ave Ste 36C, New York, NY 10001",
+    "phone": "(929) 265-5595",
+    "website": "https://www.jivesmedia.com/digital-marketing-agency-in-manhattan-ny/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7453911,
+      "lng": -73.9904866
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6094840702144735163",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@jivesmedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@jivesmedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:44.438Z"
+  },
+  {
+    "place_id": "0x80c2c7cd5411c4eb:0x1a11a85a3feb70b7",
+    "name": "Platinum Print USA",
+    "category": "Commercial printer",
+    "address": "380 S Los Angeles St Unit P1, Los Angeles, CA 90013",
+    "phone": "(213) 946-4783",
+    "website": "http://platinumprintusa.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0473321,
+      "lng": -118.2458084
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1878467625163124919",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:44.528Z"
+  },
+  {
+    "place_id": "0x80c2b135c434fadb:0xf917f48768a8ffb8",
+    "name": "Wpromote",
+    "category": "Marketing agency",
+    "address": "101 Continental Blvd Ste 150, El Segundo, CA 90245",
+    "phone": "(310) 321-4437",
+    "website": "https://www.wpromote.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 33.916989799999996,
+      "lng": -118.3914368
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17949083702322069432",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "jackie.leung@wpromote.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "jackie.leung@wpromote.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "partner@wpromote.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "hello@wpromote.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "sales@wpromote.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "press@wpromote.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:00.785Z"
+  },
+  {
+    "place_id": "0x80c2c7b4a84d7e63:0x61b4d317c3114f9d",
+    "name": "BSM - A Los Angeles SEO Company",
+    "category": "Internet marketing service",
+    "address": "555 W 5th St 34th floor, Los Angeles, CA 90013",
+    "phone": "(720) 295-5220",
+    "website": "https://boulderseomarketing.com/seo-services/",
+    "hours": {
+      "Tuesday": "7 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0501575,
+      "lng": -118.2532567
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7040484216497328029",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:00.867Z"
+  },
+  {
+    "place_id": "0x80c2b94f7066fbbf:0x3ad91443bb58262d",
+    "name": "SiO Digital",
+    "category": "Marketing agency",
+    "address": "355 S Grand Ave, Los Angeles, CA 90071",
+    "website": "https://siodigital.com/",
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0521592,
+      "lng": -118.2527537
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4240442805284513325",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:00.942Z"
+  },
+  {
+    "place_id": "0x80c2a4d4265b5513:0x82c9c6d210c7794",
+    "name": "180LA",
+    "category": "Advertising agency",
+    "address": "12555 W Jefferson Blvd, Los Angeles, CA 90066",
+    "phone": "(310) 382-1400",
+    "rating": 4.4,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 33.9798584,
+      "lng": -118.41322969999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=589017643798525844",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:00.994Z"
+  },
+  {
+    "place_id": "0x80c2b99ad06c0cc5:0x6420d43969a4ed12",
+    "name": "Ogilvy Los Angeles",
+    "category": "Marketing agency",
+    "address": "6300 Wilshire Blvd #1900, Los Angeles, CA 90048",
+    "phone": "(310) 280-2200",
+    "website": "http://ogilvy.com/",
+    "rating": 4,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0631985,
+      "lng": -118.36641829999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7214999946098175250",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "hadi.ballout@ogilvy.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "hadi.ballout@ogilvy.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "habib.rihana@ogilvy.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "samer.abboud@ogilvy.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "antoine.geadah@ogilvy.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "ziad.ghawi@ogilvy.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:01.021Z"
+  },
+  {
+    "place_id": "0x80c2c63c968a603d:0x2f3944a60e820c55",
+    "name": "The Arts District Los Angeles",
+    "category": "Marketing agency",
+    "address": "527 Molino St UNIT 108, Los Angeles, CA 90013",
+    "phone": "(323) 356-1682",
+    "website": "http://artsdistrictlosangeles.org/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.041039999999995,
+      "lng": -118.23410249999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3402826473453784149",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:01.086Z"
+  },
+  {
+    "place_id": "0x80c2c64a59aeeebf:0x13bd0536f936363f",
+    "name": "The Brand Suite Agency",
+    "category": "Marketing agency",
+    "address": "453 S Spring St Ste 400, Los Angeles, CA 90013",
+    "website": "http://thebrandsuiteagency.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.047787,
+      "lng": -118.2495256
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1422298790986397247",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:01.114Z"
+  },
+  {
+    "place_id": "0x80c2b4067dd1a2bf:0x189d7d6c27f9ed77",
+    "name": "eMaximize",
+    "category": "Marketing agency",
+    "address": "1230 Rosecrans Ave #300, Manhattan Beach, CA 90266",
+    "phone": "(310) 706-4051",
+    "website": "http://www.emaximize.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 33.901416399999995,
+      "lng": -118.3921247
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1773711731734474103",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@emaximize.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@emaximize.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:01.151Z"
+  },
+  {
+    "place_id": "0x80c2c645e78d488d:0x8143d574ca713dc5",
+    "name": "L.A. Design Studio",
+    "category": "Marketing agency",
+    "address": "300 N Los Angeles St, Los Angeles, CA 90012",
+    "phone": "(213) 292-9230",
+    "website": "https://www.ladesignstudio.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "7 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0537633,
+      "lng": -118.2397336
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9314523151921659333",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "mail4@ladesignstudio.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "mail4@ladesignstudio.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:11.525Z"
+  },
+  {
+    "place_id": "0x80c2c707056ec3dd:0x708f0fdabb18b228",
+    "name": "Digital Marketing Agency | DMA",
+    "category": "Internet marketing service",
+    "address": "601 S Figueroa St #4050, Los Angeles, CA 90017",
+    "phone": "(800) 569-2754",
+    "website": "https://www.digitalmarketingagency.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.050807,
+      "lng": -118.2593048
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8110718886033797672",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "sales@digitalmarketingagency.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@digitalmarketingagency.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:11.569Z"
+  },
+  {
+    "place_id": "0x80c2bb3e8ccabf7d:0xe3b29f6d09ea879c",
+    "name": "EVRR Digital - Top Digital Agency in Los Angeles, CA",
+    "category": "Internet marketing service",
+    "address": "12100 Wilshire Blvd Ste 800, Los Angeles, CA 90025",
+    "phone": "(888) 985-0701",
+    "website": "https://evrrdigital.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0434975,
+      "lng": -118.4675908
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16407351683130754972",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "marketing@evrrdigital.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "marketing@evrrdigital.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:11.631Z"
+  },
+  {
+    "place_id": "0x80c2c7b4db2c89b1:0x265e583087442d2",
+    "name": "Get Me Visible",
+    "category": "Internet marketing service",
+    "address": "633 W 5th St #1100, Los Angeles, CA 90071",
+    "phone": "(213) 328-2511",
+    "website": "https://getmevisible.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "8:30 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0510801,
+      "lng": -118.25435259999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=172796511668945618",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@getmevisible.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@getmevisible.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:11.738Z"
+  },
+  {
+    "place_id": "0x80c2bec593f7ac1d:0xa33702eba9912290",
+    "name": "Urge Interactive",
+    "category": "Marketing agency",
+    "address": "7906 Santa Monica Blvd #201, West Hollywood, CA 90046",
+    "phone": "(888) 348-3113",
+    "website": "https://urgeinteractive.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.090646,
+      "lng": -118.36187539999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11760872163086770832",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@urgeinteractive.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@urgeinteractive.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "sales@urgeinteractive.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "support@urgeinteractive.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:11.930Z"
+  },
+  {
+    "place_id": "0x80c2eb0e1bd63ed1:0x253dc77b6070a886",
+    "name": "MK Group Digital Marketing Agency",
+    "category": "Marketing agency",
+    "address": "150 E Olive Ave #115, Burbank, CA 91502",
+    "phone": "(323) 380-8693",
+    "website": "https://mkgdirect.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.180502,
+      "lng": -118.3086115
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2683520285695584390",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "hello@mkgdirect.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@mkgdirect.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:11.984Z"
+  },
+  {
+    "place_id": "0x80c2bf3a7cc63c3b:0x1ccf3d0d283a1945",
+    "name": "blend",
+    "category": "Marketing agency",
+    "address": "750 N San Vicente Blvd suite 800 w, West Hollywood, CA 90069",
+    "phone": "(310) 862-9242",
+    "website": "https://weareblend.la/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0838561,
+      "lng": -118.3827869
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2075945079959853381",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:12.053Z"
+  },
+  {
+    "place_id": "0x4cc9ab6648696309:0xb5ad1b43ad65ebec",
+    "name": "Webseco - Web, Marketing & Design",
+    "category": "Marketing agency",
+    "phone": "(800) 986-5621",
+    "website": "https://webseco.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–4 PM"
+    },
+    "coordinates": {
+      "lat": 51.2072,
+      "lng": -121.9883
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13091149669321796588",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:12.114Z"
+  },
+  {
+    "place_id": "0x80dcde8d1f2bdb53:0x306e5a0bb22b6dc",
+    "name": "ELA Advertising",
+    "category": "Advertising agency",
+    "address": "1040 N Sycamore Ave, Los Angeles, CA 90038",
+    "phone": "(310) 849-5100",
+    "website": "http://www.ela1.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.090118,
+      "lng": -118.34270169999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=218114110471190236",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:19.264Z"
+  },
+  {
+    "place_id": "0x80c2c64cbb9c1d37:0x158c947ea5e02ecd",
+    "name": "Taboola",
+    "category": "Internet marketing service",
+    "address": "Wells Fargo Center, 355 S Grand Ave, Los Angeles, CA 90071",
+    "website": "https://www.taboola.com/",
+    "rating": 2.9,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0523166,
+      "lng": -118.2526724
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1552779243205701325",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "privacy@taboola.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "privacy@taboola.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:19.291Z"
+  },
+  {
+    "place_id": "0x80c2c77592636701:0x71f3dd71cff91db1",
+    "name": "Kilograph",
+    "category": "Marketing agency",
+    "address": "304 S Broadway Ste 210, Los Angeles, CA 90013",
+    "phone": "(213) 908-2209",
+    "website": "https://kilograph.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0505072,
+      "lng": -118.2478199
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8211150026516798897",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "careers@kilograph.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "careers@kilograph.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "info@kilograph.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:24.551Z"
+  },
+  {
+    "place_id": "0x80c2c7b36b42fc73:0x81dd7855de554483",
+    "name": "Marketing Delight Inc",
+    "category": "Internet marketing service",
+    "address": "633 W 5th St, Los Angeles, CA 90071",
+    "phone": "(213) 631-2840",
+    "website": "http://marketingdelightinc.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0509055,
+      "lng": -118.25464319999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9357767910943442051",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:24.614Z"
+  },
+  {
+    "place_id": "0x80c2c7b4a9bcf049:0x237cbfaafda107b2",
+    "name": "High Converting Media",
+    "category": "Marketing agency",
+    "address": "555 W 5th St 35th floor, Los Angeles, CA 90013",
+    "phone": "(888) 830-5089",
+    "website": "http://www.highconvertingmedia.com/?utm_source=GMB%20Los%20Angeles%20&utm_medium=organic&utm_campaign=Google%20My%20Business",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0501462,
+      "lng": -118.25312369999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2557129429560133554",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "sales@highconvertingmedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@highconvertingmedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:24.641Z"
+  },
+  {
+    "place_id": "0x80c2c73ba927c7db:0x500810e2a5c317aa",
+    "name": "Allo Promo Marketing",
+    "category": "Marketing agency",
+    "address": "445 S Figueroa St Suites 3100, Los Angeles, CA 90071",
+    "website": "https://www.allopromo.ca/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0533717,
+      "lng": -118.25735359999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5766877888477599658",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:24.714Z"
+  },
+  {
+    "place_id": "0x80c2c7019f449db5:0xc4b5345cab2c7cb0",
+    "name": "Dale Marketing",
+    "category": "Corporate office",
+    "address": "309 E 8th St Ste 603, Los Angeles, CA 90014",
+    "phone": "(805) 607-0696",
+    "website": "https://dale-la.com/",
+    "hours": {
+      "Tuesday": "8 AM–6:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0412444,
+      "lng": -118.2512196
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14174292974831959216",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "hr@dale-la.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hr@dale-la.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:24.736Z"
+  },
+  {
+    "place_id": "0x80c2c7b332f7db25:0xd1acdf1471826aea",
+    "name": "Primera Publicidad LA",
+    "category": "Internet marketing service",
+    "address": "355 S Grand Ave Ste 2450, Los Angeles, CA 90071",
+    "phone": "(213) 394-0204",
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0518283,
+      "lng": -118.25340539999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15108696128817883882",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:24.779Z"
+  },
+  {
+    "place_id": "0x80c2c7175984a071:0xd7e8fcb3cce4b79f",
+    "name": "Content Kels",
+    "category": "Marketing consultant",
+    "address": "555 W 5th St 35 Floor, Los Angeles, CA 90013",
+    "phone": "(571) 247-2328",
+    "website": "http://contentkels.com/",
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0501613,
+      "lng": -118.2532358
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15557962761918265247",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:24.801Z"
+  },
+  {
+    "place_id": "0x80c2c7b4a9aed827:0x43bc0669e4d418cd",
+    "name": "repDaddio",
+    "category": "Marketing agency",
+    "address": "The Gas Company Tower, 555 W 5th St 35th floor, Los Angeles, CA 90013",
+    "phone": "(626) 304-0505",
+    "hours": {
+      "Tuesday": "9:30 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0500954,
+      "lng": -118.2531648
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4880783148043213005",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:24.836Z"
+  },
+  {
+    "place_id": "0x80c2c742d4160269:0xf8ab3288d1abe1c7",
+    "name": "Rootmark",
+    "category": "Marketing agency",
+    "address": "453 S Spring St Ste 708, Los Angeles, CA 90013",
+    "phone": "(831) 200-9239",
+    "website": "https://www.baxagency.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.047787,
+      "lng": -118.2495256
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17918471105638293959",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:27.312Z"
+  },
+  {
+    "place_id": "0x80c2c6456cbc6d0b:0x2858fbf74d163d9e",
+    "name": "Mordnte Digital",
+    "category": "Internet marketing service",
+    "address": "535 N Main St, Los Angeles, CA 90012",
+    "phone": "(213) 629-3101",
+    "website": "https://laplacita.mordntedigital.com/about-us/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.056891199999995,
+      "lng": -118.2393901
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2907350599036452254",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:27.333Z"
+  },
+  {
+    "place_id": "0x80c2bca77e6bb323:0x1e845822d739b5f8",
+    "name": "Supreme Marketing",
+    "category": "Internet marketing service",
+    "address": "11600 Washington Pl #213, Los Angeles, CA 90066",
+    "phone": "(323) 840-4220",
+    "website": "http://www.suprememarketing.group/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–2:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0044714,
+      "lng": -118.4207004
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2198979424726660600",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:27.353Z"
+  },
+  {
+    "place_id": "0x80c2c5e2e88ee24f:0x8a25970e7d9bca4d",
+    "name": "Marketing HDP",
+    "category": "Marketing agency",
+    "address": "3870 City Terrace Dr Fl 2, Los Angeles, CA 90063",
+    "phone": "(323) 518-9218",
+    "website": "http://marketinghdp.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.055474499999995,
+      "lng": -118.181131
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9954528639865047629",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:27.375Z"
+  },
+  {
+    "place_id": "0x80c2b90f1a34242d:0xc5fee7dd50bf7b74",
+    "name": "Beverly Hills Agency",
+    "category": "Internet marketing service",
+    "address": "8601 Wilshire Blvd Unit 1002, Beverly Hills, CA 90211",
+    "phone": "(619) 663-0000",
+    "website": "https://bhseoagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.066175,
+      "lng": -118.37866229999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14267095607284824948",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:27.400Z"
+  },
+  {
+    "place_id": "0x80c2c64afbeb8047:0xaea131d01c907139",
+    "name": "Delicate Minds",
+    "category": "Marketing agency",
+    "address": "215 W 5th St Apt 304, Los Angeles, CA 90013",
+    "phone": "(213) 679-0685",
+    "website": "https://www.delicateminds.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0480368,
+      "lng": -118.2502639
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12583393603752063289",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@delicateminds.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@delicateminds.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:27.437Z"
+  },
+  {
+    "place_id": "0x80c2bb611f8bfacd:0xee89391a6c12fd6b",
+    "name": "MaxAudience, Inc",
+    "category": "Marketing agency",
+    "address": "445 S Figueroa St 31st Floor, Los Angeles, CA 90071",
+    "phone": "(833) 827-4468",
+    "hours": {
+      "Tuesday": "7 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0536155,
+      "lng": -118.2568651
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17188332238481325419",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:27.495Z"
+  },
+  {
+    "place_id": "0x89c259039475bfbf:0xc81605a2d7cf0e9c",
+    "name": "Horizon Media, Inc.",
+    "category": "Advertising agency",
+    "address": "75 Varick St, New York, NY 10013",
+    "phone": "(212) 220-5000",
+    "website": "http://www.horizonmedia.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 40.723341,
+      "lng": -74.0064156
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14417717454036733596",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:27.516Z"
+  },
+  {
+    "place_id": "0x80c2c7b065e4d65d:0x3576e880745683f",
+    "name": "Media Saga Social SEO",
+    "category": "Internet marketing service",
+    "address": "1055 W 7th St 33rd floor, Los Angeles, CA 90017",
+    "phone": "(310) 401-1371",
+    "website": "https://mediasagasocialseo.com/los-angeles-ca/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0508327,
+      "lng": -118.2630305
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=240782635604207679",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:35.337Z"
+  },
+  {
+    "place_id": "0x80c2c7897066c80b:0x4d1ae23405ecb44c",
+    "name": "Top Notch Dezigns®",
+    "category": "Website designer",
+    "address": "445 S Figueroa St Ste 3100, Los Angeles, CA 90071",
+    "phone": "(310) 525-5482",
+    "website": "https://www.topnotchdezigns.com/los-angeles-web-design-company/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0536155,
+      "lng": -118.2568651
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5556001803380503628",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "sayhi@topnotchdezigns.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "sayhi@topnotchdezigns.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:35.361Z"
+  },
+  {
+    "place_id": "0x80c2c7b46b6b4485:0xb68174db25f9b544",
+    "name": "Golden Boy Promotions",
+    "category": "Marketing agency",
+    "address": "626 Wilshire Blvd #350, Los Angeles, CA 90017",
+    "phone": "(213) 489-5631",
+    "website": "http://www.goldenboypromotions.com/",
+    "rating": 4.7,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0482581,
+      "lng": -118.2569544
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13150920871482340676",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:35.433Z"
+  },
+  {
+    "place_id": "0x80c2bb8bf123819f:0x81298187d3ab3b7d",
+    "name": "Brill Media",
+    "category": "Marketing agency",
+    "address": "16133 Ventura Blvd #700, Encino, CA 91436",
+    "phone": "(800) 488-1973",
+    "website": "https://brillmedia.co/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.1568173,
+      "lng": -118.4847918
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9307112525309623165",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "hello@brillmedia.co",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@brillmedia.co",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:35.514Z"
+  },
+  {
+    "place_id": "0x2c5cd11bb7f0dab9:0x6693d512d777e13",
+    "name": "League Twenty Two",
+    "category": "Marketing agency",
+    "address": "448 S Hill St, Los Angeles, CA 90013",
+    "phone": "(323) 578-5590",
+    "website": "https://www.leaguetwentytwo.com/",
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.048847699999996,
+      "lng": -118.2514257
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=461967855646637587",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:51.281Z"
+  },
+  {
+    "place_id": "0x80c2c64cdc759eff:0xb875ba845447b1a2",
+    "name": "Mayo PR",
+    "category": "Marketing agency",
+    "address": "333 S Grand Ave, Los Angeles, CA 90071",
+    "phone": "(818) 340-5300",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0528299,
+      "lng": -118.25191009999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13291734952766321058",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:51.314Z"
+  },
+  {
+    "place_id": "0x80c2c7309821abdb:0xf75d1646e07a68fe",
+    "name": "WEB FOR FUTURE Inc",
+    "category": "Internet marketing service",
+    "address": "506 S Spring St Apt 13308, 2 Floor, Suite 46470, Los Angeles, CA 90013",
+    "phone": "(350) 200-5540",
+    "website": "https://www.wefuture.io/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0476069,
+      "lng": -118.2496207
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17824427393871931646",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:51.336Z"
+  },
+  {
+    "place_id": "0x80c2c72b65930891:0x56648d021ddc3c25",
+    "name": "Cansoft Technologies",
+    "category": "Marketing agency",
+    "address": "355 S Grand Ave, Los Angeles, CA 90071",
+    "phone": "(844) 822-2211",
+    "website": "https://cansoft.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.052082,
+      "lng": -118.2525405
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6225255625163291685",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "contact@cansoft.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@cansoft.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:51.361Z"
+  },
+  {
+    "place_id": "0x80c2bd348055c8bf:0x9d85fd3598cff0b0",
+    "name": "LA Media Agency",
+    "category": "Marketing agency",
+    "address": "11747 Sunset Blvd, Los Angeles, CA 90049",
+    "phone": "(424) 413-8917",
+    "website": "https://www.lamediaagency.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0645374,
+      "lng": -118.4717519
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11350756842496061616",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:51.429Z"
+  },
+  {
+    "place_id": "0x80c2c64b3d18d669:0xf8e6f23f2be6bf86",
+    "name": "ArDoMi Media Group",
+    "category": "Marketing agency",
+    "address": "448 S Hill St #612, Los Angeles, CA 90013",
+    "phone": "(323) 337-0612",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0488474,
+      "lng": -118.2513881
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17935288919182983046",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:51.535Z"
+  },
+  {
+    "place_id": "0x80c2c7b8bc780e27:0xc224a5b0e7314222",
+    "name": "Vertimax Camp",
+    "category": "Marketing agency",
+    "address": "633 W 5th St, Los Angeles, CA 90071",
+    "phone": "(800) 664-9502",
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0510747,
+      "lng": -118.2543536
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13989488521731195426",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:51.562Z"
+  },
+  {
+    "place_id": "0x80c2c7004881e683:0x4f09e84c10cb8af2",
+    "name": "FBA Listing Optimization",
+    "category": "Marketing agency",
+    "address": "515 Flower St, Los Angeles, CA 90071",
+    "phone": "(213) 816-2229",
+    "website": "https://fbalistingoptimization.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0509019,
+      "lng": -118.25724129999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5695338617183636210",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:51.604Z"
+  },
+  {
+    "place_id": "0x80c2c7a94cc018c1:0xa0a1310084ad5f9c",
+    "name": "Litteratus.ai",
+    "category": "Marketing agency",
+    "address": "458 S Spring St, Los Angeles, CA 90013",
+    "website": "https://litteratus.ai/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0475281,
+      "lng": -118.24915659999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11574586395614601116",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:55.340Z"
+  },
+  {
+    "place_id": "0x80c2c7629d2d0e51:0xb00fa676067088eb",
+    "name": "Millionario AI",
+    "category": "Marketing agency",
+    "address": "453 S Spring St Ste 1377, Los Angeles, CA 90013",
+    "phone": "(213) 205-7605",
+    "website": "https://millonario.ai/hello",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0477067,
+      "lng": -118.2495651
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12686541701170366699",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:55.366Z"
+  },
+  {
+    "place_id": "0x80c2c730d450359b:0xf1041b66be8609c8",
+    "name": "Clearpoint Strategy Inc",
+    "category": "Marketing agency",
+    "address": "333 S Grand Ave Ste 3310, Los Angeles, CA 90071",
+    "phone": "(213) 799-2988",
+    "website": "https://clearpointstg.com/",
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.052880699999996,
+      "lng": -118.25196179999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17367036191144544712",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@clearpointstg.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@clearpointstg.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:55.434Z"
+  },
+  {
+    "place_id": "0x80c2c64cbe8811c5:0xea9e201dfb56ba07",
+    "name": "Mr. E-Sourcing LLC. - Outsourcing Call Center",
+    "category": "Call center",
+    "address": "350 S Grand Ave, Los Angeles, CA 90071",
+    "phone": "(909) 979-1568",
+    "rating": 2.5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0514071,
+      "lng": -118.2516421
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16905985364338326023",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:36:55.530Z"
+  },
+  {
+    "place_id": "0x80c2c7b774400d2b:0x40a15c5c47de66ca",
+    "name": "Socialfix Media",
+    "category": "Marketing agency",
+    "address": "445 S Figueroa St Ste 3100, Los Angeles, CA 90071",
+    "phone": "(888) 434-1411",
+    "website": "https://www.socialfix.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0536155,
+      "lng": -118.2568651
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4657105041090307786",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:55.559Z"
+  },
+  {
+    "place_id": "0x80c2c700101c2d23:0xc8523ae2e7e65713",
+    "name": "G-CART MEDiA DESIGN & DEVELOPMENT",
+    "category": "Internet marketing service",
+    "address": "550 N Figueroa St, Los Angeles, CA 90012",
+    "phone": "(310) 593-3833",
+    "website": "http://g-cart.com/",
+    "hours": {
+      "Tuesday": "9 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0616161,
+      "lng": -118.24657309999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14434664501903513363",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "george@g-cart.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "george@g-cart.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:55.588Z"
+  },
+  {
+    "place_id": "0x80c2c7b3b5dc6dfd:0xfc99c0acb9b46ab8",
+    "name": "Chraft PR",
+    "category": "Marketing agency",
+    "address": "515 Flower St, Los Angeles, CA 90071",
+    "phone": "(213) 236-3613",
+    "website": "http://chraftpr.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0508972,
+      "lng": -118.2572534
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18201791217077086904",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "mina@chraftpr.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "mina@chraftpr.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:55.769Z"
+  },
+  {
+    "place_id": "0x80c2c7b3b745579b:0x487aa558e69286c0",
+    "name": "The Leaders Institute",
+    "category": "Business management consultant",
+    "address": "515 Flower St #3600, Los Angeles, CA 90071",
+    "phone": "(310) 694-0323",
+    "website": "https://www.leadersinstitute.com/los-angeles-california-team-building/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0514139,
+      "lng": -118.2567698
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5222668519133578944",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:55.856Z"
+  },
+  {
+    "place_id": "0x80c2c64a5965ce55:0x3791e2095c29d34",
+    "name": "Rare Bird Lit",
+    "category": "Book publisher",
+    "address": "453 S Spring St, Los Angeles, CA 90013",
+    "phone": "(213) 623-1773",
+    "website": "https://rarebirdlit.com/",
+    "rating": 2.3,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0477633,
+      "lng": -118.2495151
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=250264379596119348",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:59.328Z"
+  },
+  {
+    "place_id": "0x80c2c79e755b36a9:0x5323d8a2273e4326",
+    "name": "Hire Mgmt Pros",
+    "category": "Marketing agency",
+    "address": "225 S Grand Ave, Los Angeles, CA 90012",
+    "phone": "(310) 294-1613",
+    "website": "https://www.hiremgmtpros.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0541997,
+      "lng": -118.2512232
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5990870120287585062",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:36:59.354Z"
+  },
+  {
+    "place_id": "0x80c2bec0b3802b0b:0x246fdca078ea60b2",
+    "name": "Umbrella Los Angeles",
+    "category": "Marketing agency",
+    "website": "http://www.umbrellalosangeles.com/",
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2625559689561792690",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "info@umbrellalosangeles.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@umbrellalosangeles.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:59.379Z"
+  },
+  {
+    "place_id": "0x80c2c76183d0d217:0xa074752189abb95d",
+    "name": "Sign Spot",
+    "category": "Sign shop",
+    "address": "444 Flower St 13th floor, Los Angeles, CA 90071",
+    "phone": "(833) 728-0539",
+    "website": "https://www.signspotla.com/",
+    "hours": {
+      "Tuesday": "8:30 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.051561,
+      "lng": -118.2549921
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11561994930271009117",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "sales@signspotla.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@signspotla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:36:59.456Z"
+  },
+  {
+    "place_id": "0x80c2c78f4759a683:0x219b5976fe88691f",
+    "name": "Zabor Marketing",
+    "category": "Marketing agency",
+    "address": "555 W 5th St 35th floor, Los Angeles, CA 90013",
+    "phone": "(855) 932-4652",
+    "website": "https://www.zabormarketing.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0500954,
+      "lng": -118.2531648
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2421627592253139231",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "hello@zabormarketing.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@zabormarketing.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:37:07.868Z"
+  },
+  {
+    "place_id": "0x80c2bb2e7f0ea701:0x3b991c36e9748984",
+    "name": "Marketing Revive",
+    "category": "Marketing agency",
+    "address": "1901 Ave of the Stars 2nd Floor, Los Angeles, CA 90067",
+    "phone": "(415) 500-5333",
+    "website": "https://marketingrevive.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.059570799999996,
+      "lng": -118.4177211
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4294494741845019012",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "email": "hello@marketingrevive.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@marketingrevive.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:37:07.927Z"
+  },
+  {
+    "place_id": "0x80dd26f44d3c89f5:0xb21b682d6b2b62cc",
+    "name": "Let's Bee Social",
+    "category": "Marketing agency",
+    "address": "1003 England St, Huntington Beach, CA 92646",
+    "phone": "(714) 454-7041",
+    "website": "http://letsbeesocial.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 33.6659909,
+      "lng": -117.99207039999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12833966107403182796",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:37:08.144Z"
+  },
+  {
+    "place_id": "0x2a66d1735c5594c5:0x5cc16eab499d8390",
+    "name": "iMAGE MARKETING",
+    "category": "Business development service",
+    "address": "611 Wilshire Blvd #900, Los Angeles, CA 90017",
+    "phone": "(323) 657-7722",
+    "website": "http://www.imgrowth.com/",
+    "rating": 1,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0483839,
+      "lng": -118.25630179999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6683745003948049296",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:37:08.171Z"
+  },
+  {
+    "place_id": "0x80c2bbbe7d4a4e19:0xd6aa3dd41f4f68e0",
+    "name": "Brand Marketing LA - Real Estate Photography Los Angeles",
+    "category": "Photography service",
+    "address": "3415 S Sepulveda Blvd #1100, Los Angeles, CA 90034",
+    "phone": "(310) 945-7178",
+    "website": "https://brandmarketingla.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.020604899999995,
+      "lng": -118.4241617
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15468243851425048800",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:37:08.214Z"
+  },
+  {
+    "place_id": "0x80c2c64cd9e1560f:0x409de157860d1cde",
+    "name": "Champion City",
+    "category": "Marketing agency",
+    "address": "333 S Grand Ave, Los Angeles, CA 90071",
+    "phone": "(424) 261-4520",
+    "website": "https://www.championcity.la/contact",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0528299,
+      "lng": -118.25191009999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4656125355798371550",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:37:08.243Z"
+  },
+  {
+    "place_id": "0x80c2c7d5ec023f6d:0x3c251826ab5b4c84",
+    "name": "Ci CORP Digital Marketing",
+    "category": "Marketing agency",
+    "address": "U.S. Bank Tower, Office 2805, 633 W 5th St 28th floor, Los Angeles, CA 90071",
+    "phone": "(323) 471-4287",
+    "website": "https://www.cicorp.ae/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0510747,
+      "lng": -118.2543536
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4333896770776681604",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Downtown LA, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:37:08.291Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 192,
+    "places_charged": 63,
+    "places_skipped_closed": 0,
+    "places_no_email": 129,
+    "total_emails_verified": 82,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T07:37:08.414Z",
+    "requests": 313,
+    "delivered": 63,
+    "est_spend_usd": 0.2504,
+    "est_revenue_usd": 0.504,
+    "profit_guard_tripped": true
+  },
+  {
+    "_type": "info",
+    "delivered": 63,
+    "message": "63 leads delivered. This row is informational — it is never billed.",
+    "schedule_tip": "Want this refreshed automatically? Apify Console -> this Actor -> Schedules -> Add schedule -> pick how often (e.g. daily) -> Save. It reruns with the same input on autopilot, no code required.",
+    "review_tip": "Found this useful? A quick Store review helps other buyers find it: https://apify.com/themineworks/maps-leads#reviews",
+    "scraped_at": "2026-09-22T07:37:08.533Z"
+  }
+]

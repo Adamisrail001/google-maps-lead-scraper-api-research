@@ -1,0 +1,115 @@
+{
+  "data": {
+    "id": "PtXgrh9Ju4qzFdUsb",
+    "actId": "B1byySkFdoSQ2DlW3",
+    "userId": "AZ3qAPMgdVXBnvNQY",
+    "startedAt": "2026-09-22T07:21:19.246Z",
+    "finishedAt": "2026-09-22T07:26:21.912Z",
+    "status": "SUCCEEDED",
+    "statusMessage": "80 leads delivered. Useful? Leave a review: https://apify.com/themineworks/maps-leads",
+    "isStatusMessageTerminal": null,
+    "meta": {
+      "origin": "API",
+      "userAgent": "curl/8.12.1"
+    },
+    "stats": {
+      "inputBodyLen": 669,
+      "migrationCount": 0,
+      "rebootCount": 0,
+      "restartCount": 0,
+      "durationMillis": 302513,
+      "resurrectCount": 0,
+      "runTimeSecs": 302.513,
+      "metamorph": 0,
+      "computeUnits": 0.042015694444444446,
+      "memAvgBytes": 65397349.10397934,
+      "memMaxBytes": 81596416,
+      "memCurrentBytes": 0,
+      "cpuAvgUsage": 4.497784081766455,
+      "cpuMaxUsage": 80.60812144212524,
+      "cpuCurrentUsage": 0,
+      "netRxBytes": 17000031,
+      "netTxBytes": 1897191
+    },
+    "options": {
+      "build": "latest",
+      "timeoutSecs": 600,
+      "memoryMbytes": 512,
+      "maxTotalChargeUsd": 35.792814,
+      "maxItems": null,
+      "isMaxTotalChargeUsdSetByUser": false,
+      "diskMbytes": 1024
+    },
+    "buildId": "fl1yA3iURhc2aOsbs",
+    "exitCode": 0,
+    "defaultKeyValueStoreId": "1YVnpy3geN8KUdbKc",
+    "defaultDatasetId": "2tU9OrmjS102cGYvx",
+    "defaultRequestQueueId": "ZFSSgK9FCd4100zAf",
+    "storageIds": {
+      "keyValueStores": {
+        "default": "1YVnpy3geN8KUdbKc"
+      },
+      "datasets": {
+        "default": "2tU9OrmjS102cGYvx"
+      },
+      "requestQueues": {
+        "default": "ZFSSgK9FCd4100zAf"
+      }
+    },
+    "pricingInfo": {
+      "pricingModel": "PAY_PER_EVENT",
+      "apifyMarginPercentage": 0.2,
+      "startedAt": "2026-09-14T00:00:00.000Z",
+      "reasonForChange": "Adding a small per-run fee so every run covers its own fixed setup cost. Per-result prices are unchanged.",
+      "createdAt": "2026-08-30T09:05:41.857Z",
+      "notifiedAboutFutureChangeAt": "2026-08-30T09:06:02.171Z",
+      "notifiedAboutChangeAt": "2026-09-14T00:05:57.197Z",
+      "pricingPerEvent": {
+        "actorChargeEvents": {
+          "lead-verified": {
+            "eventTitle": "Lead",
+            "eventDescription": "Charged per Google Maps lead delivered",
+            "isPrimaryEvent": true,
+            "isOneTimeEvent": false,
+            "eventPriceUsd": 0.0016
+          },
+          "apify-actor-start": {
+            "eventTitle": "Actor Start",
+            "eventDescription": "Charged when the Actor starts running. Number of events charged depends on Actor memory (one event per GB, minimum one event).",
+            "isPrimaryEvent": false,
+            "isOneTimeEvent": true,
+            "eventPriceUsd": 0.005
+          }
+        }
+      }
+    },
+    "chargedEventCounts": {
+      "lead-verified": 80,
+      "apify-actor-start": 1
+    },
+    "platformUsageBillingModel": "DEVELOPER",
+    "accountedChargedEventCounts": {
+      "lead-verified": 80,
+      "apify-actor-start": 1
+    },
+    "standby": null,
+    "generalAccess": "FOLLOW_USER_SETTING",
+    "buildNumber": "0.2.15",
+    "containerUrl": "https://pmkddh8ticnm.runs.apify.net",
+    "usageTotalUsd": 0.133,
+    "consoleUrl": "https://console.apify.com/view/runs/PtXgrh9Ju4qzFdUsb",
+    "eventUsage": {
+      "lead-verified": {
+        "eventTitle": "Lead",
+        "eventTotalUsd": 0.128
+      },
+      "apify-actor-start": {
+        "eventTitle": "Actor Start",
+        "eventTotalUsd": 0.005
+      }
+    },
+    "output": {
+      "results": "https://api.apify.com/v2/datasets/2tU9OrmjS102cGYvx/items"
+    }
+  }
+}

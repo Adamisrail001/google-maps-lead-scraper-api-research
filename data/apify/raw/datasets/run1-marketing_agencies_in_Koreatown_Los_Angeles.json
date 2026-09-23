@@ -1,0 +1,3751 @@
+[
+  {
+    "place_id": "0x880cd7751bbbffff:0xbc374f04d71a8840",
+    "name": "SPICY TRIBE | Advertising Agency | 종합 광고 대행사 ATL & BTL | 온라인 마케팅 및 전시/행사 전문",
+    "category": "Marketing agency",
+    "address": "3060 W Olympic Blvd #722, Los Angeles, CA 90006",
+    "phone": "(224) 875-0441",
+    "website": "http://www.spicytribe.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.052143199999996,
+      "lng": -118.3026106
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13562395685056841792",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "hi@spicytribe.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "hi@spicytribe.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:00.617Z"
+  },
+  {
+    "place_id": "0x80c2db5c1a48dec7:0x375222b7936b77a3",
+    "name": "JH SEO Agency | Los Angeles SEO Experts - Digital Marketing, Ads Management, & Web Development",
+    "category": "Internet marketing service",
+    "address": "957 S Gramercy Dr Apt 103, Los Angeles, CA 90019",
+    "phone": "(213) 894-9220",
+    "website": "https://jhseoagency.com/los-angeles-search-engine-optimization-company/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0537682,
+      "lng": -118.31249389999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3986286792023963555",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:00.812Z"
+  },
+  {
+    "place_id": "0x80c2c77bddb01e1f:0x1a33d7ccfe1452e8",
+    "name": "Student Marketing Agency",
+    "category": "Internet marketing service",
+    "phone": "(323) 553-4452",
+    "website": "https://studentmarketing.agency/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "7 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1888089944234414824",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:00.871Z"
+  },
+  {
+    "place_id": "0xc999024f9f64a19:0x4a79c3837300aff7",
+    "name": "MRLA Media",
+    "category": "Internet marketing service",
+    "address": "3223 W 6th St Ste 101, Los Angeles, CA 90020",
+    "phone": "(424) 256-6075",
+    "website": "https://www.mrla-media.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0638444,
+      "lng": -118.2927246
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5366535400326213623",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "johnnyla@mrla-media.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "johnnyla@mrla-media.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:00.892Z"
+  },
+  {
+    "place_id": "0x80c2c7fd3e99d105:0xa6396fa5849abf9a",
+    "name": "inBeat Marketing Agency LA",
+    "category": "Marketing agency",
+    "address": "700 Flower St Ste 1000, Los Angeles, CA 90017",
+    "phone": "(323) 689-5089",
+    "website": "https://inbeat.agency/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.048164199999995,
+      "lng": -118.2585713
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11977727440653565850",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "hello@inbeat.agency",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@inbeat.agency",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:00.961Z"
+  },
+  {
+    "place_id": "0x80c2b99c37976077:0x48bfc0e27c457fdc",
+    "name": "Create",
+    "category": "Marketing agency",
+    "address": "4201 Wilshire Blvd 6th Floor, Los Angeles, CA 90010",
+    "phone": "(310) 280-2999",
+    "website": "https://www.createadvertising.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "10 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0620338,
+      "lng": -118.31962
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5242120570262618076",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "info@createadvertising.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@createadvertising.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "jobs@createadvertising.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:01.062Z"
+  },
+  {
+    "place_id": "0x80c2bf205ed6e6e5:0x5285c70d4d007a32",
+    "name": "Kobe Digital",
+    "category": "Internet marketing service",
+    "address": "7083 Hollywood Blvd, Los Angeles, CA 90028",
+    "phone": "(310) 734-4030",
+    "website": "http://www.kobedigital.com/",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "6 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.1018384,
+      "lng": -118.34440079999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5946377742952987186",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:01.162Z"
+  },
+  {
+    "place_id": "0x80c2bb6d4cb9bbe9:0x66b3f4e959b6cc2c",
+    "name": "Eclipse Marketing - Los Angeles SEO Agency",
+    "category": "Internet marketing service",
+    "address": "10250 Constellation Blvd #2300, Los Angeles, CA 90067",
+    "phone": "(213) 645-2282",
+    "website": "https://eclipsemarketing.io/los-angeles-ca-seo-agency/?utm_campaign=gmb",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "6 AM–12 AM"
+    },
+    "coordinates": {
+      "lat": 34.0571801,
+      "lng": -118.4175088
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7400527895769566252",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "info@eclmedia.agency",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@eclmedia.agency",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:01.191Z"
+  },
+  {
+    "place_id": "0x80c2c7dff5904aa7:0xa3b8437c3c0f5a4e",
+    "name": "HYPE Hyperion Digital Marketing Agency",
+    "category": "Marketing agency",
+    "address": "901 Vine St apt 407, Los Angeles, CA 90038",
+    "phone": "(213) 772-5046",
+    "website": "https://hypehyperion.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0873608,
+      "lng": -118.327626
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11797253424759659086",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "contact@hypehyperion.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@hypehyperion.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:11.371Z"
+  },
+  {
+    "place_id": "0x80c2c71b239161db:0xbdd6da1af82921b7",
+    "name": "AD-VISOR Creative",
+    "category": "Marketing agency",
+    "address": "975 S Vermont Ave #103, Los Angeles, CA 90006",
+    "phone": "(213) 254-5468",
+    "website": "https://www.ad-visorcreative.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "11 AM–5 AM",
+      "Monday": "11 AM–5 AM"
+    },
+    "coordinates": {
+      "lat": 34.0534495,
+      "lng": -118.2920281
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13679360727551910327",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "info@ad-visorcreative.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@ad-visorcreative.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:11.460Z"
+  },
+  {
+    "place_id": "0x80c2bebb1eb6c269:0x4db54fa41946b64f",
+    "name": "ADvance Media",
+    "category": "Marketing agency",
+    "address": "201 N Westmoreland Ave Unit 113, Los Angeles, CA 90004",
+    "phone": "(949) 868-9725",
+    "website": "https://www.advancemedia.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "6 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.07467,
+      "lng": -118.28846229999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5599469277922375247",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:11.488Z"
+  },
+  {
+    "place_id": "0x80c2c7251ad10cad:0xf3223a372e8ef6d1",
+    "name": "Koading Digital Marketing LLC",
+    "category": "Marketing agency",
+    "address": "763 Vermont Ave, Los Angeles, CA 90005",
+    "website": "https://koading.com/",
+    "rating": 3,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0579938,
+      "lng": -118.29214789999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17519629509103384273",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:11.613Z"
+  },
+  {
+    "place_id": "0x80c2c70fd9cdedbf:0x43b0cbc32a0d6579",
+    "name": "Top Local SEO Services LLC",
+    "category": "Internet marketing service",
+    "address": "535 S Alexandria Ave Apt 226, Los Angeles, CA 90020",
+    "phone": "(213) 325-2820",
+    "website": "https://www.toplocalseoservices.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0643327,
+      "lng": -118.2982627
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4877622435526829433",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "info@toplocalseoservices.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@toplocalseoservices.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:11.630Z"
+  },
+  {
+    "place_id": "0x80c2c77b8c084621:0x104ce23c0d892636",
+    "name": "The Social Hog",
+    "category": "Marketing agency",
+    "address": "3255 Wilshire Blvd #1804, Los Angeles, CA 90010",
+    "phone": "(888) 984-3464",
+    "website": "http://thesocialhog.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 34.0622634,
+      "lng": -118.293217
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1174562350389863990",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "support@thesocialhog.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "support@thesocialhog.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:11.682Z"
+  },
+  {
+    "place_id": "0x80c2c7c90cb3901f:0x201edab52a091f9a",
+    "name": "The Los Angeles SEO Company",
+    "category": "Internet marketing service",
+    "address": "811 Wilshire Blvd Fl 17 SUITE 1537, Los Angeles, CA 90017",
+    "phone": "(818) 296-3687",
+    "website": "https://www.thelosangelesseo.company/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–11:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0497638,
+      "lng": -118.25818539999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2314527730144190362",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:11.943Z"
+  },
+  {
+    "place_id": "0x80c2b96bb84ee2c7:0x839dab89535a5a1",
+    "name": "Reveal Rank: SEO Agency Los Angeles",
+    "category": "Marketing agency",
+    "address": "674 N Serrano Ave, Los Angeles, CA 90004",
+    "phone": "(302) 244-1405",
+    "website": "http://www.revealrank.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0833677,
+      "lng": -118.30669069999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=592745312288089505",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "outreach@revealrank.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "outreach@revealrank.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:12.344Z"
+  },
+  {
+    "place_id": "0x80c2bb7776779e8b:0xb13c3f156c0e1527",
+    "name": "Branding Los Angeles",
+    "category": "Marketing agency",
+    "address": "2462 Overland Ave, Los Angeles, CA 90064",
+    "phone": "(310) 479-6444",
+    "website": "https://brandinglosangeles.com/",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0408843,
+      "lng": -118.42386139999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12771152004555609383",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:19.444Z"
+  },
+  {
+    "place_id": "0x80c2b09ab57164af:0x7bbbdefb2ac59c26",
+    "name": "Modern Practice | Award-Winning Digital Marketing Agency for Doctors",
+    "category": "Internet marketing service",
+    "address": "6060 Center Dr 10th Floor, Los Angeles, CA 90045",
+    "phone": "(310) 818-3030",
+    "website": "http://www.modernpractice.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 33.976024699999996,
+      "lng": -118.3909061
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8915965057645780006",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:19.480Z"
+  },
+  {
+    "place_id": "0x80c2b9231f45b00f:0xb9e78115bc8eff5d",
+    "name": "Obrofy | Best Digital Marketing agency in Los Angeles",
+    "category": "Marketing agency",
+    "address": "137 N St Andrews Pl, Los Angeles, CA 90004",
+    "phone": "(754) 231-0282",
+    "website": "https://obrofy.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.074135,
+      "lng": -118.31171859999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13395817546994614109",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "sales@obrofy.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@obrofy.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      },
+      {
+        "email": "support@obrofy.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:19.563Z"
+  },
+  {
+    "place_id": "0x80c2b90e6ac63a7d:0xa5e8a027a10b6a7f",
+    "name": "Waru Media",
+    "category": "Marketing agency",
+    "address": "3680 Wilshire Blvd, Los Angeles, CA 90010",
+    "website": "https://warumedia.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0607372,
+      "lng": -118.30628689999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11954981302921030271",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "info@warumedia.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@warumedia.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:19.663Z"
+  },
+  {
+    "place_id": "0x80c2c77bcaf9c011:0xd0666ab9b5fc671a",
+    "name": "Angle Agency",
+    "category": "Marketing agency",
+    "address": "3183 Wilshire Blvd Ste. 717, Los Angeles, CA 90010",
+    "website": "http://angle.agency/",
+    "hours": {
+      "Tuesday": "6 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.062008,
+      "lng": -118.29051799999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15016807353368209178",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:37.354Z"
+  },
+  {
+    "place_id": "0x80c2c7cc7ae1bdb9:0x4801a7f935ec6674",
+    "name": "2POINT Los Angeles (LA)",
+    "category": "Marketing agency",
+    "address": "777 S Alameda St 2nd floor, Los Angeles, CA 90021",
+    "phone": "(213) 460-2132",
+    "website": "https://www.2pointagency.com/locations/los-angeles-digital-agency/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.033736,
+      "lng": -118.2414884
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5188612934500902516",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "team@2pointagency.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "team@2pointagency.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:37.395Z"
+  },
+  {
+    "place_id": "0x80c2b88528a95a1f:0x8d21bb0bcd4ec82a",
+    "name": "Blue State Digital",
+    "category": "Marketing agency",
+    "address": "3780 Wilshire Blvd Ste 601, Los Angeles, CA 90010",
+    "phone": "(323) 406-7652",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0613792,
+      "lng": -118.3085445
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10169615092942817322",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:37.490Z"
+  },
+  {
+    "place_id": "0x80c2b985b538f76d:0xf0031a6b7937eec6",
+    "name": "WP Tech Care",
+    "category": "Internet marketing service",
+    "address": "301 S Harvard Blvd, Los Angeles, CA 90020",
+    "phone": "(818) 527-2565",
+    "website": "https://wptechcare.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.068813399999996,
+      "lng": -118.3045045
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17294696042930368198",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:37.512Z"
+  },
+  {
+    "place_id": "0x8e5b1e96bbba1dcf:0x2bc8648719cc0218",
+    "name": "Goliath Raider LLC | Digital Marketing",
+    "category": "Internet marketing service",
+    "phone": "(619) 248-3825",
+    "website": "https://goliathraider.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 37.269505599999995,
+      "lng": -119.306607
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3154882070389195288",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:37.569Z"
+  },
+  {
+    "place_id": "0x80c2c7a5348974bf:0x5abb439aacb1bbdc",
+    "name": "Social Market Way Los Angeles",
+    "category": "Internet marketing service",
+    "address": "445 S New Hampshire Ave, Los Angeles, CA 90020",
+    "website": "https://socialmarketway.com/seo-company-los-angeles-ca/",
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.066121599999995,
+      "lng": -118.29319129999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6537893615659760604",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:37.589Z"
+  },
+  {
+    "place_id": "0x80c2b771621dc323:0xaf3a9d3bac7bba08",
+    "name": "Artist Media Solutions - Graphic Designer",
+    "category": "Graphic designer",
+    "address": "901 S Ardmore Ave Unit 105, Los Angeles, CA 90006",
+    "phone": "(323) 880-4490",
+    "website": "http://artistmediasolutions.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0557644,
+      "lng": -118.3023169
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12626577384909027848",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [
+      {
+        "email": "info@artistmediasolutions.com",
+        "status": "invalid",
+        "mx_found": false,
+        "confidence": 0
+      }
+    ],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:37.610Z"
+  },
+  {
+    "place_id": "0x80c2ba389d9df3c9:0xa8125a2f86e8aace",
+    "name": "V Digital Services",
+    "category": "Marketing agency",
+    "phone": "(310) 935-3468",
+    "website": "https://www.vdigitalservices.com/location/los-angeles-california/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12110841508126042830",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:37.687Z"
+  },
+  {
+    "place_id": "0x80c2c7a31683691f:0xd4977058c1d917e0",
+    "name": "AJE Media",
+    "category": "Marketing agency",
+    "address": "3435 Wilshire Blvd Fl 14, Los Angeles, CA 90010",
+    "phone": "(323) 451-2499",
+    "website": "https://linktr.ee/ajeMedia",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.062265499999995,
+      "lng": -118.298496
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15318836184035694560",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:49.744Z"
+  },
+  {
+    "place_id": "0x80c2b93ab247cd43:0xfdfd01385cb53b68",
+    "name": "Golden Funnel Marketing",
+    "category": "Marketing consultant",
+    "phone": "(323) 302-5540",
+    "rating": 4.9,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 51.2072,
+      "lng": -121.9883
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18301785802288741224",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:49.773Z"
+  },
+  {
+    "place_id": "0x80c2b93c0fd0d0d5:0x677a284620f37c81",
+    "name": "In Sync Advertising Inc",
+    "category": "Advertising agency",
+    "address": "3530 Wilshire Blvd Ste 1500, Los Angeles, CA 90010",
+    "phone": "(323) 965-4810",
+    "website": "http://www.insyncad.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.061547499999996,
+      "lng": -118.3006777
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7456316414730927233",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:49.785Z"
+  },
+  {
+    "place_id": "0x80c2c7c8f48fdd3f:0xd28a6cb331c83317",
+    "name": "NXT Generation Marketing",
+    "category": "Marketing agency",
+    "address": "3251 W 6th St Ste 311B, Los Angeles, CA 90020",
+    "phone": "(323) 999-6080",
+    "website": "https://wearenxtgeneration.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0638524,
+      "lng": -118.29313239999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15171057811641086743",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:49.809Z"
+  },
+  {
+    "place_id": "0x80c2c77bfae532e7:0x8d8fac67f510a804",
+    "name": "AAAZA Inc.",
+    "category": "Marketing agency",
+    "address": "2700 W 3rd St Ste 200, Los Angeles, CA 90057",
+    "phone": "(213) 380-8333",
+    "website": "http://www.aaaza.com/",
+    "rating": 3.2,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0663008,
+      "lng": -118.27941229999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10200561243510581252",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:49.880Z"
+  },
+  {
+    "place_id": "0x80c2bed2ac269219:0xf388c2358629b14",
+    "name": "bread & Butter PR and Marketing",
+    "category": "Marketing agency",
+    "phone": "(213) 739-7985",
+    "website": "https://www.wearebreadandbutter.com/?utm_source=Google&utm_medium=GMB&utm_campaign=LosAngeles",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 33.786671,
+      "lng": -118.18235399999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1096780592699317012",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:49.907Z"
+  },
+  {
+    "place_id": "0x80c2c7b15115bf03:0x29d817f5f95f3f6b",
+    "name": "Studio Umbrella Inc.",
+    "category": "Website designer",
+    "address": "3435 Wilshire Blvd 14th floor, Los Angeles, CA 90010",
+    "phone": "(323) 763-0503",
+    "website": "https://www.studioumbrella.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.062265599999996,
+      "lng": -118.2984953
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3015186295742742379",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:49.929Z"
+  },
+  {
+    "place_id": "0xaae8f87aa3c0cdbd:0xe7d397b7af5f1f7c",
+    "name": "Viral Fox Digital Marketing Agency",
+    "category": "Marketing agency",
+    "phone": "(323) 772-5354",
+    "website": "http://viralfoxagency.com/",
+    "rating": 5,
+    "hours": {
+      "Monday": "9 AM–5 AM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16704862258024357756",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:49.969Z"
+  },
+  {
+    "place_id": "0x80c2b88371feb5e1:0x603cd26ca740f0c5",
+    "name": "M & H America Inc",
+    "category": "Advertising agency",
+    "address": "3660 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(213) 365-1245",
+    "rating": 4,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0612439,
+      "lng": -118.3049843
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6934648890348073157",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:57.769Z"
+  },
+  {
+    "place_id": "0x14e1b14a7e23f66f:0x59d89b7c8f4ffa5a",
+    "name": "Tesla Media Group",
+    "category": "Internet marketing service",
+    "address": "3460 Wilshire Blvd #410, Los Angeles, CA 90010",
+    "phone": "(888) 333-5983",
+    "website": "http://www.teslamediagroup.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.061332,
+      "lng": -118.30005799999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6474095423627721306",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:33:57.881Z"
+  },
+  {
+    "place_id": "0x80c2c7b4ff0ca82b:0xd1f1addc662e3e97",
+    "name": "Ranksharks",
+    "category": "Marketing agency",
+    "address": "3435 Wilshire Blvd Ste 3070, Los Angeles, CA 90010",
+    "phone": "(800) 251-0043",
+    "website": "https://itseightpm.com/",
+    "rating": 3.4,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0622581,
+      "lng": -118.29850859999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15128063785432923799",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "hi@eightpm.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "hi@eightpm.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "careers@eightpm.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:33:57.918Z"
+  },
+  {
+    "place_id": "0x80c2b9001fb6585b:0x7c1c777ac263b5d0",
+    "name": "Iconic global marketing",
+    "category": "Advertising agency",
+    "address": "3031 W Olympic Blvd Unit 272, Los Angeles, CA 90006",
+    "phone": "(310) 906-0603",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0529106,
+      "lng": -118.30121609999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8943154329181992400",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:33:57.980Z"
+  },
+  {
+    "place_id": "0x6324afa1c75f9f17:0xdbe56b7b32d8846f",
+    "name": "The Cool Agency LLC",
+    "category": "Website designer",
+    "phone": "(424) 431-0851",
+    "website": "https://www.thecoolagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 33.786671,
+      "lng": -118.2990476
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15845189040851158127",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "jonah@thecoolagency.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "jonah@thecoolagency.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:05.583Z"
+  },
+  {
+    "place_id": "0x80c2c73518b7bd9b:0xe58d666890563a0c",
+    "name": "Social Media Relations",
+    "category": "Marketing agency",
+    "address": "120 E 8th St Ste 607, Los Angeles, CA 90014",
+    "phone": "(747) 291-6899",
+    "website": "http://www.smrelations.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0419637,
+      "lng": -118.252708
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16540989605685901836",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:05.697Z"
+  },
+  {
+    "place_id": "0x80c2b9221d309345:0x854e98b8872e6bbc",
+    "name": "Shoreline Digital Marketing SEO Agency",
+    "category": "Marketing agency",
+    "address": "5670 Wilshire Blvd #1800, Los Angeles, CA 90036",
+    "phone": "(888) 591-8205",
+    "website": "http://www.shorelinemediamarketing.com/ca",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.062007,
+      "lng": -118.35216039999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9605782973537217468",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:05.734Z"
+  },
+  {
+    "place_id": "0x80c2c76b818ada11:0x30be53f66c1dc98b",
+    "name": "Affordable Marketing",
+    "category": "Branding agency",
+    "address": "915 Wilshire Blvd, Los Angeles, CA 90017",
+    "phone": "(949) 247-2117",
+    "website": "https://affordable-marketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0509887,
+      "lng": -118.2600873
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3512337077236517259",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:05.758Z"
+  },
+  {
+    "place_id": "0x80c2c6562e78aa75:0x520428eecac23e1f",
+    "name": "Sakura Marketing Firm",
+    "category": "Marketing agency",
+    "address": "930 Figueroa Terrace, Los Angeles, CA 90012",
+    "phone": "(213) 985-7898",
+    "website": "https://sakuramarketingfirm.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0672924,
+      "lng": -118.2443248
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5909893617085988383",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "info@sakuramarketingfirm.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@sakuramarketingfirm.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:05.776Z"
+  },
+  {
+    "place_id": "0x80c2c0ac4cacf9a9:0xf206a35070c3fae7",
+    "name": "TREND: Music PR, Playlisting & Social Media",
+    "category": "Marketing agency",
+    "address": "4889 Melrose Ave, Los Angeles, CA 90029",
+    "phone": "(323) 668-9383",
+    "website": "https://trendpr.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0837019,
+      "lng": -118.3070006
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17439806172923427559",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:05.854Z"
+  },
+  {
+    "place_id": "0x80c2c7b3b5dc6de3:0x9da46108e3752a22",
+    "name": "Thrive Internet Marketing Agency",
+    "category": "Marketing agency",
+    "address": "515 Flower St 36th floor, Los Angeles, CA 90071",
+    "phone": "(323) 431-9662",
+    "website": "https://thriveagency.com/los-angeles-digital-marketing-agency/?utm_source=GMBlisting&utm_medium=organic",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.051400799999996,
+      "lng": -118.2569403
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11359310850938972706",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:05.878Z"
+  },
+  {
+    "place_id": "0x80c2c71a94b209a1:0x52d00e4ad9961b2c",
+    "name": "Blacksmith Digital Marketing Agency",
+    "category": "Marketing agency",
+    "address": "555W W 5th St, Los Angeles, CA 90013",
+    "phone": "(855) 255-7585",
+    "website": "https://blacksmith.agency/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0502359,
+      "lng": -118.2530833
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5967285220906769196",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:05.897Z"
+  },
+  {
+    "place_id": "0x80c2bf2058efec9f:0x4a768b9eebadfef2",
+    "name": "Just Digital Inc.",
+    "category": "Marketing agency",
+    "address": "10250 Constellation Blvd #2300, Los Angeles, CA 90067",
+    "phone": "(424) 210-7128",
+    "website": "http://justdigitalinc.com/",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0571801,
+      "lng": -118.4175088
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5365629520733667058",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "info@justdigitalinc.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@justdigitalinc.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:08.865Z"
+  },
+  {
+    "place_id": "0x80c2c78e9ea0c2a7:0x434adda4fa9cb36a",
+    "name": "Bananas Marketing Agency",
+    "category": "Marketing agency",
+    "address": "515 Flower St Fl 19, Los Angeles, CA 90071",
+    "phone": "(866) 824-4370",
+    "website": "https://bananasmarketing.com/",
+    "rating": 4.6,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.051400799999996,
+      "lng": -118.2569403
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4848931649466708842",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "hello@bananas.agency",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@bananas.agency",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:08.906Z"
+  },
+  {
+    "place_id": "0x80c2c7a83dfa4259:0x14770996d9bc3111",
+    "name": "KOMA MEDIA",
+    "category": "Marketing agency",
+    "address": "3109 W Temple St, Los Angeles, CA 90026",
+    "phone": "(678) 697-2566",
+    "website": "https://www.koma.media/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0753589,
+      "lng": -118.28077139999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1474657946489860369",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "donghwan@koma.media",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "donghwan@koma.media",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:23.142Z"
+  },
+  {
+    "place_id": "0x80c2c77d76d4f9c1:0xed7933cd45d577f8",
+    "name": "Sang Am and Associates",
+    "category": "Advertising agency",
+    "address": "3435 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(213) 252-6322",
+    "website": "http://sang-am.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0623299,
+      "lng": -118.2985743
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17111765215903840248",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "info@sang-am.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@sang-am.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:23.176Z"
+  },
+  {
+    "place_id": "0x80c2c70d8c091f27:0x3d1fa38c62e45955",
+    "name": "Leballoo",
+    "category": "Marketing agency",
+    "address": "3150 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(213) 802-2227",
+    "rating": 3.3,
+    "hours": {
+      "Tuesday": "11 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0613026,
+      "lng": -118.2910184
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4404418783941515605",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:23.213Z"
+  },
+  {
+    "place_id": "0x80c2b9f00f55a63f:0x4414b2f04002ed02",
+    "name": "NEWGKO",
+    "category": "Marketing agency",
+    "address": "3660 Wilshire Blvd #620, Los Angeles, CA 90010",
+    "phone": "(213) 905-9920",
+    "website": "https://newgko.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0614075,
+      "lng": -118.30508429999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4905742639049141506",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:23.244Z"
+  },
+  {
+    "place_id": "0x80c2c78c2a4880d7:0x804867b95700ffad",
+    "name": "4 X 4 Advertising, Inc.",
+    "category": "Advertising agency",
+    "address": "3250 Wilshire Blvd #1502, Los Angeles, CA 90010",
+    "phone": "(323) 403-0514",
+    "website": "https://4x4advertisinginc.pro/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0610801,
+      "lng": -118.2932929
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9243752280904236973",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:23.261Z"
+  },
+  {
+    "place_id": "0x80c2c7cf9520011d:0x4da662419f8f5393",
+    "name": "Your Story Agency",
+    "category": "Marketing agency",
+    "address": "915 Wilshire Blvd 7th & 8th Floor, Los Angeles, CA 90017",
+    "phone": "+1 236-474-0311",
+    "website": "https://www.your-story.agency/service-area/united-states/california/video-production-company-los-angeles/",
+    "hours": {
+      "Tuesday": "7 AM–9 PM"
+    },
+    "coordinates": {
+      "lat": 34.0577332,
+      "lng": -118.2980929
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5595267621043786643",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:23.299Z"
+  },
+  {
+    "place_id": "0x80c2b8c9d2dfb113:0xc9fd6a57ff2b4eca",
+    "name": "The Storied Group",
+    "category": "Public relations firm",
+    "address": "Los Angeles, CA 90004",
+    "website": "https://www.thestoriedgroup.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.074958699999996,
+      "lng": -118.30823489999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14554906496907038410",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:23.358Z"
+  },
+  {
+    "place_id": "0x80c2c764762164bb:0x2f85e7c7e8eb1ff1",
+    "name": "BTS Graphix 판촉물 / 인쇄",
+    "category": "Print shop",
+    "address": "3569 W 3rd St, Los Angeles, CA 90020",
+    "phone": "(213) 389-2488",
+    "website": "https://www.btsgraphix.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "10 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0692537,
+      "lng": -118.2936685
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3424397937477361649",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:23.462Z"
+  },
+  {
+    "place_id": "0xa4474d5447d73b71:0x80d38dabb74cbafe",
+    "name": "Launch House Co.",
+    "category": "Marketing agency",
+    "phone": "(213) 441-0838",
+    "website": "https://launchhouseco.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9282919025594907390",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:27.254Z"
+  },
+  {
+    "place_id": "0x80c2c74d123c591d:0xb88c7442f701ba39",
+    "name": "Rootinger",
+    "category": "Marketing agency",
+    "address": "3435 Wilshire Blvd 14th floor, Los Angeles, CA 90010",
+    "phone": "(949) 743-0152",
+    "website": "http://rootinger.com/",
+    "hours": {
+      "Tuesday": "10 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.062265499999995,
+      "lng": -118.2984956
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13298131630678981177",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "dj@rootinger.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "dj@rootinger.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "hello@rootinger.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:27.273Z"
+  },
+  {
+    "place_id": "0x80c2c77bdda63fb9:0x9939f97e50dd6a3d",
+    "name": "Daikon Digital",
+    "category": "Marketing agency",
+    "address": "3200 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(323) 999-4337",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.061458,
+      "lng": -118.29198559999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11041130282393365053",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:27.301Z"
+  },
+  {
+    "place_id": "0x80c2b882f5c3a76d:0xd869ed79b4308065",
+    "name": "Urban Insight",
+    "category": "Website designer",
+    "address": "3530 Wilshire Blvd #1355, Los Angeles, CA 90010",
+    "phone": "(213) 792-2000",
+    "website": "https://www.urbaninsight.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.060731499999996,
+      "lng": -118.30117229999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15594256291716956261",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:27.343Z"
+  },
+  {
+    "place_id": "0x80c2b92300000001:0x3f08e3ef62beac6f",
+    "name": "Powerhouse",
+    "category": "Marketing agency",
+    "address": "3731 Wilshire Blvd #635, Los Angeles, CA 90010",
+    "phone": "(213) 368-0303",
+    "website": "http://www.powerhouselive.net/",
+    "rating": 3,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0622712,
+      "lng": -118.3076174
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4542130841496497263",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:27.361Z"
+  },
+  {
+    "place_id": "0x8bdddb4d1ffd1cab:0x70280203ae61024f",
+    "name": "LAvirtual Agency",
+    "category": "Internet marketing service",
+    "phone": "(213) 927-6837",
+    "website": "https://lavirtual.co/",
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 33.786671,
+      "lng": -118.2990476
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8081711746150105679",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "sales@lavirtual.co",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "sales@lavirtual.co",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:27.375Z"
+  },
+  {
+    "place_id": "0x80c2c7000e3ee8bd:0xf2c0bf66dd3d3cc3",
+    "name": "Spectrum LA",
+    "category": "Internet marketing service",
+    "address": "2900 W 8th St Ste 92j, Los Angeles, CA 90005",
+    "rating": 1,
+    "hours": {
+      "Tuesday": "7 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0575209,
+      "lng": -118.2892894
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17492191401226353859",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:27.458Z"
+  },
+  {
+    "place_id": "0x80c2c778950fe7eb:0xa70f51779cd044f4",
+    "name": "KBJ Sign",
+    "category": "Banner store",
+    "address": "821 Vermont Ave, Los Angeles, CA 90005",
+    "phone": "(213) 385-1258",
+    "website": "http://www.kbjsign.com/",
+    "rating": 3.8,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0570601,
+      "lng": -118.29186899999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12037929903158478068",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:27.491Z"
+  },
+  {
+    "place_id": "0x80c2c75e30d7e939:0xd9bc0e5a6f932a8",
+    "name": "DAON AD",
+    "category": "Marketing agency",
+    "address": "3055 Wilshire Blvd #640, Los Angeles, CA 90010",
+    "phone": "(213) 500-9621",
+    "website": "http://www.daonglobal.net/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0620291,
+      "lng": -118.2880824
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=980589436464607912",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "innodesign365@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "innodesign365@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "support@daonglobal.net",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:39.509Z"
+  },
+  {
+    "place_id": "0x80c2c7a408011c5b:0xe8d2f49eacd0dd51",
+    "name": "ELEVATOR X",
+    "category": "Marketing agency",
+    "address": "3435 Wilshire Blvd 14th floor, Los Angeles, CA 90010",
+    "phone": "(310) 334-9408",
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0622654,
+      "lng": -118.2984956
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16776740524249898321",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:39.550Z"
+  },
+  {
+    "place_id": "0x80c2c77cf0772ce1:0x1899db2605259285",
+    "name": "Web Cures Digital",
+    "category": "Marketing agency",
+    "phone": "(323) 412-5015",
+    "website": "https://webcuresdigital.com/los-angeles-seo/?utm_source=google&utm_medium=gbp&utm_campaign=los_angeles",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1772688884688589445",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:39.577Z"
+  },
+  {
+    "place_id": "0x80c2c7777b9e5d39:0x21eb62fda9c15df",
+    "name": "Korea Daily",
+    "category": "Newspaper publisher",
+    "address": "690 Wilshire Pl, Los Angeles, CA 90005",
+    "phone": "(213) 368-2500",
+    "website": "https://corp.koreadaily.com/",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0601415,
+      "lng": -118.28767049999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=152759754024555999",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:39.644Z"
+  },
+  {
+    "place_id": "0x86a2dff304449f2d:0x621a7ffa512139af",
+    "name": "Techno Will Marketing",
+    "category": "Internet marketing service",
+    "phone": "(866) 972-4145",
+    "website": "https://technowillmarketing.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.013949499999995,
+      "lng": -118.1713655
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7069103278191098287",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:45.444Z"
+  },
+  {
+    "place_id": "0x89c259635be0ddaf:0x49a85dcc3f9bf967",
+    "name": "Digital Marketing 1on1 SEO New York",
+    "category": "Internet marketing service",
+    "address": "1325 Ave of the Americas, New York, NY 10019",
+    "phone": "(818) 538-4805",
+    "website": "https://www.marketing1on1.com/digital-marketing-seo-new-york/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 40.7622973,
+      "lng": -73.9797344
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5307595292678027623",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:45.565Z"
+  },
+  {
+    "place_id": "0x80c2c77bd5e325cd:0x7abdff2874a1581",
+    "name": "Bansko Advertising",
+    "category": "Advertising agency",
+    "address": "3150 Wilshire Blvd ste #106, Los Angeles, CA 90010",
+    "phone": "(213) 210-9272",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0613026,
+      "lng": -118.2910184
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=552781612027876737",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:45.622Z"
+  },
+  {
+    "place_id": "0x80c2c77d8417e7df:0x6b8dd184fb62f1ac",
+    "name": "코리아 포탈 | Koreaportal",
+    "category": "Corporate office",
+    "address": "90010 California, Los Angeles, Wilshire Blvd, 코리아 포탈 | Koreaportal",
+    "phone": "(323) 719-4500",
+    "website": "http://www.koreaportal.com/",
+    "rating": 4,
+    "hours": {
+      "Monday": "9 AM–5:30 AM"
+    },
+    "coordinates": {
+      "lat": 34.0607453,
+      "lng": -118.2990026
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7750080902857945516",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:45.640Z"
+  },
+  {
+    "place_id": "0x80c2c77fa9456c31:0x7274309cfc2294c0",
+    "name": "GEEK DIGI",
+    "category": "Internet marketing service",
+    "address": "823 S Kenmore Ave, Los Angeles, CA 90005",
+    "phone": "(818) 922-8385",
+    "website": "http://geekdigi.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0568811,
+      "lng": -118.29682729999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8247270268425376960",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "contact@geekdigi.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "contact@geekdigi.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:45.672Z"
+  },
+  {
+    "place_id": "0x80c2c7d40a2ae831:0x8965c698b5e27b",
+    "name": "BioMedBridge",
+    "category": "Marketing agency",
+    "address": "611 S Catalina St, Los Angeles, CA 90005",
+    "phone": "(224) 875-0441",
+    "website": "https://www.biomed-bridge.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0631621,
+      "lng": -118.2957357
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=38673975449346683",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "hello@biomed-bridge.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@biomed-bridge.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:45.703Z"
+  },
+  {
+    "place_id": "0x80c2c7ab70841c25:0x5a7f692e8a9015b5",
+    "name": "Signed Ciara",
+    "category": "Marketing agency",
+    "address": "201 N Westmoreland Ave #112, Los Angeles, CA 90004",
+    "phone": "(205) 907-1391",
+    "website": "http://www.signedciara.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.07467,
+      "lng": -118.28846229999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6521046434069878197",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:45.766Z"
+  },
+  {
+    "place_id": "0x89c25900c6c04877:0x2bd31146a1ffca74",
+    "name": "Thrive Internet Marketing Agency",
+    "category": "Marketing agency",
+    "address": "260 Madison Ave 8th floor, New York, NY 10016",
+    "phone": "(315) 930-1001",
+    "website": "https://thriveagency.com/nyc-digital-marketing-agency/?utm_source=GMBlisting&utm_medium=organic",
+    "rating": 4.1,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 40.7506832,
+      "lng": -73.9811227
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3157886758780127860",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:45.792Z"
+  },
+  {
+    "place_id": "0x80c2c76f8de4d56d:0x9b32d0bf8dca87db",
+    "name": "Virtuspark Digital Solutions",
+    "category": "Marketing consultant",
+    "address": "3183 Wilshire Blvd #196K25, Los Angeles, CA 90010",
+    "phone": "(213) 267-3118",
+    "website": "https://virtusparkai.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.062325099999995,
+      "lng": -118.29085239999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11183230345850554331",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:52.240Z"
+  },
+  {
+    "place_id": "0x80c2c77bddb01e2d:0xc7b33e481ea53880",
+    "name": "AdverCalls Inc",
+    "category": "Marketing agency",
+    "address": "3200 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(323) 302-5540",
+    "website": "http://advercalls.com/contact/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0620031,
+      "lng": -118.2901862
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14389913713851578496",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:52.277Z"
+  },
+  {
+    "place_id": "0x80c2b940fb37c94b:0x6f22bf73efbb777d",
+    "name": "Abigail Virtual Solutions, Inc.",
+    "category": "Employment agency",
+    "address": "3926 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(888) 407-2722",
+    "website": "https://abigailsolutions.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.061536,
+      "lng": -118.3121068
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8008173592082347901",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "abigailhana92@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "abigailhana92@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:34:52.343Z"
+  },
+  {
+    "place_id": "0x80c2c700e8a93a67:0x30bc1404b5748f9a",
+    "name": "Quix Advertising",
+    "category": "Advertising agency",
+    "address": "685 S Catalina St, Los Angeles, CA 90010",
+    "phone": "(310) 490-0546",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0604254,
+      "lng": -118.2956057
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3511703819898883994",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:52.380Z"
+  },
+  {
+    "place_id": "0x80c2c78aeacd00f7:0x44811cce620f0c02",
+    "name": "Callie Lau",
+    "category": "Marketing consultant",
+    "address": "318 S Mariposa Ave, Los Angeles, CA 90020",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0683425,
+      "lng": -118.29886309999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4936258339308768258",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:52.443Z"
+  },
+  {
+    "place_id": "0x80c2c7c34183e399:0xefbc6ca58ee7a1f",
+    "name": "Stark Professional Services",
+    "category": "Marketing agency",
+    "address": "620 S Catalina St, Los Angeles, CA 90005",
+    "phone": "(818) 213-6215",
+    "hours": {
+      "Tuesday": "7 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0629474,
+      "lng": -118.29507339999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1079675108063083039",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:52.581Z"
+  },
+  {
+    "place_id": "0x80c2b9dc596ad0f1:0x3387c1d746181af0",
+    "name": "Inteloraa",
+    "category": "Marketing agency",
+    "address": "432 S Harvard Blvd, Los Angeles, CA 90020",
+    "website": "https://www.facebook.com/trustntryagency",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0661881,
+      "lng": -118.30393319999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3713149548128377584",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:52.632Z"
+  },
+  {
+    "place_id": "0x80c2b882fc528415:0xe9dc07efe4a323e",
+    "name": "Giir America Inc",
+    "category": "Advertising agency",
+    "address": "3550 Wilshire Blvd #1200, Los Angeles, CA 90010",
+    "phone": "(213) 251-8822",
+    "website": "http://hsadusa.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0615555,
+      "lng": -118.3023032
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1053209539539251774",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:57.621Z"
+  },
+  {
+    "place_id": "0x80c2c77c09a73079:0xf3d61015420e49e9",
+    "name": "Web Promo Tech",
+    "category": "Internet marketing service",
+    "address": "3278 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(888) 574-6153",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.061458699999996,
+      "lng": -118.2939057
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17570248679721159145",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:57.640Z"
+  },
+  {
+    "place_id": "0x80c2b9c3b38484a5:0xf8d597bb992c626a",
+    "name": "Fionz, Inc",
+    "category": "Marketing agency",
+    "address": "3700 Wilshire Blvd #982, Los Angeles, CA 90010",
+    "phone": "(213) 282-8899",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0605141,
+      "lng": -118.30719459999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17930404323429999210",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:57.658Z"
+  },
+  {
+    "place_id": "0x80c2b8890befffff:0x783ae92cfefb4f22",
+    "name": "ad-vise marketing",
+    "category": "Marketing agency",
+    "address": "3511 W Olympic Blvd STE 101, Los Angeles, CA 90019",
+    "phone": "(213) 399-9506",
+    "website": "https://ad-visemarketing.com/contact/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0529395,
+      "lng": -118.3151905
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8663493212666285858",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:57.676Z"
+  },
+  {
+    "place_id": "0x80c2c7d7a9387c31:0x804a49f4395ab32b",
+    "name": "Staples Print & Marketing Services",
+    "category": "Print shop",
+    "address": "3223 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 738-9837",
+    "website": "https://stores.staples.com/ca/los-angeles/3223-west-6th-street/print-and-marketing-services?cmpid=st_ll_goo&cid=LS:RETAIL:G&utm_source=google&utm_medium=organic&utm_campaign=Google_Business_Listing",
+    "rating": 3.4,
+    "hours": {
+      "Tuesday": "8 AM–8 PM"
+    },
+    "coordinates": {
+      "lat": 34.0639043,
+      "lng": -118.2925872
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9244282498414457643",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:57.693Z"
+  },
+  {
+    "place_id": "0x80c2b884ba9aaaf7:0xb90c0248c3778cf7",
+    "name": "Lynn Allen Jeter & Associates",
+    "category": "Public relations firm",
+    "address": "3699 Wilshire Blvd #850, Los Angeles, CA 90010",
+    "phone": "(323) 933-8007",
+    "rating": 3,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0622409,
+      "lng": -118.3061484
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13334035108277488887",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:57.771Z"
+  },
+  {
+    "place_id": "0x4a037f56e7e97231:0x5e2ebe03fc9d6db1",
+    "name": "Vectrion AI",
+    "category": "Internet marketing service",
+    "phone": "(866) 551-4724",
+    "website": "https://www.vectrion.ai/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6786570612826271153",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:34:57.793Z"
+  },
+  {
+    "place_id": "0xa1ea44a952dd5f0f:0x248983cc6ea9fbb0",
+    "name": "DF Creative Marketing Agency",
+    "category": "Marketing agency",
+    "phone": "(213) 823-5294",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2632780371227966384",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:34:57.839Z"
+  },
+  {
+    "place_id": "0x80c2c72cbaaceaa7:0x8006dbb1437750f6",
+    "name": "Worthy Models LA",
+    "category": "Marketing agency",
+    "address": "846 S Catalina St, Los Angeles, CA 90005",
+    "phone": "(415) 745-6091",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0564943,
+      "lng": -118.2951191
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9225302441102627062",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:01.198Z"
+  },
+  {
+    "place_id": "0x80c2b884c93d7edf:0x6fc64b188e0b88a4",
+    "name": "Pancom International Inc",
+    "category": "Marketing agency",
+    "address": "3701 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(213) 427-1370",
+    "rating": 4.7,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.062393,
+      "lng": -118.306969
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8054207552433129636",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:01.271Z"
+  },
+  {
+    "place_id": "0x80c2b8a17cfdb58d:0x4ab7d344e1cb7960",
+    "name": "Yes Printing",
+    "category": "Commercial printer",
+    "address": "440 Shatto Pl Suite 313, Los Angeles, CA 90020",
+    "phone": "(323) 663-2211",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0659214,
+      "lng": -118.2895339
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5384004172344162656",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:01.305Z"
+  },
+  {
+    "place_id": "0x4b068f329241b4e1:0x861282906a8ce0a3",
+    "name": "HSR Marketing Agency",
+    "category": "Marketing agency",
+    "phone": "(847) 814-2949",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9660927707437654179",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:01.325Z"
+  },
+  {
+    "place_id": "0x80c2c77d77322dc3:0x4ffa12c910d14c5b",
+    "name": "ADSpotting",
+    "category": "Internet marketing service",
+    "address": "3435 Wilshire Blvd Ste 3070, Los Angeles, CA 90010",
+    "phone": "(310) 409-4833",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0622343,
+      "lng": -118.2985775
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5762939327953849435",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:01.359Z"
+  },
+  {
+    "place_id": "0x80c2c7237f187e5b:0xf7469b97c4902af1",
+    "name": "Hyper Vision Co",
+    "category": "Marketing agency",
+    "phone": "(626) 419-8554",
+    "website": "https://hypervisionco.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17818100051878095601",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:01.379Z"
+  },
+  {
+    "place_id": "0x80c2b8827d25aa91:0x32e725df74998072",
+    "name": "IPTV World",
+    "category": "Media company",
+    "address": "3460 Wilshire Blvd #1100, Los Angeles, CA 90010",
+    "phone": "(888) 277-0121",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.061306,
+      "lng": -118.300039
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3667942063180710002",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:01.465Z"
+  },
+  {
+    "place_id": "0x80c2c78249aba68f:0xadd4bb3c4ceb614d",
+    "name": "Exon Print",
+    "category": "Marketing agency",
+    "address": "975 Vermont Ave #103, Los Angeles, CA 90006",
+    "phone": "(213) 433-1111",
+    "website": "http://exonprint.com/",
+    "rating": 4.3,
+    "hours": {
+      "Tuesday": "11 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0538162,
+      "lng": -118.2920752
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12525842331287118157",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "portotheme@portotheme.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "portotheme@portotheme.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "porto@domain.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:01.494Z"
+  },
+  {
+    "place_id": "0xa5d567ecd79ce165:0x6aa6e2d28cccb7c4",
+    "name": "AAX Agency",
+    "category": "Website designer",
+    "phone": "(818) 405-2503",
+    "website": "https://aaxagency.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.5433941
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7685079208087566276",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "aaxsolution@gmail.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "aaxsolution@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:03.044Z"
+  },
+  {
+    "place_id": "0x80c2c77cf0ed5d21:0x4b04e26b00b03c2b",
+    "name": "Imagination At Play",
+    "category": "Design agency",
+    "address": "3435 Wilshire Blvd Fl 14, Los Angeles, CA 90010",
+    "website": "http://www.iapcreative.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9:30 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.062265499999995,
+      "lng": -118.298496
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5405694401952365611",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "hello@iapcreative.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@iapcreative.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:03.160Z"
+  },
+  {
+    "place_id": "0x80c2b9201fe512b7:0xce56c12eda8236e",
+    "name": "Avalon Artists Group",
+    "category": "Talent agency",
+    "address": "3435 Wilshire Blvd Ste 1160, Los Angeles, CA 90010",
+    "phone": "(323) 692-1700",
+    "website": "https://avalonartists.com/",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0623299,
+      "lng": -118.2985743
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=929267726674305902",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "ellie@avalonartists.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "ellie@avalonartists.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "internaagny@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:09.569Z"
+  },
+  {
+    "place_id": "0x5495a74b2ed59b77:0xe7f7a9128371dd2",
+    "name": "Sacred Fire Creative",
+    "category": "Marketing agency",
+    "address": "5331 S Macadam Ave #258-533, Portland, OR 97239",
+    "phone": "(503) 816-3890",
+    "website": "https://sacredfirecreative.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 45.4845462,
+      "lng": -122.67523039999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1044688402436791762",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:09.605Z"
+  },
+  {
+    "place_id": "0x80c2b884e93e2a7b:0x32d1f7fa193a1eec",
+    "name": "Hatch Pictures",
+    "category": "Advertising agency",
+    "address": "3700 Wilshire Blvd Ste 800, Los Angeles, CA 90010",
+    "phone": "(213) 477-4500",
+    "hours": {
+      "Tuesday": "9:30 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0605141,
+      "lng": -118.30719459999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=3661980625566047980",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:09.644Z"
+  },
+  {
+    "place_id": "0xed3c8436a8e9c49:0x82de86025c771612",
+    "name": "Savvy sales Marketing",
+    "category": "Marketing consultant",
+    "phone": "(213) 787-4246",
+    "website": "https://savvysalesmarketing.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–3 PM"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9430122014459762194",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "filler@godaddy.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "filler@godaddy.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:09.665Z"
+  },
+  {
+    "place_id": "0x80c2c77d46c6f423:0x9f1230d40494ad6b",
+    "name": "PIXEL IMAGING Reprographics",
+    "category": "Commercial printer",
+    "address": "2707 W Olympic Blvd Ste 100, Los Angeles, CA 90006",
+    "phone": "(213) 385-9000",
+    "website": "http://www.pixelimaging.net/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0529329,
+      "lng": -118.29195899999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=11462277688779386219",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "info@pixelimaging.net",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@pixelimaging.net",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:09.805Z"
+  },
+  {
+    "place_id": "0x80c2bfb640ac4257:0xfd8545e7220dc93c",
+    "name": "Tony Kim Pasadena, CA Commercial Property Sales Listing Broker Specialist",
+    "category": "Commercial real estate agency",
+    "address": "3255 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(213) 878-2626",
+    "website": "https://linktr.ee/TonyKimCre",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.062252,
+      "lng": -118.29313239999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=18268084322509375804",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:09.841Z"
+  },
+  {
+    "place_id": "0x80c2b9443fb05595:0x4c7cac4d72a0a429",
+    "name": "Home Improvement",
+    "category": "Telemarketing service",
+    "address": "430 S Western Ave #204, Los Angeles, CA 90020",
+    "phone": "(213) 915-0179",
+    "rating": 2.3,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0662053,
+      "lng": -118.3087743
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=5511469492630234153",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:09.888Z"
+  },
+  {
+    "place_id": "0x80c2b882ffc07971:0xebf2560ac75e5757",
+    "name": "B2B Web Marketing",
+    "category": "Internet marketing service",
+    "address": "3435 Wilshire Blvd 14th fl, Los Angeles, CA 90010",
+    "phone": "(213) 761-1500",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0622654,
+      "lng": -118.2984956
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17001746147571554135",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:09.944Z"
+  },
+  {
+    "place_id": "0x80c2891ffe7ddb93:0x8724dabc36940eae",
+    "name": "ReproPromo",
+    "category": "Promotional products supplier",
+    "address": "3183 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(818) 275-4595",
+    "website": "https://repropromo.com/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.062325099999995,
+      "lng": -118.29085239999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9738148796186234542",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "info@repropromo.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@repropromo.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:15.023Z"
+  },
+  {
+    "place_id": "0x80c2c7707f7697ad:0xa8ce359225dc7030",
+    "name": "Good Morning Media, Inc.",
+    "category": "Newspaper publisher",
+    "address": "3450 Wilshire Blvd #1025 Los Angeles, CA 90010",
+    "phone": "(213) 487-0100",
+    "website": "http://www.heraldk.com/",
+    "rating": 3.4,
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0607453,
+      "lng": -118.2990026
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12163718545390989360",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "malee@koreaheraldbiz.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "malee@koreaheraldbiz.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:15.094Z"
+  },
+  {
+    "place_id": "0x80c2bf8ffbeb0dd1:0xba6ec150a8d19ae8",
+    "name": "KS CONSULTING LLC",
+    "category": "Consultant",
+    "address": "3610 Wilshire Blvd Ste P04, Los Angeles, CA 90004",
+    "phone": "(424) 234-1572",
+    "website": "http://www.keisasullivan.com/",
+    "hours": {
+      "Tuesday": "11 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0608281,
+      "lng": -118.3038237
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13433887290666621672",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "filler@godaddy.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "filler@godaddy.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:15.183Z"
+  },
+  {
+    "place_id": "0x6e5f591416a168f3:0xe1dcd6c84a2440dd",
+    "name": "Vantus",
+    "category": "Marketing agency",
+    "phone": "(213) 463-7117",
+    "website": "https://vantus.dev/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.064372399999996,
+      "lng": -118.3048822
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16275119309135823069",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "ianfleming@vantus.dev",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "ianfleming@vantus.dev",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:15.216Z"
+  },
+  {
+    "place_id": "0x80c2c79d091cf82d:0x404afa12227f26f3",
+    "name": "Ethocore",
+    "category": "Design agency",
+    "address": "3435 Wilshire Blvd 14th, Fl B17, Los Angeles, CA 90010",
+    "phone": "(818) 794-7749",
+    "website": "https://ethocore.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.062265499999995,
+      "lng": -118.298496
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4632790122499090163",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "hello@ethocore.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "hello@ethocore.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:15.258Z"
+  },
+  {
+    "place_id": "0x80c2c77988155305:0x73e614d61589096a",
+    "name": "CW Inc",
+    "category": "Internet marketing service",
+    "address": "3130 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(213) 260-1268",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0615745,
+      "lng": -118.290061
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=8351385468722022762",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:15.364Z"
+  },
+  {
+    "place_id": "0x80c2c77cf3f8a893:0x40444debbc8c3b84",
+    "name": "L A Merchant Inc",
+    "category": "Payment terminal",
+    "address": "611 S Catalina St #304, Los Angeles, CA 90005",
+    "phone": "(213) 383-5340",
+    "website": "https://lamerchantscorp.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.063092499999996,
+      "lng": -118.29568499999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4630911991719672708",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "mccsla@sbcglobal.net",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "mccsla@sbcglobal.net",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:15.375Z"
+  },
+  {
+    "place_id": "0x80c2b88ddc2ae017:0xc001c3a1d749cff4",
+    "name": "Omnipresent",
+    "category": "Internet marketing service",
+    "address": "4085 W 8th St, Los Angeles, CA 90005",
+    "phone": "(323) 638-7361",
+    "rating": 4,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.058311499999995,
+      "lng": -118.31738569999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13835554630127964148",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:15.460Z"
+  },
+  {
+    "place_id": "0x80c2b882f819f5d1:0xbdc9eb8e06a81b15",
+    "name": "ORG Studios",
+    "category": "Graphic designer",
+    "address": "3540 Wilshire Blvd Ste 1010, Los Angeles, CA 90010",
+    "phone": "(213) 480-8848",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.061220399999996,
+      "lng": -118.3016684
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13675720738716785429",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:20.019Z"
+  },
+  {
+    "place_id": "0x80c2b98d2cf343d5:0x147108d74714c252",
+    "name": "The Hub Central",
+    "category": "Business management consultant",
+    "address": "3727 W 6th St #603, Los Angeles, CA 90020",
+    "phone": "(213) 290-3385",
+    "rating": 4,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0639136,
+      "lng": -118.3037519
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1472968273830396498",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:20.036Z"
+  },
+  {
+    "place_id": "0x99e5eae0680b0df:0x12eb6755c83ff93",
+    "name": "LockUnlocked",
+    "category": "Marketing agency",
+    "website": "https://lockunlocked.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 33.786671,
+      "lng": -118.2990476
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=85206058146201491",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:20.054Z"
+  },
+  {
+    "place_id": "0x80c2b9048b31fc0f:0xf598bbaa6b0d9ae6",
+    "name": "Social Politico",
+    "category": "Marketing agency",
+    "phone": "(323) 212-5910",
+    "hours": {
+      "Tuesday": "8 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.124966,
+      "lng": -125.10950369999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17697101076367252198",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:20.067Z"
+  },
+  {
+    "place_id": "0x80c2b88528a95a1f:0xbe3ea7603498ba84",
+    "name": "Radley TV",
+    "category": "Advertising agency",
+    "address": "3780 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(310) 765-2223",
+    "website": "https://www.radleystudios.tv/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0612588,
+      "lng": -118.30826859999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13708578347403491972",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "lisa@radleystudios.tv",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "lisa@radleystudios.tv",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "jobs@radleystudios.tv",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:20.156Z"
+  },
+  {
+    "place_id": "0x80c2b8afea099089:0xb5143d380a890f20",
+    "name": "Zen Studios LA",
+    "category": "Photography studio",
+    "address": "3923 W 6th St Unit 411, Los Angeles, CA 90020",
+    "phone": "(310) 684-3596",
+    "website": "https://zenstudiosla.com/",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.063704,
+      "lng": -118.30870999999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=13048121331303386912",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "info@zenstudiosla.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@zenstudiosla.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:20.195Z"
+  },
+  {
+    "place_id": "0x80c2c77c267fbe99:0x3ef12f502f7eb054",
+    "name": "JM Media Lab",
+    "category": "Graphic designer",
+    "address": "685 S Catalina St, Los Angeles, CA 90005",
+    "phone": "(213) 999-6663",
+    "website": "https://jmmedialab.com/contact/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.060428,
+      "lng": -118.2956057
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4535458321179521108",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:20.256Z"
+  },
+  {
+    "place_id": "0x80c2b89a811178f3:0x6acfa7c21059a2f3",
+    "name": "Cyrus Global, LLC",
+    "category": "Bank",
+    "address": "4007 W 6th St, Los Angeles, CA 90020",
+    "phone": "(213) 355-5777",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.063759999999995,
+      "lng": -118.310884
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=7696554740139270899",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:20.443Z"
+  },
+  {
+    "place_id": "0x4dfea0a3e7bd59e1:0x1b05bb058af96241",
+    "name": "Aravi Matrix | Marketing Solutions",
+    "category": "Marketing agency",
+    "phone": "(323) 470-3234",
+    "hours": {
+      "Tuesday": "7 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1947168046388437569",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:32.744Z"
+  },
+  {
+    "place_id": "0x80c2c77d821a4d7d:0xb2ae0a91ac90a2af",
+    "name": "Secured Properties Management Group Inc.",
+    "category": "Property management company",
+    "address": "3530 Wilshire Blvd #1170, Los Angeles, CA 90010",
+    "phone": "(213) 221-4025",
+    "website": "https://www.securedpmg.com/",
+    "rating": 4.5,
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.061369,
+      "lng": -118.301205
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=12875240005480522415",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "info@securedproperties.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@securedproperties.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:32.767Z"
+  },
+  {
+    "place_id": "0x80c2c77bcd8e5fa5:0x1301cc16743bf226",
+    "name": "The UPS Store",
+    "category": "Shipping and mailing service",
+    "address": "3183 Wilshire Blvd Ste 196, Los Angeles, CA 90010",
+    "phone": "(213) 351-1338",
+    "website": "https://locations.theupsstore.com/ca/los-angeles/3183-wilshire-blvd?utm_source=Yext&utm_medium=organic&utm_campaign=Listings",
+    "rating": 4.8,
+    "hours": {
+      "Tuesday": "9 AM–7 PM"
+    },
+    "coordinates": {
+      "lat": 34.0622853,
+      "lng": -118.2913755
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=1369600158508773926",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "store5917@theupsstore.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "store5917@theupsstore.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:32.861Z"
+  },
+  {
+    "place_id": "0x80c2c7ba33bd1dd7:0x5748667627e222e6",
+    "name": "Elephant Foot Stamp",
+    "category": "Business to business service",
+    "address": "3055 Wilshire Blvd Ste 620, Los Angeles, CA 90010",
+    "phone": "(213) 382-9300",
+    "website": "https://www.elephantfoot.com/",
+    "rating": 5,
+    "hours": {},
+    "coordinates": {
+      "lat": 34.061997999999996,
+      "lng": -118.28806519999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=6289389537284203238",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "info@elephantfoot.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@elephantfoot.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:32.957Z"
+  },
+  {
+    "place_id": "0x80c2bec0b3802b0b:0x246fdca078ea60b2",
+    "name": "Umbrella Los Angeles",
+    "category": "Marketing agency",
+    "website": "http://www.umbrellalosangeles.com/",
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2625559689561792690",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "info@umbrellalosangeles.com",
+    "email_status": "role_based",
+    "all_emails": [
+      {
+        "email": "info@umbrellalosangeles.com",
+        "status": "role_based",
+        "mx_found": true,
+        "confidence": 0.75
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:33.064Z"
+  },
+  {
+    "place_id": "0x80c2b89c662b35bf:0x4210269541ef6907",
+    "name": "S-Metric, LLC",
+    "category": "Website designer",
+    "address": "432 S Harvard Blvd, Los Angeles, CA 90020",
+    "phone": "(213) 986-4887",
+    "website": "http://www.smetric.com/",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.06619,
+      "lng": -118.30393009999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4760347228628805895",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:33.108Z"
+  },
+  {
+    "place_id": "0x80c2b8853218c8f3:0xebcc1ee55ece84d3",
+    "name": "Community Arts Resources (CARS)",
+    "category": "Arts organization",
+    "address": "3780 Wilshire Blvd #1020, Los Angeles, CA 90010",
+    "phone": "(213) 365-0605",
+    "website": "https://carsla.net/",
+    "hours": {
+      "Tuesday": "9 AM–5 PM"
+    },
+    "coordinates": {
+      "lat": 34.0613792,
+      "lng": -118.3085445
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16990989464648975571",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:33.160Z"
+  },
+  {
+    "place_id": "0x80c2b9de3aa9c62b:0x3ea3d37b10e0bed3",
+    "name": "Convey Creatives",
+    "category": "Marketing agency",
+    "website": "https://conveycreatives.com/",
+    "hours": {
+      "Tuesday": "9 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 51.2072,
+      "lng": -121.9883
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4513683777072971475",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:33.179Z"
+  },
+  {
+    "place_id": "0x32e8b1434784d1f:0x379c7790391a055a",
+    "name": "Marquis Diamond",
+    "category": "Marketing consultant",
+    "phone": "(323) 617-8395",
+    "website": "http://marquisdiamondllc.com/",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 36.722161,
+      "lng": -99.09108599999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4007209229769901402",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "filler@godaddy.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "filler@godaddy.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "diamondkentllc@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:35.269Z"
+  },
+  {
+    "place_id": "0x80c2c7185242e1ed:0xdfd9d3f5f8f9a614",
+    "name": "Translist",
+    "category": "Internet marketing service",
+    "address": "3435 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(323) 985-8475",
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.062265599999996,
+      "lng": -118.2984953
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=16130156593801700884",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:35.858Z"
+  },
+  {
+    "place_id": "0x80c2b8c98015acc5:0xed0c3007c20f8fac",
+    "name": "Home Instead, Home Care Services of Los Angeles",
+    "category": "Home health care service",
+    "address": "3660 Wilshire Blvd Ste 311, Los Angeles, CA 90010",
+    "phone": "(213) 519-6309",
+    "website": "https://www.homeinstead.com/home-care/usa/ca/los-angeles-silver-lake-hollywood/488/?utm_source=google&utm_medium=organic&utm_campaign=google_organic_businesslisting_y",
+    "rating": 4.7,
+    "hours": {
+      "Tuesday": "Open 24 hours"
+    },
+    "coordinates": {
+      "lat": 34.0612141,
+      "lng": -118.3050078
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17081080296588152748",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:35.977Z"
+  },
+  {
+    "place_id": "0xab187ee8c984d797:0xc331c2ba7a3d8cae",
+    "name": "Hultbe Marketing",
+    "category": "Marketing agency",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=14065237217425329326",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:36.141Z"
+  },
+  {
+    "place_id": "0x80c2b90f68a88597:0x95aac98aef3a06f6",
+    "name": "DUO America",
+    "category": "Marriage or relationship counselor",
+    "address": "3701 Wilshire Blvd PH Floor #1122, Los Angeles, CA 90010",
+    "phone": "(213) 383-2525",
+    "website": "http://www.duoamerica.net/",
+    "rating": 4.2,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.0621897,
+      "lng": -118.30683339999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10784653856248301302",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:51.444Z"
+  },
+  {
+    "place_id": "0x465bd63ae5e3175:0x411e15156a0777cd",
+    "name": "MKG Liaison",
+    "category": "Marketing agency",
+    "website": "https://mkgliaison.com/",
+    "hours": {
+      "Tuesday": "6 AM–12 PM"
+    },
+    "coordinates": {
+      "lat": 37.269505599999995,
+      "lng": -119.306607
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4692211043484006349",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:51.465Z"
+  },
+  {
+    "place_id": "0x80c2c70142206023:0x8511585d9e006cdd",
+    "name": "D.D.ReRocNation W.C.",
+    "category": "Marketing agency",
+    "address": "207 S Kenmore Ave, Los Angeles, CA 90004",
+    "phone": "(213) 503-1647",
+    "website": "http://dxbibminc.com/",
+    "hours": {
+      "Tuesday": "10:30 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.074810299999996,
+      "lng": -118.29683179999999
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=9588542240754527453",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:51.480Z"
+  },
+  {
+    "place_id": "0x8a081d60b5341355:0x920a9832277e2b8a",
+    "name": "ClickStation",
+    "category": "Marketing agency",
+    "website": "http://clickstation.us/",
+    "hours": {
+      "Tuesday": "10 AM–10 PM"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10523390820482952074",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:51.543Z"
+  },
+  {
+    "place_id": "0x675a1f09e2a52099:0x973cd7525093d092",
+    "name": "Peterpanland",
+    "category": "Internet marketing service",
+    "phone": "(213) 675-6923",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=10897821946868912274",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:51.558Z"
+  },
+  {
+    "place_id": "0x80c2b882fe3e0639:0x1ccec883e4910509",
+    "name": "The Grace Kelly",
+    "category": "Graphic designer",
+    "address": "3550 Wilshire Blvd #106, Los Angeles, CA 90010",
+    "phone": "(213) 232-4934",
+    "rating": 5,
+    "hours": {
+      "Tuesday": "10 AM–6 PM"
+    },
+    "coordinates": {
+      "lat": 34.061242799999995,
+      "lng": -118.3022884
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=2075816947065357577",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:51.589Z"
+  },
+  {
+    "place_id": "0x6b07003bd5864615:0xf4e939b02b184b6f",
+    "name": "Diamond K Enterprises LLC",
+    "category": "Marketing agency",
+    "phone": "(323) 393-3637",
+    "website": "http://marquisdiamondllc.com/",
+    "hours": {
+      "Tuesday": "8:30 PM–2 AM"
+    },
+    "coordinates": {
+      "lat": 34.020479,
+      "lng": -118.4117326
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=17647700043628039023",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "email": "filler@godaddy.com",
+    "email_status": "valid",
+    "all_emails": [
+      {
+        "email": "filler@godaddy.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      },
+      {
+        "email": "diamondkentllc@gmail.com",
+        "status": "valid",
+        "mx_found": true,
+        "confidence": 1
+      }
+    ],
+    "charged": true,
+    "enrichment_status": "email_verified",
+    "scraped_at": "2026-09-22T07:35:51.660Z"
+  },
+  {
+    "place_id": "0x80c2b16359f70fa3:0x3c808014d2285137",
+    "name": "Pillar",
+    "category": "Marketing agency",
+    "address": "3642 139th St, Hawthorne, CA 90250",
+    "phone": "(310) 648-8424",
+    "website": "http://pillar.la/",
+    "hours": {},
+    "coordinates": {
+      "lat": 33.9052862,
+      "lng": -118.3366521
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4359625266208198967",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:51.707Z"
+  },
+  {
+    "place_id": "0x80c2b88261a22f87:0xd25e3d0ec2ae0a81",
+    "name": "Asiana Airlines",
+    "category": "Airline",
+    "address": "3530 Wilshire Blvd #1700, Los Angeles, CA 90010",
+    "phone": "(800) 227-4262",
+    "website": "http://www.flyasiana.com/",
+    "rating": 1.6,
+    "hours": {
+      "Tuesday": "8:30 AM–5:30 PM"
+    },
+    "coordinates": {
+      "lat": 34.0615883,
+      "lng": -118.3011939
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=15158620529380690561",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_email",
+    "scraped_at": "2026-09-22T07:35:58.349Z"
+  },
+  {
+    "place_id": "0xa9485bf90ae6e451:0x9282e8b3d81e5ed",
+    "name": "Moving Forward Now",
+    "category": "Internet marketing service",
+    "hours": {},
+    "coordinates": {
+      "lat": 46.423669,
+      "lng": -129.9427086
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=659828520977032685",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:58.408Z"
+  },
+  {
+    "place_id": "0x80c2b88537ff9bad:0x421e06890d8c29a6",
+    "name": "ALTEN Design – Human Centered Design",
+    "category": "Marketing agency",
+    "address": "3810 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "(626) 318-5371",
+    "hours": {},
+    "coordinates": {
+      "lat": 34.0619426,
+      "lng": -118.3096243
+    },
+    "google_maps_url": "https://www.google.com/maps?cid=4764252641512139174",
+    "business_status": "UNKNOWN",
+    "query_used": "marketing agencies in Koreatown, Los Angeles",
+    "all_emails": [],
+    "charged": false,
+    "enrichment_status": "no_website",
+    "scraped_at": "2026-09-22T07:35:58.449Z"
+  },
+  {
+    "_type": "summary",
+    "queries_run": 1,
+    "places_found": 150,
+    "places_charged": 46,
+    "places_skipped_closed": 0,
+    "places_no_email": 104,
+    "total_emails_verified": 57,
+    "deduped_count": 0,
+    "generated_at": "2026-09-22T07:36:00.204Z",
+    "requests": 207,
+    "delivered": 46,
+    "est_spend_usd": 0.1656,
+    "est_revenue_usd": 0.368,
+    "profit_guard_tripped": false
+  },
+  {
+    "_type": "info",
+    "delivered": 46,
+    "message": "46 leads delivered. This row is informational — it is never billed.",
+    "schedule_tip": "Want this refreshed automatically? Apify Console -> this Actor -> Schedules -> Add schedule -> pick how often (e.g. daily) -> Save. It reruns with the same input on autopilot, no code required.",
+    "review_tip": "Found this useful? A quick Store review helps other buyers find it: https://apify.com/themineworks/maps-leads#reviews",
+    "scraped_at": "2026-09-22T07:36:00.284Z"
+  }
+]

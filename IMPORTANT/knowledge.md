@@ -30,7 +30,7 @@
 
 | API | Criterion failed | One-line reason | Evidence |
 |---|---|---|---|
-| {X} Official API | [E1–E6 or PASS] | [reason] | [evidence link] |
+| Google Places API (New) | **PASS — tested as full contender** | Self-serve key + full run same day (E1 ✓), 60/60 requests succeeded (E2 ✓), docs complete (E3 ✓), cost computable to the cent (E4 ✓), returns core business data (E5 ✓), actively maintained (E6 ✓). Product-fit walls (no email/social fields; 60/query cap) are findings, not eliminations. | `research/raw/google-places-api/run-log.json`, `research/analysis/google-places-api-cost-speed.md` |
 
 **All benchmarked providers — elimination status (sourced, per-provider `elimination-assessment.md` files):**
 
@@ -42,13 +42,19 @@
 
 ---
 
-## Official API Deep-Dive ({X})
+## Official API Deep-Dive (Google Places API (New)) — ✅ CAPTURED, live-tested 2026-09-23
 
-- **What it actually offers:** [TBD]
-- **Access model:** [self-serve / waitlist / sales-gated]
-- **Pricing:** [TBD or MISSING]
-- **THE wall:** [the specific reason this fails E1, if it does]
-- **Live access / code example:** [obtained / not obtained]
+> Per reviewer direction (2026-09-23), the official API is a **full tested contender**, not a docs-only baseline. Run on the identical workload as the scrapers (2 runs × 10 sub-area Text Search queries). Evidence: `research/raw/google-places-api/` (60 raw responses + run-log.json), `research/analysis/google-places-api-cost-speed.md`, scripts `scripts/google_places_run.py` / `google_places_analyze.py`.
+
+- **What it actually offers:** Text Search (New) `places:searchText` with FieldMask-based SKU billing. Full lead-relevant mask (phone, website, rating, hours, reviews) bills as **Text Search Enterprise + Atmosphere** (SKU 120C-BEC3-B48F). ✅
+- **Access model:** fully self-serve — API key, no sales contact. Key obtained and run completed same day (passes E1 by a wide margin). ✅
+- **Pricing (fetched live 2026-09-23 from Google's pricing page):** $40/1K requests at Enterprise+Atmosphere tier; **1,000 free events/mo per SKU** (post-March-2025 model; the old $200/mo credit is gone). Pro tier (no phone/website/reviews) $32/1K with 5,000 free/mo — insufficient fields for lead use. ✅
+- **Benchmark result:** 60 requests → 1,120 raw / **1,044 unique** places (Run 1: 444, Run 2: 600), 0 errors, 97.0s wall-clock, latency median 1.54s / p95 2.26s. **Measured billed cost: $0.00** (inside free tier); rate-card equivalent $2.40 → **$2.30/1K unique businesses**. ✅
+- **Field coverage (measured on 1,044 uniques):** phone 95.4%, website 94.3%, rating+count 97.7%, hours 97.9%, photos-refs 94.7% — the best fill-rates of the four tested providers. ✅
+- **THE wall (two, both measured — E-criteria PASS, product-fit walls):**
+  1. **No email, social-profile, contact-form, owner, or popular-times fields exist in the API surface at any price** — disqualifying for outreach lead lists (vs Lobstr 59% emails / Apify 32% verified emails on the same queries). Reviews hard-capped at 5/place. ✅
+  2. **60-results-per-query hard cap** (20/page × 3 pages) — hit on 10/10 restaurant queries; same 10 Run-1 queries yielded Google 444 uniques vs Lobstr 998 / Apify 1,405 / Outscraper 512. Scraper-scale volume needs ~3–4× more distinct queries with rising overlap (6.8% dupes at 10 sub-areas). ✅
+- **Live access / code example:** obtained — reproducible runner in `scripts/google_places_run.py` (key via `.env` `GOOGLE_PLACES_API_KEY`, never committed). ✅
 
 ---
 

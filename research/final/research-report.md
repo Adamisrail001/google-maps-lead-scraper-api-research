@@ -68,7 +68,22 @@ Google 444 · Lobstr 998 · Apify 1,405 · Outscraper 512 (80/query budget cap).
 | Outscraper | $3/1K base records, 800 requested → 512 uniques | ~$4.69/1K uniques (listings only; email stage +$3/1K, verification +$3/1K) |
 | Lobstr | 3,626 credits measured (Run 1) at Growth plan rate ($50/mo ÷ 30K credits) | **$6.05/1K uniques with emails + socials + details + images** (~$2.66/1K base scrape without email extraction) |
 
-## 4. Which tool for which job
+### 3.5 Scorecard — read through the searcher's intent
+
+Full 10-point rubric computed from the measured evidence (`research/analysis/scorecard.md`, reproducible via `scripts/compute_scorecard.py`):
+
+| Scored as an API | Reliability | Data | Cost | Speed | Scale | Usability | **/10** |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Google Places API | 2.00 | 1.13 | 0.77 | 1.34 | 0.96 | 1.50 | **7.70** |
+| Lobstr.io | 1.85 | 1.20 | 0.62 | 0.21 | 1.20 | 1.36 | **6.44** |
+| Outscraper | 1.88 | 1.06 | 0.69 | 0.20 | 0.88 | 1.48 | **6.19** |
+| Apify | 1.06 | 0.85 | 1.34 | 0.21 | 0.44 | 1.20 | **5.10** |
+
+**How to read this without being misled:** the rubric measures *API quality* — and Google is, by the numbers, the best-engineered API in this test. But a person searching "Google Maps lead scraper API" is not shopping for API engineering; they are shopping for **leads**. Google cannot deliver the defining field of a lead (no email, social, or contact data exists in its API at any price), so it is **not eligible for the lead-generation verdict** — its 7.70 answers a different question. Ranked for the searcher's actual intent: **Lobstr 6.44 · Outscraper 6.19 · Apify 5.10**, with the per-intent picks in §4. (Scoring caveats — 0.8 pts unscoreable for all, wall-clock architecture artifact, Outscraper's reduced scope, house-product disclosure — travel with the table; see scorecard.md.)
+
+## 4. What the searcher wants — and which tool fits
+
+The discovery evidence (§7) shows what people asking for a "Google Maps lead scraper API" are actually trying to get. Across the 21 search queries, 8 Reddit threads, and the intent language in both: they want **(1) contact details per business — email first, then phone/socials** (the word "lead" appears precisely when contacts do); **(2) volume** — hundreds to thousands of businesses per area, past the official API's caps; **(3) a knowable cost per lead**; **(4) an API/automation** rather than clicking; and **(5) enrichment** of what they already have. The recurring Reddit storyline — in 8 of 8 threads read — is someone hitting the official Places API's cost or missing-fields wall and asking what to use instead. Every verdict below is stated against those needs:
 
 **Intent 1 — Build a B2B lead list with contact details for outreach.**
 The official API cannot do this job: no email, no social fields (§3.1). On measured data: **Lobstr** delivered contacts broadest (59% emails, ~50% socials, in one pass); **Apify** delivered fewer emails (32%) but DNS/MX-verified and only charges for those — attractive when you pay strictly for usable outreach rows; **Outscraper** needs its extra $3/1K stages (untested here). Docs-verified alternative with native emails: Scrap.io (`research/providers/scrap-io.md`).

@@ -4,7 +4,7 @@
 >
 > Corrections to earlier entries in this document are never silently overwritten — mark the correction inline (🔴), state what changed and why, and leave the superseded text in place for provenance unless explicitly told to remove it.
 >
-> **Scope of the benchmark:** [list every provider tested] were each run once, on the same fixed set of {X} targets — [list targets] — each targeting [N] records ([total] requested per provider). Fill in once the target list and run design are decided (see `scripts/lib/config.py`).
+> **Scope of the benchmark:** Lobstr.io, Apify (`themineworks/maps-leads`), Outscraper (base scrape, reduced budget scope), and Google Places API (New) were each run on the same fixed target set — 2 runs (marketing agencies, restaurants) × 10 NYC/LA borough/district sub-areas (`scripts/lib/config.py`) — scrapers requesting up to 200/sub-area (Outscraper 80, budget-capped; Google hard-capped at 60/query by its own API). Run window 2026-09-22/23. Scorecard: `research/analysis/scorecard.md` (reproducible via `scripts/compute_scorecard.py`).
 
 ---
 
@@ -36,9 +36,12 @@
 
 | Provider | E1 | E2 | E3 | E4 | E5 | E6 | Evidence |
 |---|---|---|---|---|---|---|---|
-| [Provider 1] | | | | | | | |
-| [Provider 2] | | | | | | | |
-| [Provider 3] | | | | | | | |
+| Lobstr.io | ✓ | ✓ (79.7%) | ✓ (page_size gap noted) | ✓ ($6.05/1K at Growth rate) | ✓ | ✓ | run `e57af71d`, `data/lobstr/` |
+| Apify | ✓ | ✓ (80.4% — truncations documented, above 50% floor) | ✓ (guards undocumented, but working request buildable) | ✓ ($0.64/1K, billed API) | ✓ | ✓ | `data/apify/`, billing API |
+| Outscraper | ✓ | ✓ (93.5%) | ✓ | ✓ ($4.69/1K rate-card) | ✓ | ✓ | `data/outscraper/` |
+| Google Places API (New) | ✓ | ✓ (60/60) | ✓ | ✓ ($2.70/1K rate-card; $0 free tier) | ✓ (returns business data; contact fields absent = finding, not E5) | ✓ | `research/raw/google-places-api/` |
+
+All four pass E1–E6 — no eliminations this benchmark.
 
 ---
 
@@ -73,11 +76,16 @@
 
 - (same shape as above)
 
-**Cross-provider reliability summary**
+**Cross-provider reliability summary — ✅ CAPTURED (Run 1, same 10 queries)**
 
 | Provider | Requested | Raw / Unique returned | Success rate | Real errors this run |
 |---|---:|---|---:|---|
-| | | | | |
+| Google Places API | 1,200 page-slots (600 doc-max) | 520 / 444 | 93.3% of page-slots, 60/60 HTTP 200 | none |
+| Lobstr | 2,000 | 1,594 / 999 | 79.7% returned/requested | none; run `done/tasks_done` |
+| Apify | 2,000 | ~1,608 / 1,405 | 80.4% — **but 1/10 queries silently truncated** (Van Nuys 20/200, profit guard; 3/10 in Run 2) | none at HTTP level; top-level SUCCEEDED masks truncation 🔴 |
+| Outscraper | 800 (reduced scope) | 748 / 512 | 93.5% | none |
+
+Shortfalls vs requested partly reflect genuine Google Maps data scarcity in some sub-areas (Queens/Bronx/Staten Island/Van Nuys under-filled for every provider) — success rate mixes provider capability with supply; kept explicit, not resolved silently.
 
 ---
 
@@ -122,11 +130,16 @@ Caveats that must travel with any cost table: Apify's figure buys 32% verified-e
 - **p95 latency:**
 - **Requests:**
 
-**Cross-provider speed summary**
+**Cross-provider speed summary — ✅ CAPTURED (Run 1; architectures differ, never rank raw wall-clock without the §5 concurrency caveat)**
 
 | Provider | Total wall-clock | Median latency | p95 latency | Execution model |
 |---|---:|---:|---:|---|
-| | | | | |
+| Google Places API | ~46 s (97.0 s both runs) | 1.54 s | 2.26 s | synchronous request/response |
+| Lobstr | 28 m 31 s (1,711 s) | N/A (batch) | N/A | squid → poll; concurrency 20; includes per-row website-visit email extraction |
+| Apify | 2,194.5 s cumulative across 10 separate actor runs (parallelizable) | N/A (batch) | N/A | actor → dataset; includes email extraction + DNS/MX verification |
+| Outscraper | ❌ not aggregated from raw evidence | N/A | N/A | async 3-stage (base only run) |
+
+Scrapers do materially more work per row (website visits for contacts); Google returns 20 records/call with no enrichment. Comparable order-of-magnitude between scrapers only.
 
 ---
 
@@ -165,22 +178,43 @@ Caveats that must travel with any cost table: Apify's figure buys 32% verified-e
 
 > State clearly which target(s) have ground truth available. Any accuracy/field-coverage figure is valid only for targets with ground truth — never generalize to targets without it.
 
-### [Provider 1]
+**❌ Ground truth was never built** (testing-plan §10, open item) — the fill-rates below are measured field-presence on Run-1 unique results, a coverage proxy, NOT accuracy. Accuracy and freshness scored 0 for all providers in the scorecard, flagged not-measurable.
 
-- **Field coverage vs ground truth:**
-- **Data accuracy:**
-- **Schema consistency:**
-- **Freshness:**
+| Field (fill-rate, Run 1 uniques) | Google (444) | Lobstr (998) | Apify (1,405) | Outscraper (512) |
+|---|---:|---:|---:|---:|
+| Name / address / coordinates | 100% | 100% | 100% | 100% |
+| Phone | 95% | 91% | 90% | 91% |
+| Website | 94% | 93% | 83% | 94% |
+| Category | 99% | 100% | 100% | 48% |
+| Rating / review count | 98% / 98% | 86% / 86% | 67% / — (no field) | 92% / 92% |
+| Opening hours | 98% | 90% | 83% | 90% |
+| Photos/images | 95% (refs) | 81% | — (absent) | 99% |
+| **Email** | **impossible (no field)** | **59%** (extraction-only; 974 total incl. multiples) | 32% (DNS/MX-verified — never compare 1:1 with extraction-only, §7 rule) | not run (budget) |
+| **Socials** | **impossible** | ~48–54% (FB/IG/LinkedIn/TikTok/…) | — | not run |
+| Schema consistency | Full | Full | 🔴 business_status "UNKNOWN" on 100% of records | Full |
 
 ---
 
 ## Final Summary — which platform looks strongest
 
-### 1. [Provider] — [one-line verdict]
+**Scorecard totals (max attainable 9.2 — accuracy & freshness unscoreable for all, zeroed equally; full sub-scores with evidence in `research/analysis/scorecard.md`):**
 
-### 2. [Provider] — [one-line verdict]
+| Provider | Reliability /2.0 | Data /2.0 | Cost /1.5 | Speed /1.5 | Scale /1.2 | Usability /1.8 | **Total /10** |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Google Places API (New) | 2.00 | 1.13 | 0.77 | 1.34 | 0.96 | 1.50 | **7.70** |
+| Lobstr.io | 1.85 | 1.20 | 0.62 | 0.21 | 1.20 | 1.36 | **6.44** |
+| Outscraper | 1.88 | 1.06 | 0.69 | 0.20 | 0.88 | 1.48 | **6.19** |
+| Apify | 1.06 | 0.85 | 1.34 | 0.21 | 0.44 | 1.20 | **5.10** |
 
-### 3. [Provider] — [one-line verdict]
+**Intent rule for the article (load-bearing):** the rubric scores *API quality*. Google tops it while being structurally incapable of the article's core use case — no email/social/contact fields exist in its API at any price — so it is **not eligible for the lead-generation verdict**; its 7.70 answers "how good is this API", not "can it produce leads". Ranked for the lead-gen searcher: **Lobstr 6.44 · Outscraper 6.19 · Apify 5.10**.
+
+### 1. Google Places API (New) — 7.70 — best-engineered API in the test (perfect reliability, 1.54s median, best docs, best core-field fill 94–98%); zero lead capability, 60/query cap. Winner only outside lead gen (core-data accuracy, ≤1K free calls/mo).
+
+### 2. Lobstr.io (house product — disclosed) — 6.44 — top scraper: wins Data Quality (59% emails + ~50% socials, richest lead records) and Scalability (user-set concurrency, no hidden caps found); most expensive at $6.05/1K unique (Growth rate) and slow wall-clock. Per criteria.md house rule: did NOT win the aggregate → not crowned; placed where it genuinely wins — contact-complete lead lists.
+
+### 3. Outscraper — 6.19 — solid middle on a budget-reduced test (base scrape, 80/query): 93.5% delivery, richest default listing schema, cheapest full-stack enrichment path on paper; email stages untested (budget), several usability sub-scores on thin evidence.
+
+### 4. Apify — 5.10 — below the 6.0 "recommended at scale" band despite winning Cost ($0.64/1K, only verified-email leads billed, empirically proven): the two undocumented profit-guards silently truncated 4/20 queries (🔴 worst trust finding of the benchmark), business_status broken on 100% of records, and top-level SUCCEEDED masks under-delivery. Cheapness and untrustworthiness share the same mechanism.
 
 ---
 

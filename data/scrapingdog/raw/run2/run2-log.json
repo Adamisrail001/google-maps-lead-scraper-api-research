@@ -1,0 +1,395 @@
+{
+  "run": "run2",
+  "industry": "restaurants",
+  "max_pages": 10,
+  "credits_used_before": 195,
+  "pack": "lite",
+  "started": "2026-09-24T07:19:16.550555+00:00",
+  "requests": [
+    {
+      "query": "restaurants in Manhattan, New York",
+      "start": 0,
+      "http": 200,
+      "latency_s": 1.76,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "query": "restaurants in Manhattan, New York",
+      "start": 20,
+      "http": 200,
+      "latency_s": 1.65,
+      "results": 20,
+      "new_unique": 7
+    },
+    {
+      "query": "restaurants in Manhattan, New York",
+      "start": 40,
+      "http": 200,
+      "latency_s": 1.53,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "query": "restaurants in Brooklyn, New York",
+      "start": 0,
+      "http": 200,
+      "latency_s": 2.18,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "query": "restaurants in Brooklyn, New York",
+      "start": 20,
+      "http": 200,
+      "latency_s": 1.22,
+      "results": 20,
+      "new_unique": 15
+    },
+    {
+      "query": "restaurants in Brooklyn, New York",
+      "start": 40,
+      "http": 200,
+      "latency_s": 1.16,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "query": "restaurants in Brooklyn, New York",
+      "start": 60,
+      "http": 200,
+      "latency_s": 1.69,
+      "results": 20,
+      "new_unique": 3
+    },
+    {
+      "query": "restaurants in Brooklyn, New York",
+      "start": 80,
+      "http": 200,
+      "latency_s": 1.18,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "query": "restaurants in Brooklyn, New York",
+      "start": 100,
+      "http": 200,
+      "latency_s": 2.02,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "query": "restaurants in Queens, New York",
+      "start": 0,
+      "http": 200,
+      "latency_s": 1.29,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "query": "restaurants in Queens, New York",
+      "start": 20,
+      "http": 200,
+      "latency_s": 1.19,
+      "results": 20,
+      "new_unique": 9
+    },
+    {
+      "query": "restaurants in Queens, New York",
+      "start": 40,
+      "http": 200,
+      "latency_s": 1.18,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "query": "restaurants in Queens, New York",
+      "start": 60,
+      "http": 200,
+      "latency_s": 1.27,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "query": "restaurants in Queens, New York",
+      "start": 80,
+      "http": 200,
+      "latency_s": 1.34,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "query": "restaurants in Queens, New York",
+      "start": 100,
+      "http": 200,
+      "latency_s": 1.22,
+      "results": 20,
+      "new_unique": 7
+    },
+    {
+      "query": "restaurants in Queens, New York",
+      "start": 120,
+      "http": 200,
+      "latency_s": 1.18,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "query": "restaurants in Bronx, New York",
+      "start": 0,
+      "http": 200,
+      "latency_s": 1.22,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "query": "restaurants in Bronx, New York",
+      "start": 20,
+      "http": 200,
+      "latency_s": 1.17,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "query": "restaurants in Bronx, New York",
+      "start": 40,
+      "http": 200,
+      "latency_s": 1.22,
+      "results": 20,
+      "new_unique": 3
+    },
+    {
+      "query": "restaurants in Bronx, New York",
+      "start": 60,
+      "http": 200,
+      "latency_s": 1.23,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "query": "restaurants in Bronx, New York",
+      "start": 80,
+      "http": 200,
+      "latency_s": 1.23,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "query": "restaurants in Staten Island, New York",
+      "start": 0,
+      "http": 200,
+      "latency_s": 1.27,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "query": "restaurants in Staten Island, New York",
+      "start": 20,
+      "http": 200,
+      "latency_s": 1.48,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "query": "restaurants in Staten Island, New York",
+      "start": 40,
+      "http": 200,
+      "latency_s": 1.39,
+      "results": 20,
+      "new_unique": 4
+    },
+    {
+      "query": "restaurants in Staten Island, New York",
+      "start": 60,
+      "http": 200,
+      "latency_s": 1.37,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "query": "restaurants in Staten Island, New York",
+      "start": 80,
+      "http": 200,
+      "latency_s": 1.31,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "query": "restaurants in Downtown LA, Los Angeles",
+      "start": 0,
+      "http": 200,
+      "latency_s": 1.7,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "query": "restaurants in Downtown LA, Los Angeles",
+      "start": 20,
+      "http": 200,
+      "latency_s": 1.32,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "query": "restaurants in Downtown LA, Los Angeles",
+      "start": 40,
+      "http": 200,
+      "latency_s": 1.25,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "query": "restaurants in Hollywood, Los Angeles",
+      "start": 0,
+      "http": 200,
+      "latency_s": 1.38,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "query": "restaurants in Hollywood, Los Angeles",
+      "start": 20,
+      "http": 200,
+      "latency_s": 1.16,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "query": "restaurants in Hollywood, Los Angeles",
+      "start": 40,
+      "http": 200,
+      "latency_s": 1.83,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "query": "restaurants in Santa Monica, Los Angeles",
+      "start": 0,
+      "http": 200,
+      "latency_s": 5.05,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "query": "restaurants in Santa Monica, Los Angeles",
+      "start": 20,
+      "http": 200,
+      "latency_s": 1.16,
+      "results": 20,
+      "new_unique": 9
+    },
+    {
+      "query": "restaurants in Santa Monica, Los Angeles",
+      "start": 40,
+      "http": 200,
+      "latency_s": 1.32,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "query": "restaurants in Koreatown, Los Angeles",
+      "start": 0,
+      "http": 200,
+      "latency_s": 1.28,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "query": "restaurants in Koreatown, Los Angeles",
+      "start": 20,
+      "http": 200,
+      "latency_s": 1.84,
+      "results": 20,
+      "new_unique": 4
+    },
+    {
+      "query": "restaurants in Koreatown, Los Angeles",
+      "start": 40,
+      "http": 200,
+      "latency_s": 1.4,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "query": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+      "start": 0,
+      "http": 200,
+      "latency_s": 2.03,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "query": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+      "start": 20,
+      "http": 200,
+      "latency_s": 1.49,
+      "results": 20,
+      "new_unique": 5
+    },
+    {
+      "query": "restaurants in San Fernando Valley (Van Nuys), Los Angeles",
+      "start": 40,
+      "http": 200,
+      "latency_s": 1.57,
+      "results": 20,
+      "new_unique": 0
+    }
+  ],
+  "per_query": {
+    "restaurants in Manhattan, New York": {
+      "unique": 27,
+      "pages_fetched": 3,
+      "dead_pages_billed": 1
+    },
+    "restaurants in Brooklyn, New York": {
+      "unique": 41,
+      "pages_fetched": 6,
+      "dead_pages_billed": 1
+    },
+    "restaurants in Queens, New York": {
+      "unique": 40,
+      "pages_fetched": 7,
+      "dead_pages_billed": 1
+    },
+    "restaurants in Bronx, New York": {
+      "unique": 25,
+      "pages_fetched": 5,
+      "dead_pages_billed": 1
+    },
+    "restaurants in Staten Island, New York": {
+      "unique": 28,
+      "pages_fetched": 5,
+      "dead_pages_billed": 1
+    },
+    "restaurants in Downtown LA, Los Angeles": {
+      "unique": 22,
+      "pages_fetched": 3,
+      "dead_pages_billed": 1
+    },
+    "restaurants in Hollywood, Los Angeles": {
+      "unique": 22,
+      "pages_fetched": 3,
+      "dead_pages_billed": 1
+    },
+    "restaurants in Santa Monica, Los Angeles": {
+      "unique": 29,
+      "pages_fetched": 3,
+      "dead_pages_billed": 1
+    },
+    "restaurants in Koreatown, Los Angeles": {
+      "unique": 24,
+      "pages_fetched": 3,
+      "dead_pages_billed": 1
+    },
+    "restaurants in San Fernando Valley (Van Nuys), Los Angeles": {
+      "unique": 25,
+      "pages_fetched": 3,
+      "dead_pages_billed": 1
+    }
+  },
+  "wall_clock_s": 61.9,
+  "credits_used_after": 400,
+  "credits_this_run": 205,
+  "unique_places_run": 283,
+  "finished": "2026-09-24T07:20:18.715615+00:00"
+}

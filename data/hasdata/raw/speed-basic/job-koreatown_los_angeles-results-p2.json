@@ -1,0 +1,1750 @@
+{
+  "meta": {
+    "total": 122,
+    "perPage": 100,
+    "currentPage": 2,
+    "lastPage": 2,
+    "firstPage": 1,
+    "firstPageUrl": "/?page=1",
+    "lastPageUrl": "/?page=2",
+    "nextPageUrl": null,
+    "previousPageUrl": "/?page=1"
+  },
+  "data": [
+    {
+      "id": 531267492,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Internet marketing service",
+        "kgmid": "/g/11yv86vszl",
+        "phone": "(213) 325-2820",
+        "title": "Top Local SEO Services LLC",
+        "types": [
+          "Internet marketing service",
+          "Marketing agency",
+          "Marketing consultant",
+          "Website designer"
+        ],
+        "dataId": "0x80c2c70fd9cdedbf:0x43b0cbc32a0d6579",
+        "rating": 5,
+        "address": "535 S Alexandria Ave Apt 226, Los Angeles, CA 90020",
+        "placeId": "ChIJv-3N2Q_HwoAReWUNKsPLsEM",
+        "reviews": 4,
+        "website": "https://www.toplocalseoservices.com/",
+        "position": 22,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl6kwxAaqT-5auNy7kVJyB-SdxrN455Wdhm5TpCzEabklRv2qHsJcAfHjXHYQ0mNMCAz07l4rUOgGGLo6ZfnmCUU14hdgXbFLKvyrZtrEEwsrDBSXMukjfXE2h0mZsQg1UWyv2JeNLSj48=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ],
+          "serviceOptions": [
+            "Online appointments"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.0643327,
+          "longitude": -118.2982627
+        },
+        "serviceOptions": [
+          "Online appointments"
+        ]
+      },
+      "createdAt": "2026-09-24T08:09:32.206+00:00",
+      "updatedAt": "2026-09-24T08:09:32.206+00:00",
+      "dataId": "ChIJv-3N2Q_HwoAReWUNKsPLsEM"
+    },
+    {
+      "id": 531267491,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11nqdk116t",
+        "title": "Koading Digital Marketing LLC",
+        "types": [
+          "Marketing agency"
+        ],
+        "dataId": "0x80c2c7251ad10cad:0xf3223a372e8ef6d1",
+        "rating": 3,
+        "address": "763 Vermont Ave, Los Angeles, CA 90005",
+        "placeId": "ChIJrQzRGiXHwoAR0faOLjc6IvM",
+        "reviews": 2,
+        "website": "https://koading.com/",
+        "position": 21,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5NbYl_-mYx-_KZy_AlU8QhtI6o4_0SyUI_CICY3hed6Yoijq1Dpfz9US6wmSaHL08hGmUfz5NDxLgeLEUiZVE2vTObBkQ5SoxZnIE_1dgnOauKhctKdJascGHexmeyKmw_X6odyjrCUY=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.0579938,
+          "longitude": -118.29214789999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-24T08:09:32.205+00:00",
+      "updatedAt": "2026-09-24T08:09:32.205+00:00",
+      "dataId": "ChIJrQzRGiXHwoAR0faOLjc6IvM"
+    },
+    {
+      "id": 531267440,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/1pp2x8y0n",
+        "phone": "(310) 479-6444",
+        "title": "Branding Los Angeles",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "Direct mail advertising",
+          "Graphic designer",
+          "Marketing consultant",
+          "Public relations firm",
+          "Website designer"
+        ],
+        "dataId": "0x80c2bb7776779e8b:0xb13c3f156c0e1527",
+        "rating": 4.9,
+        "address": "2462 Overland Ave, Los Angeles, CA 90064",
+        "placeId": "ChIJi553dne7woARJxUObBU_PLE",
+        "reviews": 93,
+        "website": "https://brandinglosangeles.com/",
+        "position": 20,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNNRLfEsiIroRdRDR_Tv1oxfM1BLqBvWG-ObQg7H2ZVUzaW9kYYUc_PYTFzcQXObjF_sPOrljRgCZBO0_ba298ZkzkMzdbMwkV_jsDyrQE9QK_vI2LlaN1CuV1OjFBel1ERLf7W=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.0408843,
+          "longitude": -118.42386139999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-24T08:09:31.098+00:00",
+      "updatedAt": "2026-09-24T08:09:31.098+00:00",
+      "dataId": "ChIJi553dne7woARJxUObBU_PLE"
+    },
+    {
+      "id": 531267439,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11g0k0qp57",
+        "phone": "(949) 868-9725",
+        "title": "ADvance Media",
+        "types": [
+          "Marketing agency"
+        ],
+        "dataId": "0x80c2bebb1eb6c269:0x4db54fa41946b64f",
+        "rating": 5,
+        "address": "201 N Westmoreland Ave Unit 113, Los Angeles, CA 90004",
+        "placeId": "ChIJacK2Hru-woART7ZGGaRPtU0",
+        "reviews": 11,
+        "website": "https://www.advancemedia.com/",
+        "position": 19,
+        "openState": "Closed · Opens 6 AM",
+        "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HvU0Q8_iYnTcU9laBXr87g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=265.1451&pitch=0&thumbfov=100",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "6 AM–8 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "6 AM–8 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "6 AM–8 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "6 AM–8 PM"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "6 AM–8 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.07467,
+          "longitude": -118.28846229999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-24T08:09:31.097+00:00",
+      "updatedAt": "2026-09-24T08:09:31.097+00:00",
+      "dataId": "ChIJacK2Hru-woART7ZGGaRPtU0"
+    },
+    {
+      "id": 531267438,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11fzcyqp76",
+        "phone": "(866) 977-6668",
+        "title": "Wpromote",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "Service establishment",
+          "Internet marketing service"
+        ],
+        "dataId": "0x89c25991ee0929df:0x9dcb4bc02e39017a",
+        "placeId": "ChIJ3ykJ7pFZwokRegE5LsBLy50",
+        "website": "https://www.wpromote.com/",
+        "position": 18,
+        "openState": "Closed · Opens 9 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmND7U3hYw7tuRGEdLhrEQ9mlBeFU-ysz7_wGbinEKDGeDDdpknv00Os3kCQp39VUt-BHivP9CEJgEBY_8tZHPK6IhzpVyNMYL30AL3h-ODqlob8Y5afWyZrFK6-_t2I3QBQMWM8=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "9 AM–6 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 46.423669,
+          "longitude": -129.9427086
+        }
+      },
+      "createdAt": "2026-09-24T08:09:31.096+00:00",
+      "updatedAt": "2026-09-24T08:09:31.096+00:00",
+      "dataId": "ChIJ3ykJ7pFZwokRegE5LsBLy50"
+    },
+    {
+      "id": 531267437,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Internet marketing service",
+        "kgmid": "/g/11bzrgc31b",
+        "phone": "(310) 734-4030",
+        "title": "Kobe Digital",
+        "types": [
+          "Internet marketing service"
+        ],
+        "dataId": "0x80c2bf205ed6e6e5:0x5285c70d4d007a32",
+        "rating": 4.7,
+        "address": "7083 Hollywood Blvd, Los Angeles, CA 90028",
+        "placeId": "ChIJ5ebWXiC_woARMnoATQ3HhVI",
+        "reviews": 37,
+        "website": "http://www.kobedigital.com/",
+        "position": 17,
+        "openState": "Closed · Opens 6 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmODqSMkp1nfTVtTbJ42Wvgf8neHY4ZCLDVcTFS3zAMxRHk1cA5UbRSXjJumho4PPZ2oVykOia5vHVn7x1HSMlIzoJraKO-mW7s8RFWVC6eEk7GghCiwb-F9tjIM1z0LUalOqZcR=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "6 AM–9 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "6 AM–9 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "8 AM–6 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "6 AM–9 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "6 AM–9 PM"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "6 AM–9 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.1018384,
+          "longitude": -118.34440079999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-24T08:09:31.095+00:00",
+      "updatedAt": "2026-09-24T08:09:31.095+00:00",
+      "dataId": "ChIJ5ebWXiC_woARMnoATQ3HhVI"
+    },
+    {
+      "id": 531267436,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Internet marketing service",
+        "kgmid": "/g/11gbf735t9",
+        "phone": "(323) 553-4452",
+        "title": "Student Marketing Agency",
+        "types": [
+          "Internet marketing service",
+          "Advertising agency",
+          "Service establishment"
+        ],
+        "dataId": "0x80c2c77bddb01e1f:0x1a33d7ccfe1452e8",
+        "rating": 4.8,
+        "placeId": "ChIJHx6w3XvHwoAR6FIU_szXMxo",
+        "reviews": 37,
+        "website": "https://studentmarketing.agency/",
+        "position": 16,
+        "openState": "Closed · Opens 7 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPwrmmUR3QnDDtIxlI40q99c21Ij7LE97t8yjMC9IaztV3b3F3Czbj9DuHE4MVmprxmDqxHAHQmHF0O6ewmEJ_t734BrGRxJX2yZQIXc0CKUi8uS-pxJYi8SeV79ylfIqDMK1SUKA=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "7 AM–5 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "7 AM–5 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "7 AM–5 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "7 AM–5 PM"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "7 AM–5 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 46.423669,
+          "longitude": -129.9427086
+        }
+      },
+      "createdAt": "2026-09-24T08:09:31.093+00:00",
+      "updatedAt": "2026-09-24T08:09:31.093+00:00",
+      "dataId": "ChIJHx6w3XvHwoAR6FIU_szXMxo"
+    },
+    {
+      "id": 531267435,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Internet marketing service",
+        "kgmid": "/g/11gl1268x1",
+        "phone": "(213) 894-9220",
+        "title": "JH SEO Agency | Los Angeles SEO Experts - Digital Marketing, Ads Management, & Web Development",
+        "types": [
+          "Internet marketing service",
+          "Advertising agency",
+          "Business development service",
+          "Business management consultant",
+          "Marketing agency",
+          "Marketing consultant",
+          "Web hosting company",
+          "Website designer"
+        ],
+        "dataId": "0x80c2db5c1a48dec7:0x375222b7936b77a3",
+        "rating": 5,
+        "address": "957 S Gramercy Dr Apt 103, Los Angeles, CA 90019",
+        "placeId": "ChIJx95IGlzbwoARo3drk7ciUjc",
+        "reviews": 22,
+        "website": "https://jhseoagency.com/los-angeles-search-engine-optimization-company/",
+        "position": 15,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMB8mBPM7RN-M4C6QfbWU_akZrPQdd10FefzBAFgwLKkmAVzExOE-FoflNHlJwPJ6dweLd8llykEsOILFO98x2PVke37g_kpV6gr1h7c9ZF1Vo0vCBV8-O5eAyoGwSIWZbDTbdw=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.0537682,
+          "longitude": -118.31249389999999
+        }
+      },
+      "createdAt": "2026-09-24T08:09:31.092+00:00",
+      "updatedAt": "2026-09-24T08:09:31.092+00:00",
+      "dataId": "ChIJx95IGlzbwoARo3drk7ciUjc"
+    },
+    {
+      "id": 531267434,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11f4qdydry",
+        "phone": "(224) 875-0441",
+        "title": "SPICY TRIBE | Advertising Agency | 종합 광고 대행사 ATL & BTL | 온라인 마케팅 및 전시/행사 전문",
+        "types": [
+          "Marketing agency",
+          "Event management company",
+          "Advertising agency",
+          "Media company",
+          "Video production service"
+        ],
+        "dataId": "0x880cd7751bbbffff:0xbc374f04d71a8840",
+        "rating": 5,
+        "address": "3060 W Olympic Blvd #722, Los Angeles, CA 90006",
+        "placeId": "ChIJ__-7G3XXDIgRQIga1wRPN7w",
+        "reviews": 23,
+        "website": "http://www.spicytribe.com/",
+        "position": 14,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOclHVf75oLc-5Jp0U9S5ETpPwvKgIjYI5jHPm0gNkLGA0OOzOlVyuv6dwUd1ltgU8pUXVtzdf5QqlJDJGPOGof9bsBLpx-N5iOwddaRyuN74oZqMyt9fnmt30faB_HxZThk28Eig=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.052143199999996,
+          "longitude": -118.3026106
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-24T08:09:31.091+00:00",
+      "updatedAt": "2026-09-24T08:09:31.091+00:00",
+      "dataId": "ChIJ__-7G3XXDIgRQIga1wRPN7w"
+    },
+    {
+      "id": 531267433,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Internet marketing service",
+        "kgmid": "/g/11kb_tb71t",
+        "phone": "(424) 256-6075",
+        "title": "MRLA Media",
+        "types": [
+          "Internet marketing service",
+          "Advertising agency",
+          "Marketing consultant"
+        ],
+        "dataId": "0xc999024f9f64a19:0x4a79c3837300aff7",
+        "rating": 5,
+        "address": "3223 W 6th St Ste 101, Los Angeles, CA 90020",
+        "placeId": "ChIJGUr2-SSQmQwR968Ac4PDeUo",
+        "reviews": 37,
+        "website": "https://www.mrla-media.com/",
+        "position": 13,
+        "openState": "Closed · Opens 9 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNNzZUInRtutcw-WnmakSIfc65DT31qWXn5V0aJMXe38v2YoeEATPSkiWDC4eZk1qtqZMN9nJYzOvKv-AED2HLRuwDpA2thmr_QE7BYaG8Mtnijn-MIqKU2pVUsQFBIu1-MZyiOjw=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9 AM–5 PM"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "9 AM–5 PM"
+            }
+          ],
+          "timezone": "America/Los_Angeles"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 34.0638444,
+          "longitude": -118.2927246
+        },
+        "serviceOptions": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-24T08:09:31.090+00:00",
+      "updatedAt": "2026-09-24T08:09:31.090+00:00",
+      "dataId": "ChIJGUr2-SSQmQwR968Ac4PDeUo"
+    },
+    {
+      "id": 531267432,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11h81gtk44",
+        "title": "NoGood - Growth Marketing Agency",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "Internet marketing service"
+        ],
+        "dataId": "0x89c2592ec34d52b7:0xe0d9d30d1ac9bb40",
+        "rating": 4.6,
+        "address": "491 Broadway, New York, NY 10012",
+        "placeId": "ChIJt1JNwy5ZwokRQLvJGg3T2eA",
+        "reviews": 9,
+        "website": "https://nogood.io/",
+        "position": 12,
+        "openState": "Closed · Opens 6 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP2YUFWyY2uEYeCmpwud1o3SgwMk4j-RFgpmUbrM1G7FoLWqKhGiauuDAixrvPQ34wihp-We5HUiB895Irhw5Ehn3qGL-I7hi3nJkamdst65gXPiKaUIPgaVH6J2A7cZFTgkG8o=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "6 AM–7 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "6 AM–7 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "6 AM–7 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "6 AM–7 PM"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "6 AM–7 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 40.7220902,
+          "longitude": -74.000013
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      "createdAt": "2026-09-24T08:09:31.089+00:00",
+      "updatedAt": "2026-09-24T08:09:31.089+00:00",
+      "dataId": "ChIJt1JNwy5ZwokRQLvJGg3T2eA"
+    },
+    {
+      "id": 531267431,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/1td4l13m",
+        "phone": "(212) 202-1431",
+        "title": "Hunter Digital Marketing Agency - Social Media & Search Marketing Agency in New York",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "Internet marketing service",
+          "Marketing consultant"
+        ],
+        "dataId": "0x89c288c707ca5129:0xb4c46c0ddce1cc86",
+        "rating": 4.9,
+        "address": "137 W 25th St 11th floor, New York, NY 10001",
+        "placeId": "ChIJKVHKB8eIwokRhszh3A1sxLQ",
+        "reviews": 9,
+        "website": "https://hunterdigitalmarketing.com/",
+        "position": 11,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM6RjXNmwawAG9Nj0HK_Cq3r6__4HDEOXXyBTg_cmuJSTqF-tplgcG059gd8IAYjQpvOr63KL2Z_XTcRxrwYnfnN720IE_-gWZ8Gm0GoWj1j_5nvw56fTK2-6WCapfxV4_zE18=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "8 AM–11 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 40.745069199999996,
+          "longitude": -73.9934267
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      "createdAt": "2026-09-24T08:09:31.087+00:00",
+      "updatedAt": "2026-09-24T08:09:31.087+00:00",
+      "dataId": "ChIJKVHKB8eIwokRhszh3A1sxLQ"
+    },
+    {
+      "id": 531267430,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11f13vcvbw",
+        "phone": "(315) 930-1001",
+        "title": "Thrive Internet Marketing Agency",
+        "types": [
+          "Marketing agency",
+          "Copywriting service",
+          "E commerce agency",
+          "Internet marketing service",
+          "Marketing consultant",
+          "Web hosting company",
+          "Website designer"
+        ],
+        "dataId": "0x89c25900c6c04877:0x2bd31146a1ffca74",
+        "rating": 4.1,
+        "address": "260 Madison Ave 8th floor, New York, NY 10016",
+        "placeId": "ChIJd0jAxgBZwokRdMr_oUYR0ys",
+        "reviews": 8,
+        "website": "https://thriveagency.com/nyc-digital-marketing-agency/?utm_source=GMBlisting&utm_medium=organic",
+        "position": 10,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNnloMSRD8lI4CykBdAsbuSm4ANIbyf-zbP5iHTkJJ6GSFJOgBWRuwAWD5Lz-IkzDyxNyHnYH2_ByGmY0EmNwN6gcOxV6ZWwqnDB6W8WLyUAYsH-2INCWW1TF3MNrUMaRPfOJjV=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 40.7506832,
+          "longitude": -73.9811227
+        }
+      },
+      "createdAt": "2026-09-24T08:09:31.086+00:00",
+      "updatedAt": "2026-09-24T08:09:31.086+00:00",
+      "dataId": "ChIJd0jAxgBZwokRdMr_oUYR0ys"
+    },
+    {
+      "id": 531267429,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Internet marketing service",
+        "kgmid": "/g/11t13swrwj",
+        "phone": "(818) 538-4805",
+        "title": "Digital Marketing 1on1 SEO New York",
+        "types": [
+          "Internet marketing service",
+          "Marketing agency",
+          "Marketing consultant",
+          "Web hosting company",
+          "Website designer"
+        ],
+        "dataId": "0x89c259635be0ddaf:0x49a85dcc3f9bf967",
+        "rating": 5,
+        "address": "1325 Ave of the Americas, New York, NY 10019",
+        "placeId": "ChIJr93gW2NZwokRZ_mbP8xdqEk",
+        "reviews": 24,
+        "website": "https://www.marketing1on1.com/digital-marketing-seo-new-york/",
+        "position": 9,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMRf0bEo-v6FOo-YgF7aitJabNdLRnPYedxGx98AyF92QbMDv2yDIqZvlhAs7smGm13YqiTuwm3KrXmdZPAlabMGZ3JMy_D4loyv7rWvcq8L0ef63fPQvEO1vG_RRSce2LWBBQ9_A=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–8 PM"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "8 AM–8 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 40.7622973,
+          "longitude": -73.9797344
+        }
+      },
+      "createdAt": "2026-09-24T08:09:31.084+00:00",
+      "updatedAt": "2026-09-24T08:09:31.084+00:00",
+      "dataId": "ChIJr93gW2NZwokRZ_mbP8xdqEk"
+    },
+    {
+      "id": 531267428,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Internet marketing service",
+        "kgmid": "/g/11bccmbbrk",
+        "phone": "(510) 909-7386",
+        "title": "Vab Media Digital Agency, LLC",
+        "types": [
+          "Internet marketing service",
+          "Advertising agency",
+          "Design agency",
+          "Marketing agency",
+          "Marketing consultant",
+          "Software company",
+          "Website designer"
+        ],
+        "dataId": "0x89c2598a7672325f:0xa13a4a00919176c2",
+        "rating": 4.8,
+        "address": "394 Broadway, New York, NY 10013",
+        "placeId": "ChIJXzJydopZwokRwnaRkQBKOqE",
+        "reviews": 29,
+        "website": "http://www.vabulous.com/",
+        "position": 8,
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP1QttHGzemicXIVUlpurWEqk9M16gmsPDUIIqiKE1u4EYpVCz-TDhrh5pj2N2hAXTex4JPFATK9-hKtWIQzf2V97rxIgY9qlI2IngdT5_qhg0YB4K6VJ_eq1eRPiX3lBG6XdLz=s1024-v1",
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 40.7182981,
+          "longitude": -74.0022812
+        }
+      },
+      "createdAt": "2026-09-24T08:09:31.083+00:00",
+      "updatedAt": "2026-09-24T08:09:31.083+00:00",
+      "dataId": "ChIJXzJydopZwokRwnaRkQBKOqE"
+    },
+    {
+      "id": 531267427,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Internet marketing service",
+        "kgmid": "/g/11w43n2yct",
+        "phone": "(917) 444-3666",
+        "title": "Clickmen™ Digital Marketing Agency",
+        "types": [
+          "Internet marketing service",
+          "Advertising agency",
+          "Design agency",
+          "Graphic designer",
+          "Marketing agency",
+          "Marketing consultant",
+          "Media company",
+          "Public relations firm",
+          "Web hosting company",
+          "Website designer"
+        ],
+        "dataId": "0x2565cd107814b3cd:0x7fb95772890dcdd7",
+        "rating": 5,
+        "address": "45 Rockefeller Plaza, New York, NY 10111",
+        "placeId": "ChIJzbMUeBDNZSUR180NiXJXuX8",
+        "reviews": 33,
+        "website": "https://clickmen.us/en/digital-marketing-agency-in-nyc-new-york-ny/",
+        "position": 7,
+        "openState": "Closed · Opens 8 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNGSxL9dmiFxyp8UAK_Jw6vpsW5PE5qMQR5mAxbOMCUVvmYHpYfcbt3dN4doIseVkaSW223XfyBTTTA7_QvzUR6I6dw5Kw39qRRCPBGzbfg2LTD9xwmRIhnTfkgh2nWI9mKBFlS=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "8 AM–11 PM"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "8 AM–11 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 40.7591523,
+          "longitude": -73.9777136
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      "createdAt": "2026-09-24T08:09:31.082+00:00",
+      "updatedAt": "2026-09-24T08:09:31.082+00:00",
+      "dataId": "ChIJzbMUeBDNZSUR180NiXJXuX8"
+    },
+    {
+      "id": 531267426,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11gn1x5_g4",
+        "title": "Voy Media",
+        "types": [
+          "Marketing agency",
+          "Internet marketing service",
+          "Advertising agency",
+          "Marketing consultant"
+        ],
+        "dataId": "0x89c2598b44e52311:0x5da7727fbff0259b",
+        "rating": 4.7,
+        "address": "143 W 29th St Ste 204, New York, NY 10001",
+        "placeId": "ChIJESPlRItZwokRmyXwv39yp10",
+        "reviews": 33,
+        "website": "https://voymedia.com/advertising-agency-new-york/",
+        "position": 6,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNsHo6GH3qgpwRbmitglZDDlKMtCw5dJ5m4K1avkYCXQZogvnbFC0U0WaEz4cJ-Zw9WtSYavZuoCBn_ZO6NTluUfTGCqZwz0PtLG5v-YuihGQ9RzPDV2jhEQl2jqFgFQnDTfGjW=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 40.747541399999996,
+          "longitude": -73.99161389999999
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      "createdAt": "2026-09-24T08:09:31.081+00:00",
+      "updatedAt": "2026-09-24T08:09:31.081+00:00",
+      "dataId": "ChIJESPlRItZwokRmyXwv39yp10"
+    },
+    {
+      "id": 531267425,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11spmcg4_6",
+        "phone": "(888) 722-1998",
+        "title": "DS&P Digital Marketing & PR Agency",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "Graphic designer",
+          "Internet marketing service",
+          "Public relations firm",
+          "Video editing service",
+          "Website designer"
+        ],
+        "dataId": "0x89c2599a9eb4b881:0xa23129af8e50424f",
+        "rating": 4.9,
+        "address": "590 Madison Ave 21st floor, New York, NY 10022",
+        "placeId": "ChIJgbi0nppZwokRT0JQjq8pMaI",
+        "reviews": 35,
+        "website": "https://www.dial911fordesign.com/",
+        "position": 5,
+        "openState": "Closed · Opens 9 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNMPxwIJtaEuWrA0WEXL3-ZsH1wGpr2dOnYzoOxCNVnlrIo4SrkAvL1YNSaoDBU8wv_QgxE1XG3-Fv3R5FEoX8RiQtIbpubB_lzzspVuKZrYZXu9FTI6FbN3fI5BNt7qCDnMQs=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "9 AM–6 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 40.762169799999995,
+          "longitude": -73.9728933
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-24T08:09:31.080+00:00",
+      "updatedAt": "2026-09-24T08:09:31.080+00:00",
+      "dataId": "ChIJgbi0nppZwokRT0JQjq8pMaI"
+    },
+    {
+      "id": 531267424,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/12lkcfsch",
+        "phone": "(646) 303-7851",
+        "title": "Leadige Media Group",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "Design agency",
+          "E commerce agency",
+          "Graphic designer",
+          "Marketing consultant",
+          "Media company",
+          "Website designer"
+        ],
+        "dataId": "0x89c25854e6aa136f:0x20cf9222f820b1e6",
+        "rating": 4.9,
+        "address": "1501 Broadway 12th floor, New York, NY 10036",
+        "placeId": "ChIJbxOq5lRYwokR5rEg-CKSzyA",
+        "reviews": 43,
+        "website": "https://leadige.agency/",
+        "position": 4,
+        "openState": "Closed · Opens 9 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmO8MirBRl3Oc7vevHWmf-fQQK9WUI5ocj-zggsHYgKDOh1IC7-Y1NBU6ttxNtFZ-arTO23NF5fXxotQ2Cbm91ILQeggOEAAK4jPooHJWUJmMpyP6wTiUaPZDXHMZiKpS2Bi_FdeiGZwNXN7=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "9 AM–6 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 40.7572283,
+          "longitude": -73.9866322
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      "createdAt": "2026-09-24T08:09:31.078+00:00",
+      "updatedAt": "2026-09-24T08:09:31.078+00:00",
+      "dataId": "ChIJbxOq5lRYwokR5rEg-CKSzyA"
+    },
+    {
+      "id": 531267423,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/12qgm74j4",
+        "phone": "(646) 470-3753",
+        "title": "Main Street ROI",
+        "types": [
+          "Marketing agency",
+          "Advertising agency",
+          "Service establishment",
+          "Internet marketing service",
+          "Marketing consultant"
+        ],
+        "dataId": "0x89c2585f5fee55e7:0xd5f7cbbf19e2368e",
+        "rating": 4.9,
+        "placeId": "ChIJ51XuX19YwokRjjbiGb_L99U",
+        "reviews": 241,
+        "website": "https://www.mainstreetroi.com/?utm_source=google&utm_medium=google%20my%20business",
+        "position": 3,
+        "openState": "Closed · Opens 9 AM",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmObxgzgQLGG5VnJu5w2LbkTsG4inruxRSpOAWK31Jk_VBwBK35teCNjgNcB0sMVMQQHEnubBXo7zPDfC_wcQ9AnUuT6gZyMJnMmS-MzIbKxVV9BHub4Gk6QOek3_7GW9reyEd-M=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Closed"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Closed"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "9 AM–6 PM"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "9 AM–6 PM"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 40.778051999999995,
+          "longitude": -73.5683375
+        }
+      },
+      "createdAt": "2026-09-24T08:09:31.077+00:00",
+      "updatedAt": "2026-09-24T08:09:31.077+00:00",
+      "dataId": "ChIJ51XuX19YwokRjjbiGb_L99U"
+    },
+    {
+      "id": 531267422,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Advertising agency",
+        "kgmid": "/g/11f24vg3gh",
+        "phone": "(917) 513-0533",
+        "title": "Digital Drew SEM",
+        "types": [
+          "Advertising agency",
+          "Internet marketing service",
+          "Marketing consultant"
+        ],
+        "dataId": "0x89c258c741910ab1:0x7b88198b45022808",
+        "rating": 4.9,
+        "address": "110 E 28th St 10th Floor, New York, NY 10016",
+        "placeId": "ChIJsQqRQcdYwokRCCgCRYsZiHs",
+        "reviews": 82,
+        "website": "https://www.digitaldrewsem.com/",
+        "position": 2,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOdofJcpWfWNiRW-LQvEtoaJRVBEzIq0Y0Ejfc__WoOGfl7eVSr2r8qGrUYT7zlz5Dj-mAiHkTdFMAG4DvVIh9XKt-5Bh5lFMcqDkMT5tvEPBMtcnfuVEHAw1XrvqO-TpEs2VJH=s1024-v1",
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 40.742924599999995,
+          "longitude": -73.98347509999999
+        }
+      },
+      "createdAt": "2026-09-24T08:09:31.076+00:00",
+      "updatedAt": "2026-09-24T08:09:31.076+00:00",
+      "dataId": "ChIJsQqRQcdYwokRCCgCRYsZiHs"
+    },
+    {
+      "id": 531267421,
+      "jobId": "518911",
+      "data": {
+        "ll": "@40.7455096,-74.0083012,14z",
+        "type": "Marketing agency",
+        "kgmid": "/g/11jtxfx3x2",
+        "phone": "(929) 265-5595",
+        "title": "Jives Media",
+        "types": [
+          "Marketing agency",
+          "Internet marketing service",
+          "Marketing consultant",
+          "Website designer"
+        ],
+        "dataId": "0x89c259869319e7af:0x54953953a5ede7bb",
+        "rating": 4.9,
+        "address": "800 6th Ave Ste 36C, New York, NY 10001",
+        "placeId": "ChIJr-cZk4ZZwokRu-ftpVM5lVQ",
+        "reviews": 199,
+        "website": "https://www.jivesmedia.com/digital-marketing-agency-in-manhattan-ny/",
+        "position": 1,
+        "openState": "Open 24 hours",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOT_she6zDTAdtaOGpBYRmIMez0kEZrO13i8jvLJajmcNjyleNJKTr7o3wluhEUFDELYr5pJ5uKw4jJz6nc8i5lOZAdp73tCjn88-01cMinMJ77Y9k6w09RgIxdTCzbt0LwOxM=s1024-v1",
+        "extensions": {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        "workingHours": {
+          "days": [
+            {
+              "day": "Thursday",
+              "date": "2026-9-24",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Friday",
+              "date": "2026-9-25",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Saturday",
+              "date": "2026-9-26",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Sunday",
+              "date": "2026-9-27",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Monday",
+              "date": "2026-9-28",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Tuesday",
+              "date": "2026-9-29",
+              "time": "Open 24 hours"
+            },
+            {
+              "day": "Wednesday",
+              "date": "2026-9-30",
+              "time": "Open 24 hours"
+            }
+          ],
+          "timezone": "America/New_York"
+        },
+        "searchKeyword": "marketing agencies in Koreatown, Los Angeles",
+        "gpsCoordinates": {
+          "latitude": 40.7453911,
+          "longitude": -73.9904866
+        },
+        "serviceOptions": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      "createdAt": "2026-09-24T08:09:31.075+00:00",
+      "updatedAt": "2026-09-24T08:09:31.075+00:00",
+      "dataId": "ChIJr-cZk4ZZwokRu-ftpVM5lVQ"
+    }
+  ]
+}

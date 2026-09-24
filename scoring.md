@@ -6,40 +6,37 @@
 
 **Disclosure:** Lobstr.io is the house product and owns this methodology. All raw evidence is in the public repo; every number traces to a repo file.
 
-**Unscoreable, zeroed for all equally:** accuracy-vs-ground-truth (0.5) and freshness (0.3) — max attainable 9.2. Median/p95 latency (0.8) also scores 0 for all four ranked providers (all batch/async) — architecture-neutral this time.
+**Ground truth built 2026-09-24** (24-business live sample via Places API Details, `ground-truth/`; manual browser spot-check pending on 3 flagged businesses) — accuracy (0.5) and freshness (0.3) are now MEASURED for all four providers. The only sub-criteria zeroed for all remain median/p95 latency (0.8, N/A for batch/async architectures) — **effective ceiling 9.2/10**; compare scores against 9.2, not 10.
 
 ## Ranked table
 
 | Rank | Provider | Reliability /2.0 | Data Quality /2.0 | Cost /1.5 | Speed /1.5 | Scalability /1.2 | DevEx /1.0 | Input Flex /0.8 | **Total /10** |
 |---:|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | **Lobstr.io (house — disclosed)** | 1.98 | 1.20 | 0.70 | 0.31 | 1.20 | 0.76 | 0.60 | **6.75** |
-| 2 | **HasData** | 1.57 | 0.90 | 1.20 | 0.62 | 1.00 | 0.72 | 0.68 | **6.69** |
-| 3 | **Bright Data** | 1.88 | 1.00 | 0.51 | 0.70 | 0.88 | 0.36 | 0.38 | **5.71** |
-| 4 | **Apify (themineworks/maps-leads)** | 0.98 | 0.87 | 1.34 | 0.28 | 0.44 | 0.72 | 0.48 | **5.11** |
+| 1 | **Lobstr.io (house — disclosed)** | 1.98 | 2.00 | 0.80 | 0.70 | 1.20 | 0.76 | 0.60 | **8.04** |
+| 2 | **HasData** | 1.57 | 1.69 | 1.06 | 0.35 | 1.00 | 0.72 | 0.68 | **7.07** |
+| 3 | **Bright Data** | 1.88 | 1.79 | 0.51 | 0.26 | 0.88 | 0.36 | 0.38 | **6.06** |
+| 4 | **Apify (themineworks/maps-leads)** | 0.98 | 1.66 | 1.34 | 0.21 | 0.44 | 0.72 | 0.48 | **5.83** |
 
-**Ranking:** 1. Lobstr 6.75 · 2. HasData 6.69 · 3. BrightData 5.71 · 4. Apify 5.11
+**Ranking:** 1. Lobstr 8.04 · 2. HasData 7.07 · 3. BrightData 6.06 · 4. Apify 5.83
 
 ### Why each provider scored what it scored (criterion by criterion, prompt closing rule)
 
-- **Lobstr.io (house — disclosed) — 6.75:** wins Reliability (85.1% delivery, zero silent truncation, clean errors), Data Quality (best core-4 fill 97.1% AND the enrichment reference point: 45.3% email + 56.8% socials), and Scalability (only user-controlled concurrency, no hidden caps). Loses ground on Cost (basic ~$2.66/1K — derived, 5x the cheapest) and Speed (28m31s Run 1, which includes per-row website visits for enrichment — caveat attached).
-- **HasData — 6.69:** second on core fills (94.2%) and the cheapest measured-plan basic rate (~$0.74/1K base mode); fastest full-batch scraper among enrichment-capable tools (7m11s email-mode Run 1); enrichment bonus from 41.7% email fill. Held back by 73.7% delivery, run-to-run field wobble, and a 5-concurrency entry-plan cap.
-- **Bright Data — 5.71:** near-perfect core fills (96.4%) and clean 87.1% delivery — the best pure-listings executor tested. Held back everywhere else by opacity and friction: cost is an unverifiable rate-card estimate (no billing API), docs unreachable, onboarding blocked initially, keyword-only inputs.
-- **Apify (themineworks/maps-leads) — 5.11:** cheapest billed figure ($0.54/1K — but inseparable from its pay-per-verified-email model) and good DevEx (fastest time-to-first-request). Sunk by the trust findings, which hit this user's 'reliably' requirement hardest: 4/20 queries silently truncated by undocumented profit-guards while reporting SUCCEEDED, business_status broken on all records, and structural under-delivery on low-email verticals — a listings user pays in missing listings for an economics model built around emails they don't need.
+- **Lobstr.io (house — disclosed) — 8.04:** wins Reliability (85.1% delivery, zero silent truncation, clean errors), Data Quality with a perfect 2.0/2.0 (best core-4 fill 97.1%, the enrichment reference point — 45.3% email + 56.8% socials — plus 100% ground-truth accuracy, 180/180 fields, and 100% freshness), and Scalability (only user-controlled concurrency, no hidden caps). Also the fastest on the basic workload — 45.3s for the full Run-1 batch with enrichment off (measured 2026-09-24), revealing that ~97% of its 28m31s as-tested wall-clock was enrichment work. Loses ground only on Cost ($1.67/1K measured basic — 3x the cheapest).
+- **HasData — 7.07:** second on core fills (94.2%), $0.98/1K measured basic cost (2nd cheapest), and 146.6s measured basic wall-clock (2nd fastest); enrichment bonus from 41.7% email fill; 98.9% ground-truth accuracy and 100% freshness. Held back by 73.7% delivery, run-to-run field wobble, and a 5-concurrency entry-plan cap.
+- **Bright Data — 6.06:** near-perfect core fills (96.4%) and clean 87.1% delivery — but the 2026-09-24 basic-mode twins revealed it is NOT the fastest bare-listings tool (365s vs Lobstr 45.3s / HasData 146.6s on the same work). Held back everywhere else by opacity and friction: cost is an unverifiable rate-card estimate (no billing API), docs unreachable, onboarding blocked initially, keyword-only inputs.
+- **Apify (themineworks/maps-leads) — 5.83:** cheapest billed figure ($0.54/1K — but inseparable from its pay-per-verified-email model) and good DevEx (fastest time-to-first-request). Sunk by the trust findings, which hit this user's 'reliably' requirement hardest: 4/20 queries silently truncated by undocumented profit-guards while reporting SUCCEEDED, business_status broken on all records, and structural under-delivery on low-email verticals — a listings user pays in missing listings for an economics model built around emails they don't need.
 
 ### Sensitivity check on the #1 spot (house-product margin is thin — 0.06)
 
-The Lobstr–HasData gap under the basic-workload cost framing is 6.75 vs 6.69. Recomputing the Cost criterion with **as-tested measured costs** instead (Lobstr $5.82/1K incl. enrichment → Cost 0.61; HasData $1.75/1K email mode → Cost 0.87) gives Lobstr 6.66 vs HasData 6.36 — the #1 spot is **stable under both consistent cost framings**; the near-tie is an artifact of the basic-mode framing, which favors HasData (its $0.74 is a rate-card figure, Lobstr's $2.66 a measured-credit derivation). Flagged per the disclosure: if any framing had flipped the ranking, this table would say so.
+Both cost framings are now fully MEASURED. Basic-workload framing (used in the table): Lobstr $1.67/1K vs HasData $0.98/1K, both from the 2026-09-24 enrichment-off twin runs. Recomputing Cost with **as-tested enriched spend** instead (Lobstr $5.82/1K → Cost 0.61; HasData $1.75/1K → Cost 0.87) gives Lobstr 7.85 vs HasData 6.88 — the #1 spot is **stable under both framings**. The Speed criterion likewise uses like-for-like basic timings for the top three (Lobstr 45.3s / HasData 146.6s / Bright Data 365s); Apify has no separable basic mode, flagged. Per the disclosure: if any framing had flipped the ranking, this table would say so.
 
 ## Disqualified Providers (core-requirement failures — results and cost shown, never ranked)
 
 | Provider | Core requirement failed | Its test results (shown, not scored) |
 |---|---|---|
 | **Google Places API (New)** | Required volume + usable results/storage: hard 60-results/query cap (measured at cap on 10/10 restaurant queries — 444 uniques vs 998–1,405 for scrapers on identical queries) and Maps Platform Terms §3.2.3 bars copying/saving business names & addresses — the user cannot extract *all* listings nor *keep* them | Best-engineered API tested: 60/60 HTTP 200, 1.54s median / 2.26s p95, best per-field fills (phone 95.4%, website 94.3%, hours 97.9%), 1,044 uniques, $0 billed in free tier / $2.30/1K rate-card. Compliant use: real-time in-app display. Evidence: `research/raw/google-places-api/`, knowledge.md |
-| **Outscraper** | Affordable basic extraction: $3.69/1K unique measured-per-unique on base scrape alone ($4.80 for 1,300 uniques, rate-card $3/1K requested) — the most expensive basic extraction in the test vs $0.54–2.66 for ranked providers | Otherwise strong on this user's job: best core-4 fills measured (name 100% · address 100% · phone 94.7% · hours 95.3%, avg 97.5%), 96.8% delivery (on a budget-reduced 80/query batch, flagged), richest default listing schema. Evidence: `data/outscraper/` |
-
-## Pending — not scored, no core-requirement failure on evidence
-
-**ScrapingDog:** profile fits this user exactly (smoke: core fills 95–100%, ~1.5s median, projected $0.04–0.15/1K — cheapest in test by an order of magnitude) but the standard full-scale batch has not run: the supplied key is on the free 100-credit plan (verified live via `/account`, 2026-09-24). Enters the ranking only after running the same workload. Smoke also flagged a real risk to verify at scale: past ~75 uniques/query it serves fully-billed duplicate pages with no exhaustion signal (`data/scrapingdog/reports/smoke-findings.md`).
+| **Outscraper** | Affordable basic extraction: $3.69/1K unique measured-per-unique on base scrape alone ($4.80 for 1,300 uniques, rate-card $3/1K requested) — the most expensive basic extraction in the test vs $0.54–1.67 measured for ranked providers | Otherwise strong on this user's job: best core-4 fills measured (name 100% · address 100% · phone 94.7% · hours 95.3%, avg 97.5%), 96.8% delivery (on a budget-reduced 80/query batch, flagged), richest default listing schema. Evidence: `data/outscraper/` |
+| **ScrapingDog** | Required volume: full-scale run on the paid Lite plan (2026-09-24, same 2×10×200 workload) measured a hard **~49-unique/query depth ceiling** (range 39–57 vs 200 requested) — *below the 60/query cap that disqualified Google* — where the four ranked scrapers found 120–200 on identical queries; 862 uniques total vs 1,739–2,567. Compounding: past the ceiling it keeps serving HTTP-200, **fully-billed, 100%-duplicate pages with no exhaustion signal** — 44 such pages billed in this benchmark (22% of spend bought pure duplicates) | Everything else was excellent: **$0.23/1K unique measured** (cheapest in test by 2×+), core-4 fill 97.4% (best measured), ~1.0s median latency, ~2 min/run. A strong shallow-lookup tool (top ~40–50 results per area), not a full-extraction tool. Both pagination modes tested — `start` offsets barely paginate (~22 uniques/query), `ll`+`page` used for the benchmark. Evidence: `data/scrapingdog/raw/run*-llpage/`, `data/scrapingdog/reports/scale-findings.md` |
 
 ## Sub-criterion detail (every score's basis and evidence)
 
@@ -77,11 +74,11 @@ The Lobstr–HasData gap under the basic-workload cost framing is 6.75 vs 6.69. 
 - Apify: **0.63** — core-4 (name/address/phone/hours) 92.8% (0.6 x ratio vs best 97.1) + enrichment bonus 14.1 avg email/social fill (0.2 x ratio vs best enricher Lobstr 51.0) — email 28.3%, socials 0.0%, computed live on 2,523 uniques
 - BrightData: **0.6** — core-4 (name/address/phone/hours) 96.4% (0.6 x ratio vs best 97.1) + enrichment bonus 0.0 avg email/social fill (0.2 x ratio vs best enricher Lobstr 51.0) — email 0.0%, socials 0.0%, computed live on 1,739 uniques
 
-**Data accuracy vs ground truth — NOT MEASURED (sample never built)** (0.5 pts)
-- Lobstr: **0.0** — not measurable - 0 for all, flagged
-- HasData: **0.0** — not measurable - 0 for all, flagged
-- Apify: **0.0** — not measurable - 0 for all, flagged
-- BrightData: **0.0** — not measurable - 0 for all, flagged
+**Data accuracy vs ground truth (24-business live sample, ratio vs best; graded only where both truth and provider have a value)** (0.5 pts)
+- Lobstr: **0.5** — 100.0% (180/180 comparable fields) — data/lobstr/analysis/ground-truth-match.json
+- HasData: **0.49** — 98.9% (178/180 comparable fields) — data/hasdata/analysis/ground-truth-match.json
+- Apify: **0.49** — 98.7% (155/157 comparable fields) — data/apify/analysis/ground-truth-match.json
+- BrightData: **0.49** — 98.3% (177/180 comparable fields) — data/brightdata/analysis/ground-truth-match.json
 
 **Schema consistency (anchor)** (0.4 pts)
 - Lobstr: **0.4** — Full - consistent 90+ field schema
@@ -89,17 +86,17 @@ The Lobstr–HasData gap under the basic-workload cost framing is 6.75 vs 6.69. 
 - Apify: **0.24** — Partial - business_status UNKNOWN universally (confirmed live)
 - BrightData: **0.4** — Full - consistent 39-field schema across 1,738 records
 
-**Freshness — NOT MEASURED (no signal collected)** (0.3 pts)
-- Lobstr: **0.0** — not measurable - 0 for all, flagged
-- HasData: **0.0** — not measurable - 0 for all, flagged
-- Apify: **0.0** — not measurable - 0 for all, flagged
-- BrightData: **0.0** — not measurable - 0 for all, flagged
+**Freshness (volatile fields — rating/review count — vs same-day live values on the 24-business sample, ratio vs best)** (0.3 pts)
+- Lobstr: **0.3** — 100.0% fresh (23/23 records; basis: rating + review count)
+- HasData: **0.3** — 100.0% fresh (23/23 records; basis: rating + review count)
+- Apify: **0.3** — 100.0% fresh (23/23 records; basis: rating only (no review-count field))
+- BrightData: **0.3** — 100.0% fresh (23/23 records; basis: rating + review count)
 
 ### Cost
 
 **Cost per 1K unique, BASIC extraction workload (ratio vs cheapest; enrichment priced separately)** (0.8 pts)
-- Lobstr: **0.16** — $2.66/1K — derived from measured credits with the email-extraction credit share removed (knowledge.md: $6.05/1K as-tested incl. enrichment -> ~$2.66/1K without) — derived, flagged
-- HasData: **0.58** — $0.74/1K — base mode 3 credits/row x Startup rate ($49/200K credits) — rate-card; measured email-mode run was $1.75/1K (scale-findings.md)
+- Lobstr: **0.26** — $1.67/1K — MEASURED 2026-09-24: enrichment-off run of the same Run-1 workload billed 926 credits for 926 uniques (exactly 1 credit/unique) x Growth rate $50/30K — data/lobstr/raw/speed-basic/speed-basic-log.json. Supersedes the earlier $2.66 derived estimate
+- HasData: **0.44** — $0.98/1K — MEASURED 2026-09-24: basic-mode twin run billed 5,121 credits (exactly 3/row) = $1.25 for 1,276 uniques — data/hasdata/raw/speed-basic/. Supersedes the $0.74/1K-ROW rate-card (this figure is per 1K UNIQUE, same basis as all providers); email-mode measured $1.75/1K (scale-findings.md)
 - Apify: **0.8** — $0.54/1K — billed via billing API on the full workload ($1.3656 / 2,523 uniques). FLAG: no basic-only price exists — this actor bills per VERIFIED-EMAIL lead, so basic extraction is inseparable from its enrichment economics
 - BrightData: **0.29** — $1.50/1K — rate-card ESTIMATE ~$0.75-1.50/1K, upper bound used; NO billing visibility in the API — unverified
 
@@ -129,11 +126,11 @@ The Lobstr–HasData gap under the basic-workload cost framing is 6.75 vs 6.69. 
 - Apify: **0.0** — N/A - batch/async architecture, no per-request timing
 - BrightData: **0.0** — N/A - batch/async architecture, no per-request timing
 
-**Wall-clock, Run-1 batch (ratio vs fastest; Lobstr/Apify/HasData timings include enrichment work — caveat attached, no unenriched timing exists to substitute)** (0.5 pts)
-- Lobstr: **0.11** — 1,711s — data/lobstr/raw/run1-final.json (28m31s). Caveat: includes per-row website-visit email extraction (prompt rule 6)
-- HasData: **0.42** — 431s — data/hasdata/raw/run1/run1-log.json (email mode — also doing enrichment work)
-- Apify: **0.08** — 2,194s — cumulative runTimeSecs across 10 actor runs (knowledge.md; parallelizable). Caveat: includes email extraction + DNS/MX verification
-- BrightData: **0.5** — 365s — data/brightdata/raw/run*/ progress logs (~6 min/run, no enrichment work)
+**Wall-clock, Run-1 batch, BASIC workload (ratio vs fastest; Lobstr and HasData re-timed with enrichment off 2026-09-24, Bright Data bare by design; Apify flagged — enrichment inseparable)** (0.5 pts)
+- Lobstr: **0.5** — 45s — MEASURED basic-mode (all 3 enrichment functions off), identical Run-1 workload/concurrency-20 — data/lobstr/raw/speed-basic/. As-tested enriched run was 1,711s (28m31s): ~97% of that wall-clock was website-visit enrichment work
+- HasData: **0.15** — 147s — MEASURED basic-mode twin (extractEmails off), identical Run-1 pipeline/timing method — data/hasdata/raw/speed-basic/. Email-mode benchmark run was 431.3s
+- Apify: **0.01** — 2,194s — cumulative runTimeSecs across 10 actor runs (knowledge.md; parallelizable). FLAG: enrichment is inseparable from this actor's billing model — no basic-mode timing exists; only available figure used
+- BrightData: **0.06** — 365s — data/brightdata/raw/run*/ progress logs (~6 min/run, bare listings by design — already a basic timing)
 
 **p95 latency (N/A batch = 0)** (0.3 pts)
 - Lobstr: **0.0** — N/A

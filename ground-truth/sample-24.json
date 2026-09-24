@@ -1,0 +1,961 @@
+[
+  {
+    "cid": "121379369636178833",
+    "run": "run1",
+    "industry": "marketing agencies",
+    "city": "New York",
+    "place_id": "ChIJ-5Lh2EFZwokRkas5wuQ5rwE",
+    "name_hint": "VMGROUPE",
+    "captured_at": "2026-09-24T07:47:56.429601+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "VMGROUPE",
+      "address": "50 W 17th St 3rd Floor, New York, NY 10011, USA",
+      "phone": "(347) 273-1984",
+      "website": "https://vmgroupe.com/",
+      "category": "Services",
+      "types": [
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.2,
+      "review_count": 21,
+      "hours": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=121379369636178833&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "159051099828506219",
+    "run": "run1",
+    "industry": "marketing agencies",
+    "city": "New York",
+    "place_id": "ChIJu8dDpxhewokRa85p8iEQNQI",
+    "name_hint": "ValueHits Digital Marketing Agency USA - SEO, PPC, Social Media Services",
+    "captured_at": "2026-09-24T07:47:57.367603+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "ValueHits Digital Marketing Agency USA - SEO, PPC, Social Media Services",
+      "address": "70-26 Groton St, Forest Hills, NY 11375, USA",
+      "phone": "(347) 960-6628",
+      "website": "https://www.valuehits.com/",
+      "category": "Services",
+      "types": [
+        "marketing_consultant",
+        "consultant",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "rating": null,
+      "review_count": null,
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=159051099828506219&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "252099510791641943",
+    "run": "run1",
+    "industry": "marketing agencies",
+    "city": "New York",
+    "place_id": "ChIJsclZE6ZZwokRVxvJXCujfwM",
+    "name_hint": "Chatter Buzz - Advertising Agency",
+    "captured_at": "2026-09-24T07:47:59.253559+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "Chatter Buzz - Advertising Agency",
+      "address": "246 5th Ave 3rd floor, New York, NY 10001, USA",
+      "phone": "(718) 736-2880",
+      "website": "http://www.chatterbuzzmedia.com/new-york-city-digital-marketing-advertising-agency/",
+      "category": "Services",
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "rating": 4.8,
+      "review_count": 26,
+      "hours": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=252099510791641943&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "274295979628931914",
+    "run": "run1",
+    "industry": "marketing agencies",
+    "city": "New York",
+    "place_id": "ChIJDYTlNIlZwokRSqsZfb1-zgM",
+    "name_hint": "Mekanism New York",
+    "captured_at": "2026-09-24T07:48:00.209004+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "Mekanism New York",
+      "address": "250 Hudson St 2nd Floor, New York, NY 10013, USA",
+      "phone": "(212) 226-2772",
+      "website": "https://mekanism.com/",
+      "category": "Services",
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "rating": 5,
+      "review_count": 9,
+      "hours": [
+        "Monday: 9:00 AM – 5:30 PM",
+        "Tuesday: 9:00 AM – 5:30 PM",
+        "Wednesday: 9:00 AM – 5:30 PM",
+        "Thursday: 9:00 AM – 5:30 PM",
+        "Friday: 9:00 AM – 5:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=274295979628931914&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "286442997557073184",
+    "run": "run1",
+    "industry": "marketing agencies",
+    "city": "New York",
+    "place_id": "ChIJV3R6IYpZwokRIJXJfWOm-QM",
+    "name_hint": "The Charles Group NYC",
+    "captured_at": "2026-09-24T07:48:01.144503+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "The Charles Group NYC",
+      "address": "200 Broadway Ste 307, New York, NY 10038, USA",
+      "phone": "(212) 226-8929",
+      "website": "http://www.thecharlesgrp.com/",
+      "category": "Services",
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "rating": 4.9,
+      "review_count": 7,
+      "hours": [
+        "Monday: 9:30 AM – 6:00 PM",
+        "Tuesday: 9:30 AM – 6:00 PM",
+        "Wednesday: 9:30 AM – 6:00 PM",
+        "Thursday: 9:30 AM – 6:00 PM",
+        "Friday: 9:30 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=286442997557073184&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "449508578993855859",
+    "run": "run1",
+    "industry": "marketing agencies",
+    "city": "New York",
+    "place_id": "ChIJgf6HuPJZwokRc11rxqv5PAY",
+    "name_hint": "Havas People New York",
+    "captured_at": "2026-09-24T07:48:02.094961+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "Havas People New York",
+      "address": "200 Hudson St, New York, NY 10013, USA",
+      "phone": "(631) 241-8917",
+      "website": "http://www.havaspeople.com/",
+      "category": "Services",
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "rating": 4.4,
+      "review_count": 180,
+      "hours": [
+        "Monday: 9:00 AM – 5:30 PM",
+        "Tuesday: 9:00 AM – 5:30 PM",
+        "Wednesday: 9:00 AM – 5:30 PM",
+        "Thursday: 9:00 AM – 5:30 PM",
+        "Friday: 9:00 AM – 5:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=449508578993855859&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "218114110471190236",
+    "run": "run1",
+    "industry": "marketing agencies",
+    "city": "Los Angeles",
+    "place_id": "ChIJU9srH43e3IAR3LYiu6DlBgM",
+    "name_hint": "ELA Advertising",
+    "captured_at": "2026-09-24T07:48:03.076336+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "ELA Advertising",
+      "address": "1040 N Sycamore Ave, Los Angeles, CA 90038, USA",
+      "phone": "(310) 849-5100",
+      "website": "http://www.ela1.com/",
+      "category": "Services",
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "rating": 5,
+      "review_count": 1,
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=218114110471190236&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "277726111751170493",
+    "run": "run1",
+    "industry": "marketing agencies",
+    "city": "Los Angeles",
+    "place_id": "ChIJO0RP64mXwoARvWnHW22u2gM",
+    "name_hint": "365 Digital Agency",
+    "captured_at": "2026-09-24T07:48:03.423408+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "365 Digital Agency",
+      "address": "16133 Ventura Blvd, Encino, CA 91436, USA",
+      "phone": "(323) 364-4614",
+      "website": "https://365digitalagency.com/",
+      "category": "Services",
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "rating": 5,
+      "review_count": 27,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 8:30 AM – 7:00 PM",
+        "Wednesday: 8:30 AM – 7:00 PM",
+        "Thursday: 8:30 AM – 7:00 PM",
+        "Friday: 8:30 AM – 5:30 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=277726111751170493&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "508347995563694768",
+    "run": "run1",
+    "industry": "marketing agencies",
+    "city": "Los Angeles",
+    "place_id": "ChIJNYy3sNOkwoARsBrbAc8DDgc",
+    "name_hint": "Hawke Media",
+    "captured_at": "2026-09-24T07:48:04.491066+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "Hawke Media",
+      "address": "2415 Michigan Ave, Santa Monica, CA 90404, USA",
+      "phone": "(310) 451-7295",
+      "website": "https://hawkemedia.com/",
+      "category": "Services",
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "rating": 4.9,
+      "review_count": 90,
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=508347995563694768&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "1424350108434029129",
+    "run": "run1",
+    "industry": "marketing agencies",
+    "city": "Los Angeles",
+    "place_id": "ChIJzTkVMz6-woARSdr_iOBOxBM",
+    "name_hint": "Sunny Creative",
+    "captured_at": "2026-09-24T07:48:05.719779+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "Sunny Creative",
+      "address": "14753 Oxnard St, Van Nuys, CA 91411, USA",
+      "phone": "(818) 913-6740",
+      "website": "http://sunnycreative.com/",
+      "category": "Services",
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "rating": 4.8,
+      "review_count": 24,
+      "hours": [
+        "Monday: 7:30 AM – 7:30 PM",
+        "Tuesday: 7:30 AM – 7:30 PM",
+        "Wednesday: 7:30 AM – 7:30 PM",
+        "Thursday: 7:30 AM – 7:30 PM",
+        "Friday: 7:30 AM – 7:30 PM",
+        "Saturday: 7:30 AM – 7:30 PM",
+        "Sunday: Closed"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=1424350108434029129&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "1450915541175871636",
+    "run": "run1",
+    "industry": "marketing agencies",
+    "city": "Los Angeles",
+    "place_id": "ChIJt8tT3JmlwoARlKjhVv-vIhQ",
+    "name_hint": "Digital Marketing 1on1 SEO Santa Monica",
+    "captured_at": "2026-09-24T07:48:06.656274+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "Digital Marketing 1on1 SEO Santa Monica",
+      "address": "1351 3rd Street Promenade, Santa Monica, CA 90401, USA",
+      "phone": "(818) 538-4805",
+      "website": "https://www.marketing1on1.com/digital-marketing-seo-santa-monica/",
+      "category": "Services",
+      "types": [
+        "marketing_consultant",
+        "consultant",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 5,
+      "review_count": 5,
+      "hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=1450915541175871636&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "2075945079959853381",
+    "run": "run1",
+    "industry": "marketing agencies",
+    "city": "Los Angeles",
+    "place_id": "ChIJOzzGfDq_woARRRk6KA09zxw",
+    "name_hint": "blend",
+    "captured_at": "2026-09-24T07:48:07.572824+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "blend",
+      "address": "750 N San Vicente Blvd suite 800 w, West Hollywood, CA 90069, USA",
+      "phone": "(310) 862-9242",
+      "website": "https://weareblend.la/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "category": "Services",
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "rating": 4.5,
+      "review_count": 8,
+      "hours": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=2075945079959853381&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "64252613993079111",
+    "run": "run2",
+    "industry": "restaurants",
+    "city": "New York",
+    "place_id": "ChIJvZeUH8H0wokRR6HyeGlF5AA",
+    "name_hint": "Step In",
+    "captured_at": "2026-09-24T07:48:07.898953+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "Step In",
+      "address": "1309 Metropolitan Ave, Bronx, NY 10462, USA",
+      "phone": "(718) 822-0562",
+      "website": "http://www.stepinnyc.com/",
+      "category": "American Restaurant",
+      "types": [
+        "american_restaurant",
+        "bar_and_grill",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.4,
+      "review_count": 1123,
+      "hours": [
+        "Monday: 1:00 – 11:00 PM",
+        "Tuesday: 1:00 – 11:00 PM",
+        "Wednesday: 1:00 – 11:00 PM",
+        "Thursday: 1:00 – 11:00 PM",
+        "Friday: 1:00 PM – 12:00 AM",
+        "Saturday: 12:00 – 11:00 PM",
+        "Sunday: 12:00 – 11:00 PM"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=64252613993079111&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "202083208585635048",
+    "run": "run2",
+    "industry": "restaurants",
+    "city": "New York",
+    "place_id": "ChIJhd9WhEpLwokR6GTRhpvxzQI",
+    "name_hint": "Da Damaso",
+    "captured_at": "2026-09-24T07:48:08.255001+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "Da Damaso",
+      "address": "3981 Amboy Rd, Staten Island, NY 10308, USA",
+      "phone": "(718) 255-3224",
+      "website": "http://www.dadamasoinc.com/",
+      "category": "Italian Restaurant",
+      "types": [
+        "italian_restaurant",
+        "hamburger_restaurant",
+        "american_restaurant",
+        "european_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.8,
+      "review_count": 221,
+      "hours": [
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 10:30 PM",
+        "Saturday: 11:00 AM – 10:30 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=202083208585635048&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "367977278572997272",
+    "run": "run2",
+    "industry": "restaurants",
+    "city": "New York",
+    "place_id": "ChIJBfbEmDtLwokRmCrCnmJRGwU",
+    "name_hint": "‘O Sfizio Ristorante",
+    "captured_at": "2026-09-24T07:48:09.209448+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "‘O Sfizio Ristorante",
+      "address": "4651 Hylan Blvd, Staten Island, NY 10312, USA",
+      "phone": "(718) 227-3000",
+      "website": "https://osfizio.com/?utm_source=google",
+      "category": "Italian Restaurant",
+      "types": [
+        "italian_restaurant",
+        "cocktail_bar",
+        "wine_bar",
+        "catering_service",
+        "steak_house",
+        "seafood_restaurant",
+        "bar",
+        "pizza_restaurant",
+        "fine_dining_restaurant",
+        "food_delivery",
+        "european_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "rating": 4.7,
+      "review_count": 317,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 11:30 AM – 9:00 PM",
+        "Wednesday: 11:30 AM – 9:00 PM",
+        "Thursday: 11:30 AM – 9:00 PM",
+        "Friday: 11:30 AM – 10:30 PM",
+        "Saturday: 11:30 AM – 10:30 PM",
+        "Sunday: 11:30 AM – 9:00 PM"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=367977278572997272&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "845442575990584211",
+    "run": "run2",
+    "industry": "restaurants",
+    "city": "New York",
+    "place_id": "ChIJBb-QzRRbwokRk_PoI4uduws",
+    "name_hint": "Risbo",
+    "captured_at": "2026-09-24T07:48:09.600402+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "Risbo",
+      "address": "701 Flatbush Ave, Brooklyn, NY 11225, USA",
+      "phone": "(347) 425-9116",
+      "website": "http://www.risbobk.com/",
+      "category": "French Restaurant",
+      "types": [
+        "french_restaurant",
+        "pastry_shop",
+        "breakfast_restaurant",
+        "fusion_restaurant",
+        "bar",
+        "coffee_shop",
+        "cafe",
+        "dessert_shop",
+        "bakery",
+        "american_restaurant",
+        "confectionery",
+        "food_store",
+        "european_restaurant",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.5,
+      "review_count": 1106,
+      "hours": [
+        "Monday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+        "Tuesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+        "Wednesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+        "Thursday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+        "Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+        "Saturday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+        "Sunday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=845442575990584211&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "1012006191740182311",
+    "run": "run2",
+    "industry": "restaurants",
+    "city": "New York",
+    "place_id": "ChIJKapPRABJwokRJ18rAUVeCw4",
+    "name_hint": "Seabass Taverna",
+    "captured_at": "2026-09-24T07:48:10.618678+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "Seabass Taverna",
+      "address": "365 New Dorp Ln, Staten Island, NY 10306, USA",
+      "phone": "(718) 808-4110",
+      "website": "https://www.seabasstaverna.com/",
+      "category": "Greek Restaurant",
+      "types": [
+        "greek_restaurant",
+        "turkish_restaurant",
+        "brunch_restaurant",
+        "seafood_restaurant",
+        "event_venue",
+        "mediterranean_restaurant",
+        "european_restaurant",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.8,
+      "review_count": 387,
+      "hours": [
+        "Monday: 11:30 AM – 11:00 PM",
+        "Tuesday: 11:30 AM – 11:00 PM",
+        "Wednesday: 11:30 AM – 11:00 PM",
+        "Thursday: 11:30 AM – 11:00 PM",
+        "Friday: 11:30 AM – 11:00 PM",
+        "Saturday: 11:30 AM – 11:00 PM",
+        "Sunday: 11:30 AM – 11:00 PM"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=1012006191740182311&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "1216467941983237106",
+    "run": "run2",
+    "industry": "restaurants",
+    "city": "New York",
+    "place_id": "ChIJrSNA6N31wokR8rOP6iXD4RA",
+    "name_hint": "Charlies Bar & Kitchen",
+    "captured_at": "2026-09-24T07:48:11.548242+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "Charlies Bar & Kitchen",
+      "address": "112 Lincoln Ave, Bronx, NY 10454, USA",
+      "phone": "(718) 684-2338",
+      "website": "http://charliesbarkitchen.com/",
+      "category": "American Restaurant",
+      "types": [
+        "cocktail_bar",
+        "bar",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.5,
+      "review_count": 1509,
+      "hours": [
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 11:00 PM",
+        "Friday: 12:00 PM – 12:00 AM",
+        "Saturday: 12:00 PM – 12:00 AM",
+        "Sunday: 12:00 – 9:00 PM"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=1216467941983237106&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "1117547842643277465",
+    "run": "run2",
+    "industry": "restaurants",
+    "city": "Los Angeles",
+    "place_id": "ChIJ8119hAilwoARmbZBhNdTgg8",
+    "name_hint": "Shoreside Restaurant and Bar",
+    "captured_at": "2026-09-24T07:48:12.443800+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "Shoreside Restaurant and Bar",
+      "address": "1515 Ocean Ave, Santa Monica, CA 90401, USA",
+      "phone": "(310) 458-1515",
+      "website": "https://www.shoresidesantamonica.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing",
+      "category": "Restaurant",
+      "types": [
+        "restaurant",
+        "bar",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "rating": 4.5,
+      "review_count": 73,
+      "hours": [
+        "Monday: 6:30 AM – 10:00 PM",
+        "Tuesday: 6:30 AM – 10:00 PM",
+        "Wednesday: 6:30 AM – 10:00 PM",
+        "Thursday: 6:30 AM – 10:00 PM",
+        "Friday: 6:30 AM – 11:00 PM",
+        "Saturday: 6:30 AM – 11:00 PM",
+        "Sunday: 6:30 AM – 10:00 PM"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=1117547842643277465&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "1742346787090043083",
+    "run": "run2",
+    "industry": "restaurants",
+    "city": "Los Angeles",
+    "place_id": "ChIJT-Eb34LHwoARy5AL6CsPLhg",
+    "name_hint": "Savoca",
+    "captured_at": "2026-09-24T07:48:13.354363+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "Savoca",
+      "address": "900 W Olympic Blvd, Los Angeles, CA 90015, USA",
+      "phone": "(213) 765-8630",
+      "website": "https://www.marriott.com/en-us/hotels/laxjw-jw-marriott-los-angeles-la-live/dining/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+      "category": "Italian Restaurant",
+      "types": [
+        "italian_restaurant",
+        "european_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "rating": 4,
+      "review_count": 128,
+      "hours": [
+        "Monday: 6:30 AM – 2:00 PM, 5:30 – 10:00 PM",
+        "Tuesday: 6:30 AM – 2:00 PM",
+        "Wednesday: 6:30 AM – 2:00 PM",
+        "Thursday: 6:30 AM – 2:00 PM, 5:30 – 10:00 PM",
+        "Friday: 6:30 AM – 2:00 PM, 5:30 – 10:00 PM",
+        "Saturday: 6:30 AM – 2:00 PM, 5:30 – 10:00 PM",
+        "Sunday: 6:30 AM – 2:00 PM, 5:30 – 10:00 PM"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=1742346787090043083&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "1773934679941021267",
+    "run": "run2",
+    "industry": "restaurants",
+    "city": "Los Angeles",
+    "place_id": "ChIJ_yXhTrTHwoARU36hVDFInhg",
+    "name_hint": "Bottega Louie",
+    "captured_at": "2026-09-24T07:48:14.229023+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "Bottega Louie",
+      "address": "700 S Grand Ave, Los Angeles, CA 90017, USA",
+      "phone": "(213) 802-1470",
+      "website": "http://www.bottegalouie.com/",
+      "category": "Italian Restaurant",
+      "types": [
+        "italian_restaurant",
+        "chocolate_shop",
+        "pastry_shop",
+        "breakfast_restaurant",
+        "brunch_restaurant",
+        "french_restaurant",
+        "candy_store",
+        "coffee_shop",
+        "cafe",
+        "dessert_shop",
+        "bakery",
+        "confectionery",
+        "food_store",
+        "european_restaurant",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.5,
+      "review_count": 7813,
+      "hours": [
+        "Monday: 7:00 AM – 10:00 PM",
+        "Tuesday: 7:00 AM – 10:00 PM",
+        "Wednesday: 7:00 AM – 10:00 PM",
+        "Thursday: 7:00 AM – 10:00 PM",
+        "Friday: 7:00 AM – 11:00 PM",
+        "Saturday: 7:00 AM – 11:00 PM",
+        "Sunday: 7:00 AM – 10:00 PM"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=1773934679941021267&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "2568899633617691647",
+    "run": "run2",
+    "industry": "restaurants",
+    "city": "Los Angeles",
+    "place_id": "ChIJtRpiCTjGwoAR_-NpLZuQpiM",
+    "name_hint": "Spitz Mediterranean Street Food",
+    "captured_at": "2026-09-24T07:48:15.296170+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "Spitz Mediterranean Street Food",
+      "address": "371 E 2nd St, Los Angeles, CA 90012, USA",
+      "phone": "(213) 613-0101",
+      "website": "https://spitz-restaurant.com/mediterranean-food-little-tokyo-restaurant-bar/",
+      "category": "Mediterranean Restaurant",
+      "types": [
+        "mediterranean_restaurant",
+        "gyro_restaurant",
+        "falafel_restaurant",
+        "vegan_restaurant",
+        "vegetarian_restaurant",
+        "bar",
+        "greek_restaurant",
+        "european_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.4,
+      "review_count": 1103,
+      "hours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=2568899633617691647&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "3087664812393171324",
+    "run": "run2",
+    "industry": "restaurants",
+    "city": "Los Angeles",
+    "place_id": "ChIJx-cckLTHwoARfAkrqMmW2So",
+    "name_hint": "Water Grill",
+    "captured_at": "2026-09-24T07:48:16.348356+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "Water Grill",
+      "address": "544 S Grand Ave, Los Angeles, CA 90071, USA",
+      "phone": "(213) 891-0900",
+      "website": "https://www.watergrill.com/la",
+      "category": "Seafood Restaurant",
+      "types": [
+        "seafood_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.5,
+      "review_count": 2255,
+      "hours": [
+        "Monday: 11:30 AM – 10:00 PM",
+        "Tuesday: 11:30 AM – 10:00 PM",
+        "Wednesday: 11:30 AM – 10:00 PM",
+        "Thursday: 11:30 AM – 10:00 PM",
+        "Friday: 11:30 AM – 11:00 PM",
+        "Saturday: 11:30 AM – 11:00 PM",
+        "Sunday: 11:30 AM – 10:00 PM"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=3087664812393171324&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  },
+  {
+    "cid": "3169527237345742882",
+    "run": "run2",
+    "industry": "restaurants",
+    "city": "Los Angeles",
+    "place_id": "ChIJq7OSk8WkwoARIhDrvzps_Cs",
+    "name_hint": "1212 Santa Monica",
+    "captured_at": "2026-09-24T07:48:17.258921+00:00",
+    "source": "Google Places API (New) Place Details, live",
+    "error": null,
+    "truth": {
+      "name": "1212 Santa Monica",
+      "address": "1212 3rd Street Promenade, Santa Monica, CA 90401, USA",
+      "phone": "(310) 576-9996",
+      "website": "http://1212santamonica.com/",
+      "category": "American Restaurant",
+      "types": [
+        "sports_bar",
+        "cocktail_bar",
+        "lounge_bar",
+        "brunch_restaurant",
+        "bar",
+        "event_venue",
+        "american_restaurant",
+        "night_club",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "rating": 4.5,
+      "review_count": 3481,
+      "hours": [
+        "Monday: 5:00 – 10:00 PM",
+        "Tuesday: 5:00 – 10:00 PM",
+        "Wednesday: 5:00 – 10:00 PM",
+        "Thursday: 5:00 – 10:00 PM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "business_status": "OPERATIONAL",
+      "google_maps_uri": "https://maps.google.com/?cid=3169527237345742882&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+    }
+  }
+]

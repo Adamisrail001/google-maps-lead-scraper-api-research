@@ -1,0 +1,166 @@
+{
+  "method": "ground-truth/sample-24.json (Places API live capture 2026-09-24) vs benchmark records",
+  "summary": {
+    "accuracy_pct": 100.0,
+    "fields_compared": 180,
+    "fields_matched": 180,
+    "per_field": {
+      "name": "24/24",
+      "address": "24/24",
+      "phone": "24/24",
+      "website": "24/24",
+      "category": "14/14",
+      "rating": "23/23",
+      "review_count": "23/23",
+      "hours": "24/24"
+    },
+    "freshness_pct": 100.0,
+    "freshness_records": "23/23",
+    "freshness_basis": "rating + review count"
+  },
+  "records": [
+    {
+      "cid": "121379369636178833",
+      "name": "VMGROUPE",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "159051099828506219",
+      "name": "ValueHits Digital Marketing Agency USA - SEO, PPC, Social Media Services",
+      "mismatches": []
+    },
+    {
+      "cid": "252099510791641943",
+      "name": "Chatter Buzz - Advertising Agency",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "274295979628931914",
+      "name": "Mekanism New York",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "286442997557073184",
+      "name": "The Charles Group NYC",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "449508578993855859",
+      "name": "Havas People New York",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "218114110471190236",
+      "name": "ELA Advertising",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "277726111751170493",
+      "name": "365 Digital Agency",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "508347995563694768",
+      "name": "Hawke Media",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "1424350108434029129",
+      "name": "Sunny Creative",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "1450915541175871636",
+      "name": "Digital Marketing 1on1 SEO Santa Monica",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "2075945079959853381",
+      "name": "blend",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "64252613993079111",
+      "name": "Step In",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "202083208585635048",
+      "name": "Da Damaso",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "367977278572997272",
+      "name": "‘O Sfizio Ristorante",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "845442575990584211",
+      "name": "Risbo",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "1012006191740182311",
+      "name": "Seabass Taverna",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "1216467941983237106",
+      "name": "Charlies Bar & Kitchen",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "1117547842643277465",
+      "name": "Shoreside Restaurant and Bar",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "1742346787090043083",
+      "name": "Savoca",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "1773934679941021267",
+      "name": "Bottega Louie",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "2568899633617691647",
+      "name": "Spitz Mediterranean Street Food",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "3087664812393171324",
+      "name": "Water Grill",
+      "mismatches": [],
+      "fresh": true
+    },
+    {
+      "cid": "3169527237345742882",
+      "name": "1212 Santa Monica",
+      "mismatches": [],
+      "fresh": true
+    }
+  ]
+}

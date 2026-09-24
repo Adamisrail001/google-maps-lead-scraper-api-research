@@ -1,0 +1,959 @@
+{
+  "run": "run2",
+  "industry": "restaurants",
+  "mode": "ll+page",
+  "zoom": "14z",
+  "max_pages": 10,
+  "credits_used_before": 930,
+  "pack": "lite",
+  "started": "2026-09-24T07:23:57.860003+00:00",
+  "requests": [
+    {
+      "subarea": "Manhattan",
+      "city": "New York",
+      "page": 0,
+      "http": 200,
+      "latency_s": 1.11,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "subarea": "Manhattan",
+      "city": "New York",
+      "page": 1,
+      "http": 200,
+      "latency_s": 2.18,
+      "results": 20,
+      "new_unique": 19
+    },
+    {
+      "subarea": "Manhattan",
+      "city": "New York",
+      "page": 2,
+      "http": 200,
+      "latency_s": 0.93,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Manhattan",
+      "city": "New York",
+      "page": 3,
+      "http": 200,
+      "latency_s": 2.56,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "subarea": "Manhattan",
+      "city": "New York",
+      "page": 4,
+      "http": 200,
+      "latency_s": 0.88,
+      "results": 20,
+      "new_unique": 4
+    },
+    {
+      "subarea": "Manhattan",
+      "city": "New York",
+      "page": 5,
+      "http": 200,
+      "latency_s": 1.05,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Manhattan",
+      "city": "New York",
+      "page": 6,
+      "http": 200,
+      "latency_s": 1.29,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Manhattan",
+      "city": "New York",
+      "page": 7,
+      "http": 200,
+      "latency_s": 1.01,
+      "results": 20,
+      "new_unique": 4
+    },
+    {
+      "subarea": "Manhattan",
+      "city": "New York",
+      "page": 8,
+      "http": 200,
+      "latency_s": 1.01,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "subarea": "Manhattan",
+      "city": "New York",
+      "page": 9,
+      "http": 200,
+      "latency_s": 1.06,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "subarea": "Brooklyn",
+      "city": "New York",
+      "page": 0,
+      "http": 200,
+      "latency_s": 1.76,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "subarea": "Brooklyn",
+      "city": "New York",
+      "page": 1,
+      "http": 200,
+      "latency_s": 1.13,
+      "results": 20,
+      "new_unique": 18
+    },
+    {
+      "subarea": "Brooklyn",
+      "city": "New York",
+      "page": 2,
+      "http": 200,
+      "latency_s": 1.16,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Brooklyn",
+      "city": "New York",
+      "page": 3,
+      "http": 200,
+      "latency_s": 1.04,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "subarea": "Brooklyn",
+      "city": "New York",
+      "page": 4,
+      "http": 200,
+      "latency_s": 0.97,
+      "results": 20,
+      "new_unique": 3
+    },
+    {
+      "subarea": "Brooklyn",
+      "city": "New York",
+      "page": 5,
+      "http": 200,
+      "latency_s": 0.99,
+      "results": 20,
+      "new_unique": 3
+    },
+    {
+      "subarea": "Brooklyn",
+      "city": "New York",
+      "page": 6,
+      "http": 200,
+      "latency_s": 0.93,
+      "results": 20,
+      "new_unique": 3
+    },
+    {
+      "subarea": "Brooklyn",
+      "city": "New York",
+      "page": 7,
+      "http": 200,
+      "latency_s": 1.4,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Brooklyn",
+      "city": "New York",
+      "page": 8,
+      "http": 200,
+      "latency_s": 1.11,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Brooklyn",
+      "city": "New York",
+      "page": 9,
+      "http": 200,
+      "latency_s": 1.01,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Queens",
+      "city": "New York",
+      "page": 0,
+      "http": 200,
+      "latency_s": 1.27,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "subarea": "Queens",
+      "city": "New York",
+      "page": 1,
+      "http": 200,
+      "latency_s": 0.94,
+      "results": 20,
+      "new_unique": 19
+    },
+    {
+      "subarea": "Queens",
+      "city": "New York",
+      "page": 2,
+      "http": 200,
+      "latency_s": 1.01,
+      "results": 20,
+      "new_unique": 3
+    },
+    {
+      "subarea": "Queens",
+      "city": "New York",
+      "page": 3,
+      "http": 200,
+      "latency_s": 1.59,
+      "results": 20,
+      "new_unique": 5
+    },
+    {
+      "subarea": "Queens",
+      "city": "New York",
+      "page": 4,
+      "http": 200,
+      "latency_s": 1.2,
+      "results": 20,
+      "new_unique": 3
+    },
+    {
+      "subarea": "Queens",
+      "city": "New York",
+      "page": 5,
+      "http": 200,
+      "latency_s": 1.05,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Queens",
+      "city": "New York",
+      "page": 6,
+      "http": 200,
+      "latency_s": 1.32,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Queens",
+      "city": "New York",
+      "page": 7,
+      "http": 200,
+      "latency_s": 1.25,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "subarea": "Queens",
+      "city": "New York",
+      "page": 8,
+      "http": 200,
+      "latency_s": 1.05,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Queens",
+      "city": "New York",
+      "page": 9,
+      "http": 200,
+      "latency_s": 1.0,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Bronx",
+      "city": "New York",
+      "page": 0,
+      "http": 200,
+      "latency_s": 1.08,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "subarea": "Bronx",
+      "city": "New York",
+      "page": 1,
+      "http": 200,
+      "latency_s": 0.85,
+      "results": 20,
+      "new_unique": 16
+    },
+    {
+      "subarea": "Bronx",
+      "city": "New York",
+      "page": 2,
+      "http": 200,
+      "latency_s": 1.0,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Bronx",
+      "city": "New York",
+      "page": 3,
+      "http": 200,
+      "latency_s": 1.01,
+      "results": 20,
+      "new_unique": 7
+    },
+    {
+      "subarea": "Bronx",
+      "city": "New York",
+      "page": 4,
+      "http": 200,
+      "latency_s": 1.15,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "subarea": "Bronx",
+      "city": "New York",
+      "page": 5,
+      "http": 200,
+      "latency_s": 1.08,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Bronx",
+      "city": "New York",
+      "page": 6,
+      "http": 200,
+      "latency_s": 0.93,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "subarea": "Bronx",
+      "city": "New York",
+      "page": 7,
+      "http": 200,
+      "latency_s": 0.95,
+      "results": 20,
+      "new_unique": 6
+    },
+    {
+      "subarea": "Bronx",
+      "city": "New York",
+      "page": 8,
+      "http": 200,
+      "latency_s": 0.91,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Bronx",
+      "city": "New York",
+      "page": 9,
+      "http": 200,
+      "latency_s": 1.97,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Staten Island",
+      "city": "New York",
+      "page": 0,
+      "http": 200,
+      "latency_s": 1.26,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "subarea": "Staten Island",
+      "city": "New York",
+      "page": 1,
+      "http": 200,
+      "latency_s": 1.91,
+      "results": 20,
+      "new_unique": 19
+    },
+    {
+      "subarea": "Staten Island",
+      "city": "New York",
+      "page": 2,
+      "http": 200,
+      "latency_s": 1.04,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Staten Island",
+      "city": "New York",
+      "page": 3,
+      "http": 200,
+      "latency_s": 1.29,
+      "results": 20,
+      "new_unique": 5
+    },
+    {
+      "subarea": "Staten Island",
+      "city": "New York",
+      "page": 4,
+      "http": 200,
+      "latency_s": 1.02,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Staten Island",
+      "city": "New York",
+      "page": 5,
+      "http": 200,
+      "latency_s": 0.96,
+      "results": 20,
+      "new_unique": 3
+    },
+    {
+      "subarea": "Staten Island",
+      "city": "New York",
+      "page": 6,
+      "http": 200,
+      "latency_s": 0.86,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Staten Island",
+      "city": "New York",
+      "page": 7,
+      "http": 200,
+      "latency_s": 1.48,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "subarea": "Staten Island",
+      "city": "New York",
+      "page": 8,
+      "http": 200,
+      "latency_s": 1.01,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Staten Island",
+      "city": "New York",
+      "page": 9,
+      "http": 200,
+      "latency_s": 0.91,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Downtown LA",
+      "city": "Los Angeles",
+      "page": 0,
+      "http": 200,
+      "latency_s": 1.25,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "subarea": "Downtown LA",
+      "city": "Los Angeles",
+      "page": 1,
+      "http": 200,
+      "latency_s": 1.17,
+      "results": 20,
+      "new_unique": 16
+    },
+    {
+      "subarea": "Downtown LA",
+      "city": "Los Angeles",
+      "page": 2,
+      "http": 200,
+      "latency_s": 1.02,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "subarea": "Downtown LA",
+      "city": "Los Angeles",
+      "page": 3,
+      "http": 200,
+      "latency_s": 0.93,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "subarea": "Downtown LA",
+      "city": "Los Angeles",
+      "page": 4,
+      "http": 200,
+      "latency_s": 1.8,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Downtown LA",
+      "city": "Los Angeles",
+      "page": 5,
+      "http": 200,
+      "latency_s": 0.9,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "subarea": "Downtown LA",
+      "city": "Los Angeles",
+      "page": 6,
+      "http": 200,
+      "latency_s": 1.13,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Downtown LA",
+      "city": "Los Angeles",
+      "page": 7,
+      "http": 200,
+      "latency_s": 1.03,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Downtown LA",
+      "city": "Los Angeles",
+      "page": 8,
+      "http": 200,
+      "latency_s": 1.17,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Downtown LA",
+      "city": "Los Angeles",
+      "page": 9,
+      "http": 200,
+      "latency_s": 0.98,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "subarea": "Hollywood",
+      "city": "Los Angeles",
+      "page": 0,
+      "http": 200,
+      "latency_s": 1.01,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "subarea": "Hollywood",
+      "city": "Los Angeles",
+      "page": 1,
+      "http": 200,
+      "latency_s": 2.0,
+      "results": 20,
+      "new_unique": 19
+    },
+    {
+      "subarea": "Hollywood",
+      "city": "Los Angeles",
+      "page": 2,
+      "http": 200,
+      "latency_s": 1.03,
+      "results": 20,
+      "new_unique": 5
+    },
+    {
+      "subarea": "Hollywood",
+      "city": "Los Angeles",
+      "page": 3,
+      "http": 200,
+      "latency_s": 1.32,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Hollywood",
+      "city": "Los Angeles",
+      "page": 4,
+      "http": 200,
+      "latency_s": 1.05,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Hollywood",
+      "city": "Los Angeles",
+      "page": 5,
+      "http": 200,
+      "latency_s": 1.24,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Hollywood",
+      "city": "Los Angeles",
+      "page": 6,
+      "http": 200,
+      "latency_s": 1.19,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Hollywood",
+      "city": "Los Angeles",
+      "page": 7,
+      "http": 200,
+      "latency_s": 1.15,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Hollywood",
+      "city": "Los Angeles",
+      "page": 8,
+      "http": 200,
+      "latency_s": 1.15,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Hollywood",
+      "city": "Los Angeles",
+      "page": 9,
+      "http": 200,
+      "latency_s": 1.13,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Santa Monica",
+      "city": "Los Angeles",
+      "page": 0,
+      "http": 200,
+      "latency_s": 1.26,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "subarea": "Santa Monica",
+      "city": "Los Angeles",
+      "page": 1,
+      "http": 200,
+      "latency_s": 1.2,
+      "results": 20,
+      "new_unique": 15
+    },
+    {
+      "subarea": "Santa Monica",
+      "city": "Los Angeles",
+      "page": 2,
+      "http": 200,
+      "latency_s": 1.1,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "subarea": "Santa Monica",
+      "city": "Los Angeles",
+      "page": 3,
+      "http": 200,
+      "latency_s": 0.97,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Santa Monica",
+      "city": "Los Angeles",
+      "page": 4,
+      "http": 200,
+      "latency_s": 1.57,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Santa Monica",
+      "city": "Los Angeles",
+      "page": 5,
+      "http": 200,
+      "latency_s": 1.19,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Santa Monica",
+      "city": "Los Angeles",
+      "page": 6,
+      "http": 200,
+      "latency_s": 2.44,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "subarea": "Santa Monica",
+      "city": "Los Angeles",
+      "page": 7,
+      "http": 200,
+      "latency_s": 1.26,
+      "results": 20,
+      "new_unique": 3
+    },
+    {
+      "subarea": "Santa Monica",
+      "city": "Los Angeles",
+      "page": 8,
+      "http": 200,
+      "latency_s": 0.95,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Santa Monica",
+      "city": "Los Angeles",
+      "page": 9,
+      "http": 200,
+      "latency_s": 0.96,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "subarea": "Koreatown",
+      "city": "Los Angeles",
+      "page": 0,
+      "http": 200,
+      "latency_s": 1.03,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "subarea": "Koreatown",
+      "city": "Los Angeles",
+      "page": 1,
+      "http": 200,
+      "latency_s": 1.02,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "subarea": "Koreatown",
+      "city": "Los Angeles",
+      "page": 2,
+      "http": 200,
+      "latency_s": 0.94,
+      "results": 20,
+      "new_unique": 4
+    },
+    {
+      "subarea": "Koreatown",
+      "city": "Los Angeles",
+      "page": 3,
+      "http": 200,
+      "latency_s": 0.95,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Koreatown",
+      "city": "Los Angeles",
+      "page": 4,
+      "http": 200,
+      "latency_s": 0.85,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Koreatown",
+      "city": "Los Angeles",
+      "page": 5,
+      "http": 200,
+      "latency_s": 0.93,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Koreatown",
+      "city": "Los Angeles",
+      "page": 6,
+      "http": 200,
+      "latency_s": 0.98,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "Koreatown",
+      "city": "Los Angeles",
+      "page": 7,
+      "http": 200,
+      "latency_s": 1.94,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "subarea": "Koreatown",
+      "city": "Los Angeles",
+      "page": 8,
+      "http": 200,
+      "latency_s": 1.08,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "Koreatown",
+      "city": "Los Angeles",
+      "page": 9,
+      "http": 200,
+      "latency_s": 1.25,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "San Fernando Valley (Van Nuys)",
+      "city": "Los Angeles",
+      "page": 0,
+      "http": 200,
+      "latency_s": 1.18,
+      "results": 20,
+      "new_unique": 20
+    },
+    {
+      "subarea": "San Fernando Valley (Van Nuys)",
+      "city": "Los Angeles",
+      "page": 1,
+      "http": 200,
+      "latency_s": 0.98,
+      "results": 20,
+      "new_unique": 18
+    },
+    {
+      "subarea": "San Fernando Valley (Van Nuys)",
+      "city": "Los Angeles",
+      "page": 2,
+      "http": 200,
+      "latency_s": 0.97,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "subarea": "San Fernando Valley (Van Nuys)",
+      "city": "Los Angeles",
+      "page": 3,
+      "http": 200,
+      "latency_s": 1.23,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "San Fernando Valley (Van Nuys)",
+      "city": "Los Angeles",
+      "page": 4,
+      "http": 200,
+      "latency_s": 1.23,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "San Fernando Valley (Van Nuys)",
+      "city": "Los Angeles",
+      "page": 5,
+      "http": 200,
+      "latency_s": 1.1,
+      "results": 20,
+      "new_unique": 2
+    },
+    {
+      "subarea": "San Fernando Valley (Van Nuys)",
+      "city": "Los Angeles",
+      "page": 6,
+      "http": 200,
+      "latency_s": 1.16,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "San Fernando Valley (Van Nuys)",
+      "city": "Los Angeles",
+      "page": 7,
+      "http": 200,
+      "latency_s": 1.31,
+      "results": 20,
+      "new_unique": 1
+    },
+    {
+      "subarea": "San Fernando Valley (Van Nuys)",
+      "city": "Los Angeles",
+      "page": 8,
+      "http": 200,
+      "latency_s": 1.04,
+      "results": 20,
+      "new_unique": 0
+    },
+    {
+      "subarea": "San Fernando Valley (Van Nuys)",
+      "city": "Los Angeles",
+      "page": 9,
+      "http": 200,
+      "latency_s": 1.78,
+      "results": 20,
+      "new_unique": 3
+    }
+  ],
+  "per_query": {
+    "Manhattan, New York": {
+      "unique": 55,
+      "billed_all_duplicate_pages": 1
+    },
+    "Brooklyn, New York": {
+      "unique": 51,
+      "billed_all_duplicate_pages": 2
+    },
+    "Queens, New York": {
+      "unique": 55,
+      "billed_all_duplicate_pages": 1
+    },
+    "Bronx, New York": {
+      "unique": 54,
+      "billed_all_duplicate_pages": 3
+    },
+    "Staten Island, New York": {
+      "unique": 51,
+      "billed_all_duplicate_pages": 3
+    },
+    "Downtown LA, Los Angeles": {
+      "unique": 47,
+      "billed_all_duplicate_pages": 1
+    },
+    "Hollywood, Los Angeles": {
+      "unique": 49,
+      "billed_all_duplicate_pages": 2
+    },
+    "Santa Monica, Los Angeles": {
+      "unique": 45,
+      "billed_all_duplicate_pages": 3
+    },
+    "Koreatown, Los Angeles": {
+      "unique": 49,
+      "billed_all_duplicate_pages": 3
+    },
+    "San Fernando Valley (Van Nuys), Los Angeles": {
+      "unique": 48,
+      "billed_all_duplicate_pages": 2
+    }
+  },
+  "wall_clock_s": 118.7,
+  "credits_used_after": 1430,
+  "credits_this_run": 500,
+  "unique_places_run": 480,
+  "finished": "2026-09-24T07:25:56.905883+00:00"
+}

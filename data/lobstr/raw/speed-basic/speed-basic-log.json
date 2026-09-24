@@ -1,0 +1,12 @@
+{
+  "started": "2026-09-24T08:04:44.743247+00:00",
+  "squid_id": "cfec266db53b4abeb5ed7f0aa0584cfa",
+  "run_id": "83b9f21ef39449cf8822a36e5781f9cf",
+  "wall_clock_s": 45.3,
+  "status": "done",
+  "total_results": 1536,
+  "total_unique": 926,
+  "credit_used": 926,
+  "done_reason": "tasks_done",
+  "finished": "2026-09-24T08:05:49.076973+00:00"
+}

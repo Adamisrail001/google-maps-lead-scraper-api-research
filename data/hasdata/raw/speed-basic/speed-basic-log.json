@@ -1,0 +1,131 @@
+{
+  "run": "speed-basic",
+  "industry": "marketing agencies",
+  "limit": 200,
+  "extractEmails": false,
+  "started": "2026-09-24T08:08:40.467583+00:00",
+  "jobs": {
+    "manhattan_new_york": {
+      "id": 518903,
+      "submitted": "2026-09-24T08:08:41.474891+00:00",
+      "submit_http": 200,
+      "finished": "2026-09-24T08:11:09.239019+00:00",
+      "status": "finished",
+      "rows": 200,
+      "credits": 600,
+      "stopReason": "data_limit_exceeded",
+      "elapsed_s": 100.5,
+      "rows_fetched": 200
+    },
+    "brooklyn_new_york": {
+      "id": 518904,
+      "submitted": "2026-09-24T08:08:42.294698+00:00",
+      "submit_http": 200,
+      "finished": "2026-09-24T08:11:10.864186+00:00",
+      "status": "finished",
+      "rows": 200,
+      "credits": 600,
+      "stopReason": "data_limit_exceeded",
+      "elapsed_s": 102.2,
+      "rows_fetched": 200
+    },
+    "queens_new_york": {
+      "id": 518905,
+      "submitted": "2026-09-24T08:08:43.105528+00:00",
+      "submit_http": 200,
+      "finished": "2026-09-24T08:11:12.450942+00:00",
+      "status": "finished",
+      "rows": 200,
+      "credits": 600,
+      "stopReason": "data_limit_exceeded",
+      "elapsed_s": 103.7,
+      "rows_fetched": 200
+    },
+    "bronx_new_york": {
+      "id": 518906,
+      "submitted": "2026-09-24T08:08:43.922345+00:00",
+      "submit_http": 200,
+      "finished": "2026-09-24T08:11:14.007780+00:00",
+      "status": "finished",
+      "rows": 188,
+      "credits": 564,
+      "stopReason": null,
+      "elapsed_s": 105.3,
+      "rows_fetched": 188
+    },
+    "staten_island_new_york": {
+      "id": 518907,
+      "submitted": "2026-09-24T08:08:44.708243+00:00",
+      "submit_http": 200,
+      "finished": "2026-09-24T08:11:15.661356+00:00",
+      "status": "finished",
+      "rows": 200,
+      "credits": 600,
+      "stopReason": null,
+      "elapsed_s": 106.9,
+      "rows_fetched": 200
+    },
+    "downtown_la_los_angeles": {
+      "id": 518908,
+      "submitted": "2026-09-24T08:09:16.359134+00:00",
+      "submit_http": 200,
+      "finished": "2026-09-24T08:11:17.194256+00:00",
+      "status": "finished",
+      "rows": 162,
+      "credits": 486,
+      "stopReason": null,
+      "elapsed_s": 108.5,
+      "rows_fetched": 162
+    },
+    "hollywood_los_angeles": {
+      "id": 518909,
+      "submitted": "2026-09-24T08:09:18.800606+00:00",
+      "submit_http": 200,
+      "finished": "2026-09-24T08:11:18.756592+00:00",
+      "status": "finished",
+      "rows": 190,
+      "credits": 570,
+      "stopReason": null,
+      "elapsed_s": 110.0,
+      "rows_fetched": 190
+    },
+    "santa_monica_los_angeles": {
+      "id": 518910,
+      "submitted": "2026-09-24T08:09:26.325024+00:00",
+      "submit_http": 200,
+      "finished": "2026-09-24T08:11:20.285020+00:00",
+      "status": "finished",
+      "rows": 172,
+      "credits": 516,
+      "stopReason": null,
+      "elapsed_s": 111.6,
+      "rows_fetched": 172
+    },
+    "koreatown_los_angeles": {
+      "id": 518911,
+      "submitted": "2026-09-24T08:09:27.788112+00:00",
+      "submit_http": 200,
+      "finished": "2026-09-24T08:11:21.821910+00:00",
+      "status": "finished",
+      "rows": 122,
+      "credits": 366,
+      "stopReason": null,
+      "elapsed_s": 113.1,
+      "rows_fetched": 122
+    },
+    "san_fernando_valley_van_nuys_los_angeles": {
+      "id": 518912,
+      "submitted": "2026-09-24T08:09:28.711642+00:00",
+      "submit_http": 200,
+      "finished": "2026-09-24T08:11:23.439580+00:00",
+      "status": "finished",
+      "rows": 73,
+      "credits": 219,
+      "stopReason": null,
+      "elapsed_s": 114.7,
+      "rows_fetched": 73
+    }
+  },
+  "finished": "2026-09-24T08:11:55.355855+00:00",
+  "wall_clock_s": 146.6
+}

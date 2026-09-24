@@ -1,0 +1,25 @@
+{
+  "params": {
+    "country": "United States",
+    "ratings": "Any rating",
+    "language": "English (United States)",
+    "functions": {
+      "fetch_business_images": false,
+      "collect_business_details": false,
+      "extract_emails_from_website": false
+    },
+    "geo_match": true,
+    "max_rating": "Any rating",
+    "max_results": 200,
+    "max_reviews": "",
+    "min_reviews": "",
+    "skip_closed": false,
+    "phone_filter": "all",
+    "category_match": true,
+    "website_filter": "all",
+    "verified_filter": "all",
+    "exact_name_match": false,
+    "skip_without_email": false,
+    "max_unique_results_per_run": null
+  }
+}

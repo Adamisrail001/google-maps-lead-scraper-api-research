@@ -2,7 +2,33 @@
 
 **Format:** "Best {X} API for Scraping Data at Scale"
 **Owner:** {content team / author}
-**Version:** 1.0 — {date}
+**Version:** 1.0 — {date} · **Step 0 (core-requirement check) added 2026-09-24, final form per lead decision; Sections 1–8 below unchanged.**
+
+---
+
+## Step 0 — Core-requirement check (final form, lead decision 2026-09-24; supersedes the earlier gate/persona drafts of this section)
+
+**The user and the job (prompt.txt):** extract **all available Google Maps business listings from a search**, reliably and affordably, with **name, address, phone number, opening hours**. Do NOT assume extra data is required.
+
+**Disqualification rule — core requirements only.** A provider is disqualified from the final ranking ONLY when it fails a core requirement:
+
+- reliable listing extraction,
+- required volume (no result cap that blocks extracting all available listings),
+- usable results/storage (the user can keep and reuse the extracted list),
+- affordable basic extraction.
+
+**Never disqualify for missing optional features** — email, social profiles, images, verified email, website enrichment, extra metadata. These are bonus value only: they improve the relevant criterion (mainly Data Quality & Completeness / Coverage), with the best enricher in the test as the reference point for judging the others' enrichment.
+
+Disqualified providers get no rank and are never called "best"/"highest scoring", but their test results and cost ARE shown under a **Disqualified Providers** section with the failing core requirement and evidence.
+
+**Decisions of record (2026-09-24):**
+- **Google Places API (New) — DISQUALIFIED:** 60-results/query hard cap (measured at cap on 10/10 restaurant queries) and Maps Platform Terms §3.2.3 storage/usage restrictions conflict with the core requirement of extracting and *keeping* all available listings from a search.
+- **Outscraper — DISQUALIFIED:** most expensive basic extraction measured in the test ($3.69/1K unique, base scrape only, vs $0.54–2.66 for ranked providers) — fails the "affordable" core requirement. Results and cost shown under Disqualified Providers.
+- **ScrapingDog — PENDING, not disqualified:** no core-requirement failure on evidence, but the standard full-scale batch has not run (supplied key is on the free plan, verified live 2026-09-24). Enters the ranking only after running the same workload.
+
+**Scoring application rules (from prompt.txt):** compare all APIs on the same core workload and core fields; cost compared on **basic extraction first** (enrichment priced separately — never penalise a provider for not offering a feature the user doesn't need); speed compared on the same core workload with the enrichment-work caveat attached; don't double-count one volume issue across Reliability and Scalability; rank by how well each API solves the user's actual job — **not by who returns the most data**; explain each provider's score under each criterion.
+
+Rank all remaining providers using the existing 7-criterion rubric in Section 4, unchanged.
 
 ---
 

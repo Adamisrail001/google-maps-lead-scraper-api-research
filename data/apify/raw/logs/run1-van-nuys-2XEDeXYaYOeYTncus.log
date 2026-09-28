@@ -1,0 +1,14 @@
+2026-09-22T07:32:48.364Z ACTOR: Pulling container image of build fl1yA3iURhc2aOsbs from registry.
+2026-09-22T07:32:49.212Z ACTOR: Creating container.
+2026-09-22T07:32:49.310Z ACTOR: Starting container.
+2026-09-22T07:32:49.311Z ACTOR: Running under "LIMITED_PERMISSIONS".
+2026-09-22T07:32:49.703Z 
+2026-09-22T07:32:49.704Z > maps-leads@0.1.1 start
+2026-09-22T07:32:49.705Z > node src/main.js
+2026-09-22T07:32:49.705Z 
+2026-09-22T07:32:50.785Z INFO  System info {"apifyVersion":"3.7.2","apifyClientVersion":"2.25.0","crawleeVersion":"3.18.1","osType":"Linux","nodeVersion":"v20.20.2"}
+2026-09-22T07:32:50.912Z INFO  Searching Google Maps: "marketing agencies in San Fernando Valley (Van Nuys), Los Angeles"
+2026-09-22T07:33:21.975Z INFO    page 1: +20 processed (query total 20/200, charged 0)
+2026-09-22T07:33:21.976Z WARN  [profit-guard] spend ~$0.0208 exceeds revenue ~$0.0000 + $0.02 allowance — stopping (run would lose money).
+2026-09-22T07:33:22.078Z INFO  Done. found=20 charged=0 deduped=0
+2026-09-22T07:33:22.079Z WARN  No chargeable leads found. Found 20 place(s) but none had a chargeable email address. Try different queries or set verifyEmails:false to charge for any extracted email.

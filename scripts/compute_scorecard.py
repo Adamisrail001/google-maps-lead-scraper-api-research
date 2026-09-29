@@ -166,7 +166,7 @@ for c in ["Reliability", "Data Quality", "Cost", "Speed", "Scalability", "Usabil
 
 totals = {p: round(sum(ct[2][p] for ct in crits), 2) for p in P}
 
-DQ = {"Google Places API (New)": "DISQUALIFIED — NOT SCORED. Hard 60-results/query cap (measured at cap on 10/10 restaurant queries) and Maps Platform Terms §3.2.3 storage restrictions conflict with the core requirement of extracting and keeping all available listings. Measured results shown in knowledge.md / research/raw/google-places-api/ as findings, never as points.",
+DQ = {"Google Places API (New)": "DISQUALIFIED — NOT SCORED. Hard 60-results/query cap (measured at cap on 10/10 restaurant queries) and Maps Platform Terms §3.2.3 storage restrictions conflict with the core requirement of extracting and keeping all available listings. Measured results shown in knowledge.md / data/google-places-api/raw/ as findings, never as points.",
       "Outscraper": "DISQUALIFIED — NOT SCORED. Most expensive basic extraction measured in the test ($3.69/1K unique, base scrape only, vs $0.54–2.66 for scored providers) — fails the affordable-basic-extraction core requirement. Measured results (97.5% core-4 fills, 96.8% delivery on its budget-reduced 80/query batch) shown in data/outscraper/ and knowledge.md as findings, never as points."}
 
 lines = ["# Benchmark Scorecard — 10-Point Rubric (testing-plan §2, method §13)", "",

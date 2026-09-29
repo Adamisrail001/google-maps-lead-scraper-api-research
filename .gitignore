@@ -3,6 +3,24 @@
 prompt.txt
 .claude/
 
+# Internal working files — kept local, not published (repo cleanup 2026-09-29 per review)
+CLAUDE.md
+IMPORTANT/
+research/
+question.txt
+user-intent.md
+sumup.md
+final-report.md
+report.md
+what-i-understood.md
+verify.txt.txt
+review-*.md
+article-assets/
+screenshoot.png
+graph.PNG
+*.docx
+datacompare-workspace/
+
 # Scratch space — superseded one-off scripts (contain hardcoded API keys), not evidence of record
 outputs/
 

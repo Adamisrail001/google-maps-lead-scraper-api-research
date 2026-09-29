@@ -16,7 +16,7 @@ Usage:
   python scripts/google_places_run.py --smoke   # 1 query, 1 page
   python scripts/google_places_run.py           # full 2-run benchmark
 
-Outputs under research/raw/google-places-api/:
+Outputs under data/google-places-api/raw/:
   run{n}-{subarea-slug}-page{p}.json   raw response, unmodified
   run-log.json                         per-request timings, counts, errors
 API key comes from .env (GOOGLE_PLACES_API_KEY) and is never written to disk.

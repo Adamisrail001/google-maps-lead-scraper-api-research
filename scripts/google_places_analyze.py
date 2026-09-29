@@ -1,6 +1,6 @@
 """Analyze the Google Places API (New) benchmark run.
 
-Reads research/raw/google-places-api/*.json, computes unique counts (by place
+Reads data/google-places-api/raw/*.json, computes unique counts (by place
 id), per-field coverage, latency stats, and the cost calculation. Prints a
 JSON summary consumed by research/analysis/google-places-api-cost-speed.md.
 """

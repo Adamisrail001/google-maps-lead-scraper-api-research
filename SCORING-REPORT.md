@@ -126,3 +126,7 @@ scripts/hasdata_scale_run.py, brightdata_scale_run.py, google_places_run.py ...
 ```
 
 Raw evidence lives under `data/<provider>/raw/` (every request/response), analyses under `data/<provider>/analysis/`, ground truth under `ground-truth/`. Keys go in `.env` (never committed). Swap in your own keys, rerun any script, and compare against the committed raw files.
+
+## 10. Post-benchmark addendum — email verification measured (2026-09-29)
+
+After the benchmark window, lobstr.io's `auto_verify_emails` (an API-settable squid parameter since 2026-09-23) was measured live on one search of the Run-1 workload (Manhattan marketing agencies, run `e8afdad3a69842ceb7e9e8433a0b57f4`): 175 unique businesses scraped in 27m 12s (473 credits), followed by a post-scrape verification pass over all 185 found emails — **139 valid / 39 invalid / 7 unknown**; 91/175 businesses (52.0%) ended with ≥1 mailbox-verified email. Verification billed 262 credits, below the 2-credits-per-check worst case (370) and below 2 × (valid + unknown) = 292 — consistent with proven-invalid checks being free, plus a residual under-charge. Total 735 credits = $0.37 at the Team rate (≈$2.64 per 1K verified-valid emails, listings included). **Not part of the scored benchmark** (single search, outside the 2026-09-22→24 window); the scored enrichment figures remain extraction-only. Evidence: `data/lobstr/raw/verification-run/` (run object + all rows), poller: `scripts/poll_verification_run.py`.

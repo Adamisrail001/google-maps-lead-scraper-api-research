@@ -68,9 +68,16 @@ REDUCED DRAFT (v3, 2026-09-30) — implements the length audit agreed with Adam:
 </tbody>
 </table>
 
-<p>Seven tools tested, three not rankable, and a 3× price spread for the same rows. Why? It comes down to what people actually hire a Google Maps API to do.</p>
-<p>Three jobs, in practice: <a href="https://www.lobstr.io/blog/google-maps-lead-generation">lead generation</a> (every marketing agency in Manhattan as a list your CRM can use, see also <a href="https://www.lobstr.io/blog/local-lead-generation">local lead generation</a>), market research (competitor density, ratings, hours across an area), and scheduled data pipelines.</p>
-<p>All three need the same thing: <strong>all the listings from a search, in a format you can keep.</strong> So, doesn't Google itself offer an API for this?</p>
+<p>Seven tools tested, three not rankable, and a 3× price spread for the same rows. Why? It comes down to what you're actually asking a Google Maps API to do. Let's start there.</p>
+
+<h2 id="why-would-you-need-a-google-maps-api">Why would you need a Google Maps API?</h2>
+<p>People come here for three jobs and I built this test around them:</p>
+<ol>
+<li><strong>Lead generation.</strong> Every plumber in Brooklyn or <a href="https://www.lobstr.io/blog/google-maps-lead-generation">every marketing agency in Manhattan</a>, as a list you can call, email, or feed to your CRM. See also <a href="https://www.lobstr.io/blog/local-lead-generation">local lead generation</a>.</li>
+<li><strong>Market and location research.</strong> Competitor density, ratings, categories, opening hours across an area.</li>
+<li><strong>Data pipelines.</strong> Fresh business data on a schedule, deduplicated, delivered to a warehouse or a sheet.</li>
+</ol>
+<p>All three need the same thing: <strong>all listings from a search, in a format you can keep.</strong> So, doesn't Google itself offer an API for this?</p>
 
 <h2 id="does-google-maps-have-an-official-api">Does Google Maps have an official API?</h2>
 <p>Yes. The <a href="https://developers.google.com/maps/documentation/places/web-service/op-overview">Places API (New)</a> is Google's official way to query business data, and its Text Search endpoint matches this use case.</p>

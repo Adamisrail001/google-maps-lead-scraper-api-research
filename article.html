@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="I tested 7 Google Maps scraper APIs on the same 4,000-listing workload: delivery, accuracy, speed, cost, and lead-gen data, all measured and public.">
+<title>Best Google Maps Scraper APIs: Tested for Speed, Cost, Data, Usability</title>
+<!--
+REDUCED DRAFT (v3, 2026-09-30) — implements the length audit agreed with Adam:
+ CORE (~3K): hook, 30-sec summary, official API (+DIY folded in), how I picked/tested (+ranking merged),
+ top-3 deep dives (lobstr / HasData / Bright Data), other APIs short tier (Apify + Outscraper + ScrapingDog),
+ which-to-pick, FAQ, conclusion.
+ ADDITIONAL modules kept: found-vs-verified emails (~280w), precision & breadth table (~160w).
+ CUT vs article_r: standalone 200-wall H2 (now 2 lines in methodology + FAQ), standalone DIY H2 (folded),
+ field-gap table in official-API, Places curl, 4th deep dive (Apify -> short tier), per-API curl walkthroughs
+ (one lobstr tasks curl kept: the coordinate-anchoring differentiator), HasData/BrightData JSON samples.
+ IMAGES: from /images (Google Doc export). image1-5 are Docs equation artifacts (broken $ text) - NOT used,
+ the prices they mangled are restored as text (which-pick HasData bullet, 100K-cost FAQ).
+ Unused spares: image15 (tbm=map DevTools), image19 (Apify platform pricing), image20 (Apify Run Actor docs),
+ image26 (lobstr plans grid).
+ v3.1: paragraphs split to max ~2-3 rendered lines for readability (author request).
+-->
+<style>
+ body{font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;max-width:860px;margin:2rem auto;padding:0 1.2rem;line-height:1.65;color:#1f2328;background:#fff}
+ h1,h2,h3{line-height:1.25} h2{border-bottom:1px solid #d8dee4;padding-bottom:.3em;margin-top:2em}
+ code{background:#f6f8fa;padding:.15em .35em;border-radius:4px;font-size:.9em}
+ pre{background:#f6f8fa;padding:14px;border-radius:8px;overflow-x:auto;font-size:.85em;line-height:1.45}
+ pre code{background:none;padding:0}
+ table{border-collapse:collapse;width:100%;font-size:.92em;display:block;overflow-x:auto}
+ th,td{border:1px solid #d8dee4;padding:6px 10px;text-align:left}
+ th{background:#f6f8fa} tr:nth-child(even){background:#fafbfc}
+ blockquote{border-left:4px solid #e26d5c;background:#fff7f5;margin:0;padding:.7em 1em;font-size:1.02em}
+ a{color:#0969da;text-decoration:none} a:hover{text-decoration:underline}
+ figure{margin:1.4em 0} figure img{max-width:100%;border:1px solid #d8dee4;border-radius:8px}
+ figcaption{font-size:.85em;color:#57606a;margin-top:.4em}
+</style></head><body>
+
+<h1>Best Google Maps Scraper APIs: Tested for Speed, Cost, Data, Usability</h1>
+<p><em>I tested Google Maps lead scraper APIs on the same 20 searches for depth, cost, speed, and data quality. Here's which ones delivered.</em></p>
+<blockquote>
+<p><strong>lobstr.io is the best Google Maps Lead Scraper API I tested at scale.</strong> Across 20 New York and LA searches, it returned <strong>2,567 unique listings</strong> with phones, hours, emails, and social profiles, vs. 1,739&ndash;2,523 for rivals.</p>
+<p>No other API returned socials. It matched live Google Maps on every graded field and completed 10 searches in <strong>45 seconds</strong>.</p>
+</blockquote>
+
+<h2 id="30-second-summary">⚡ 30-Second Summary</h2>
+<ul>
+<li><strong><a href="https://www.lobstr.io/store/google-maps-leads-scraper">lobstr.io</a></strong>: most complete data, 100% ground-truth accuracy, fastest batch, emails + socials. $0.50/1K at scale.</li>
+<li><strong>HasData</strong>: the budget pick. $0.98/1K at entry, $0.28/1K at scale. Expect ~74% of what you request.</li>
+<li><strong>Bright Data</strong>: clean listings, zero contact data, and no way to see your bill through the API.</li>
+<li><strong>Apify (<code>themineworks/maps-leads</code> Actor)</strong>: verified emails at $0.54/1K billed, but it silently cut 4 of my 20 searches short.</li>
+<li><strong>Not ranked</strong>: Google Places API (60-result cap, storage restrictions, no email field), Outscraper (most expensive basic extraction), ScrapingDog (~49 results per search, with duplicate results still billed).</li>
+</ul>
+<p>Every raw request, response, and run log is in a <a href="https://github.com/Adamisrail001/google-maps-lead-scraper-api-research">public repo</a>.</p>
+
+<figure>
+<img src="images/image21.png" alt="Grouped bar chart benchmarking lobstr.io, HasData, Bright Data and Apify on Data, Speed and Cost, indexed to the best performer, with an excluded panel for Google Places, Outscraper and ScrapingDog">
+<figcaption>Same 4,000-listing workload, each metric indexed to the best performer (=100). Formulas and raw files: <a href="https://github.com/Adamisrail001/google-maps-lead-scraper-api-research/blob/main/SCORING-REPORT.md">SCORING-REPORT.md</a>.</figcaption>
+</figure>
+
+<table>
+<thead>
+<tr><th>Provider</th><th>Data verdict</th><th style="text-align:right">Unique businesses</th><th>Basic $/1K listings</th><th>Emails</th><th>The catch</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>lobstr.io</strong></td><td><strong>Tier 1</strong></td><td style="text-align:right">2,567</td><td>$0.50 scale / $2 entry</td><td>45.3% found + 56.8% socials</td><td>Async: five API calls to your first listing</td></tr>
+<tr><td><strong>HasData</strong></td><td>Tier 2</td><td style="text-align:right">2,456</td><td>$0.28 scale / $0.98 entry</td><td>41.7% found</td><td>73.7% delivery; job status never reaches <code>finished</code></td></tr>
+<tr><td><strong>Bright Data</strong></td><td>Tier 2</td><td style="text-align:right">1,739</td><td>~$1.50 (rate card, unverified)</td><td>none</td><td>No billing visibility; keyword-only input</td></tr>
+<tr><td><strong>Apify</strong> (<code>themineworks/maps-leads</code>)</td><td>Tier 3</td><td style="text-align:right">2,523</td><td>$0.54 billed</td><td>28.3% DNS/MX-verified</td><td>Silently truncates low-email queries, reports <code>SUCCEEDED</code></td></tr>
+<tr><td>Google Places API</td><td>Not ranked</td><td style="text-align:right">1,044</td><td>$2.30</td><td>no email field</td><td>60/search cap; terms bar storing results</td></tr>
+<tr><td>Outscraper</td><td>Not ranked</td><td style="text-align:right">1,300</td><td>$3.69</td><td>not tested</td><td>Most expensive basic extraction in the test</td></tr>
+<tr><td>ScrapingDog</td><td>Not ranked</td><td style="text-align:right">862</td><td>$0.23</td><td>none</td><td>~49/search ceiling, then bills 100%-duplicate pages</td></tr>
+</tbody>
+</table>
+
+<p>Seven tools tested, three not rankable, and a 3× price spread for the same rows. Why? It comes down to what people actually hire a Google Maps API to do.</p>
+<p>Three jobs, in practice: <a href="https://www.lobstr.io/blog/google-maps-lead-generation">lead generation</a> (every marketing agency in Manhattan as a list your CRM can use, see also <a href="https://www.lobstr.io/blog/local-lead-generation">local lead generation</a>), market research (competitor density, ratings, hours across an area), and scheduled data pipelines.</p>
+<p>All three need the same thing: <strong>all the listings from a search, in a format you can keep.</strong> So, doesn't Google itself offer an API for this?</p>
+
+<h2 id="does-google-maps-have-an-official-api">Does Google Maps have an official API?</h2>
+<p>Yes. The <a href="https://developers.google.com/maps/documentation/places/web-service/op-overview">Places API (New)</a> is Google's official way to query business data, and its Text Search endpoint matches this use case.</p>
+<p>It was also the best-engineered API in my test: 60 of 60 requests succeeded, 1.54s median latency, and the best opening-hours fill of any provider (97.9%).</p>
+<p>Then come the four walls, all verified in my testing:</p>
+<ol>
+<li><strong>The 60-result cap.</strong> Text Search returns 20 results a page, 3 pages maximum. I hit that ceiling on 10 out of 10 restaurant queries: the searches that gave Google 444 unique businesses gave the scrapers 998&ndash;1,405.</li>
+<li><strong>You can't keep the data.</strong> Google's Maps Platform Terms, <a href="https://cloud.google.com/maps-platform/terms">section 3.2.3</a>, prohibit copying and saving business names, addresses, or reviews. Only the place ID may be stored. A saved list of businesses, the whole point, is contractually off-limits.</li>
+<li><strong>No lead data.</strong> No email, social-profile, or owner fields anywhere in the schema. For outreach it's a dead end before pricing even comes up.</li>
+<li><strong>The price.</strong> Phone, website, and hours require the Enterprise + Atmosphere tier at <strong>$40/1,000 requests</strong>. My 60 requests cost $2.40 and returned 1,044 businesses: about <strong>$2.30 per 1K</strong>, before the 60-cap forces extra queries for the same coverage.</li>
+</ol>
+<figure>
+<img src="images/image10.png" alt="Google Maps Platform Terms of Service page showing the section 3.2 usage requirements">
+<figcaption>The restriction is in the contract you accept at signup: Google Maps Platform Terms, §3.2.</figcaption>
+</figure>
+<p>Places stays the right answer for the one thing its terms permit: real-time display inside your app.</p>
+<h3 id="scraping-it-yourself">What about scraping Google Maps yourself?</h3>
+<p>Open DevTools on a Maps search and you'll see an internal <code>search?tbm=map</code> endpoint serving the data as you scroll. There's no documented API or reliable pagination around it.</p>
+<p>And at any real volume, Google's anti-bot layer answers with <code>/sorry/</code> block pages and reCAPTCHA. Getting past that means headless browsers, proxy rotation, and a parser that keeps up with Google's interface changes.</p>
+<p>Congratulations, you're a proxy farmer now. 🧑‍🌾</p>
+<figure>
+<img src="images/image16.png" alt="Google /sorry/ block page: your computer or network may be sending automated queries">
+<figcaption>What repeated automated Maps requests earn you. This is the infrastructure problem scraper APIs are paid to absorb.</figcaption>
+</figure>
+<p>If you still want to build it, we've covered <a href="https://www.lobstr.io/blog/google-maps-scraper-python">scraping Google Maps with Python</a> and <a href="https://www.lobstr.io/blog/scrape-google-maps-no-code">no-code options</a>.</p>
+<p>There's also a broader roundup of <a href="https://www.lobstr.io/blog/best-google-maps-scrapers">the best Google Maps scrapers</a>. This article benchmarks the API side.</p>
+
+<h2 id="how-i-picked-and-tested">How I picked and tested the APIs</h2>
+<p>I shortlisted candidates from Reddit, comparison articles, provider docs, Ahrefs data, and LLM recommendations, then verified each had a real, self-serve API.</p>
+<p>Seven made the test: lobstr.io, HasData, Bright Data, Apify, Outscraper, ScrapingDog, and Google Places as the official baseline.</p>
+<p><strong>The workload:</strong> every API got the same 20 searches for marketing agencies and restaurants across 10 NYC/LA sub-areas, 200 listings requested per search.</p>
+<p>One number shapes that design: a single Maps search stops serving results around 120&ndash;200 businesses. The ceiling is Google's, not the scrapers'.</p>
+<p>Real coverage comes from slicing a city into sub-areas and deduplicating, which is exactly what this workload does.</p>
+<figure>
+<img src="images/image13.png" alt="Google Maps search scrolled to the bottom showing the message: You've reached the end of the list">
+<figcaption>Google's wall, on Google's own site. No tool gets through it in a single search; they differ in how honestly they behave at it.</figcaption>
+</figure>
+<p><strong>The ranking model, in order:</strong></p>
+<ol>
+<li><strong>Knock-outs.</strong> A tool that can't provide or legally retain the data isn't ranked: Google Places and ScrapingDog fail on caps or storage limits.</li>
+<li><strong>Data decides the rank.</strong> Tier 1 = complete listings, no silent truncation, strong fills, plus lead data and precision controls. Tier 2 = complete listings with weak or missing lead data. Tier 3 = incomplete listings due to silent truncation or major delivery gaps.</li>
+<li><strong>Within a tier</strong>, cost, speed, and usability determine the order. A tool that collects less data never outranks one that collects more just because it's faster or cheaper.</li>
+</ol>
+<p><strong>Ground truth:</strong> I graded 24 businesses against live Google Maps across 8 fields (name, address, phone, website, category, rating, review count, hours).</p>
+<p>Records were joined across providers by Google CID, so everyone was graded on identical businesses: 180 checks (157 for Apify, which has no review-count field).</p>
+<p><strong>Speed fairness:</strong> lobstr.io's first run spent 28 minutes crawling websites for emails, so I reran the identical workload with enrichment off for lobstr.io and HasData.</p>
+<p>Pricing is compared scale-tier to scale-tier, with entry prices alongside.</p>
+<blockquote><p><strong>Disclosure:</strong> lobstr.io runs this blog and is a contestant. Which is exactly why the formulas, raw files, and fairness re-runs are public. If you distrust a number, re-derive it.</p></blockquote>
+<figure>
+<img src="images/image9.png" alt="GitHub repository google-maps-lead-scraper-api-research with data, ground-truth and scripts folders">
+<figcaption>The evidence repo: raw requests, responses, run logs, ground truth, and the scoring scripts.</figcaption>
+</figure>
+<p>Here's where everyone landed.</p>
+<table>
+<thead>
+<tr><th>Rank</th><th>Provider</th><th>Delivery vs requested</th><th>Core-field fill</th><th>Ground-truth accuracy</th><th>Basic batch time</th><th>Silent truncation</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>1</strong></td><td><strong>lobstr.io</strong></td><td>85.1%</td><td>97.1%</td><td>100% (180/180)</td><td><strong>45.3s</strong></td><td>Zero found</td></tr>
+<tr><td>2</td><td>HasData</td><td>73.7%</td><td>94.2%</td><td>98.9% (178/180)</td><td>146.6s</td><td>None found</td></tr>
+<tr><td>3</td><td>Bright Data</td><td>87.1%¹</td><td>96.4%</td><td>98.3% (177/180)</td><td>365s</td><td>None found</td></tr>
+<tr><td>4</td><td>Apify</td><td>68.3% ⚠</td><td>92.8%</td><td>98.7% (155/157)</td><td>2,195s*</td><td><strong>4 of 20 queries cut</strong></td></tr>
+</tbody>
+</table>
+<p><small>* Apify's email verification can't be switched off; its timing includes that work. ¹ Measured against a 100-per-search request, half of everyone else's; not directly comparable.</small></p>
+<p>No provider can hit 100% delivery, because Maps is a ranked feed, not a database export, and some areas simply hold fewer matches. Staten Island doesn't owe anyone 200 marketing agencies.</p>
+<p>What separates the four is whose fault the shortfall is: Google running out of listings (lobstr.io, HasData, Bright Data) or the tool cutting your search short (Apify).</p>
+<p>Raw listings are only half the story though. If you're doing outreach, the other half is contacts.</p>
+
+<h2 id="found-vs-verified-emails">The lead-generation angle: found emails vs verified emails</h2>
+<p>Google Maps provides no email or social profiles; providers that return them crawl each business's website as an extra step. On the same 20 searches:</p>
+<table>
+<thead>
+<tr><th></th><th>lobstr.io</th><th>HasData</th><th>Bright Data</th><th>Apify</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>Emails found</strong></td><td><strong>45.3%</strong></td><td>41.7%</td><td>&mdash;</td><td>28.3%</td></tr>
+<tr><td><strong>Email verification</strong></td><td>Mailbox-level, optional (measured live, below)</td><td>not offered</td><td>&mdash;</td><td>DNS/MX check, always on</td></tr>
+<tr><td><strong>Social profiles</strong></td><td><strong>56.8%</strong> (FB, IG, LinkedIn, X, TikTok, YouTube, Pinterest, WhatsApp)</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+<tr><td><strong>Lead filters</strong></td><td>email / website / phone / owner-claimed / open-closed / rating ranges</td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td></tr>
+</tbody>
+</table>
+<p>Two things to read carefully in that table.</p>
+<p>First, Apify's DNS/MX check confirms the domain accepts mail, not that the mailbox exists. lobstr.io's <code>auto_verify_emails</code> (2 credits per checked address, confirmed-invalid free) validates the mailbox itself.</p>
+<p>I measured it live on one search after the main benchmark (Manhattan agencies, 2026-09-29): 175 businesses, 185 found emails, verified as <strong>139 valid, 39 invalid, 7 unknown</strong>. One in five extraction-only emails would have bounced.</p>
+<p>The whole batch billed 735 credits: $0.37 at the Team rate, about <strong>$2.64 per 1K verified-valid emails</strong> (raw run: <code>data/lobstr/raw/verification-run/</code> in the repo).</p>
+<p>Second, the filters matter as much as the emails: only-with-email, businesses-without-a-website (the ideal prospect list for web designers), owner-claimed only, open only, rating ranges.</p>
+<p>A full lead record (listing + details + email + verification) is 5 credits, and usually less, since rows with no email skip the email and verification charges entirely. More on the workflow in our <a href="https://www.lobstr.io/blog/google-maps-email-extractor">Google Maps email extractor guide</a>.</p>
+<p>Now the deep dives: the top three, then the rest in brief.</p>
+
+<h2 id="lobstr">Best Google Maps scraper API: lobstr.io</h2>
+<p><strong>User rating:</strong> 5/5 (<a href="https://www.capterra.in/software/1063934/lobstr">Capterra</a>, 33 reviews, as of August 13, 2026)<br>
+<strong>API type:</strong> Async (Squid → Task → Run → Results)<br>
+<strong>Best for:</strong> complete listing extraction at scale, with real contact enrichment when you want it</p>
+<table>
+<thead><tr><th>Pros</th><th>Cons</th></tr></thead>
+<tbody>
+<tr><td>100% ground-truth accuracy, the only perfect data-quality score in the test</td><td>Fully-enriched cost ($1.75/1K at scale) is ~3× Apify's billed figure</td></tr>
+<tr><td>Fastest basic batch measured: 45.3s for 10 searches at concurrency 20</td><td>Async only: five API calls before you see a listing</td></tr>
+<tr><td>85.1% delivery with zero silent truncation; 87+ fields, consistent across 2,567 records</td><td>Coordinate-anchored task URLs take a few minutes to grasp</td></tr>
+<tr><td>The only real enrichment tested: 45.3% emails + 56.8% socials, plus lead filters</td><td rowspan="2"></td></tr>
+<tr><td>Scheduling, exports, Google Sheets, S3, n8n, Make, webhooks, <a href="https://www.lobstr.io/blog/google-maps-mcp">MCP</a></td></tr>
+</tbody>
+</table>
+<h3>What is lobstr.io?</h3>
+<p><a href="https://www.lobstr.io">lobstr.io</a> is a no-code cloud scraping platform with 50+ ready-made scrapers behind one REST API. The one this article is about is the <a href="https://www.lobstr.io/store/google-maps-leads-scraper">Google Maps Leads Scraper</a>.</p>
+<figure>
+<img src="images/image7.png" alt="lobstr.io Google Maps Leads Scraper product page: scrape all local businesses data from a Google Maps search URL, emails included">
+<figcaption>The Google Maps Leads Scraper: 11,000+ users, emails included.</figcaption>
+</figure>
+<h3>Pricing</h3>
+<p>Monthly plans: Free (100 credits), Starter $20 (10K), Pro $100 (100K), Team $500 (1M).</p>
+<p>Credits are billed per function, and I measured the math live: <strong>1 credit per unique business</strong> (my basic run billed exactly 926 credits for 926 unique businesses, no rounding games). Email extraction is charged only when an email is found; verification is 2 credits per checked address, confirmed-invalid free.</p>
+<ul>
+<li><strong>$0.50 per 1K</strong>: basic extraction at the Team rate ($2 on the entry Starter plan)</li>
+<li><strong>$1.75 per 1K</strong>: fully enriched at the Team rate (~$7 on Starter)</li>
+</ul>
+<p>One sizing note: the 45-second batch below ran 20 concurrent slots, which needs a plan that includes them (Team has 50, Starter 2). Full grid on the <a href="https://www.lobstr.io/pricing">pricing page</a>.</p>
+<figure>
+<img src="images/image18.gif" alt="lobstr.io pricing calculator: Google Maps Leads Scraper with per-function credit toggles and the Team plan at $0.50 per 1,000 results">
+<figcaption>The <code>functions</code> block is the cost dial: each enrichment adds its own credit, everything off is 1 credit per listing.</figcaption>
+</figure>
+<h3>Data</h3>
+<p>One (trimmed) listing from a live run:</p>
+<pre><code class="language-json">{
+  "name": "Jives Media",
+  "category": "Marketing agency, Internet marketing service",
+  "address": "800 6th Ave Ste 36C, New York, NY 10001",
+  "phone": "+19292655595",
+  "website": "https://www.jivesmedia.com/digital-marketing-agency-in-manhattan-ny/",
+  "score": "4.9", "ratings": "199",
+  "place_id": "ChIJr-cZk4ZZwokRu-ftpVM5lVQ", "cid": "6094840702144735163",
+  "is_verified": "true",
+  "email": "info@jivesmedia.com",
+  "facebook": "https://www.facebook.com/jivesmedia",
+  "instagram": "https://www.instagram.com/jivesmedia",
+  "linkedin": "https://www.linkedin.com/company/jivesmedia"
+}</code></pre>
+<p>The full record carries 87 fields: identifiers, owner info, popular times, review distributions, plus the per-network social links no rival returned.</p>
+<p>Quality, measured: <strong>100% ground-truth accuracy</strong> (all 180 graded points matched the live listing, the only perfect score in the test), 100% freshness, and <strong>97.1% core-field fill</strong> across all 2,567 businesses. Best of the ranked four.</p>
+<h3>Speed</h3>
+<table>
+<thead><tr><th>Run</th><th>Config</th><th>Listings</th><th>Wall-clock</th></tr></thead>
+<tbody>
+<tr><td>Run 1</td><td>10 searches × 200, enrichment ON</td><td>1,594</td><td>28 min 31 s</td></tr>
+<tr><td>Run 2</td><td>identical searches, enrichment OFF</td><td>1,536</td><td><strong>45.3 s</strong></td></tr>
+</tbody>
+</table>
+<p>~97% of Run 1's clock was enrichment: thousands of website visits hunting for emails. With enrichment off, lobstr.io was the fastest scraper in the test by a factor of 3.</p>
+<p>Never compare scraper speeds without checking what work each run did per row.</p>
+<h3>Usability</h3>
+<p>Async model: <a href="https://help.lobstr.io/core-concepts/squids">Squid</a> (your configured scraper) → <a href="https://help.lobstr.io/core-concepts/tasks">Tasks</a> (Google Maps search URLs) → <a href="https://help.lobstr.io/core-concepts/runs">Run</a> → Results.</p>
+<p>Auth is a static <code>Authorization: Token</code> header from <a href="https://app.lobstr.io/dashboard/api">your dashboard</a>, no OAuth; every step is a plain curl, documented at <a href="https://docs.lobstr.io">docs.lobstr.io</a>. The clever part is how tasks target an area:</p>
+<pre><code class="language-bash">curl -X POST "https://api.lobstr.io/v1/tasks" \
+  -H "Authorization: Token $LOBSTR_API_KEY" -H "Content-Type: application/json" \
+  -d '{ "squid": "{squid_id}", "tasks": [
+    { "url": "https://www.google.com/maps/search/restaurants/@40.7831,-73.9712,14z" },
+    { "url": "https://www.google.com/maps/search/restaurants/@40.6782,-73.9442,14z" } ] }'</code></pre>
+<p>That <code>@lat,lng,14z</code> suffix anchors each search to a map viewport instead of a fuzzy place name. It's how you slice a city into sub-areas cleanly.</p>
+<p>Three measured behaviors worth knowing: <code>max_results</code> above 200 is rejected with a clean <code>400 AttributeLimitExceeded</code> (Google's ceiling surfaced, not silently absorbed). Free <code>geo_match</code>/<code>category_match</code> flags drop out-of-area and wrong-category rows. And on the results endpoint the documented <code>limit</code> parameter is ignored; the working one is <code>page_size</code> (up to 1,000).</p>
+<p><a href="https://docs.lobstr.io/docs/configure-webhook-delivery">Webhooks</a> replace polling, and from there it's no-code automation: <a href="https://help.lobstr.io/core-concepts/scheduling">scheduling</a>, <a href="https://help.lobstr.io/integrations/google-sheets">Google Sheets</a>, <a href="https://help.lobstr.io/integrations/amazon-s3">S3</a>, <a href="https://help.lobstr.io/integrations/n8n">n8n</a>, <a href="https://help.lobstr.io/integrations/make">Make</a>, or MCP.</p>
+<figure>
+<img src="images/image14.gif" alt="lobstr.io API documentation for the Google Maps Leads Scraper Add Task URLs endpoint with a cURL example">
+<figcaption>Every endpoint ships with a copy-paste curl in the <a href="https://docs.lobstr.io">docs</a>.</figcaption>
+</figure>
+<h3>Verdict</h3>
+<p>The pick when completeness is the requirement. Most listings, best fills, a perfect accuracy score, the fastest like-for-like batch, and no undisclosed billing or truncation behavior in three days of testing.</p>
+<p>At scale pricing it's also cheaper per listing than everything except HasData's volume tier. <a href="https://www.lobstr.io/store/google-maps-leads-scraper">Extract every Google Maps listing from any search →</a></p>
+
+<h2 id="hasdata">HasData: the value pick</h2>
+<p><strong>API type:</strong> Async jobs (submit → poll → results, + webhooks)<br>
+<strong>Best for:</strong> bulk listings on a budget</p>
+<table>
+<thead><tr><th>Pros</th><th>Cons</th></tr></thead>
+<tbody>
+<tr><td>$0.98/1K measured at entry, $0.28/1K at its $208 volume tier</td><td>73.7% delivery: a quarter of requested listings didn't arrive</td></tr>
+<tr><td>146.6s basic batch, 2nd fastest; transparent billing at exactly 3 credits/row</td><td>Schema wobbles between runs (rating/reviews filled 73% in run 1, 100% in run 2; measured, unexplained)</td></tr>
+<tr><td>41.7% email fill as an optional flag (<code>extractEmails: true</code>)</td><td>Job status never reaches <code>finished</code>; you must watch the results endpoint instead</td></tr>
+<tr><td>Clean REST + webhooks; 422 errors that self-document the schema</td><td>No socials, no images (separate paid enrichments, untested); 5 concurrent jobs at entry</td></tr>
+</tbody>
+</table>
+<h3>What is HasData?</h3>
+<p><a href="https://hasdata.com">HasData</a> is a scraping-API platform. Its Google Maps scraper runs as async jobs: you submit keywords + locations, it scrapes on its infrastructure, you download the rows.</p>
+<figure>
+<img src="images/image24.png" alt="HasData Google Maps Scraper product page with a sample results table including title, address, phone, email and coordinates">
+<figcaption>HasData's Google Maps scraper: lean lead records, emails as an optional flag.</figcaption>
+</figure>
+<h3>Pricing</h3>
+<p>Credit subscription; I tested on Startup ($49/month, 200K credits). Billing was the most predictable of the test: exactly 3 credits per row, every job, verifiable per job.</p>
+<p>A test email job even billed <em>below</em> the documented rate (158 credits where naive math said 200). A billing bug in the customer's favor. I checked twice. 😄</p>
+<ul>
+<li><strong>$0.98 per 1K</strong>: basic mode at entry, <strong>$0.28 per 1K</strong> at the $208 Growth tier</li>
+<li><strong>$1.75 per 1K</strong>: with <code>extractEmails: true</code> (buys the 41.7% email fill)</li>
+</ul>
+<figure>
+<img src="images/image11.png" alt="HasData pricing page: Free, Startup $49, Basic $99 and Growth $208 monthly plans">
+<figcaption>Entry at $49/200K credits; the $0.28/1K figure is the $208 Growth tier.</figcaption>
+</figure>
+<h3>Data</h3>
+<p>A solid, lean record of 29 fields: identifiers, coordinates, hours, rating, plus an <code>emails</code> array in email mode. What it lacks vs lobstr.io: social profiles, images, and owner fields.</p>
+<p>Quality, measured: 98.9% ground-truth accuracy (178/180), 100% freshness, and 94.2% core-field fill.</p>
+<p>One caveat: <strong>it wobbles</strong>. My agencies run filled rating/reviews on 73% of rows; the restaurants run, same config, filled 100%. Neither job's status hinted at the difference.</p>
+<h3>Speed</h3>
+<p>146.6s for the basic 10-search batch, second fastest. With <code>extractEmails: true</code> the same batch took 7 min 11 s.</p>
+<p>Same lesson as lobstr.io: email extraction is website-crawling work, and it triples the clock.</p>
+<h3>Usability</h3>
+<p>Model: job → poll → paginated results, with an <code>x-api-key</code> header, documented at <a href="https://docs.hasdata.com">docs.hasdata.com</a>. Two measured gotchas and one nicety.</p>
+<p>On the entry plan only 5 jobs run concurrently: a 10-search batch gets HTTP 429 on the 6th, and a 30-second retry loop handles it.</p>
+<p>The bigger one cost me an hour: <strong>job status never reaches <code>finished</code></strong>, parking at <code>exporting_data</code> indefinitely ⏳ even when every row is ready. The reliable done-signal is the results endpoint itself (when <code>meta.total</code> equals the job's <code>dataRowsCount</code> and stays stable across two polls), or webhooks, which sidestep the whole thing.</p>
+<p>The nicety: send a malformed body and the 422 response tells you the exact schema you should have sent. The API documents itself through its errors.</p>
+<figure>
+<img src="images/image6.gif" alt="HasData Google Maps Search API documentation with API key setup and request cost sections">
+<figcaption>HasData's docs are clean; trust the results endpoint, not the job status.</figcaption>
+</figure>
+<h3>Verdict</h3>
+<p>If budget leads the decision, HasData is the answer: 94.2% core fills and 98.9% accuracy at the lowest verifiable price in the test.</p>
+<p>Build the pipeline around counting rows rather than trusting statuses, expect ~74% of what you asked for, and it quietly does its job. Next: an executor that does everything well except tell you the price.</p>
+
+<h2 id="bright-data">Bright Data: great executor, black-box bill</h2>
+<p><strong>API type:</strong> Async (trigger → progress → snapshot, + webhooks)<br>
+<strong>Best for:</strong> teams already on Bright Data's data infrastructure</p>
+<table>
+<thead><tr><th>Pros</th><th>Cons</th></tr></thead>
+<tbody>
+<tr><td>87.1% delivery, best success rate among the finalists</td><td>No billing visibility via API at all; my test's cost is a rate-card guess</td></tr>
+<tr><td>96.4% core fills, 0.2% error rows, consistent 39-field schema</td><td>Inputs are country + keyword only; no coordinates, no URL input</td></tr>
+<tr><td>Richest listing-side detail: review distributions, popular times, Q&amp;A</td><td><code>progress: ready</code> doesn't mean downloadable (can still return <code>building</code>; retry ~30s)</td></tr>
+<tr><td>Clean trigger/progress/snapshot flow + webhook delivery</td><td>No emails, no socials; bare listings only</td></tr>
+</tbody>
+</table>
+<h3>What is Bright Data?</h3>
+<p><a href="https://brightdata.com">Bright Data</a> is enterprise data-collection infrastructure. For Google Maps you use its Web Scraper API against a pre-built dataset (<code>gd_m8ebnr0q2qlklc02fz</code>, "Google Maps full information") in discovery mode.</p>
+<figure>
+<img src="images/image12.png" alt="Bright Data Google Maps Scraper API product page listing the fields it collects">
+<figcaption>Bright Data's Maps scraper: rich listing data, enterprise wrapper.</figcaption>
+</figure>
+<h3>Pricing</h3>
+<p>Third-party sources quote $0.75&ndash;$1.50 per 1K records. Bright Data's own API exposes <strong>no billing field, no credits counter, no spend endpoint</strong>.</p>
+<p>I ran 2,000 requested records through it and still can't tell you what they cost. 🤷 My <strong>~$1.50/1K</strong> figure is the rate card's upper bound, flagged as unverified in every table it appears in.</p>
+<p>Every other finalist let me reconcile the bill to the row. "You'll know what you spent when the invoice arrives" is a strange flex for a data company.</p>
+<h3>Data</h3>
+<p>A consistent 39-field record: listing basics plus review distributions, review snippets, top reviews, popular times, and Q&amp;A. The richest review-side detail of the finalists.</p>
+<p>What it structurally lacks: <strong>any contact data</strong>. I checked the union of all keys across all 1,741 records: zero email or social keys anywhere. For a lead list, it hands you a phone number and wishes you luck. 📞</p>
+<p>Quality, measured: 98.3% ground-truth accuracy (177/180), 100% freshness, 96.4% core fills, 3 marked error rows in 1,741, no silent gaps.</p>
+<h3>Speed</h3>
+<p>Around 6 minutes per 10-search batch (365s and 340s across two runs). Respectable, until the like-for-like twins ran.</p>
+<p>On the same bare-listings work, lobstr.io finished in 45 seconds and HasData in 2.5 minutes. Bright Data's ~6 minutes is a basic timing with no enrichment excuse attached.</p>
+<figure>
+<img src="images/image23.png" alt="Bright Data run log JSON in the public repo showing 754 records, 2 errors and 389 seconds collection duration">
+<figcaption>Every Bright Data run log is in the repo, down to <code>collection_duration</code> and the two <code>parse_error</code> rows.</figcaption>
+</figure>
+<h3>Usability</h3>
+<p>Model: trigger → progress → snapshot, Bearer token, documented at <a href="https://docs.brightdata.com">docs.brightdata.com</a>.</p>
+<p>The input shape is the real constraint: <strong>country + keyword is all you get</strong>, so your geographic precision lives or dies on how well the keyword string parses.</p>
+<p>Two frictions measured: <code>progress: ready</code> doesn't mean downloadable (my first snapshot request after <code>ready</code> returned <code>{"status":"building"}</code>; retry ~30s later and the data arrives). And the docs were unreachable from my test network, with the first API key arriving blocked.</p>
+<p>Webhook delivery is available, so you can skip polling entirely.</p>
+<figure>
+<img src="images/image25.gif" alt="Bright Data documentation: Google scraper quickstart guide">
+<figcaption>The quickstart is genuinely 5 minutes, once your key is activated and the docs load.</figcaption>
+</figure>
+<h3>Verdict</h3>
+<p>The best pure execution among the runners-up: near-perfect fills, honest delivery, rock-solid schema, held back by opacity and friction rather than data quality.</p>
+<p>If your org already runs on Bright Data, the Maps dataset won't disappoint. If you're choosing fresh, you can get better numbers, faster, with a visible bill elsewhere.</p>
+
+<h2 id="other-apis">The other three: Apify, Outscraper, ScrapingDog</h2>
+<p>All three went through the same tests as the ranked providers. Here's the short version of each, with the evidence.</p>
+<h3>Apify's <code>themineworks/maps-leads</code> Actor: verified emails, silent cutoffs</h3>
+<p><a href="https://apify.com">Apify</a> is an Actor marketplace; <a href="https://apify.com/themineworks/maps-leads">this Actor</a> scrapes Maps and verifies emails inline (DNS/MX checks, same run).</p>
+<p>Its billing is genuinely honest: records without a verified email carry <code>"charged": false</code> and cost nothing, which I reconciled per-record against the billing API. My two full runs billed $1.3656 for 2,523 unique listings: <strong>$0.54/1K</strong>, the cheapest figure in the test that comes straight from a billing API. 28.3% of records carried a DNS/MX-verified email.</p>
+<p>Now the part you won't find on its store page. During my Van Nuys query, the run stopped at 20 of 200 results. The run status said <code>SUCCEEDED</code>. Only the raw log told the truth:</p>
+<pre><code>[profit-guard] spend ~$X exceeds revenue ~$Y + $0.02 allowance — stopping (run would lose money)</code></pre>
+<p>The Actor has two undocumented economic circuit-breakers: a $0.25-per-run spend ceiling and a real-time profitability check. When a query doesn't yield enough billable verified emails, it stops collecting your listings to protect its margin, then reports success.</p>
+<p>It cut 4 of my 20 queries this way. It's the only API I've tested whose definition of "SUCCEEDED" includes "decided your data wasn't worth finishing". 💸</p>
+<p>The listing data around the excellent email block is also the weakest of the test: <code>business_status</code> broken on all 2,523 records, no review count, hours usually a single day.</p>
+<p>If verified emails are the deliverable, it's the cheapest way to get them. But wrap every run in a two-line check: grep the log for <code>profit-guard</code> and compare places found against what you requested.</p>
+<figure>
+<img src="images/image17.png" alt="Apify store page for the themineworks/maps-leads Google Maps Email Scraper Actor">
+<figcaption>The Actor's pitch is real (pay only for verified emails). The profit-guard isn't mentioned anywhere on it.</figcaption>
+</figure>
+<h3>Outscraper: strong data, steakhouse prices</h3>
+<p>The only exclusion on price. Its base scrape cost $4.80 for 1,300 unique businesses: <strong>$3.69/1K with zero enrichment</strong>, 2 to 7× the ranked providers, with email stages priced on top.</p>
+<p>The data itself was strong (97.5% core fills, the best of any tool tested, on a budget-capped 80-per-search run). It sells the same groceries as everyone else at steakhouse prices. 🥩 If price is no object, it's a fine product.</p>
+<figure>
+<img src="images/image8.png" alt="Outscraper pricing page: free tier, then $3 per 1,000 records dropping to $1 after 100,000">
+<figcaption>Outscraper's tiers: even the 100K+ volume rate exceeds most of the ranked field's entry pricing once enrichment is added.</figcaption>
+</figure>
+<h3>ScrapingDog: fast, cheap, and capped at ~49</h3>
+<p>A hard depth ceiling around <strong>49 unique results per search</strong>, below even Places' 60. Past the ceiling the meter keeps running: fully-billed HTTP 200 pages of 100% duplicates, with no end-of-results signal.</p>
+<p>22% of my spend bought photocopies of pages I already had. 📠 Within its window it was superb ($0.23/1K, ~1s responses). For "all the listings", it structurally can't.</p>
+<figure>
+<img src="images/image22.gif" alt="ScrapingDog Google Maps API JSON response in an editor, showing the same place_id repeating across result pages">
+<figcaption>The evidence: the same <code>place_id</code> recurring across fully-billed pages.</figcaption>
+</figure>
+
+<h2 id="precision-and-breadth">Precision and breadth: what each tool can be told to do</h2>
+<p>Fill rates aren't the whole data story. A tool that returns out-of-area or wrong-category rows delivers worse data even when its fills look fine. What I verified:</p>
+<table>
+<thead>
+<tr><th></th><th>lobstr.io</th><th>HasData</th><th>Bright Data</th><th>Apify</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>Dedupe across searches</strong></td><td>✓ built-in (unique-results billing)</td><td>you dedupe by <code>placeId</code></td><td>you dedupe</td><td>✓ per docs (untested)</td></tr>
+<tr><td><strong>Geo / category filters</strong></td><td>✓ both, free</td><td>category presets per docs; no geo filter</td><td>✗</td><td>✗ per Actor docs</td></tr>
+<tr><td><strong>Input: coordinates / Maps URL</strong></td><td>✓ (tested)</td><td>✗ keyword + location</td><td>✗ country + keyword only</td><td>✗ free-text query</td></tr>
+<tr><td><strong>Fields per listing</strong></td><td>87</td><td>29</td><td>39</td><td>35, mostly email metadata</td></tr>
+<tr><td><strong>Reviews</strong></td><td>chainable to the Reviews Scraper</td><td>review count only</td><td>distributions + top reviews in-record</td><td>✗</td></tr>
+<tr><td><strong>Images / details</strong></td><td>✓ (up to 250 images)</td><td>paid add-on, untested</td><td>popular times, Q&amp;A</td><td>✗</td></tr>
+<tr><td><strong>Lead filters</strong></td><td>✓ email/website/phone/claimed</td><td>not tested</td><td>✗</td><td>✗ per Actor docs</td></tr>
+</tbody>
+</table>
+<p><small>"Per docs" = from provider documentation, checked 2026-09-29, not run live; "not tested" = neither.</small></p>
+
+<h2 id="which-should-you-pick">Which Google Maps scraper API should you pick?</h2>
+<ul>
+<li><strong><a href="https://www.lobstr.io/store/google-maps-leads-scraper">lobstr.io</a></strong>: complete, contactable lists. Most listings, perfect accuracy, fastest batch, emails + socials + filters. $0.50/1K basic at scale.</li>
+<li><strong>HasData</strong>: budget extraction at $0.98/1K entry ($0.28 at scale) with honest billing. Accept ~74% delivery and poll results, not statuses.</li>
+<li><strong>Apify (<code>themineworks/maps-leads</code>)</strong>: when DNS/MX-verified emails are the deliverable and you wrap every run in the truncation check.</li>
+<li><strong>Bright Data</strong>: teams already on its platform. Don't adopt it fresh for Maps alone.</li>
+</ul>
+<p>Still weighing it? These are the questions that come up every time.</p>
+
+<h2 id="faq">FAQ</h2>
+<h3>Why do all the scrapers stop around 120–200 results per search?</h3>
+<p>Because Google Maps does. Any single search view exhausts around that depth no matter who's scraping.</p>
+<p>Real coverage comes from slicing a city into sub-areas (district searches at zoom <code>14z</code> worked cleanly in my tests) and deduplicating by <code>place_id</code> or CID.</p>
+<h3>Is scraping Google Maps legal?</h3>
+<p>There's no universal yes or no. Google's terms prohibit scraping its services, the data itself is public business information, and legality depends on your jurisdiction and what you do with the data.</p>
+<p>This test measured what's technically possible, not what's permitted in your case. <a href="https://www.lobstr.io/blog/is-scraping-google-maps-legal">Is scraping Google Maps legal?</a> covers the case law. Not legal advice.</p>
+<h3>Where do the emails come from? They're not on the listing.</h3>
+<p>Not from Google Maps. No email or social profile appears on a listing. Providers that return them crawl each business's website as an enrichment step with separate cost.</p>
+<p>Any "Maps scraper" advertising emails without mentioning website crawling deserves a raised eyebrow. 🤨</p>
+<h3>What would 100,000 listings cost?</h3>
+<p>At measured basic rates: HasData ~$28 at its volume tier, lobstr.io ~$50 at Team, Apify ~$54 billed (with the truncation risk), Bright Data ~$150 by rate card, Outscraper ~$369.</p>
+<p>Google Places: ~$230 in request fees for a list its terms don't let you keep.</p>
+<h3>Can I reproduce these results?</h3>
+<p>Yes, that's the point. Every raw request, response, run log, credit snapshot, the 24-business ground truth, and the scoring scripts are in the <a href="https://github.com/Adamisrail001/google-maps-lead-scraper-api-research">public repo</a>.</p>
+<p><a href="https://github.com/Adamisrail001/google-maps-lead-scraper-api-research/blob/main/SCORING-REPORT.md">SCORING-REPORT.md</a> documents every formula; <code>scripts/compute_final_scorecard.py</code> recomputes the scorecard from the raw files.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>I tested 7 Google Maps scraper APIs on the same 4,000-listing workload, graded them against a live ground truth, and re-timed the top contenders with enrichment off so nobody's extra work skewed the clock.</p>
+<p><strong>lobstr.io is my recommendation</strong>: the most complete results, the only perfect accuracy score, the fastest fair batch time, and the only real contact enrichment, at $0.50/1K basic on its scale plan.</p>
+<p><strong>HasData</strong> is the budget alternative if ~74% delivery fits your pipeline. Everything below them comes with a caveat you now know by name.</p>
+<p>Want to check the completeness claim yourself? Try the <a href="https://www.lobstr.io/store/google-maps-leads-scraper">Google Maps Leads Scraper</a>.</p>
+<p>Next, I'm pointing this same harness at Google Maps reviews. If you want the raw files when that lands, find me on <a href="https://www.linkedin.com/in/adamisrail">LinkedIn</a>.</p>
+
+</body></html>

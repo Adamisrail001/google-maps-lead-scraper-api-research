@@ -186,6 +186,7 @@ REDUCED DRAFT (v3, 2026-09-30) — implements the length audit agreed with Adam:
 <h3>Pricing</h3>
 <p>Monthly plans: Free (100 credits), Starter $20 (10K), Pro $100 (100K), Team $500 (1M).</p>
 <p>Credits are billed per function, and I measured the math live: <strong>1 credit per unique business</strong> (my basic run billed exactly 926 credits for 926 unique businesses, no rounding games). Email extraction is charged only when an email is found; verification is 2 credits per checked address, confirmed-invalid free.</p>
+<p>Cost per 1K listings, measured:</p>
 <ul>
 <li><strong>$0.50 per 1K</strong>: basic extraction at the Team rate ($2 on the entry Starter plan)</li>
 <li><strong>$1.75 per 1K</strong>: fully enriched at the Team rate (~$7 on Starter)</li>
@@ -212,7 +213,12 @@ REDUCED DRAFT (v3, 2026-09-30) — implements the length audit agreed with Adam:
   "linkedin": "https://www.linkedin.com/company/jivesmedia"
 }</code></pre>
 <p>The full record carries 87 fields: identifiers, owner info, popular times, review distributions, plus the per-network social links no rival returned.</p>
-<p>Quality, measured: <strong>100% ground-truth accuracy</strong> (all 180 graded points matched the live listing, the only perfect score in the test), 100% freshness, and <strong>97.1% core-field fill</strong> across all 2,567 businesses. Best of the ranked four.</p>
+<p>Data quality:</p>
+<ul>
+<li><strong>Ground-truth accuracy: 100%.</strong> All 180 graded data points matched the live listing. The only perfect score in the test.</li>
+<li><strong>Freshness: 100%.</strong> Ratings and review counts matched the same-day live listing on every record.</li>
+<li><strong>Core-field fill: 97.1%</strong> across all 2,567 unique businesses (address 99.2%, phone 95.4%, hours 93.7%). Best of the ranked four.</li>
+</ul>
 <h3>Speed</h3>
 <table>
 <thead><tr><th>Run</th><th>Config</th><th>Listings</th><th>Wall-clock</th></tr></thead>
@@ -263,8 +269,9 @@ REDUCED DRAFT (v3, 2026-09-30) — implements the length audit agreed with Adam:
 <h3>Pricing</h3>
 <p>Credit subscription; I tested on Startup ($49/month, 200K credits). Billing was the most predictable of the test: exactly 3 credits per row, every job, verifiable per job.</p>
 <p>A test email job even billed <em>below</em> the documented rate (158 credits where naive math said 200). A billing bug in the customer's favor. I checked twice. 😄</p>
+<p>Cost per 1K listings, measured:</p>
 <ul>
-<li><strong>$0.98 per 1K</strong>: basic mode at entry, <strong>$0.28 per 1K</strong> at the $208 Growth tier</li>
+<li><strong>$0.98 per 1K</strong>: basic mode at entry (5,121 credits for 1,276 unique businesses on the re-run), <strong>$0.28 per 1K</strong> at the $208 Growth tier</li>
 <li><strong>$1.75 per 1K</strong>: with <code>extractEmails: true</code> (buys the 41.7% email fill)</li>
 </ul>
 <figure>
@@ -272,12 +279,33 @@ REDUCED DRAFT (v3, 2026-09-30) — implements the length audit agreed with Adam:
 <figcaption>Entry at $49/200K credits; the $0.28/1K figure is the $208 Growth tier.</figcaption>
 </figure>
 <h3>Data</h3>
+<p>One (trimmed) listing from a live run:</p>
+<pre><code class="language-json">{
+  "title": "Merchant Marketing USA",
+  "type": "Marketing agency",
+  "phone": "(917) 204-4701",
+  "address": "244 5th Ave Ste Q296, New York, NY 10001",
+  "website": "https://kevin1963-optonline-net.ueniweb.com/?utm_campaign=gmb",
+  "placeId": "ChIJA_W0OfpZwokR97Y-wgZH5uc",
+  "emails": ["kevin1963@optonline.net"],
+  "gpsCoordinates": { "latitude": 40.7446298, "longitude": -73.987667 }
+}</code></pre>
 <p>A solid, lean record of 29 fields: identifiers, coordinates, hours, rating, plus an <code>emails</code> array in email mode. What it lacks vs lobstr.io: social profiles, images, and owner fields.</p>
-<p>Quality, measured: 98.9% ground-truth accuracy (178/180), 100% freshness, and 94.2% core-field fill.</p>
-<p>One caveat: <strong>it wobbles</strong>. My agencies run filled rating/reviews on 73% of rows; the restaurants run, same config, filled 100%. Neither job's status hinted at the difference.</p>
+<p>Data quality:</p>
+<ul>
+<li><strong>Ground-truth accuracy: 98.9%</strong> (178/180 data points; it missed two category checks)</li>
+<li><strong>Freshness: 100%</strong> on ratings and review counts</li>
+<li><strong>Core-field fill: 94.2%</strong> across 2,456 unique businesses, with a caveat: <strong>it wobbles</strong>. My agencies run filled rating/reviews on 73% of rows; the restaurants run, same config, filled 100%. Neither job's status hinted at the difference.</li>
+</ul>
 <h3>Speed</h3>
-<p>146.6s for the basic 10-search batch, second fastest. With <code>extractEmails: true</code> the same batch took 7 min 11 s.</p>
-<p>Same lesson as lobstr.io: email extraction is website-crawling work, and it triples the clock.</p>
+<table>
+<thead><tr><th>Run</th><th>Config</th><th>Listings</th><th>Wall-clock</th></tr></thead>
+<tbody>
+<tr><td>Run 1</td><td>10 searches × 200, <code>extractEmails: true</code></td><td>1,634</td><td>7 min 11 s</td></tr>
+<tr><td>Run 2</td><td>Run-1 searches, <code>extractEmails: false</code></td><td>1,707</td><td><strong>2 min 27 s</strong></td></tr>
+</tbody>
+</table>
+<p>Same lesson as lobstr.io at smaller scale: email extraction is website-crawling work, and it triples the clock.</p>
 <h3>Usability</h3>
 <p>Model: job → poll → paginated results, with an <code>x-api-key</code> header, documented at <a href="https://docs.hasdata.com">docs.hasdata.com</a>. Two measured gotchas and one nicety.</p>
 <p>On the entry plan only 5 jobs run concurrently: a 10-search batch gets HTTP 429 on the 6th, and a 30-second retry loop handles it.</p>
@@ -313,13 +341,42 @@ REDUCED DRAFT (v3, 2026-09-30) — implements the length audit agreed with Adam:
 <p>Third-party sources quote $0.75&ndash;$1.50 per 1K records. Bright Data's own API exposes <strong>no billing field, no credits counter, no spend endpoint</strong>.</p>
 <p>I ran 2,000 requested records through it and still can't tell you what they cost. 🤷 My <strong>~$1.50/1K</strong> figure is the rate card's upper bound, flagged as unverified in every table it appears in.</p>
 <p>Every other finalist let me reconcile the bill to the row. "You'll know what you spent when the invoice arrives" is a strange flex for a data company.</p>
+<p>Cost per 1K listings, estimated:</p>
+<ul>
+<li><strong>~$1.50 per 1K</strong>: rate-card upper bound, unverified. No billing API to confirm it.</li>
+</ul>
 <h3>Data</h3>
-<p>A consistent 39-field record: listing basics plus review distributions, review snippets, top reviews, popular times, and Q&amp;A. The richest review-side detail of the finalists.</p>
+<p>One (trimmed) listing from a live run:</p>
+<pre><code class="language-json">{
+  "name": "Kobe Digital",
+  "category": "Internet marketing service",
+  "address": "7083 Hollywood Blvd, Los Angeles, CA 90028, United States",
+  "phone_number": "+1 310-734-4030",
+  "open_website": "http://www.kobedigital.com/",
+  "rating": 4.7,
+  "reviews_count": 37,
+  "lat": 34.1018384,
+  "lon": -118.3444008,
+  "open_hours": { "Monday": "6 am-9 pm", "...": "..." },
+  "place_id": "ChIJ5ebWXiC_woARMnoATQ3HhVI"
+}</code></pre>
+<p>The full 39-field record adds review distributions, review snippets, top reviews, popular times, and Q&amp;A. The richest review-side detail of the finalists.</p>
 <p>What it structurally lacks: <strong>any contact data</strong>. I checked the union of all keys across all 1,741 records: zero email or social keys anywhere. For a lead list, it hands you a phone number and wishes you luck. 📞</p>
-<p>Quality, measured: 98.3% ground-truth accuracy (177/180), 100% freshness, 96.4% core fills, 3 marked error rows in 1,741, no silent gaps.</p>
+<p>Data quality:</p>
+<ul>
+<li><strong>Ground-truth accuracy: 98.3%</strong> (177/180 data points; two category checks and one stale hours schedule)</li>
+<li><strong>Freshness: 100%</strong> on ratings and review counts</li>
+<li><strong>Core-field fill: 96.4%</strong>, schema perfectly consistent, 3 marked error rows in 1,741 (0.2%), no silent gaps</li>
+</ul>
 <h3>Speed</h3>
-<p>Around 6 minutes per 10-search batch (365s and 340s across two runs). Respectable, until the like-for-like twins ran.</p>
-<p>On the same bare-listings work, lobstr.io finished in 45 seconds and HasData in 2.5 minutes. Bright Data's ~6 minutes is a basic timing with no enrichment excuse attached.</p>
+<table>
+<thead><tr><th>Run</th><th>Config</th><th>Listings</th><th>Wall-clock</th></tr></thead>
+<tbody>
+<tr><td>Run 1</td><td>10 inputs × 100, no enrichment offered</td><td>756</td><td>6 min 29 s</td></tr>
+<tr><td>Run 2</td><td>restaurant searches, same config</td><td>985</td><td>5 min 40 s</td></tr>
+</tbody>
+</table>
+<p>Respectable, until the like-for-like twins ran. On the same bare-listings work, lobstr.io finished in 45 seconds and HasData in 2.5 minutes. Bright Data's ~6 minutes is a basic timing with no enrichment excuse attached.</p>
 <figure>
 <img src="images/image23.png" alt="Bright Data run log JSON in the public repo showing 754 records, 2 errors and 389 seconds collection duration">
 <figcaption>Every Bright Data run log is in the repo, down to <code>collection_duration</code> and the two <code>parse_error</code> rows.</figcaption>

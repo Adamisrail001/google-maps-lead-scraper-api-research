@@ -14,8 +14,7 @@ REDUCED DRAFT (v3, 2026-09-30) — implements the length audit agreed with Adam:
  (one lobstr tasks curl kept: the coordinate-anchoring differentiator), HasData/BrightData JSON samples.
  IMAGES: from /images (Google Doc export). image1-5 are Docs equation artifacts (broken $ text) - NOT used,
  the prices they mangled are restored as text (which-pick HasData bullet, 100K-cost FAQ).
- Unused spares: image15 (tbm=map DevTools), image19 (Apify platform pricing), image20 (Apify Run Actor docs),
- image26 (lobstr plans grid).
+ Unused spares: image19 (Apify platform pricing), image20 (Apify Run Actor docs), image26 (lobstr plans grid).
  v3.1: paragraphs split to max ~2-3 rendered lines for readability (author request).
 -->
 <style>
@@ -115,8 +114,12 @@ REDUCED DRAFT (v3, 2026-09-30) — implements the length audit agreed with Adam:
 <li><strong>Data decides the rank.</strong> Tier 1 = complete listings, no silent truncation, strong fills, plus lead data and precision controls. Tier 2 = complete listings with weak or missing lead data. Tier 3 = incomplete listings due to silent truncation or major delivery gaps.</li>
 <li><strong>Within a tier</strong>, cost, speed, and usability determine the order. A tool that collects less data never outranks one that collects more just because it's faster or cheaper.</li>
 </ol>
-<p><strong>Ground truth:</strong> I graded 24 businesses against live Google Maps across 8 fields (name, address, phone, website, category, rating, review count, hours).</p>
+<p><strong>Ground truth:</strong> I graded 24 businesses against live Google Maps across 8 fields (name, address, phone, website, category, rating, review count, hours). The full sample is public: <a href="https://github.com/Adamisrail001/google-maps-lead-scraper-api-research/blob/main/ground-truth/sample-24.json">ground-truth/sample-24.json</a>.</p>
 <p>Records were joined across providers by Google CID, so everyone was graded on identical businesses: 180 checks (157 for Apify, which has no review-count field).</p>
+<figure>
+<img src="images/image15.png" alt="A live Google Maps listing side by side with the raw JSON data returned for the same business">
+<figcaption>Grading against the live listing: the JSON each provider returned, checked field by field against Google Maps on the same day.</figcaption>
+</figure>
 <p><strong>Speed fairness:</strong> lobstr.io's first run spent 28 minutes crawling websites for emails, so I reran the identical workload with enrichment off for lobstr.io and HasData.</p>
 <p>Pricing is compared scale-tier to scale-tier, with entry prices alongside.</p>
 <blockquote><p><strong>Disclosure:</strong> lobstr.io runs this blog and is a contestant. Which is exactly why the formulas, raw files, and fairness re-runs are public. If you distrust a number, re-derive it.</p></blockquote>
